@@ -1,0 +1,3162 @@
+{
+  "ALT_ALIZE_B_MU_33_R1": {
+    "id": "ALT_ALIZE_B_MU_33_R1",
+    "type": "CHARACTER",
+    "subtypes": [
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_dd3ca128cd9a8859c87e916005fd5466",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_a29913a460868f171aa09a5bd3ef6a5c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_b2f8829799c6ae3c7310533d78346b6e"
+      ]
+    },
+    "mainFaction": "MU",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Perséphone",
+      "en": "Persephone",
+      "es": "Perséfone",
+      "it": "Persefone",
+      "de": "Persephone"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/fr_FR/ddfac051c7fd5a26c0f6c876d81bb250.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/en_US/e5c7730c0d0372b4c2214ce73ddda93a.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/es_ES/656b3dd412321eda43d2703655b89d83.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/it_IT/58f1fce586d0e43291d74be2b5166ed7.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/de_DE/8a7ec0d8fd3d87486c4293091b4af5c8.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-056-R-FR",
+      "en": "TBF-056-R-EN",
+      "es": "TBF-056-R-ES",
+      "it": "TBF-056-R-IT",
+      "de": "TBF-056-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": {
+        "fr": "Ma région #et la région de l'Expédition qui me fait face# sont {V} #et perdent leurs autres types.#",
+        "en": "My region #and the region of the Expedition facing me# are {V} #and lose their other types.#",
+        "es": "Mi región #y la de la expedición enfrentada a mí# son {V} #y pierden sus otros tipos.#",
+        "it": "La mia regione #e la regione della spedizione che mi affronta# sono {V} #e perdono gli altri loro tipi.#",
+        "de": "Meine Region #und die Region der mir gegenüberstehenden Expedition# sind {V} #und verlieren ihre anderen Typen.#"
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_36_C": {
+    "id": "ALT_ALIZE_B_BR_36_C",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_7d12689d4a40063df30beb0bf9ece902",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_939ef3ed4617f3cd30dca7093809cd4e",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_160a421ab9230aae2d52bc2d8422ef17"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Secouriste Bravos",
+      "en": "Bravos Rescuer",
+      "es": "Rescatista de Bravos",
+      "it": "Soccorritrice Bravos",
+      "de": "Bravos-Retterin"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/fr_FR/13eaf8fd06f08714cf673bbb7a8b530a.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/en_US/ca9b8e842065d949e76847c33f586bc3.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/es_ES/d7523a778191eece4a4135d7289cf312.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/it_IT/01fc885300e4e08a9adb129c68e9ebdf.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/de_DE/56b8d6b284ecd9c95db38d1e5abb5c73.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-024-C-FR",
+      "en": "TBF-024-C-EN",
+      "es": "TBF-024-C-ES",
+      "it": "TBF-024-C-IT",
+      "de": "TBF-024-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "4",
+      "ECHO_EFFECT": {
+        "fr": "{D} : Un Personnage ciblé perd [[Fugace]]. (Défaussez-moi de la Réserve pour ça.)",
+        "en": "{D} : Target Character loses [[Fleeting]]. (Discard me from Reserve to do this.)",
+        "es": "{D}: Un personaje objetivo pierde [[Fugacidad]]. (Descártame de la reserva para hacer esto).",
+        "it": "{D}: Un personaggio bersaglio perde [[Fugace]]. (Scartami dalla Riserva per eseguire questa azione.)",
+        "de": "{D} : Ein Charakter deiner Wahl verliert [[Vergänglich]]. (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_43_C": {
+    "id": "ALT_ALIZE_B_BR_43_C",
+    "type": "EXPEDITION_PERMANENT",
+    "subtypes": [
+      "GEAR"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_45f8342b1460275baf5510f97cf3d031",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_88dc4094659aabdee36cdce5e6c6ce0f"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Lait d'Arcolano",
+      "en": "Arcolano Milk",
+      "es": "Leche de Arcolano",
+      "it": "Latte di Arcolano",
+      "de": "Arcolano-Milch"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/fr_FR/24965fa3ea7a091cc31580b8b116de6c.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/en_US/2a4c21883ebb136769e61b1c3a94cdcc.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/es_ES/c1cc19f6a8620d0a5a23ed7e8a0e8df6.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/it_IT/aacf8c8e411d49639c65515a9c871813.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/de_DE/e42ac3fc34e29fcfffc87dfa64665518.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-032-C-FR",
+      "en": "TBF-032-C-EN",
+      "es": "TBF-032-C-ES",
+      "it": "TBF-032-C-IT",
+      "de": "TBF-032-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": {
+        "fr": "Lorsqu'un Personnage rejoint mon Expédition — Il gagne 1 boost et [[Fugace]]. (S'il devait être envoyé en Réserve, défaussez-le à la place.)",
+        "en": "When a Character joins my Expedition — It gains 1 boost and [[Fleeting]]. (If it would be sent to Reserve, discard it instead.)",
+        "es": "Cuando un personaje se incorpore a mi expedición — Gana 1 potenciador y [[Fugacidad]]. (Si fuese a ir a la reserva, en vez de eso, descártalo).",
+        "it": "Quando un personaggio si unisce alla mia spedizione — Ottiene 1 rinforzo e [[Fugace]]. (Se sta per finire nella Riserva, scartalo invece.)",
+        "de": "Wenn ein Charakter sich meiner Expedition anschließt — Er erhält 1 Verstärkung und [[Vergänglich]]. (Falls er in die Reserve geschickt werden soll, lege ihn stattdessen ab.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_LY_43_R1": {
+    "id": "ALT_ALIZE_B_LY_43_R1",
+    "type": "EXPEDITION_PERMANENT",
+    "subtypes": [
+      "GEAR"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_7770bce90f20095343d5a5cc7056564a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_ded96dd95ea45267682cb63009777587"
+      ]
+    },
+    "mainFaction": "LY",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Tenue Hivernale",
+      "en": "Winter Outfits",
+      "es": "Ropa invernal",
+      "it": "Abbigliamento Invernale",
+      "de": "Winterkleidung"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/fr_FR/60659f39f1cf7324523a654fb642bbf2.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/en_US/a80302d5799b2e04e5d5e4843f3ddbc2.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/es_ES/bb85b8f0dc85e9bce16bcc1dabfd48ff.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/it_IT/18601b4e9ae8958dd5748182f3d9c100.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/de_DE/26189e3dc95bc395a37a3e4d3850ac21.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-049-R-FR",
+      "en": "TBF-049-R-EN",
+      "es": "TBF-049-R-ES",
+      "it": "TBF-049-R-IT",
+      "de": "TBF-049-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": {
+        "fr": "#{R} Je perds [[Fugace]].#  Les Personnages dans mon Expédition ont des valeurs {V}, {M} et {O} égales à leur statistique la plus élevée.",
+        "en": "#{R} I lose [[Fleeting]].#  Characters in my Expedition have their {V}, {M}, and {O} equal to their highest statistic.",
+        "es": "#{R} Pierdo [[Fugacidad]].#  Los personajes de mi expedición tienen {V}, {M} y {O} igual a su estadística más alta.",
+        "it": "#{R} Perdo [[Fugace]].#  I personaggi nella mia spedizione hanno {V}, {M} e {O} pari alla loro statistica più alta.",
+        "de": "#{R} Ich verliere [[Vergänglich]].#  {V}, {M} und {O} der Charaktere in meiner Expedition sind so hoch wie ihre höchste Statistik."
+      }
+    }
+  },
+  "ALT_ALIZE_B_AX_37_R1": {
+    "id": "ALT_ALIZE_B_AX_37_R1",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_b54cc629947078e00d7406002fc8be63",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_043d733f0dbbb18c1dc2147665ca6d8b",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_2dc52b769d21191704f9154656caba92"
+      ]
+    },
+    "mainFaction": "AX",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Porteuse Intrépide",
+      "en": "Daring Porter",
+      "es": "Sherpa audaz",
+      "it": "Portatrice Audace",
+      "de": "Mutige Trägerin"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/fr_FR/893a9bbd9ca4a38e16bc4bd3ba7bbeb1.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/en_US/a590cd0b68930ca74165cb2737707f14.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/es_ES/9d9ca495d3d6ad576086eef63a2f4935.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/it_IT/41e76f91945a15639d4172a6618914f0.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/de_DE/4528fba31a65efe0db7c019571e2e052.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-008-R-FR",
+      "en": "TBF-008-R-EN",
+      "es": "TBF-008-R-ES",
+      "it": "TBF-008-R-IT",
+      "de": "TBF-008-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "#{J}# [Ravitaillez Épuisé]. (Mettez la première carte de votre deck en Réserve, puis épuisez-la {T}. Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "#{J}# [Exhausted Resupply]. (Put the top card of your deck in Reserve, then exhaust it {T}. Exhausted cards can't be played and have no Support abilities.)",
+        "es": "#{J}# [Reabastece y agota]. (Coloca la primera carta de tu mazo en reserva y luego agótala {T}. Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "#{J}# [Rifornisci-Consuma]. (Metti la prima carta del tuo mazzo nella Riserva, poi consumala {T}. Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "#{J}# [Erschöpfter Nachschub]. (Lege die oberste Karte deines Decks in die Reserve, dann erschöpfe sie {T}. Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_OR_01_C": {
+    "id": "ALT_ALIZE_B_OR_01_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/WEB_674d4db99ddafb0c4b1239f849bd05f7"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/HERO_THUMB_3e0a15214bdf951ab193f02622e3914a"
+      ]
+    },
+    "mainFaction": "OR",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Sigismar & Wingspan",
+      "en": "Sigismar & Wingspan",
+      "es": "Sigismar y Alasregias",
+      "it": "Sigismar e Alagrande",
+      "de": "Sigismar & Spannweit"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/fr_FR/ae6c2efab7eff5e4894fabdb16941189.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/en_US/1288a0de143700c8831afb3dc36278fa.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/es_ES/2cddcef69fc678a8910fbe43cae4a452.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/it_IT/bd5d62314ea9c7c489347ca4cdcf4cf0.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/de_DE/62007ba17b66f177573004d92c9858a5.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-069-H-FR",
+      "en": "TBF-069-H-EN",
+      "es": "TBF-069-H-ES",
+      "it": "TBF-069-H-IT",
+      "de": "TBF-069-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "RESERVE": 2,
+      "PERMANENT": 2,
+      "MAIN_EFFECT": {
+        "fr": "À Midi — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Expédition Héros.",
+        "en": "At Noon — Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition.",
+        "es": "Al mediodía — Crea una ficha de soldado [Recluta de Ordis 1/1/1] en tu expedición del héroe.",
+        "it": "A mezzogiorno — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella spedizione del tuo eroe.",
+        "de": "Zum Mittag — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in deiner Helden-Expedition."
+      }
+    }
+  },
+  "ALT_ALIZE_B_AX_37_R2": {
+    "id": "ALT_ALIZE_B_AX_37_R2",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_b54cc629947078e00d7406002fc8be63",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_043d733f0dbbb18c1dc2147665ca6d8b",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_2dc52b769d21191704f9154656caba92"
+      ]
+    },
+    "mainFaction": "YZ",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Porteuse Intrépide",
+      "en": "Daring Porter",
+      "es": "Sherpa audaz",
+      "it": "Portatrice Audace",
+      "de": "Mutige Trägerin"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/fr_FR/966d29f3b3d10e7e56665a6402d2225a.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/en_US/8a59db3df21eac4b8cd06c9c6f3fc057.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/es_ES/ce2af4de4ac2bdb614c8c4f110b9bae9.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/it_IT/9cda5ffb93b91d12b839cfc6bde69b1c.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/de_DE/aca2f207947207ed68008bbb242e574c.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-008-F-FR",
+      "en": "TBF-008-F-EN",
+      "es": "TBF-008-F-ES",
+      "it": "TBF-008-F-IT",
+      "de": "TBF-008-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "#{J}# [Ravitaillez Épuisé]. (Mettez la première carte de votre deck en Réserve, puis épuisez-la {T}. Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "#{J}# [Exhausted Resupply]. (Put the top card of your deck in Reserve, then exhaust it {T}. Exhausted cards can't be played and have no Support abilities.)",
+        "es": "#{J}# [Reabastece y agota]. (Coloca la primera carta de tu mazo en reserva y luego agótala {T}. Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "#{J}# [Rifornisci-Consuma]. (Metti la prima carta del tuo mazzo nella Riserva, poi consumala {T}. Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "#{J}# [Erschöpfter Nachschub]. (Lege die oberste Karte deines Decks in die Reserve, dann erschöpfe sie {T}. Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_LY_43_C": {
+    "id": "ALT_ALIZE_B_LY_43_C",
+    "type": "EXPEDITION_PERMANENT",
+    "subtypes": [
+      "GEAR"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_7770bce90f20095343d5a5cc7056564a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_ded96dd95ea45267682cb63009777587"
+      ]
+    },
+    "mainFaction": "LY",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Tenue Hivernale",
+      "en": "Winter Outfits",
+      "es": "Ropa invernal",
+      "it": "Abbigliamento Invernale",
+      "de": "Winterkleidung"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/fr_FR/e2c50723807b8b866a556e8ee8d22d22.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/en_US/6f0310950d4d49c63719d5588a2a5060.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/es_ES/c792361458edf9730f91ac1cfab545b4.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/it_IT/8e20533c903989b8b6e45c209005be95.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/de_DE/d5e6dfef08d77346ee1e326ed99658c4.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-049-C-FR",
+      "en": "TBF-049-C-EN",
+      "es": "TBF-049-C-ES",
+      "it": "TBF-049-C-IT",
+      "de": "TBF-049-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": {
+        "fr": "Les Personnages dans mon Expédition ont des valeurs {V}, {M} et {O} égales à leur statistique la plus élevée.",
+        "en": "Characters in my Expedition have their {V}, {M}, and {O} equal to their highest statistic.",
+        "es": "Los personajes de mi expedición tienen {V}, {M} y {O} igual a su estadística más alta.",
+        "it": "I personaggi nella mia spedizione hanno {V}, {M} e {O} pari alla loro statistica più alta.",
+        "de": "{V}, {M} und {O} der Charaktere in meiner Expedition sind so hoch wie ihre höchste Statistik."
+      }
+    }
+  },
+  "ALT_ALIZE_B_MU_33_C": {
+    "id": "ALT_ALIZE_B_MU_33_C",
+    "type": "CHARACTER",
+    "subtypes": [
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_dd3ca128cd9a8859c87e916005fd5466",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_a29913a460868f171aa09a5bd3ef6a5c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_b2f8829799c6ae3c7310533d78346b6e"
+      ]
+    },
+    "mainFaction": "MU",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Perséphone",
+      "en": "Persephone",
+      "es": "Perséfone",
+      "it": "Persefone",
+      "de": "Persephone"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/fr_FR/3d49a35939abe7cae5b22f12aa9d0ba4.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/en_US/73da5262debd1fe4558dc4b803090eec.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/es_ES/9ce9a903d8743fbcd8cd97be660dc77c.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/it_IT/f4ad1259964f0ded0e26ca203adaac4c.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/de_DE/ac6df1fe73d0cde701cf2959bf17afa7.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-056-C-FR",
+      "en": "TBF-056-C-EN",
+      "es": "TBF-056-C-ES",
+      "it": "TBF-056-C-IT",
+      "de": "TBF-056-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": {
+        "fr": "Ma région est {V} en plus de ses autres types.",
+        "en": "My region is {V} in addition to its other types.",
+        "es": "Mi región es {V} además de sus otros tipos.",
+        "it": "La mia regione è {V} in aggiunta ai suoi altri tipi.",
+        "de": "Meine Region ist zusätzlich zu den anderen Typen auch {V}."
+      }
+    }
+  },
+  "ALT_ALIZE_B_LY_42_C": {
+    "id": "ALT_ALIZE_B_LY_42_C",
+    "type": "SPELL",
+    "subtypes": [
+      "DISRUPTION"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_2aa59a81bdb10404830a5cd76f2190cf",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_dd7d9e26c76106bb83b2db4b31ff23d2"
+      ]
+    },
+    "mainFaction": "LY",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Briser la Glace",
+      "en": "Break the Ice",
+      "es": "Romper el hielo",
+      "it": "Crepa nel Ghiaccio",
+      "de": "Eisbrecher"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/fr_FR/fecfb18bdfb10ba68c9c74de265b5b76.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/en_US/0ea492f475ebb80abc61557d6a0965bd.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/es_ES/26e974730ababc8ed1d8f2c41c5e2394.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/it_IT/5364554dadbe2409211e78a2b54b501c.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/de_DE/ec8328e9aa3f092039657ad7677f1e68.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-048-C-FR",
+      "en": "TBF-048-C-EN",
+      "es": "TBF-048-C-ES",
+      "it": "TBF-048-C-IT",
+      "de": "TBF-048-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": {
+        "fr": "[[Fugace]].  Je coûte {2} de moins si vous avez au moins trois statistiques de base 0 parmi les Personnages que vous contrôlez.  Envoyez un Personnage ciblé en Réserve, puis épuisez-le ({T}). (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "[[Fleeting]].  I cost {2} less if you have three or more base statistics of 0 among Characters you control.  Send target Character to Reserve, then exhaust it ({T}). (Exhausted cards can't be played and have no Support abilities.)",
+        "es": "[[Fugacidad]].  Cuesto {2} menos si tienes al menos tres estadísticas básicas de 0 entre personajes que controles.  Envía un personaje objetivo a la reserva y luego agótalo ({T}). (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "[[Fugace]].  Costo {2} in meno se hai tre o più statistiche base pari a 0 tra i personaggi che controlli.  Manda un personaggio bersaglio nella Riserva, poi consumalo ({T}). (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "[[Vergänglich]].  Ich koste {2} weniger, falls du unter den Charakteren, die du kontrollierst, mindestens drei Basisstatistiken von 0 hast.  Schicke einen Charakter deiner Wahl in die Reserve, dann erschöpfe ihn ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_36_R1": {
+    "id": "ALT_ALIZE_B_BR_36_R1",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_7d12689d4a40063df30beb0bf9ece902",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_939ef3ed4617f3cd30dca7093809cd4e",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_160a421ab9230aae2d52bc2d8422ef17"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Secouriste Bravos",
+      "en": "Bravos Rescuer",
+      "es": "Rescatista de Bravos",
+      "it": "Soccorritrice Bravos",
+      "de": "Bravos-Retterin"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/fr_FR/4232e6b9f17a524c13e9d1bcd372f066.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/en_US/4e7d33c18ed9e13df6ce270f96874bb5.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/es_ES/df35c443144c42b2b8469f977690979d.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/it_IT/859dd85b2507cdca423acd02440de8a1.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/de_DE/42872a491127600e57345c87c26073db.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-024-R-FR",
+      "en": "TBF-024-R-EN",
+      "es": "TBF-024-R-ES",
+      "it": "TBF-024-R-IT",
+      "de": "TBF-024-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": {
+        "fr": "#{J} Vous pouvez cibler un autre Personnage [[Fugace]]. Il gagne 2 boosts.#",
+        "en": "#{J} You may target another [[Fleeting]] Character. It gains 2 boosts.#",
+        "es": "#{J} Puedes hacer objetivo a otro personaje con [[Fugacidad]]. Gana 2 potenciadores.#",
+        "it": "#{J} Puoi scegliere come bersaglio un altro personaggio con [[Fugace]]. Ottiene 2 rinforzi.#",
+        "de": "#{J} Du darfst einen anderen Charakter mit [[Vergänglich]] wählen. Er erhält 2 Verstärkungen.#"
+      },
+      "ECHO_EFFECT": {
+        "fr": "{D} : Un Personnage ciblé perd [[Fugace]]. (Défaussez-moi de la Réserve pour ça.)",
+        "en": "{D} : Target Character loses [[Fleeting]]. (Discard me from Reserve to do this.)",
+        "es": "{D}: Un personaje objetivo pierde [[Fugacidad]]. (Descártame de la reserva para hacer esto).",
+        "it": "{D}: Un personaggio bersaglio perde [[Fugace]]. (Scartami dalla Riserva per eseguire questa azione.)",
+        "de": "{D} : Ein Charakter deiner Wahl verliert [[Vergänglich]]. (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_LY_33_R2": {
+    "id": "ALT_ALIZE_B_LY_33_R2",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ELEMENTAL"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_bf520d8267baf4533eb5dddc4b6f02ce",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_eb5d8eab445464c60b7cf202df8c5196",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_a1d65e9e3ec766f87c0831df94298836"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Le Bonhomme de Neige",
+      "en": "The Snowman",
+      "es": "El muñeco de nieve",
+      "it": "Pupazzo di Neve",
+      "de": "Der Schneemann"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/fr_FR/26f416e305223b47ebd421d7e8ccb9d4.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/3de36f54cdfe55e20f900e627e070529.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/es_ES/07a917b4dd55f463b64dc4d1d6a74656.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/it_IT/e9d00cc9a85d9966e8886d04214adf38.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/de_DE/eb751e72cf9b642019a3272b965799b7.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-037-F-FR",
+      "en": "TBF-037-F-EN",
+      "es": "TBF-037-F-ES",
+      "it": "TBF-037-F-IT",
+      "de": "TBF-037-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "#2#",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "{J} Je gagne [[Fugace]] sauf si je suis en {O}. (Si je devais être envoyé en Réserve, défaussez-moi à la place.)",
+        "en": "{J} Unless I'm in {O}, I gain [[Fleeting]]. (If I would be sent to Reserve, discard me instead.)",
+        "es": "{J} A menos que esté en {O}, gano [[Fugacidad]]. (Si fuese a ir a la reserva, en vez de eso, descártame.)",
+        "it": "{J} A meno che io non sia in {O}, ottengo [[Fugace]]. (Se sto per finire nella Riserva, scartami invece.)",
+        "de": "{J} Ich erhalte [[Vergänglich]], es sei denn, ich bin in {O}. (Falls ich in die Reserve geschickt werden soll, lege mich stattdessen ab.)"
+      },
+      "ECHO_EFFECT": {
+        "fr": "#{D} : [Ravitaillez Épuisé].# (Défaussez-moi de la Réserve pour ça.)",
+        "en": "#{D} : [Exhausted Resupply].# (Discard me from Reserve to do this.)",
+        "es": "#{D}: [Reabastece y agota].# (Descártame de la reserva para hacer esto).",
+        "it": "#{D}: [Rifornisci-Consuma].# (Scartami dalla Riserva per eseguire questa azione.)",
+        "de": "#{D} : [Erschöpfter Nachschub].# (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_43_R2": {
+    "id": "ALT_ALIZE_B_BR_43_R2",
+    "type": "EXPEDITION_PERMANENT",
+    "subtypes": [
+      "GEAR"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_45f8342b1460275baf5510f97cf3d031",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_88dc4094659aabdee36cdce5e6c6ce0f"
+      ]
+    },
+    "mainFaction": "AX",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Lait d'Arcolano",
+      "en": "Arcolano Milk",
+      "es": "Leche de Arcolano",
+      "it": "Latte di Arcolano",
+      "de": "Arcolano-Milch"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/fr_FR/cea366e193e315a596d9b90a2891fe85.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/en_US/61f55511b1ae6d0957f692bc2f5e0b9e.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/es_ES/333e3c99f6821035b1dcbe1f0814c05a.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/it_IT/5409f24e9f536323a7637fdfc3c7b089.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/de_DE/a9c12e208e34c9e765a2165b3d7092b0.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-032-F-FR",
+      "en": "TBF-032-F-EN",
+      "es": "TBF-032-F-ES",
+      "it": "TBF-032-F-IT",
+      "de": "TBF-032-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": {
+        "fr": "Lorsqu'un Personnage rejoint mon Expédition — Il gagne 1 boost et [[Fugace]].",
+        "en": "When a Character joins my Expedition — It gains 1 boost and [[Fleeting]].",
+        "es": "Cuando un personaje se incorpore a mi expedición — Gana 1 potenciador y [[Fugacidad]].",
+        "it": "Quando un personaggio si unisce alla mia spedizione — Ottiene 1 rinforzo e [[Fugace]].",
+        "de": "Wenn ein Charakter sich meiner Expedition anschließt — Er erhält 1 Verstärkung und [[Vergänglich]]."
+      }
+    }
+  },
+  "ALT_ALIZE_B_OR_35_C": {
+    "id": "ALT_ALIZE_B_OR_35_C",
+    "type": "CHARACTER",
+    "subtypes": [
+      "BUREAUCRAT",
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_ecf931302bf5c83597e3fdca7252cd5d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_e1dcde14e0c6599e5cb23377398f2e25",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_c741a0f8a9ba8b8195551804a4859c19"
+      ]
+    },
+    "mainFaction": "OR",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Dong Da Shen",
+      "en": "Dong Da Shen",
+      "es": "Dong Da Shen",
+      "it": "Dong Da Shen",
+      "de": "Dong Da Shen"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/fr_FR/142ae9773232ce27aa837bcdcf975a3c.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/en_US/3ba13b26e6d04669ea1dc6385e1d4260.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/es_ES/3ba52e507cdb09ac43ad1f3e64d06db2.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/it_IT/833426c9b715681d1d5bde4665511293.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/de_DE/9330e3d9c6d1e26f498850d29851dce9.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-076-C-FR",
+      "en": "TBF-076-C-EN",
+      "es": "TBF-076-C-ES",
+      "it": "TBF-076-C-IT",
+      "de": "TBF-076-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": {
+        "fr": "{J} Vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "{J} You may exhaust ({T}) target card in Reserve. (Exhausted cards can't be played and have no Support abilities.)",
+        "es": "{J} Puedes agotar ({T}) una carta objetivo en reserva. (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "{J} Puoi consumare ({T}) una carta bersaglio nella Riserva. (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "{J} Du darfst eine Karte deiner Wahl in der Reserve erschöpfen ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_YZ_41_R2": {
+    "id": "ALT_ALIZE_B_YZ_41_R2",
+    "type": "SPELL",
+    "subtypes": [
+      "MANEUVER"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/WEB_933bf14001597d7b07fa1e7c3c9690bd",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/WEB_7b20382c6064821bfea2289196096006"
+      ]
+    },
+    "mainFaction": "OR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Invocation de Phalène",
+      "en": "Moth to a Flame",
+      "es": "Como polillas a la llama",
+      "it": "Richiamo della Luce",
+      "de": "Motte zum Licht"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/fr_FR/d62019c9aa3bb8d5363f42db19496428.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/en_US/ef3f327c1c3170db9914d5b04bc5531a.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/es_ES/14a06c389b0d5b37b67c02c79234a5fc.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/it_IT/7b205bd03c061e2e150216321889ab56.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/de_DE/2dba0c2f372a5f0f6da443e9f9d4a8cf.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-095-F-FR",
+      "en": "TBF-095-F-EN",
+      "es": "TBF-095-F-ES",
+      "it": "TBF-095-F-IT",
+      "de": "TBF-095-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "#4#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": {
+        "fr": "[Rafraîchissement]. (Si je vais en Réserve après résolution de mon effet, épuisez-moi {T}.)  Créez un jeton Illusion [2/2/2 Phalène de Mana] #dans chacune de vos Expéditions#.",
+        "en": "[Cooldown]. (If I go to Reserve after my effect resolves, exhaust me {T}.)  Create a [Mana Moth 2/2/2] Illusion token #in each of your Expeditions#.",
+        "es": "[Recuperación]. (Si voy a la reserva después de que se resuelva mi efecto, agótame {T}.)  Crea una ficha de ilusión [Polilla de maná 2/2/2] #en cada una de tus expediciones#.",
+        "it": "[Raffreddamento]. (Se vado nella Riserva dopo che il mio effetto si è risolto, consumami {T}.)  Crea una pedina Illusione [Falena di Mana 2/2/2] in #ciascuna delle tue spedizioni#.",
+        "de": "[Abkühlung]. (Falls ich in die Reserve gehe, nachdem mein Effekt abgeklungen ist, erschöpfe mich {T}.)  Erschaffe eine [Mana-Motte 2/2/2]-Illusionsmarke #in jeder deiner Expeditionen#."
+      }
+    }
+  },
+  "ALT_ALIZE_B_YZ_36_C": {
+    "id": "ALT_ALIZE_B_YZ_36_C",
+    "type": "CHARACTER",
+    "subtypes": [
+      "MAGE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_857d5d6cc51a3a623557ebefbd8f6536",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_1350e90561aa21560d4ec35850e26e0c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_5e53194f95457f01acfb6a6bff8dea73"
+      ]
+    },
+    "mainFaction": "YZ",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Aroro, Rempart d'Asgartha",
+      "en": "Aroro, Savior of Asgartha",
+      "es": "Aroro, salvadora de Asgartha",
+      "it": "Aroro, Salvezza di Asgartha",
+      "de": "Aroro, Retterin von Asgartha"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/fr_FR/c0355f29e5a45acc0e9dd96c895a25f3.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/en_US/25a52efc299343ce1c236d53e28f3777.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/es_ES/b9c35eebb4fb1cdca6bd4f15454a77a1.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/it_IT/959413d258755de64a046a47d13edf4b.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/de_DE/781b0ccc3089d9b6ca6eccb394ee077f.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-092-C-FR",
+      "en": "TBF-092-C-EN",
+      "es": "TBF-092-C-ES",
+      "it": "TBF-092-C-IT",
+      "de": "TBF-092-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "{H} Vous pouvez défausser un Sort de votre Réserve. Si vous le faites, je gagne 1 boost.",
+        "en": "{H} You may discard a Spell from your Reserve. If you do, I gain 1 boost.",
+        "es": "{H} Puedes descartar un hechizo de tu reserva. Si lo haces, gano 1 potenciador.",
+        "it": "{H} Puoi scartare un incantesimo dalla tua Riserva. Se lo fai, ottengo 1 rinforzo.",
+        "de": "{H} Du darfst einen Zauber aus deiner Reserve ablegen. Falls du das tust, erhalte ich 1 Verstärkung."
+      }
+    }
+  },
+  "ALT_ALIZE_B_LY_42_R1": {
+    "id": "ALT_ALIZE_B_LY_42_R1",
+    "type": "SPELL",
+    "subtypes": [
+      "DISRUPTION"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_2aa59a81bdb10404830a5cd76f2190cf",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_dd7d9e26c76106bb83b2db4b31ff23d2"
+      ]
+    },
+    "mainFaction": "LY",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Briser la Glace",
+      "en": "Break the Ice",
+      "es": "Romper el hielo",
+      "it": "Crepa nel Ghiaccio",
+      "de": "Eisbrecher"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/fr_FR/637319f2eef4841362fcac3905bf65a1.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/en_US/64835e6d3c1a05fffb0a7055d526c1b1.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/es_ES/284c3e76f843d0282e5c4438b933abbe.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/it_IT/ac8b77220e8bc38d8826a55d9aef6102.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/de_DE/cbeb052260a11b680d4a25f707749274.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-048-R-FR",
+      "en": "TBF-048-R-EN",
+      "es": "TBF-048-R-ES",
+      "it": "TBF-048-R-IT",
+      "de": "TBF-048-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": {
+        "fr": "#[Rafraîchissement]#. (Si je vais en Réserve après résolution de mon effet, épuisez-moi {T}.)  Je coûte {2} de moins si vous avez au moins trois statistiques de base 0 parmi les Personnages que vous contrôlez.  Envoyez un Personnage ciblé en Réserve, puis épuisez-le ({T}).",
+        "en": "#[Cooldown]#. (If I go to Reserve after my effect resolves, exhaust me {T}.)  I cost {2} less if you have three or more base statistics of 0 among Characters you control.  Send target Character to Reserve, then exhaust it ({T}).",
+        "es": "#[Recuperación]#. (Si voy a la reserva después de que se resuelva mi efecto, agótame {T}.)  Cuesto {2} menos si tienes al menos tres estadísticas básicas de 0 entre personajes que controles.  Envía un personaje objetivo a la reserva y luego agótalo ({T}).",
+        "it": "#[Raffreddamento]#. (Se vado nella Riserva dopo che il mio effetto si è risolto, consumami {T}.)  Costo {2} in meno se hai tre o più statistiche base pari a 0 tra i personaggi che controlli.  Manda un personaggio bersaglio nella Riserva, poi consumalo ({T}).",
+        "de": "#[Abkühlung]#. (Falls ich in die Reserve gehe, nachdem mein Effekt abgeklungen ist, erschöpfe mich {T}.)  Ich koste {2} weniger, falls du unter den Charakteren, die du kontrollierst, mindestens drei Basisstatistiken von 0 hast.  Schicke einen Charakter deiner Wahl in die Reserve, dann erschöpfe ihn ({T})."
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_46_C": {
+    "id": "ALT_ALIZE_B_BR_46_C",
+    "type": "LANDMARK_PERMANENT",
+    "subtypes": [
+      "SITE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_e307b9e32536a086d1f7b4cbb8fe3cc2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_33f3031907bbe6049195e88eeca428f8"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Pic Saisi par les Glaces",
+      "en": "Icebound Peak",
+      "es": "Pico helado",
+      "it": "Vetta del Gelo Perpetuo",
+      "de": "Eisumfangener Gipfel"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/fr_FR/897b19c22b6d46956f1d5d7bb0725f3b.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/en_US/c494081ced21fd563eb585b6e950e76d.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/es_ES/b45667b3ec098a2126c3c84465db0041.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/it_IT/a2c1a7b66522bd9c9f724483d8cec065.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/de_DE/70b773e915bf094e841b95e4dac011c1.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-034-C-FR",
+      "en": "TBF-034-C-EN",
+      "es": "TBF-034-C-ES",
+      "it": "TBF-034-C-IT",
+      "de": "TBF-034-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MAIN_EFFECT": {
+        "fr": "Lorsqu'un Personnage que vous contrôlez gagne [[Fugace]] — Je gagne un compteur Épreuve.  Lorsque je gagne mon troisième compteur Épreuve — Sacrifiez-moi. Si vous le faites, créez un jeton Illusion [5/5/5 Reflet Draconique] dans une Expédition ciblée, puis chaque Personnage que vous contrôlez gagne 1 boost.",
+        "en": "When a Character you control gains [[Fleeting]] — I gain a Trial counter.  When I gain my third Trial counter — Sacrifice me. If you do, create a [Dragon Shade 5/5/5] Illusion token in target Expedition, then each Character you control gains 1 boost.",
+        "es": "Cuando un personaje que controles gane [[Fugacidad]] — Gano un contador de ordalía.  Cuando gane mi tercer contador de ordalía — Sacrifícame. Si lo haces, crea una ficha de ilusión [Dragón del eco 5/5/5] en una expedición objetivo y luego cada personaje que controles gana 1 potenciador.",
+        "it": "Quando un personaggio che controlli ottiene [[Fugace]] — Ottengo un segnalino Prova.  Quando ottengo il mio terzo segnalino Prova — Sacrificami. Se lo fai, crea una pedina Illusione [Spirito del Drago 5/5/5] in una spedizione bersaglio, poi ogni personaggio che controlli ottiene 1 rinforzo.",
+        "de": "Wenn ein Charakter, den du kontrollierst, [[Vergänglich]] erhält — Ich erhalte einen Prüfungszähler.  Wenn ich meinen dritten Prüfungszähler erhalte — Opfere mich. Falls du das tust, erschaffe eine [Drachenecho 5/5/5]-Illusionsmarke in einer Expedition deiner Wahl, dann erhält jeder Charakter, den du kontrollierst, 1 Verstärkung."
+      }
+    }
+  },
+  "ALT_ALIZE_B_MU_31_R1": {
+    "id": "ALT_ALIZE_B_MU_31_R1",
+    "type": "CHARACTER",
+    "subtypes": [
+      "MAGE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_ef3f336780448f2acd3ffad337315db0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_39048fd427a70623c3e279a3e7d3ccc2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_6cd468b8d04833e04e50ba40050e3a66"
+      ]
+    },
+    "mainFaction": "MU",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Jack Frost",
+      "en": "Jack Frost",
+      "es": "Jack Frost",
+      "it": "Padre Inverno",
+      "de": "Jack Frost"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/fr_FR/b2c27519f9c8f56f5554b0c843f8e200.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/en_US/2244d39471535a58c8e403fee23de67d.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/es_ES/ed379f0ef68b4b620960877dc8f59746.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/it_IT/cb8f4eec2723e050f6eb19b13e86f892.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/de_DE/fcd70aa218bf911305b7f29550047833.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-055-R-FR",
+      "en": "TBF-055-R-EN",
+      "es": "TBF-055-R-ES",
+      "it": "TBF-055-R-IT",
+      "de": "TBF-055-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": {
+        "fr": "#{J}# Vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "#{J}# You may exhaust ({T}) target card in Reserve. (Exhausted cards can't be played and have no Support abilities.)",
+        "es": "#{J}# Puedes agotar ({T}) una carta objetivo en reserva. (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "#{J}# Puoi consumare ({T}) una carta bersaglio nella Riserva. (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "#{J}# Du darfst eine Karte deiner Wahl in der Reserve erschöpfen ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_YZ_03_C": {
+    "id": "ALT_ALIZE_B_YZ_03_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/WEB_6e725861693216fe6b0d841ad8b285c6"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/HERO_THUMB_e3df928336c6907f4bf3df6f702ad2e1"
+      ]
+    },
+    "mainFaction": "YZ",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Afanas & Senka",
+      "en": "Afanas & Senka",
+      "es": "Afanas y Senka",
+      "it": "Afanas e Senka",
+      "de": "Afanas & Senka"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/JPG/fr_FR/f2ca50ce031c6d56c4f52024cb0056e1.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/JPG/en_US/5179f908d64bf383fc26d8fe2c9324bd.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/JPG/es_ES/9044e9b552dd5c5e5ebcda6afab696f3.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/JPG/it_IT/9b862ece1f9933140f68454a2924843f.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_03/JPG/de_DE/c57344c7eb7ab374487c9e18db12a6c5.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-087-H-FR",
+      "en": "TBF-087-H-EN",
+      "es": "TBF-087-H-ES",
+      "it": "TBF-087-H-IT",
+      "de": "TBF-087-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "RESERVE": 2,
+      "PERMANENT": 2,
+      "MAIN_EFFECT": {
+        "fr": "Lorsque vous jouez un Sort — Un Personnage ciblé que vous contrôlez gagne 1 boost. (Faites cela après la résolution du sort.)",
+        "en": "When you play a Spell — Target Character you control gains 1 boost. (Do this after the spell resolves.)",
+        "es": "Cuando juegues un hechizo — Un personaje objetivo que controles gana 1 potenciador. (Haz esto después de que el hechizo se resuelva).",
+        "it": "Quando giochi un incantesimo — Un personaggio bersaglio che controlli ottiene 1 rinforzo. (Esegui questa azione dopo che l'incantesimo si è risolto.)",
+        "de": "Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung. (Dies geschieht, wenn der Effekt abgeklungen ist.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_MU_40_R1": {
+    "id": "ALT_ALIZE_B_MU_40_R1",
+    "type": "CHARACTER",
+    "subtypes": [
+      "PLANT",
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_5a46bc801ba1feddf4d301c91a034f68",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_cc4c7a971ccbcf092cadf5503ba611f8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_f8503c17b538ce465719554a53842f5b"
+      ]
+    },
+    "mainFaction": "MU",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Déméter",
+      "en": "Demeter",
+      "es": "Deméter",
+      "it": "Demetra",
+      "de": "Demeter"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/fr_FR/c7411e31a8d52bdeef034b78035075d0.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/en_US/de65437604b69c0a3d6fda3e83b9f954.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/es_ES/9a1053402add773bc5d18f967aacba61.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/it_IT/00f4950886e34a0abae895efd0aff96c.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/de_DE/0452abf6239edc46248041ba89336f8d.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-063-R-FR",
+      "en": "TBF-063-R-EN",
+      "es": "TBF-063-R-ES",
+      "it": "TBF-063-R-IT",
+      "de": "TBF-063-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "#7#",
+      "RECALL_COST": "#7#",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "6",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": {
+        "fr": "#{J} Un Personnage ciblé gagne [[Ancré]].#  Si je suis en {V}, je suis [Éternelle]. (Au Repos, je ne vais pas en Réserve.)",
+        "en": "#{J} Target Character gains [[Anchored]].#  If I'm in {V}, I am [Eternal]. (During Rest, I don't go to Reserve.)",
+        "es": "#{J} Un personaje objetivo gana [[Anclaje]].#  Si estoy en {V}, soy [Eterna]. (Durante el descanso, no voy a la reserva.)",
+        "it": "#{J} Un personaggio bersaglio ottiene [[Ancorato]].#  Se sono in {V}, ho [Eterno]. (Durante il riposo, non vado nella Riserva.)",
+        "de": "#{J} Ein Charakter deiner Wahl erhält [[Verankert]].#  Falls ich in {V} bin, bin ich [Ewig]. (Während der Ruhepause gehe ich nicht in die Reserve.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_43_R1": {
+    "id": "ALT_ALIZE_B_BR_43_R1",
+    "type": "EXPEDITION_PERMANENT",
+    "subtypes": [
+      "GEAR"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_45f8342b1460275baf5510f97cf3d031",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_88dc4094659aabdee36cdce5e6c6ce0f"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Lait d'Arcolano",
+      "en": "Arcolano Milk",
+      "es": "Leche de Arcolano",
+      "it": "Latte di Arcolano",
+      "de": "Arcolano-Milch"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/fr_FR/c3e0ef0c00da10267b279c9e79a67553.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/en_US/40e35944d34d1e2a708a89b34d500eb1.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/es_ES/035b1b4b2a0ddfe47f2ec3e73fee076a.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/it_IT/c3c8a785ad1505959b9c3ce54547ad64.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/de_DE/9432ebcd8a42a68df56e7b62ccdceaa3.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-032-R-FR",
+      "en": "TBF-032-R-EN",
+      "es": "TBF-032-R-ES",
+      "it": "TBF-032-R-IT",
+      "de": "TBF-032-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": {
+        "fr": "Lorsqu'un Personnage rejoint mon Expédition — Il gagne #2 boosts# et [[Fugace]].",
+        "en": "When a Character joins my Expedition — It gains #2 boosts# and [[Fleeting]].",
+        "es": "Cuando un personaje se incorpore a mi expedición — Gana #2 potenciadores# y [[Fugacidad]].",
+        "it": "Quando un personaggio si unisce alla mia spedizione — Ottiene #2 rinforzi# e [[Fugace]].",
+        "de": "Wenn ein Charakter sich meiner Expedition anschließt — Er erhält #2 Verstärkungen# und [[Vergänglich]]."
+      }
+    }
+  },
+  "ALT_ALIZE_B_OR_47_R2": {
+    "id": "ALT_ALIZE_B_OR_47_R2",
+    "type": "LANDMARK_PERMANENT",
+    "subtypes": [
+      "SITE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/WEB_ecf8bebcc2e3b0e654146304a1dfa040",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/WEB_f426ed3e2e41c7c050f7fe27cbafeea6"
+      ]
+    },
+    "mainFaction": "YZ",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Lac Saisi par les Glaces",
+      "en": "Icebound Lake",
+      "es": "Lago helado",
+      "it": "Lago del Gelo Perpetuo",
+      "de": "Eisumfangener See"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/fr_FR/031f0f3b3b654ccf8346c2216ee3f46a.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/en_US/7e4beed126a0567672ce14f52d3b758d.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/es_ES/20ebab4560ed6da7a74705e0ecea3ef9.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/it_IT/941b60adec39ae294370f1a2b7796fff.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/de_DE/612337763603b21ab9b1534ead279304.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-085-F-FR",
+      "en": "TBF-085-F-EN",
+      "es": "TBF-085-F-ES",
+      "it": "TBF-085-F-IT",
+      "de": "TBF-085-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": {
+        "fr": "Lorsqu'un Personnage non-jeton rejoint l'une de vos Expéditions, si elle est en retard — Je gagne un compteur Épreuve.  Lorsque je gagne mon troisième compteur Épreuve — Sacrifiez-moi. Si vous le faites, créez un jeton Illusion [5/5/5 Reflet Draconique] dans une Expédition ciblée, puis un Personnage ciblé gagne [[Endormi]].",
+        "en": "When a non-token Character joins one of your Expeditions, if it's behind — I gain a Trial counter.  When I gain my third Trial counter — Sacrifice me. If you do, create a [Dragon Shade 5/5/5] Illusion token in target Expedition, then target Character gains [[Asleep]].",
+        "es": "Cuando un personaje que no sea ficha se incorpore a una de tus expediciones, si va por detrás — Gano un contador de ordalía.  Cuando gane mi tercer contador de ordalía — Sacrifícame. Si lo haces, crea una ficha de ilusión [Dragón del eco 5/5/5] en una expedición objetivo y luego un personaje objetivo gana [[Sueño]].",
+        "it": "Quando un personaggio non pedina si unisce a una delle tue spedizioni, se è indietro — Ottengo un segnalino Prova.  Quando ottengo il mio terzo segnalino Prova — Sacrificami. Se lo fai, crea una pedina Illusione [Spirito del Drago 5/5/5] in una spedizione bersaglio, poi un personaggio bersaglio ottiene [[Dormiente]].",
+        "de": "Wenn ein Nicht-Marken-Charakter sich einer deiner Expeditionen anschließt, und falls diese hinten liegt — Ich erhalte einen Prüfungszähler.  Wenn ich meinen dritten Prüfungszähler erhalte — Opfere mich. Falls du das tust, erschaffe eine [Drachenecho 5/5/5]-Illusionsmarke in einer Expedition deiner Wahl, dann erhält ein Charakter deiner Wahl [[Schlafend]]."
+      }
+    }
+  },
+  "ALT_ALIZE_B_OR_47_R1": {
+    "id": "ALT_ALIZE_B_OR_47_R1",
+    "type": "LANDMARK_PERMANENT",
+    "subtypes": [
+      "SITE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/WEB_ecf8bebcc2e3b0e654146304a1dfa040",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/WEB_f426ed3e2e41c7c050f7fe27cbafeea6"
+      ]
+    },
+    "mainFaction": "OR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Lac Saisi par les Glaces",
+      "en": "Icebound Lake",
+      "es": "Lago helado",
+      "it": "Lago del Gelo Perpetuo",
+      "de": "Eisumfangener See"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/fr_FR/45c57991b732476c5dc066e02f5a276e.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/en_US/6b436a03484f3d444d8740e4ec989831.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/es_ES/89326a3de227a45832eca7936fae43b1.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/it_IT/2b9a44b3848f3fac76dde8f2c885d840.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/de_DE/5b6b57633742d7b7d2458da8c7ba9ef6.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-085-R-FR",
+      "en": "TBF-085-R-EN",
+      "es": "TBF-085-R-ES",
+      "it": "TBF-085-R-IT",
+      "de": "TBF-085-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": {
+        "fr": "Lorsqu'un Personnage non-jeton rejoint l'une de vos Expéditions, si elle est en retard — Je gagne un compteur Épreuve.  Lorsque je gagne mon troisième compteur Épreuve — Sacrifiez-moi. Si vous le faites, créez un jeton Illusion [5/5/5 Reflet Draconique] dans une Expédition ciblée, puis un Personnage ciblé gagne [[Endormi]].",
+        "en": "When a non-token Character joins one of your Expeditions, if it's behind — I gain a Trial counter.  When I gain my third Trial counter — Sacrifice me. If you do, create a [Dragon Shade 5/5/5] Illusion token in target Expedition, then target Character gains [[Asleep]].",
+        "es": "Cuando un personaje que no sea ficha se incorpore a una de tus expediciones, si va por detrás — Gano un contador de ordalía.  Cuando gane mi tercer contador de ordalía — Sacrifícame. Si lo haces, crea una ficha de ilusión [Dragón del eco 5/5/5] en una expedición objetivo y luego un personaje objetivo gana [[Sueño]].",
+        "it": "Quando un personaggio non pedina si unisce a una delle tue spedizioni, se è indietro — Ottengo un segnalino Prova.  Quando ottengo il mio terzo segnalino Prova — Sacrificami. Se lo fai, crea una pedina Illusione [Spirito del Drago 5/5/5] in una spedizione bersaglio, poi un personaggio bersaglio ottiene [[Dormiente]].",
+        "de": "Wenn ein Nicht-Marken-Charakter sich einer deiner Expeditionen anschließt, und falls diese hinten liegt — Ich erhalte einen Prüfungszähler.  Wenn ich meinen dritten Prüfungszähler erhalte — Opfere mich. Falls du das tust, erschaffe eine [Drachenecho 5/5/5]-Illusionsmarke in einer Expedition deiner Wahl, dann erhält ein Charakter deiner Wahl [[Schlafend]]."
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_36_R2": {
+    "id": "ALT_ALIZE_B_BR_36_R2",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_7d12689d4a40063df30beb0bf9ece902",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_939ef3ed4617f3cd30dca7093809cd4e",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_160a421ab9230aae2d52bc2d8422ef17"
+      ]
+    },
+    "mainFaction": "AX",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Secouriste Bravos",
+      "en": "Bravos Rescuer",
+      "es": "Rescatista de Bravos",
+      "it": "Soccorritrice Bravos",
+      "de": "Bravos-Retterin"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/fr_FR/7340cebd1ed40b33deaf733f610dbdcf.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/en_US/750a0c783febb846fb791c7195a11c5b.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/es_ES/2c0ff27a46a5b47a6778384c6763b82d.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/it_IT/b5dade873f6f119bb5443271638191ef.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/de_DE/96dcd1e94708cbf5ecfc00e786d88dc4.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-024-F-FR",
+      "en": "TBF-024-F-EN",
+      "es": "TBF-024-F-ES",
+      "it": "TBF-024-F-IT",
+      "de": "TBF-024-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "4",
+      "ECHO_EFFECT": {
+        "fr": "{D} : Un Personnage ciblé perd [[Fugace]]. (Défaussez-moi de la Réserve pour ça.)",
+        "en": "{D} : Target Character loses [[Fleeting]]. (Discard me from Reserve to do this.)",
+        "es": "{D}: Un personaje objetivo pierde [[Fugacidad]]. (Descártame de la reserva para hacer esto).",
+        "it": "{D}: Un personaggio bersaglio perde [[Fugace]]. (Scartami dalla Riserva per eseguire questa azione.)",
+        "de": "{D} : Ein Charakter deiner Wahl verliert [[Vergänglich]]. (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_03_C": {
+    "id": "ALT_ALIZE_B_BR_03_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/WEB_f41387cdaa1212b428e38b15cc93cb33"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/HERO_THUMB_cd4d6d9c838eddd421b2a3b1e1bfd7ca"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Basira & Kaizaimon",
+      "en": "Basira & Kaizaimon",
+      "es": "Basira y Kaizaimon",
+      "it": "Basira e Kaizaimon",
+      "de": "Basira & Kaizaimon"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/fr_FR/9d42ae141a18a0a5bfc5a420f4c098c1.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/en_US/dd5fe309b9eaf4c41659bd8c6243fc5c.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/es_ES/0e2c54bd2311aeb6a1430a9104b84e90.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/it_IT/34622479d6064a08d2e979954b78cb3c.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/de_DE/f64e0d0bc73a2c68db856903ecec6126.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-019-H-FR",
+      "en": "TBF-019-H-EN",
+      "es": "TBF-019-H-ES",
+      "it": "TBF-019-H-IT",
+      "de": "TBF-019-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "RESERVE": 2,
+      "PERMANENT": 2,
+      "MAIN_EFFECT": {
+        "fr": "Lorsqu'un Personnage que vous contrôlez gagne au moins 1 boost — Vous pouvez m'épuiser ({T}) pour qu'un Personnage ciblé gagne 1 boost.",
+        "en": "When a Character you control gains 1 or more boosts — You may exhaust me ({T}) to have target Character gain 1 boost.",
+        "es": "Cuando un personaje que controles gane 1 potenciador o más — Puedes agotarme ({T}) para que un personaje objetivo gane 1 potenciador.",
+        "it": "Quando un personaggio che controlli ottiene 1 o più rinforzi — Puoi consumarmi ({T}) per far ottenere 1 rinforzo a un personaggio bersaglio.",
+        "de": "Wenn ein Charakter, den du kontrollierst, mindestens 1 Verstärkung erhält — Du darfst mich erschöpfen ({T}), damit ein Charakter deiner Wahl 1 Verstärkung erhält."
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_33_R1": {
+    "id": "ALT_ALIZE_B_BR_33_R1",
+    "type": "CHARACTER",
+    "subtypes": [
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_7a3b8b578540a11a0424b8db1e7b3ca1",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_4826f87809b72319b9d4debeded29cb8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_ae0e6fdee2145e21bee716f650ff0b14"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Skadi",
+      "en": "Skadi",
+      "es": "Skadi",
+      "it": "Skadi",
+      "de": "Skadi"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/fr_FR/901e8f4b4bcf4a12e27399e136047126.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/en_US/37da029628b54c66bc16b16cb666e339.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/es_ES/ea9a00bc30359f0bbfeda1db8fbfeb45.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/it_IT/1b02f66785826e669f06144a7d1da55e.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/de_DE/84d8ef738e7002f6587cbdb645340da1.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-022-R-FR",
+      "en": "TBF-022-R-EN",
+      "es": "TBF-022-R-ES",
+      "it": "TBF-022-R-IT",
+      "de": "TBF-022-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "{R} #Si je suis en {M}, [Sabotez]. Sinon,# vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "{R} #If I'm in {M}, [Sabotage]. Otherwise,# you may exhaust ({T}) target card in Reserve. (Exhausted cards can't be played and have no Support abilities.)",
+        "es": "{R} #Si estoy en {M}, [Sabotea]. De lo contrario,# puedes agotar ({T}) una carta objetivo en reserva. (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "{R} #Se sono in {M}, [Sabota]. Altrimenti,# puoi consumare ({T}) una carta bersaglio nella Riserva. (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "{R} #Falls ich in {M} bin, [Sabotage]. Andernfalls# darfst du eine Karte deiner Wahl in der Reserve erschöpfen ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_OR_35_R2": {
+    "id": "ALT_ALIZE_B_OR_35_R2",
+    "type": "CHARACTER",
+    "subtypes": [
+      "BUREAUCRAT",
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_ecf931302bf5c83597e3fdca7252cd5d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_e1dcde14e0c6599e5cb23377398f2e25",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_c741a0f8a9ba8b8195551804a4859c19"
+      ]
+    },
+    "mainFaction": "MU",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Dong Da Shen",
+      "en": "Dong Da Shen",
+      "es": "Dong Da Shen",
+      "it": "Dong Da Shen",
+      "de": "Dong Da Shen"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/fr_FR/70b60a98c6713ab9dcf7dc17de137582.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/en_US/7c0a7c22774f9d30c99d254a4da7309b.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/es_ES/322058083c395adeefe033c972c3fcdc.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/it_IT/babdb68596cea11d4aa8b43608719ab0.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/de_DE/4d4870bf6004b8aead6aa12aa4f7f82f.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-076-F-FR",
+      "en": "TBF-076-F-EN",
+      "es": "TBF-076-F-ES",
+      "it": "TBF-076-F-IT",
+      "de": "TBF-076-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": {
+        "fr": "#À Midi — #Vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "#At Noon — #You may exhaust ({T}) target card in Reserve. (Exhausted cards can't be played and have no Support abilities.)",
+        "es": "#Al mediodía — #Puedes agotar ({T}) una carta objetivo en reserva. (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "#A mezzogiorno — #Puoi consumare ({T}) una carta bersaglio nella Riserva. (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "#Zum Mittag — #Du darfst eine Karte deiner Wahl in der Reserve erschöpfen ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_MU_31_C": {
+    "id": "ALT_ALIZE_B_MU_31_C",
+    "type": "CHARACTER",
+    "subtypes": [
+      "MAGE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_ef3f336780448f2acd3ffad337315db0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_39048fd427a70623c3e279a3e7d3ccc2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_6cd468b8d04833e04e50ba40050e3a66"
+      ]
+    },
+    "mainFaction": "MU",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Jack Frost",
+      "en": "Jack Frost",
+      "es": "Jack Frost",
+      "it": "Padre Inverno",
+      "de": "Jack Frost"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/fr_FR/6afb5d2e4def2e4d83aa5c1507274b72.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/en_US/8c9d35e094473eba4631f4773af3b44a.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/es_ES/d6b0debe45303fb2d5a65026e5dabbb0.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/it_IT/98d73630b80960040c6b0c8ec4b8a84c.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/de_DE/3ba3979625017734bcdef456b9504b5a.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-055-C-FR",
+      "en": "TBF-055-C-EN",
+      "es": "TBF-055-C-ES",
+      "it": "TBF-055-C-IT",
+      "de": "TBF-055-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": {
+        "fr": "{H} Vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "{H} You may exhaust ({T}) target card in Reserve. (Exhausted cards can't be played and have no Support abilities.)",
+        "es": "{H} Puedes agotar ({T}) una carta objetivo en reserva. (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "{H} Puoi consumare ({T}) una carta bersaglio nella Riserva. (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "{H} Du darfst eine Karte deiner Wahl in der Reserve erschöpfen ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_MU_03_C": {
+    "id": "ALT_ALIZE_B_MU_03_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/WEB_bba44154012e2f8cad5083b50bbece90"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/HERO_THUMB_060d3e0d9ed85316a76fd7d4086f7aba"
+      ]
+    },
+    "mainFaction": "MU",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Rin & Orchid",
+      "en": "Rin & Orchid",
+      "es": "Rin y Orquídea",
+      "it": "Rin e Orchidea",
+      "de": "Rin & Orchidee"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/fr_FR/1c55eb8802aa41803aa81b76cdbc0b29.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/en_US/da0c31b7ebe55f1c3a0efaa5a8a9e2b5.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/es_ES/35f2ece94702db46714f5d6733a2a2f2.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/it_IT/4a42a513c7b516e6b98a4968fd6fbc73.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_03/JPG/de_DE/72e297ee194fa4f5adc48c0a24ab844a.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-053-H-FR",
+      "en": "TBF-053-H-EN",
+      "es": "TBF-053-H-ES",
+      "it": "TBF-053-H-IT",
+      "de": "TBF-053-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "RESERVE": 2,
+      "PERMANENT": 2,
+      "MAIN_EFFECT": {
+        "fr": "Lorsqu'une de vos Expéditions avance grâce à {V} — Piochez une carte, puis mettez une carte de votre main en Réserve.",
+        "en": "When one of your Expeditions moves forward due to {V} — Draw a card, then put a card from your hand in Reserve.",
+        "es": "Cuando una de tus expediciones avance debido a {V} — Roba una carta y luego coloca una carta de tu mano en reserva.",
+        "it": "Quando una delle tue spedizioni avanza per via di {V} — Pesca una carta, poi metti una carta dalla tua mano nella Riserva.",
+        "de": "Wenn sich eine deiner Expeditionen aufgrund von {V} vorwärts bewegt — Ziehe eine Karte, dann lege eine Karte aus deiner Hand in die Reserve."
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_33_R2": {
+    "id": "ALT_ALIZE_B_BR_33_R2",
+    "type": "CHARACTER",
+    "subtypes": [
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_7a3b8b578540a11a0424b8db1e7b3ca1",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_4826f87809b72319b9d4debeded29cb8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_ae0e6fdee2145e21bee716f650ff0b14"
+      ]
+    },
+    "mainFaction": "AX",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Skadi",
+      "en": "Skadi",
+      "es": "Skadi",
+      "it": "Skadi",
+      "de": "Skadi"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/fr_FR/f028f2085dbcc3e7c7686bdcdc17037a.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/en_US/9a4b7a0ec8f398e016237513acb7b1ab.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/es_ES/379ac4b6ca72281566f59d1a709195e4.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/it_IT/577093e769b27c6a982150304a10df11.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/de_DE/300995db8d6f3ba37d57e4ba5a4ec60a.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-022-F-FR",
+      "en": "TBF-022-F-EN",
+      "es": "TBF-022-F-ES",
+      "it": "TBF-022-F-IT",
+      "de": "TBF-022-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "{R} #Si je suis en {M}, [Sabotez]. Sinon,# vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "{R} #If I'm in {M}, [Sabotage]. Otherwise,# you may exhaust ({T}) target card in Reserve. (Exhausted cards can't be played and have no Support abilities.)",
+        "es": "{R} #Si estoy en {M}, [Sabotea]. De lo contrario,# puedes agotar ({T}) una carta objetivo en reserva. (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "{R} #Se sono in {M}, [Sabota]. Altrimenti,# puoi consumare ({T}) una carta bersaglio nella Riserva. (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "{R} #Falls ich in {M} bin, [Sabotage]. Andernfalls# darfst du eine Karte deiner Wahl in der Reserve erschöpfen ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_46_R2": {
+    "id": "ALT_ALIZE_B_BR_46_R2",
+    "type": "LANDMARK_PERMANENT",
+    "subtypes": [
+      "SITE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_e307b9e32536a086d1f7b4cbb8fe3cc2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_33f3031907bbe6049195e88eeca428f8"
+      ]
+    },
+    "mainFaction": "AX",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Pic Saisi par les Glaces",
+      "en": "Icebound Peak",
+      "es": "Pico helado",
+      "it": "Vetta del Gelo Perpetuo",
+      "de": "Eisumfangener Gipfel"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/fr_FR/c149f0bbe4f2930c4895ae689c8b9496.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/en_US/63a0970fe6f9441c29331daa46389310.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/es_ES/d6ea92b29db9e22a6c364521fdcfc671.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/it_IT/23d5a586c29f5256c16755ce6eb79def.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/de_DE/a3371d364c9ca9977b282d64f1d333b9.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-034-F-FR",
+      "en": "TBF-034-F-EN",
+      "es": "TBF-034-F-ES",
+      "it": "TBF-034-F-IT",
+      "de": "TBF-034-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": {
+        "fr": "Lorsqu'un Personnage que vous contrôlez gagne [[Fugace]] — Je gagne un compteur Épreuve.  Lorsque je gagne mon troisième compteur Épreuve — Sacrifiez-moi. Si vous le faites, créez un jeton Illusion [5/5/5 Reflet Draconique] dans une Expédition ciblée, puis chaque Personnage que vous contrôlez gagne 1 boost.",
+        "en": "When a Character you control gains [[Fleeting]] — I gain a Trial counter.  When I gain my third Trial counter — Sacrifice me. If you do, create a [Dragon Shade 5/5/5] Illusion token in target Expedition, then each Character you control gains 1 boost.",
+        "es": "Cuando un personaje que controles gane [[Fugacidad]] — Gano un contador de ordalía.  Cuando gane mi tercer contador de ordalía — Sacrifícame. Si lo haces, crea una ficha de ilusión [Dragón del eco 5/5/5] en una expedición objetivo y luego cada personaje que controles gana 1 potenciador.",
+        "it": "Quando un personaggio che controlli ottiene [[Fugace]] — Ottengo un segnalino Prova.  Quando ottengo il mio terzo segnalino Prova — Sacrificami. Se lo fai, crea una pedina Illusione [Spirito del Drago 5/5/5] in una spedizione bersaglio, poi ogni personaggio che controlli ottiene 1 rinforzo.",
+        "de": "Wenn ein Charakter, den du kontrollierst, [[Vergänglich]] erhält — Ich erhalte einen Prüfungszähler.  Wenn ich meinen dritten Prüfungszähler erhalte — Opfere mich. Falls du das tust, erschaffe eine [Drachenecho 5/5/5]-Illusionsmarke in einer Expedition deiner Wahl, dann erhält jeder Charakter, den du kontrollierst, 1 Verstärkung."
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_44_R2": {
+    "id": "ALT_ALIZE_B_BR_44_R2",
+    "type": "EXPEDITION_PERMANENT",
+    "subtypes": [
+      "GEAR"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_279571b768bb272a3ff12c59a0520f95",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_7035156d55cac81037a43930cb962eb4"
+      ]
+    },
+    "mainFaction": "AX",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Bottes Techniques",
+      "en": "Technical Boots",
+      "es": "Botas profesionales",
+      "it": "Scarponi Tecnici",
+      "de": "Hightech-Stiefel"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/fr_FR/d20aa7282657055563b76261d0c19cd1.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/bade1035a711b811a093c95f87f7262d.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/es_ES/18af88931b029be26476839a5568344b.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/it_IT/16f0c01bc845299fc39ed8ffbb4bcd4a.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/de_DE/6a4f2c54b447e3a77796654b27a3bda9.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-031-F-FR",
+      "en": "TBF-031-F-EN",
+      "es": "TBF-031-F-ES",
+      "it": "TBF-031-F-IT",
+      "de": "TBF-031-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": {
+        "fr": "#{R} [Ravitaillez].# (Mettez la première carte de votre deck en Réserve.)  Lorsque mon Expédition avance — Un Personnage ciblé dans mon Expédition perd [[Fugace]].",
+        "en": "#{R} [Resupply].# (Put the top card of your deck in Reserve.)  When my Expedition moves forward — Target Character in my Expedition loses [[Fleeting]].",
+        "es": "#{R} [Reabastece].# (Coloca la primera carta de tu mazo en la reserva.)  Cuando mi expedición avance — Un personaje objetivo en mi expedición pierde [[Fugacidad]].",
+        "it": "#{R} [Rifornisci].# (Metti la prima carta del tuo mazzo nella Riserva.)  Quando la mia spedizione avanza — Un personaggio bersaglio nella mia spedizione perde [[Fugace]].",
+        "de": "#{R} [Nachschub].# (Lege die oberste Karte deines Decks in die Reserve.)  Wenn sich meine Expedition vorwärts bewegt — Ein Charakter deiner Wahl in meiner Expedition verliert [[Vergänglich]]."
+      }
+    }
+  },
+  "ALT_ALIZE_B_OR_35_R1": {
+    "id": "ALT_ALIZE_B_OR_35_R1",
+    "type": "CHARACTER",
+    "subtypes": [
+      "BUREAUCRAT",
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_ecf931302bf5c83597e3fdca7252cd5d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_e1dcde14e0c6599e5cb23377398f2e25",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/WEB_c741a0f8a9ba8b8195551804a4859c19"
+      ]
+    },
+    "mainFaction": "OR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Dong Da Shen",
+      "en": "Dong Da Shen",
+      "es": "Dong Da Shen",
+      "it": "Dong Da Shen",
+      "de": "Dong Da Shen"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/fr_FR/dad760f2072d9fdb7024d32653f42f9a.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/en_US/4e49abc3a93950e0408f41caaece0e2a.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/es_ES/5301b27d23368db295a128047a98dc43.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/it_IT/236ee04a31ac68d2c1cabafce97c93f0.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_35/JPG/de_DE/6f8e916f28bf9de5f35af7e0e9c44b13.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-076-R-FR",
+      "en": "TBF-076-R-EN",
+      "es": "TBF-076-R-ES",
+      "it": "TBF-076-R-IT",
+      "de": "TBF-076-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": {
+        "fr": "#À Midi — #Vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "#At Noon — #You may exhaust ({T}) target card in Reserve. (Exhausted cards can't be played and have no Support abilities.)",
+        "es": "#Al mediodía — #Puedes agotar ({T}) una carta objetivo en reserva. (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "#A mezzogiorno — #Puoi consumare ({T}) una carta bersaglio nella Riserva. (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "#Zum Mittag — #Du darfst eine Karte deiner Wahl in der Reserve erschöpfen ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_MU_02_C": {
+    "id": "ALT_ALIZE_B_MU_02_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_02/WEB_e14b6a64247b596d19d97ec99f72f74d"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_02/HERO_THUMB_8e8544010915f92ff71a5367f51c7b96"
+      ]
+    },
+    "mainFaction": "MU",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Arjun & Spike",
+      "en": "Arjun & Spike",
+      "es": "Arjun y Pinchitos",
+      "it": "Arjun e Spina",
+      "de": "Arjun & Spike"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_02/JPG/fr_FR/6c12a80deb9d9a612b7c65081725dcb9.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_02/JPG/en_US/e85af815630845248cc39738cc9bb4fd.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_02/JPG/es_ES/a02e7f822d72305cf406228991cb542f.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_02/JPG/it_IT/ec861787e45bb64df47895e9d28297e6.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_02/JPG/de_DE/f5e06a7b551532d13d290a1ed89f7b60.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-052-H-FR",
+      "en": "TBF-052-H-EN",
+      "es": "TBF-052-H-ES",
+      "it": "TBF-052-H-IT",
+      "de": "TBF-052-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "RESERVE": 2,
+      "PERMANENT": 2,
+      "MAIN_EFFECT": {
+        "fr": "{T}, Défaussez une carte de votre Réserve : le prochain Personnage de Coût de Main {3} ou moins que vous jouez ce tour gagne [[Ancré]]. (Au Repos, il ne va pas en Réserve et il perd Ancré.)",
+        "en": "{T}, Discard a card from your Reserve: the next Character you play this turn with Hand Cost {3} or less gains [[Anchored]]. (During Rest, it doesn't go to Reserve and it loses Anchored.)",
+        "es": "{T}, Descarta 1 carta de tu reserva: el siguiente personaje que juegues este turno con coste desde la mano de {3} o menos gana [[Anclaje]]. (Durante el descanso, no va a la reserva y pierde anclaje).",
+        "it": "{T}, Scarta una carta dalla tua Riserva: il prossimo personaggio che giochi in questo turno con costo dalla mano pari o inferiore a {3} ottiene [[Ancorato]]. (Durante il riposo, non va nella Riserva e perde Ancorato.)",
+        "de": "{T}, Lege eine Karte aus deiner Reserve ab: Der nächste Charakter, den du in dieser Runde mit Handkosten {3} oder weniger spielst, erhält [[Verankert]]. (Während der Ruhepause geht er nicht in die Reserve und verliert Verankert.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_33_C": {
+    "id": "ALT_ALIZE_B_BR_33_C",
+    "type": "CHARACTER",
+    "subtypes": [
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_7a3b8b578540a11a0424b8db1e7b3ca1",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_4826f87809b72319b9d4debeded29cb8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_ae0e6fdee2145e21bee716f650ff0b14"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Skadi",
+      "en": "Skadi",
+      "es": "Skadi",
+      "it": "Skadi",
+      "de": "Skadi"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/fr_FR/10d481e5a71c2e3de4dab1a327d3b3db.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/en_US/5c73e903550f0049c633788b1723fbe3.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/es_ES/4279d7389e01779bc61248bdb624722b.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/it_IT/0a3289518485cd04cc4a47d6eaf72fc2.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/de_DE/8a79d0ccbb9e817f3ec200adc40fa052.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-022-C-FR",
+      "en": "TBF-022-C-EN",
+      "es": "TBF-022-C-ES",
+      "it": "TBF-022-C-IT",
+      "de": "TBF-022-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "{R} Vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "{R} You may exhaust ({T}) target card in Reserve. (Exhausted cards can't be played and have no Support abilities.)",
+        "es": "{R} Puedes agotar ({T}) una carta objetivo en reserva. (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "{R} Puoi consumare ({T}) una carta bersaglio nella Riserva. (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "{R} Du darfst eine Karte deiner Wahl in der Reserve erschöpfen ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_YZ_32_R1": {
+    "id": "ALT_ALIZE_B_YZ_32_R1",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_cbc5f7c37d558c0887887c9cc7ee3841",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_1634df5fb3ac2d716b10d538b747e43c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_4cd72a4f90eaea49e74b44445bbbc457"
+      ]
+    },
+    "mainFaction": "YZ",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Larve de Phalène",
+      "en": "Moth Larva",
+      "es": "Larva de polilla",
+      "it": "Larva di Falena",
+      "de": "Mottenlarve"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/fr_FR/5c0e9bc558329d0e537091e11e507104.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/en_US/2ebff7b907d3244666724aa72d094de3.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/es_ES/4ab3cd290c8f0d772cb55456844c9181.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/it_IT/c45d673dcd92e6d64a561f2a16e85293.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/de_DE/2f646942fc8233c0eb0780ca1d551a0b.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-088-R-FR",
+      "en": "TBF-088-R-EN",
+      "es": "TBF-088-R-ES",
+      "it": "TBF-088-R-IT",
+      "de": "TBF-088-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": {
+        "fr": "#{J}# S'il y a au moins deux cartes épuisées en Réserve, je gagne 1 boost.",
+        "en": "#{J}# If there are two or more exhausted cards in Reserve, I gain 1 boost.",
+        "es": "#{J}# Si hay dos o más cartas agotadas en reserva, gano 1 potenciador.",
+        "it": "#{J}# Se ci sono due o più carte consumate nella Riserva, ottengo 1 rinforzo.",
+        "de": "#{J}# Falls mindestens zwei erschöpfte Karten in der Reserve sind, erhalte ich 1 Verstärkung."
+      },
+      "ECHO_EFFECT": {
+        "fr": "#{D} : Épuisez une carte ciblée en Réserve.# (Défaussez-moi de la Réserve pour ça.)",
+        "en": "#{D} : Exhaust target card in Reserve.# (Discard me from Reserve to do this.)",
+        "es": "#{D}: Agota una carta objetivo en reserva.# (Descártame de la reserva para hacer esto).",
+        "it": "#{D}: Consuma una carta bersaglio nella Riserva.# (Scartami dalla Riserva per eseguire questa azione.)",
+        "de": "#{D} : Erschöpfe eine Karte deiner Wahl in der Reserve.# (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_LY_33_C": {
+    "id": "ALT_ALIZE_B_LY_33_C",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ELEMENTAL"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_bf520d8267baf4533eb5dddc4b6f02ce",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_eb5d8eab445464c60b7cf202df8c5196",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_a1d65e9e3ec766f87c0831df94298836"
+      ]
+    },
+    "mainFaction": "LY",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Le Bonhomme de Neige",
+      "en": "The Snowman",
+      "es": "El muñeco de nieve",
+      "it": "Pupazzo di Neve",
+      "de": "Der Schneemann"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/fr_FR/6c2b3e536fe17a0cc05de64c46cb2bc4.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/7019f01e1b3b36bf1bd3c45a8929a0ed.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/es_ES/cc10b734f761727bf7c73270bf0f98e9.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/it_IT/8be0c210d718175812250880334093a8.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/de_DE/0b3f24bc577e7fca545a8f385d8491a9.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-037-C-FR",
+      "en": "TBF-037-C-EN",
+      "es": "TBF-037-C-ES",
+      "it": "TBF-037-C-IT",
+      "de": "TBF-037-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "{J} Je gagne [[Fugace]] sauf si je suis en {O}. (Si je devais être envoyé en Réserve, défaussez-moi à la place.)",
+        "en": "{J} Unless I'm in {O}, I gain [[Fleeting]]. (If I would be sent to Reserve, discard me instead.)",
+        "es": "{J} A menos que esté en {O}, gano [[Fugacidad]]. (Si fuese a ir a la reserva, en vez de eso, descártame.)",
+        "it": "{J} A meno che io non sia in {O}, ottengo [[Fugace]]. (Se sto per finire nella Riserva, scartami invece.)",
+        "de": "{J} Ich erhalte [[Vergänglich]], es sei denn, ich bin in {O}. (Falls ich in die Reserve geschickt werden soll, lege mich stattdessen ab.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_YZ_36_R1": {
+    "id": "ALT_ALIZE_B_YZ_36_R1",
+    "type": "CHARACTER",
+    "subtypes": [
+      "MAGE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_857d5d6cc51a3a623557ebefbd8f6536",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_1350e90561aa21560d4ec35850e26e0c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_5e53194f95457f01acfb6a6bff8dea73"
+      ]
+    },
+    "mainFaction": "YZ",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Aroro, Rempart d'Asgartha",
+      "en": "Aroro, Savior of Asgartha",
+      "es": "Aroro, salvadora de Asgartha",
+      "it": "Aroro, Salvezza di Asgartha",
+      "de": "Aroro, Retterin von Asgartha"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/fr_FR/27d8e9bae7ec5667101da1e8a8f8b843.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/en_US/fe1412e542ccb1058860a0a23c97a031.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/es_ES/482444548beab535ef9ea0032099a3ab.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/it_IT/e420ca8e5e8eb72dc95a90747cb5f3da.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/de_DE/79b76a8dee926ac9ea508e78ef936773.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-092-R-FR",
+      "en": "TBF-092-R-EN",
+      "es": "TBF-092-R-ES",
+      "it": "TBF-092-R-IT",
+      "de": "TBF-092-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "{H} Vous pouvez défausser un Sort de votre Réserve. Si vous le faites, je gagne #2 boosts#.",
+        "en": "{H} You may discard a Spell from your Reserve. If you do, I gain #2 boosts#.",
+        "es": "{H} Puedes descartar un hechizo de tu reserva. Si lo haces, gano #2 potenciadores#.",
+        "it": "{H} Puoi scartare un incantesimo dalla tua Riserva. Se lo fai, ottengo #2 rinforzi#.",
+        "de": "{H} Du darfst einen Zauber aus deiner Reserve ablegen. Falls du das tust, erhalte ich #2 Verstärkungen#."
+      },
+      "ECHO_EFFECT": {
+        "fr": "#{D} : Le prochain Sort que vous jouez ce tour coûte {1} de moins.# (Défaussez-moi de la Réserve pour ça.)",
+        "en": "#{D} : The next Spell you play this turn costs {1} less.# (Discard me from Reserve to do this.)",
+        "es": "#{D}: El siguiente hechizo que juegues este turno cuesta {1} menos.# (Descártame de la reserva para hacer esto).",
+        "it": "#{D}: Il prossimo incantesimo che giochi in questo turno costa {1} in meno.# (Scartami dalla Riserva per eseguire questa azione.)",
+        "de": "#{D} : Der nächste Zauber, den du in dieser Runde spielst, kostet {1} weniger.# (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_AX_03_C": {
+    "id": "ALT_ALIZE_B_AX_03_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/WEB_1d6d374e82900bb6ccc0a0f78aa98e47"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/HERO_THUMB_9805f6e77c35518e938f8699b8d1ce2d"
+      ]
+    },
+    "mainFaction": "AX",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Subhash & Marmo",
+      "en": "Subhash & Marmo",
+      "es": "Subhash y Marmo",
+      "it": "Subhash e Marmo",
+      "de": "Subhash & Marmo"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/fr_FR/d104210b530a33af55cc1e95768a3506.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/en_US/c68086760fbf10c9338e3e20bb338b69.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/es_ES/6f0e4b82d454ec754da9e1313118bdf5.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/it_IT/039503423118ecac0c13b6e6c62dc895.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_03/JPG/de_DE/72cb6608922cb02513b9a0df1c77af0a.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-002-H-FR",
+      "en": "TBF-002-H-EN",
+      "es": "TBF-002-H-ES",
+      "it": "TBF-002-H-IT",
+      "de": "TBF-002-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "RESERVE": 2,
+      "PERMANENT": 2,
+      "MAIN_EFFECT": {
+        "fr": "À Midi — Vous pouvez payer {1} et mettre une carte de votre main en Réserve pour créer un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée.",
+        "en": "At Noon — You may pay {1} and put a card from your hand in Reserve to create a [Brassbug 2/2/2] Robot token in target Expedition.",
+        "es": "Al mediodía — Puedes pagar {1} y colocar una carta de tu mano en reserva para crear una ficha de robot [Bicholata 2/2/2] en una expedición objetivo.",
+        "it": "A mezzogiorno — Puoi pagare {1} e mettere una carta dalla tua mano nella Riserva per creare una pedina Robot [Ottonblatta 2/2/2] in una spedizione bersaglio.",
+        "de": "Zum Mittag — Du darfst {1} bezahlen und eine Karte aus deiner Hand in die Reserve legen, um eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl zu erschaffen."
+      }
+    }
+  },
+  "ALT_ALIZE_B_YZ_32_R2": {
+    "id": "ALT_ALIZE_B_YZ_32_R2",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_cbc5f7c37d558c0887887c9cc7ee3841",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_1634df5fb3ac2d716b10d538b747e43c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_4cd72a4f90eaea49e74b44445bbbc457"
+      ]
+    },
+    "mainFaction": "AX",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Larve de Phalène",
+      "en": "Moth Larva",
+      "es": "Larva de polilla",
+      "it": "Larva di Falena",
+      "de": "Mottenlarve"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/fr_FR/3872ff6c478540a2d047c3ade83da4d7.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/en_US/27ebdd458b6dc46b94b13255f2b7d26a.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/es_ES/cca468044669ce31700b2d9bd4c6edd2.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/it_IT/39a7c86b2ea4c0148614872f3132177a.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/de_DE/8cc4df5b23918a6696a21cdee428d471.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-088-F-FR",
+      "en": "TBF-088-F-EN",
+      "es": "TBF-088-F-ES",
+      "it": "TBF-088-F-IT",
+      "de": "TBF-088-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": {
+        "fr": "#{J}# S'il y a au moins deux cartes épuisées en Réserve, je gagne 1 boost.",
+        "en": "#{J}# If there are two or more exhausted cards in Reserve, I gain 1 boost.",
+        "es": "#{J}# Si hay dos o más cartas agotadas en reserva, gano 1 potenciador.",
+        "it": "#{J}# Se ci sono due o più carte consumate nella Riserva, ottengo 1 rinforzo.",
+        "de": "#{J}# Falls mindestens zwei erschöpfte Karten in der Reserve sind, erhalte ich 1 Verstärkung."
+      },
+      "ECHO_EFFECT": {
+        "fr": "#{D} : Épuisez une carte ciblée en Réserve.# (Défaussez-moi de la Réserve pour ça.)",
+        "en": "#{D} : Exhaust target card in Reserve.# (Discard me from Reserve to do this.)",
+        "es": "#{D}: Agota una carta objetivo en reserva.# (Descártame de la reserva para hacer esto).",
+        "it": "#{D}: Consuma una carta bersaglio nella Riserva.# (Scartami dalla Riserva per eseguire questa azione.)",
+        "de": "#{D} : Erschöpfe eine Karte deiner Wahl in der Reserve.# (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_YZ_36_R2": {
+    "id": "ALT_ALIZE_B_YZ_36_R2",
+    "type": "CHARACTER",
+    "subtypes": [
+      "MAGE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_857d5d6cc51a3a623557ebefbd8f6536",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_1350e90561aa21560d4ec35850e26e0c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_5e53194f95457f01acfb6a6bff8dea73"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Aroro, Rempart d'Asgartha",
+      "en": "Aroro, Savior of Asgartha",
+      "es": "Aroro, salvadora de Asgartha",
+      "it": "Aroro, Salvezza di Asgartha",
+      "de": "Aroro, Retterin von Asgartha"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/fr_FR/2dab05dddd7671c2eb03b52c76de7c7f.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/en_US/02376966e32b2f1d0d5597e47a2a5250.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/es_ES/5961f168d789cf38f6249927dd2542a5.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/it_IT/da67fbe51a234f99a4d464b12cad9831.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/de_DE/92b3dafba67a81dd767a460d1c1d02de.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-092-F-FR",
+      "en": "TBF-092-F-EN",
+      "es": "TBF-092-F-ES",
+      "it": "TBF-092-F-IT",
+      "de": "TBF-092-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "{H} Vous pouvez défausser un #Personnage# de votre Réserve. Si vous le faites, je gagne #2 boosts#.",
+        "en": "{H} You may discard a #Character# from your Reserve. If you do, I gain #2 boosts#.",
+        "es": "{H} Puedes descartar un #personaje# de tu reserva. Si lo haces, gano #2 potenciadores#.",
+        "it": "{H} Puoi scartare un #personaggio# dalla tua Riserva. Se lo fai, ottengo #2 rinforzi#.",
+        "de": "{H} Du darfst einen #Charakter# aus deiner Reserve ablegen. Falls du das tust, erhalte ich #2 Verstärkungen#."
+      },
+      "ECHO_EFFECT": {
+        "fr": "#{D} : Le prochain Personnage que vous jouez ce tour coûte {1} de moins.# (Défaussez-moi de la Réserve pour ça.)",
+        "en": "#{D} : The next Character you play this turn costs {1} less.# (Discard me from Reserve to do this.)",
+        "es": "#{D}: El siguiente personaje que juegues este turno cuesta {1} menos.# (Descártame de la reserva para hacer esto).",
+        "it": "#{D}: Il prossimo personaggio che giochi in questo turno costa {1} in meno.# (Scartami dalla Riserva per eseguire questa azione.)",
+        "de": "#{D} : Der nächste Charakter, den du in dieser Runde spielst, kostet {1} weniger.# (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_MU_33_R2": {
+    "id": "ALT_ALIZE_B_MU_33_R2",
+    "type": "CHARACTER",
+    "subtypes": [
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_dd3ca128cd9a8859c87e916005fd5466",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_a29913a460868f171aa09a5bd3ef6a5c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_b2f8829799c6ae3c7310533d78346b6e"
+      ]
+    },
+    "mainFaction": "LY",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Perséphone",
+      "en": "Persephone",
+      "es": "Perséfone",
+      "it": "Persefone",
+      "de": "Persephone"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/fr_FR/4743042de3ccfa6e77689685e146e4c0.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/en_US/9e8050e2b39dfe406756246cc013e356.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/es_ES/3d1974cfef8f6bd55b42d804a540c058.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/it_IT/20b4f949d5ba59949ad7c462abbf12af.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/de_DE/6829f5c99781ff8c1e0cfd3686a9c1f2.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-056-F-FR",
+      "en": "TBF-056-F-EN",
+      "es": "TBF-056-F-ES",
+      "it": "TBF-056-F-IT",
+      "de": "TBF-056-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": {
+        "fr": "Ma région #et la région de l'Expédition qui me fait face# sont {V} #et perdent leurs autres types.#",
+        "en": "My region #and the region of the Expedition facing me# are {V} #and lose their other types.#",
+        "es": "Mi región #y la de la expedición enfrentada a mí# son {V} #y pierden sus otros tipos.#",
+        "it": "La mia regione #e la regione della spedizione che mi affronta# sono {V} #e perdono gli altri loro tipi.#",
+        "de": "Meine Region #und die Region der mir gegenüberstehenden Expedition# sind {V} #und verlieren ihre anderen Typen.#"
+      }
+    }
+  },
+  "ALT_ALIZE_B_LY_42_R2": {
+    "id": "ALT_ALIZE_B_LY_42_R2",
+    "type": "SPELL",
+    "subtypes": [
+      "DISRUPTION"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_2aa59a81bdb10404830a5cd76f2190cf",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_dd7d9e26c76106bb83b2db4b31ff23d2"
+      ]
+    },
+    "mainFaction": "OR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Briser la Glace",
+      "en": "Break the Ice",
+      "es": "Romper el hielo",
+      "it": "Crepa nel Ghiaccio",
+      "de": "Eisbrecher"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/fr_FR/5bafbe67956450bddc63ade06aed3b01.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/en_US/4db8095defcd1b303a76bab7926e2cdf.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/es_ES/f175f76dca6fef874260a47017046e42.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/it_IT/ca27d9777db6b46d82205c0b7855d854.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/de_DE/3ea619f8e78c8632661bca4e0a9b0f3b.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-048-F-FR",
+      "en": "TBF-048-F-EN",
+      "es": "TBF-048-F-ES",
+      "it": "TBF-048-F-IT",
+      "de": "TBF-048-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": {
+        "fr": "[[Fugace]].  Je coûte {2} de moins si #vous contrôlez au moins trois Personnages#.  Envoyez un Personnage ciblé en Réserve, puis épuisez-le ({T}). (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "[[Fleeting]].  I cost {2} less if #you control three or more Characters#.  Send target Character to Reserve, then exhaust it ({T}). (Exhausted cards can't be played and have no Support abilities.)",
+        "es": "[[Fugacidad]].  Cuesto {2} menos si #controlas tres personajes o más#.  Envía un personaje objetivo a la reserva y luego agótalo ({T}). (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "[[Fugace]].  Costo {2} in meno se #controlli tre o più personaggi#.  Manda un personaggio bersaglio nella Riserva, poi consumalo ({T}). (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "[[Vergänglich]].  Ich koste {2} weniger, falls #du mindestens drei Charaktere kontrollierst#.  Schicke einen Charakter deiner Wahl in die Reserve, dann erschöpfe ihn ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_44_C": {
+    "id": "ALT_ALIZE_B_BR_44_C",
+    "type": "EXPEDITION_PERMANENT",
+    "subtypes": [
+      "GEAR"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_279571b768bb272a3ff12c59a0520f95",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_7035156d55cac81037a43930cb962eb4"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Bottes Techniques",
+      "en": "Technical Boots",
+      "es": "Botas profesionales",
+      "it": "Scarponi Tecnici",
+      "de": "Hightech-Stiefel"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/fr_FR/666e402ede488cd14c46ec076975327f.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/4bf7898bb55aca06776b917680ce5195.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/es_ES/aa0cc6acf9c041f0e366b5521e84ad43.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/it_IT/f90a2489dccf431ac2a8de549b924a42.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/de_DE/202bd21e8e58b179a5f7a5ad2014aef6.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-031-C-FR",
+      "en": "TBF-031-C-EN",
+      "es": "TBF-031-C-ES",
+      "it": "TBF-031-C-IT",
+      "de": "TBF-031-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": {
+        "fr": "Lorsque mon Expédition avance — Un Personnage ciblé dans mon Expédition perd [[Fugace]].",
+        "en": "When my Expedition moves forward — Target Character in my Expedition loses [[Fleeting]].",
+        "es": "Cuando mi expedición avance — Un personaje objetivo en mi expedición pierde [[Fugacidad]].",
+        "it": "Quando la mia spedizione avanza — Un personaggio bersaglio nella mia spedizione perde [[Fugace]].",
+        "de": "Wenn sich meine Expedition vorwärts bewegt — Ein Charakter deiner Wahl in meiner Expedition verliert [[Vergänglich]]."
+      }
+    }
+  },
+  "ALT_ALIZE_B_LY_03_C": {
+    "id": "ALT_ALIZE_B_LY_03_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/WEB_1170777d30c90d28a126da895f04655b"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/HERO_THUMB_fe20cff9f5507dad76eb52c872f9e278"
+      ]
+    },
+    "mainFaction": "LY",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Fen & Crowbar",
+      "en": "Fen & Crowbar",
+      "es": "Fen y Espantajo",
+      "it": "Fen e Riff",
+      "de": "Fen & Feedback"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/fr_FR/27e1982a544fafb0aa6d1ec00394b543.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/en_US/d35eed06dcc64cb322273a8873b3db00.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/es_ES/2bb643325da6ac6c3cced2fb9976d488.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/it_IT/9f2b65cc2abc0a3560b231f217d1509b.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/de_DE/16d3766e07a8b1b063bd661ccce792bf.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-035-H-FR",
+      "en": "TBF-035-H-EN",
+      "es": "TBF-035-H-ES",
+      "it": "TBF-035-H-IT",
+      "de": "TBF-035-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "RESERVE": 2,
+      "PERMANENT": 2,
+      "MAIN_EFFECT": {
+        "fr": "Le Matin, piochez une seule carte. Puis, mettez la première carte de votre deck dans votre zone de Mana, au lieu d'une carte de votre main.  À Midi — [Ravitaillez]. (Mettez la première carte de votre deck en Réserve.)  Ignorez mes capacités le premier Jour.",
+        "en": "During Morning, draw only one card. Then, put the top card of your deck in your Mana zone instead of a card from your hand.  At Noon — [Resupply]. (Put the top card of your deck in Reserve.)  Ignore my abilities during the first Day.",
+        "es": "Durante la mañana, roba una sola carta. Luego, coloca la primera carta de tu mazo en tu zona de maná en lugar de una carta de tu mano.  Al mediodía — [Reabastece]. (Coloca la primera carta de tu mazo en la reserva.)  Ignora mis habilidades durante el primer día.",
+        "it": "Durante la mattina, pesca solo una carta. Poi, metti la prima carta del tuo mazzo nella tua area del mana invece di una carta dalla tua mano.  A mezzogiorno — [Rifornisci]. (Metti la prima carta del tuo mazzo nella Riserva.)  Ignora le mie abilità durante la prima giornata.",
+        "de": "Am Morgen ziehe nur eine Karte. Dann lege statt einer Karte aus deiner Hand die oberste Karte deines Decks in deine Manazone.  Zum Mittag — [Nachschub]. (Lege die oberste Karte deines Decks in die Reserve.)  Ignoriere meine Fähigkeiten während des ersten Tages."
+      }
+    }
+  },
+  "ALT_ALIZE_B_YZ_32_C": {
+    "id": "ALT_ALIZE_B_YZ_32_C",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_cbc5f7c37d558c0887887c9cc7ee3841",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_1634df5fb3ac2d716b10d538b747e43c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/WEB_4cd72a4f90eaea49e74b44445bbbc457"
+      ]
+    },
+    "mainFaction": "YZ",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Larve de Phalène",
+      "en": "Moth Larva",
+      "es": "Larva de polilla",
+      "it": "Larva di Falena",
+      "de": "Mottenlarve"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/fr_FR/f41bae52bbfcbe8b870bc2884def17a5.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/en_US/4cfa8c722cfa56d900070cf0ebcb0978.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/es_ES/9490402c025e05ac6a4650b7cc501d39.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/it_IT/6b93208f58aad89d78462b8e619ed090.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_32/JPG/de_DE/bcf87a6c516da81ba6e71e2189991e74.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-088-C-FR",
+      "en": "TBF-088-C-EN",
+      "es": "TBF-088-C-ES",
+      "it": "TBF-088-C-IT",
+      "de": "TBF-088-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": {
+        "fr": "{H} S'il y a au moins deux cartes épuisées en Réserve, je gagne 1 boost.",
+        "en": "{H} If there are two or more exhausted cards in Reserve, I gain 1 boost.",
+        "es": "{H} Si hay dos o más cartas agotadas en reserva, gano 1 potenciador.",
+        "it": "{H} Se ci sono due o più carte consumate nella Riserva, ottengo 1 rinforzo.",
+        "de": "{H} Falls mindestens zwei erschöpfte Karten in der Reserve sind, erhalte ich 1 Verstärkung."
+      }
+    }
+  },
+  "ALT_ALIZE_B_YZ_41_C": {
+    "id": "ALT_ALIZE_B_YZ_41_C",
+    "type": "SPELL",
+    "subtypes": [
+      "MANEUVER"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/WEB_933bf14001597d7b07fa1e7c3c9690bd",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/WEB_7b20382c6064821bfea2289196096006"
+      ]
+    },
+    "mainFaction": "YZ",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Invocation de Phalène",
+      "en": "Moth to a Flame",
+      "es": "Como polillas a la llama",
+      "it": "Richiamo della Luce",
+      "de": "Motte zum Licht"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/fr_FR/7d69d4d3c1f8b3137d56b7160322fe2b.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/en_US/44427056098434f8d1bf85812489ac71.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/es_ES/e5a0f28fb2bfc6acab716fc302853a0b.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/it_IT/6d7b3d7e9758aa68144550e6b01a7352.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/de_DE/5a51bf381dae7f3b37ce29b8d606ff90.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-095-C-FR",
+      "en": "TBF-095-C-EN",
+      "es": "TBF-095-C-ES",
+      "it": "TBF-095-C-IT",
+      "de": "TBF-095-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": {
+        "fr": "[Rafraîchissement]. (Si je vais en Réserve après la résolution de mon effet, épuisez-moi {T}. Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)  Créez un jeton Illusion [2/2/2 Phalène de Mana] dans une Expédition ciblée.",
+        "en": "[Cooldown]. (If I go to Reserve after my effect resolves, exhaust me {T}. Exhausted cards can't be played and have no Support abilities.)  Create a [Mana Moth 2/2/2] Illusion token in target Expedition.",
+        "es": "[Recuperación]. (Si voy a la reserva después de que se resuelva mi efecto, agótame {T}. Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo.)  Crea una ficha de ilusión [Polilla de maná 2/2/2] en una expedición objetivo.",
+        "it": "[Raffreddamento]. (Se vado nella Riserva dopo che il mio effetto si è risolto, consumami {T}. Non puoi giocarmi e non ho abilità di supporto.)  Crea una pedina Illusione [Falena di Mana 2/2/2] in una spedizione bersaglio.",
+        "de": "[Abkühlung]. (Falls ich in die Reserve gehe, nachdem mein Effekt abgeklungen ist, erschöpfe mich {T}. Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)  Erschaffe eine [Mana-Motte 2/2/2]-Illusionsmarke in einer Expedition deiner Wahl."
+      }
+    }
+  },
+  "ALT_ALIZE_B_YZ_41_R1": {
+    "id": "ALT_ALIZE_B_YZ_41_R1",
+    "type": "SPELL",
+    "subtypes": [
+      "MANEUVER"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/WEB_933bf14001597d7b07fa1e7c3c9690bd",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/WEB_7b20382c6064821bfea2289196096006"
+      ]
+    },
+    "mainFaction": "YZ",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Invocation de Phalène",
+      "en": "Moth to a Flame",
+      "es": "Como polillas a la llama",
+      "it": "Richiamo della Luce",
+      "de": "Motte zum Licht"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/fr_FR/d9f94efc2ac4db9086defe50b46c387b.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/en_US/6930f699394fb050125a23fd09c9ac27.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/es_ES/5b24b368baa7bf4c6f053ee87a995ef8.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/it_IT/0e8a434d105423d6e525af899e89d99a.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_41/JPG/de_DE/9964eefcf7517a0800295ac3e613cb09.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-095-R-FR",
+      "en": "TBF-095-R-EN",
+      "es": "TBF-095-R-ES",
+      "it": "TBF-095-R-IT",
+      "de": "TBF-095-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "#4#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": {
+        "fr": "[Rafraîchissement]. (Si je vais en Réserve après résolution de mon effet, épuisez-moi {T}.)  Créez un jeton Illusion [2/2/2 Phalène de Mana] #dans chacune de vos Expéditions#.",
+        "en": "[Cooldown]. (If I go to Reserve after my effect resolves, exhaust me {T}.)  Create a [Mana Moth 2/2/2] Illusion token #in each of your Expeditions#.",
+        "es": "[Recuperación]. (Si voy a la reserva después de que se resuelva mi efecto, agótame {T}.)  Crea una ficha de ilusión [Polilla de maná 2/2/2] #en cada una de tus expediciones#.",
+        "it": "[Raffreddamento]. (Se vado nella Riserva dopo che il mio effetto si è risolto, consumami {T}.)  Crea una pedina Illusione [Falena di Mana 2/2/2] in #ciascuna delle tue spedizioni#.",
+        "de": "[Abkühlung]. (Falls ich in die Reserve gehe, nachdem mein Effekt abgeklungen ist, erschöpfe mich {T}.)  Erschaffe eine [Mana-Motte 2/2/2]-Illusionsmarke #in jeder deiner Expeditionen#."
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_44_R1": {
+    "id": "ALT_ALIZE_B_BR_44_R1",
+    "type": "EXPEDITION_PERMANENT",
+    "subtypes": [
+      "GEAR"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_279571b768bb272a3ff12c59a0520f95",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_7035156d55cac81037a43930cb962eb4"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Bottes Techniques",
+      "en": "Technical Boots",
+      "es": "Botas profesionales",
+      "it": "Scarponi Tecnici",
+      "de": "Hightech-Stiefel"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/fr_FR/2d6904a687950a59b22b64d0cda90c37.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/e6d28e2a81bb63aae0fe767b5ce4f96c.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/es_ES/5cd63ecb5776d241c7e6b87464b5dfc8.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/it_IT/d87a0aa3dc316e8032cf7766788ed886.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/de_DE/72045a1416c0d8a42ff899688ad97f52.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-031-R-FR",
+      "en": "TBF-031-R-EN",
+      "es": "TBF-031-R-ES",
+      "it": "TBF-031-R-IT",
+      "de": "TBF-031-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": {
+        "fr": "#{R} [Ravitaillez].# (Mettez la première carte de votre deck en Réserve.)  Lorsque mon Expédition avance — Un Personnage ciblé dans mon Expédition perd [[Fugace]].",
+        "en": "#{R} [Resupply].# (Put the top card of your deck in Reserve.)  When my Expedition moves forward — Target Character in my Expedition loses [[Fleeting]].",
+        "es": "#{R} [Reabastece].# (Coloca la primera carta de tu mazo en la reserva.)  Cuando mi expedición avance — Un personaje objetivo en mi expedición pierde [[Fugacidad]].",
+        "it": "#{R} [Rifornisci].# (Metti la prima carta del tuo mazzo nella Riserva.)  Quando la mia spedizione avanza — Un personaggio bersaglio nella mia spedizione perde [[Fugace]].",
+        "de": "#{R} [Nachschub].# (Lege die oberste Karte deines Decks in die Reserve.)  Wenn sich meine Expedition vorwärts bewegt — Ein Charakter deiner Wahl in meiner Expedition verliert [[Vergänglich]]."
+      }
+    }
+  },
+  "ALT_ALIZE_B_LY_02_C": {
+    "id": "ALT_ALIZE_B_LY_02_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/WEB_70191d53c244b51a7d5753a6f9aaf592"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/HERO_THUMB_7319b8fcdafc1d7ec2cc52c7953e6927"
+      ]
+    },
+    "mainFaction": "LY",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Auraq & Kibble",
+      "en": "Auraq & Kibble",
+      "es": "Auraq y Croqueta",
+      "it": "Auraq e Crocchetta",
+      "de": "Auraq & Schnurre"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/JPG/fr_FR/fa8e85c8d36c4a944456ca8ef3e69888.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/JPG/en_US/d3a639bfbd279d6e3362ec648366d558.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/JPG/es_ES/58971e0c23c9735e80fa45a2ee0d7bc8.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/JPG/it_IT/d1c6f6d64003fec62768186f5c7d49cd.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/JPG/de_DE/c07ac0f00c7139a11e1a89f9bbdfd4f0.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-036-H-FR",
+      "en": "TBF-036-H-EN",
+      "es": "TBF-036-H-ES",
+      "it": "TBF-036-H-IT",
+      "de": "TBF-036-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "RESERVE": 2,
+      "PERMANENT": 2,
+      "MAIN_EFFECT": {
+        "fr": "Lorsque vous jouez un Personnage avec une statistique de base 0 — Je gagne un compteur Spectacle.  À Midi — Vous pouvez dépenser cinq de mes compteurs Spectacle pour révéler la première carte de votre deck. Vous pouvez la jouer gratuitement ou la mettre dans votre main. (N'activez pas de capacités {h}.)",
+        "en": "When you play a Character with a base statistic of 0 — I gain a Performance counter.  At Noon — You may spend five of my Performance counters to reveal the top card of your deck. You may play it for free or put it into your hand. (Don't activate any {h} abilities.)",
+        "es": "Cuando juegues un personaje con una estadística básica de 0 — Gano un contador de actuación.  Al mediodía — Puedes gastar cinco de mis contadores de actuación para revelar la primera carta de tu mazo. Puedes jugarla sin coste o colocarla en tu mano. (No actives ninguna habilidad {h}).",
+        "it": "Quando giochi un personaggio con una statistica base pari a 0 — Ottengo un segnalino Prestazione.  A mezzogiorno — Puoi spendere cinque dei miei segnalini Prestazione per rivelare la prima carta del tuo mazzo. Puoi giocarla senza pagarne il costo o aggiungerla alla tua mano. (Non attivi alcuna abilità {h}).",
+        "de": "Wenn du einen Charakter mit einer Basisstatistik von 0 spielst — Ich erhalte einen Auftrittszähler.  Zum Mittag — Du darfst fünf meiner Auftrittszähler ausgeben, um die oberste Karte deines Decks aufzudecken. Du darfst sie kostenlos spielen oder sie in deine Hand aufnehmen. (Aktiviere keine {h} Fähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_46_R1": {
+    "id": "ALT_ALIZE_B_BR_46_R1",
+    "type": "LANDMARK_PERMANENT",
+    "subtypes": [
+      "SITE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_e307b9e32536a086d1f7b4cbb8fe3cc2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_33f3031907bbe6049195e88eeca428f8"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Pic Saisi par les Glaces",
+      "en": "Icebound Peak",
+      "es": "Pico helado",
+      "it": "Vetta del Gelo Perpetuo",
+      "de": "Eisumfangener Gipfel"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/fr_FR/1cb633fda53dac4be0b4df9c51f8fdf6.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/en_US/d837751fd004ae5b61a4306a098bc327.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/es_ES/9b836a6c52874875ff32bbdb88719ec7.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/it_IT/0f417c23a26664943dc578a4d8564a90.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/de_DE/ffc18df7596a0779e2f642d43cbc6ba1.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-034-R-FR",
+      "en": "TBF-034-R-EN",
+      "es": "TBF-034-R-ES",
+      "it": "TBF-034-R-IT",
+      "de": "TBF-034-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": {
+        "fr": "Lorsqu'un Personnage que vous contrôlez gagne [[Fugace]] — Je gagne un compteur Épreuve.  Lorsque je gagne mon troisième compteur Épreuve — Sacrifiez-moi. Si vous le faites, créez un jeton Illusion [5/5/5 Reflet Draconique] dans une Expédition ciblée, puis chaque Personnage que vous contrôlez gagne 1 boost.",
+        "en": "When a Character you control gains [[Fleeting]] — I gain a Trial counter.  When I gain my third Trial counter — Sacrifice me. If you do, create a [Dragon Shade 5/5/5] Illusion token in target Expedition, then each Character you control gains 1 boost.",
+        "es": "Cuando un personaje que controles gane [[Fugacidad]] — Gano un contador de ordalía.  Cuando gane mi tercer contador de ordalía — Sacrifícame. Si lo haces, crea una ficha de ilusión [Dragón del eco 5/5/5] en una expedición objetivo y luego cada personaje que controles gana 1 potenciador.",
+        "it": "Quando un personaggio che controlli ottiene [[Fugace]] — Ottengo un segnalino Prova.  Quando ottengo il mio terzo segnalino Prova — Sacrificami. Se lo fai, crea una pedina Illusione [Spirito del Drago 5/5/5] in una spedizione bersaglio, poi ogni personaggio che controlli ottiene 1 rinforzo.",
+        "de": "Wenn ein Charakter, den du kontrollierst, [[Vergänglich]] erhält — Ich erhalte einen Prüfungszähler.  Wenn ich meinen dritten Prüfungszähler erhalte — Opfere mich. Falls du das tust, erschaffe eine [Drachenecho 5/5/5]-Illusionsmarke in einer Expedition deiner Wahl, dann erhält jeder Charakter, den du kontrollierst, 1 Verstärkung."
+      }
+    }
+  },
+  "ALT_ALIZE_B_YZ_01_C": {
+    "id": "ALT_ALIZE_B_YZ_01_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/WEB_538be2fb22663a60d4a511729682cbdc"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/HERO_THUMB_8a56f6c682cade303a0fb417c151b79a"
+      ]
+    },
+    "mainFaction": "YZ",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Akesha & Taru",
+      "en": "Akesha & Taru",
+      "es": "Akesha y Taru",
+      "it": "Akesha e Taru",
+      "de": "Akesha & Taru"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/JPG/fr_FR/1fc4e75ce04ab7f5f862021c48af6e52.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/JPG/en_US/9c3f0acd08ac574e0333ebd5223c0693.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/JPG/es_ES/b4e913a7d8ef426232ce6772edf8d2d9.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/JPG/it_IT/16ec1055b355a4aea3f42000f600220f.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_01/JPG/de_DE/599ffafaf94f5e7daf540a7c7b28bfea.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-086-H-FR",
+      "en": "TBF-086-H-EN",
+      "es": "TBF-086-H-ES",
+      "it": "TBF-086-H-IT",
+      "de": "TBF-086-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": 2,
+      "RESERVE": 2,
+      "MAIN_EFFECT": {
+        "fr": "{T} : [Après vous]. Vous pouvez seulement activer cela si vous êtes le premier joueur. (Terminez votre tour comme si vous aviez joué une carte. Vous pouvez encore jouer des cartes plus tard ce Jour.)",
+        "en": "{T} : [After You]. You can only activate this if you are the first player. (End your turn as if you had played a card. You may still play cards later this Day.)",
+        "es": "{T}: [Después de ti]. Solo puedes activar esto si eres el primer jugador. (Termina tu turno como si hubieras jugado una carta. A lo largo del día actual, puedes jugar más cartas.)",
+        "it": "{T}: [Dopo di te]. Puoi eseguire questa azione solo se sei il primo giocatore. (Termina il tuo turno come se avessi giocato una carta. Puoi comunque giocare carte più avanti in questa giornata.)",
+        "de": "{T} : [Nach dir]. Du kannst dies nur aktivieren, falls du der Startspieler bist. (Beende deine Runde, als ob du eine Karte gespielt hättest. Du darfst auch später an diesem Tag noch eine Karte spielen.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_OR_03_C": {
+    "id": "ALT_ALIZE_B_OR_03_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/WEB_df9d1b15fbbb18a2aa7589e96735dc3c"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/HERO_THUMB_49ac3e6a447a439b96d6af8074ef8e17"
+      ]
+    },
+    "mainFaction": "OR",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Gulrang & Tocsin",
+      "en": "Gulrang & Tocsin",
+      "es": "Gulrang y Rebato",
+      "it": "Gulrang e Campana",
+      "de": "Gulrang & Tocsin"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/JPG/fr_FR/2d79b231ffc42ab191548adfbc3a3865.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/JPG/en_US/1b26d900ebbd4797bd32978d166fe248.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/JPG/es_ES/3ad39f66b41d7f6b71709f8db651cb30.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/JPG/it_IT/30f784b5ef4998cdb58db059fdb1a63b.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_03/JPG/de_DE/509695d2759f4435b925e7ac7e41027b.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-070-H-FR",
+      "en": "TBF-070-H-EN",
+      "es": "TBF-070-H-ES",
+      "it": "TBF-070-H-IT",
+      "de": "TBF-070-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "RESERVE": 2,
+      "PERMANENT": 2,
+      "MAIN_EFFECT": {
+        "fr": "Lorsque vous créez un jeton Personnage — Il gagne 1 boost.  Si vous avez moins de huit Orbes de Mana, les jetons [[Boostés]] que vous contrôlez sont [Défenseurs]. (Leurs Expéditions ne peuvent pas avancer au Crépuscule.)",
+        "en": "When you create a token Character — It gains 1 boost.  If you have less than eight Mana Orbs, [[Boosted]] tokens you control are [Defender]. (Their Expeditions can't advance during Dusk.)",
+        "es": "Cuando crees una ficha de personaje — Gana 1 potenciador.  Si tienes menos de ocho orbes de maná, las fichas [[potenciadas]] que controles tienen [Defensoras]. (Sus expediciones no pueden avanzar durante el anochecer.)",
+        "it": "Quando crei una pedina personaggio — Ottiene 1 rinforzo.  Se hai meno di otto sfere di mana, le pedine con [[Rinforzato]] che controlli hanno [Difensore]. (Le loro spedizioni non possono avanzare durante il crepuscolo.)",
+        "de": "Wenn du einen Marken-Charakter erschaffst — Er erhält 1 Verstärkung.  Falls du weniger als acht Manakugeln hast, sind [[Verstärkt]]-Marken, die du kontrollierst, [Verteidiger]. (Ihre Expeditionen können sich am Abend nicht vorwärts bewegen.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_LY_33_R1": {
+    "id": "ALT_ALIZE_B_LY_33_R1",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ELEMENTAL"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_bf520d8267baf4533eb5dddc4b6f02ce",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_eb5d8eab445464c60b7cf202df8c5196",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_a1d65e9e3ec766f87c0831df94298836"
+      ]
+    },
+    "mainFaction": "LY",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Le Bonhomme de Neige",
+      "en": "The Snowman",
+      "es": "El muñeco de nieve",
+      "it": "Pupazzo di Neve",
+      "de": "Der Schneemann"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/fr_FR/5f7b40433ca7c924312da1f39afac896.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/440d2c4ffb7d82ade11fc560c1e9142e.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/es_ES/1eed6df93cf68211de1d1b1075f7ca57.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/it_IT/0db61eda10edbc51a8e59050708587ab.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/de_DE/48c461c61e2e76965f9d749b31f9189e.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-037-R-FR",
+      "en": "TBF-037-R-EN",
+      "es": "TBF-037-R-ES",
+      "it": "TBF-037-R-IT",
+      "de": "TBF-037-R-DE"
+    },
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "#2#",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "{J} Je gagne [[Fugace]] sauf si je suis en {O}. (Si je devais être envoyé en Réserve, défaussez-moi à la place.)",
+        "en": "{J} Unless I'm in {O}, I gain [[Fleeting]]. (If I would be sent to Reserve, discard me instead.)",
+        "es": "{J} A menos que esté en {O}, gano [[Fugacidad]]. (Si fuese a ir a la reserva, en vez de eso, descártame.)",
+        "it": "{J} A meno che io non sia in {O}, ottengo [[Fugace]]. (Se sto per finire nella Riserva, scartami invece.)",
+        "de": "{J} Ich erhalte [[Vergänglich]], es sei denn, ich bin in {O}. (Falls ich in die Reserve geschickt werden soll, lege mich stattdessen ab.)"
+      },
+      "ECHO_EFFECT": {
+        "fr": "#{D} : [Ravitaillez Épuisé].# (Défaussez-moi de la Réserve pour ça.)",
+        "en": "#{D} : [Exhausted Resupply].# (Discard me from Reserve to do this.)",
+        "es": "#{D}: [Reabastece y agota].# (Descártame de la reserva para hacer esto).",
+        "it": "#{D}: [Rifornisci-Consuma].# (Scartami dalla Riserva per eseguire questa azione.)",
+        "de": "#{D} : [Erschöpfter Nachschub].# (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_LY_43_R2": {
+    "id": "ALT_ALIZE_B_LY_43_R2",
+    "type": "EXPEDITION_PERMANENT",
+    "subtypes": [
+      "GEAR"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_7770bce90f20095343d5a5cc7056564a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_ded96dd95ea45267682cb63009777587"
+      ]
+    },
+    "mainFaction": "MU",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Tenue Hivernale",
+      "en": "Winter Outfits",
+      "es": "Ropa invernal",
+      "it": "Abbigliamento Invernale",
+      "de": "Winterkleidung"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/fr_FR/98d9be7ce5fea87b66ac2355440833e6.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/en_US/b8546507d349895a1ada3a572d5e2627.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/es_ES/0639169b776b7adc1b0e12a7d8caedc4.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/it_IT/63e270d04439e452ca6e76fcb7fc441e.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/de_DE/1512145a0e5a6d40cab8e3f457c5f8d4.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-049-F-FR",
+      "en": "TBF-049-F-EN",
+      "es": "TBF-049-F-ES",
+      "it": "TBF-049-F-IT",
+      "de": "TBF-049-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": {
+        "fr": "#{R} Je perds [[Fugace]].#  Les Personnages dans mon Expédition ont des valeurs {V}, {M} et {O} égales à leur statistique la plus élevée.",
+        "en": "#{R} I lose [[Fleeting]].#  Characters in my Expedition have their {V}, {M}, and {O} equal to their highest statistic.",
+        "es": "#{R} Pierdo [[Fugacidad]].#  Los personajes de mi expedición tienen {V}, {M} y {O} igual a su estadística más alta.",
+        "it": "#{R} Perdo [[Fugace]].#  I personaggi nella mia spedizione hanno {V}, {M} e {O} pari alla loro statistica più alta.",
+        "de": "#{R} Ich verliere [[Vergänglich]].#  {V}, {M} und {O} der Charaktere in meiner Expedition sind so hoch wie ihre höchste Statistik."
+      }
+    }
+  },
+  "ALT_ALIZE_B_MU_40_R2": {
+    "id": "ALT_ALIZE_B_MU_40_R2",
+    "type": "CHARACTER",
+    "subtypes": [
+      "PLANT",
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_5a46bc801ba1feddf4d301c91a034f68",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_cc4c7a971ccbcf092cadf5503ba611f8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_f8503c17b538ce465719554a53842f5b"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Déméter",
+      "en": "Demeter",
+      "es": "Deméter",
+      "it": "Demetra",
+      "de": "Demeter"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/fr_FR/0d533ea725beb7218f3ec516350276f5.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/en_US/a4b43890b08de3448692e01192161191.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/es_ES/4890ae0290f936214fe9651b65f8c959.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/it_IT/a18601316b481018b5d92516d28ef342.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/de_DE/4274da599075fcca456c374f071c806a.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-063-F-FR",
+      "en": "TBF-063-F-EN",
+      "es": "TBF-063-F-ES",
+      "it": "TBF-063-F-IT",
+      "de": "TBF-063-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "6",
+      "RECALL_COST": "6",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "6",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": {
+        "fr": "Si je suis en {V}, je suis [Éternelle]. (Au Repos, je ne vais pas en Réserve.)",
+        "en": "If I'm in {V}, I am [Eternal]. (During Rest, I don't go to Reserve.)",
+        "es": "Si estoy en {V}, soy [Eterna]. (Durante el descanso, no voy a la reserva.)",
+        "it": "Se sono in {V}, ho [Eterno]. (Durante il riposo, non vado nella Riserva.)",
+        "de": "Falls ich in {V} bin, bin ich [Ewig]. (Während der Ruhepause gehe ich nicht in die Reserve.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_BR_01_C": {
+    "id": "ALT_ALIZE_B_BR_01_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/WEB_faa330e336098ded20dec8b3b62198e7"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/HERO_THUMB_43f7020c96eea3c12e22c8c4f87301e2"
+      ]
+    },
+    "mainFaction": "BR",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Kojo & Booda",
+      "en": "Kojo & Booda",
+      "es": "Kojo y Booda",
+      "it": "Kojo e Booda",
+      "de": "Kojo & Booda"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/fr_FR/4ab4ef6951e49adee13ef7b538614adc.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/en_US/ee8ce9eb7581ccb144290fac69438c13.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/es_ES/009b478c5e89e9d3ecbf92d236d29ec2.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/it_IT/633a322d52c8c809e962bbeb12303af4.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/de_DE/4ecec03e1d4e37266f6caee2421ad0dc.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-018-H-FR",
+      "en": "TBF-018-H-EN",
+      "es": "TBF-018-H-ES",
+      "it": "TBF-018-H-IT",
+      "de": "TBF-018-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "RESERVE": 2,
+      "PERMANENT": 2,
+      "MAIN_EFFECT": {
+        "fr": "À Midi — Si vous êtes le premier joueur, créez un jeton Compagnon [2/2/2 Booda] dans votre Expédition Compagnon.",
+        "en": "At Noon — If you are the first player, create a [Booda 2/2/2] Companion token in your Companion Expedition.",
+        "es": "Al mediodía — Si eres el primer jugador, crea una ficha de compañero [Booda 2/2/2] en tu expedición del compañero.",
+        "it": "A mezzogiorno — Se sei il primo giocatore, crea una pedina Compagno [Booda 2/2/2] nella spedizione del tuo compagno.",
+        "de": "Zum Mittag — Falls du der Startspieler bist, erschaffe eine [Booda 2/2/2]-Gefährtenmarke in deiner Gefährten-Expedition."
+      }
+    }
+  },
+  "ALT_ALIZE_B_OR_47_C": {
+    "id": "ALT_ALIZE_B_OR_47_C",
+    "type": "LANDMARK_PERMANENT",
+    "subtypes": [
+      "SITE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/WEB_ecf8bebcc2e3b0e654146304a1dfa040",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/WEB_f426ed3e2e41c7c050f7fe27cbafeea6"
+      ]
+    },
+    "mainFaction": "OR",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Lac Saisi par les Glaces",
+      "en": "Icebound Lake",
+      "es": "Lago helado",
+      "it": "Lago del Gelo Perpetuo",
+      "de": "Eisumfangener See"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/fr_FR/9c7bebae6121ab748db3940bd1edd379.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/en_US/7404b19d5326e30369897ff1415344eb.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/es_ES/d5349283fd1ae3e500b94e7e61b5c78c.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/it_IT/ffaa4e86aa826d6a836f4e076c324d4a.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_47/JPG/de_DE/7fd55df83a256b65a14d0092a9f13b13.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-085-C-FR",
+      "en": "TBF-085-C-EN",
+      "es": "TBF-085-C-ES",
+      "it": "TBF-085-C-IT",
+      "de": "TBF-085-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MAIN_EFFECT": {
+        "fr": "Lorsqu'un Personnage non-jeton rejoint l'une de vos Expéditions, si elle est en retard — Je gagne un compteur Épreuve.  Lorsque je gagne mon troisième compteur Épreuve — Sacrifiez-moi. Si vous le faites, créez un jeton Illusion [5/5/5 Reflet Draconique] dans une Expédition ciblée, puis un Personnage ciblé gagne [[Endormi]].",
+        "en": "When a non-token Character joins one of your Expeditions, if it's behind — I gain a Trial counter.  When I gain my third Trial counter — Sacrifice me. If you do, create a [Dragon Shade 5/5/5] Illusion token in target Expedition, then target Character gains [[Asleep]].",
+        "es": "Cuando un personaje que no sea ficha se incorpore a una de tus expediciones, si va por detrás — Gano un contador de ordalía.  Cuando gane mi tercer contador de ordalía — Sacrifícame. Si lo haces, crea una ficha de ilusión [Dragón del eco 5/5/5] en una expedición objetivo y luego un personaje objetivo gana [[Sueño]].",
+        "it": "Quando un personaggio non pedina si unisce a una delle tue spedizioni, se è indietro — Ottengo un segnalino Prova.  Quando ottengo il mio terzo segnalino Prova — Sacrificami. Se lo fai, crea una pedina Illusione [Spirito del Drago 5/5/5] in una spedizione bersaglio, poi un personaggio bersaglio ottiene [[Dormiente]].",
+        "de": "Wenn ein Nicht-Marken-Charakter sich einer deiner Expeditionen anschließt, und falls diese hinten liegt — Ich erhalte einen Prüfungszähler.  Wenn ich meinen dritten Prüfungszähler erhalte — Opfere mich. Falls du das tust, erschaffe eine [Drachenecho 5/5/5]-Illusionsmarke in einer Expedition deiner Wahl, dann erhält ein Charakter deiner Wahl [[Schlafend]]."
+      }
+    }
+  },
+  "ALT_ALIZE_B_MU_40_C": {
+    "id": "ALT_ALIZE_B_MU_40_C",
+    "type": "CHARACTER",
+    "subtypes": [
+      "PLANT",
+      "DEITY"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_5a46bc801ba1feddf4d301c91a034f68",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_cc4c7a971ccbcf092cadf5503ba611f8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_f8503c17b538ce465719554a53842f5b"
+      ]
+    },
+    "mainFaction": "MU",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Déméter",
+      "en": "Demeter",
+      "es": "Deméter",
+      "it": "Demetra",
+      "de": "Demeter"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/fr_FR/033a121effde2027eae4c7f9f6e9552c.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/en_US/692109f9c17870735b135aed9b0ef850.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/es_ES/988ca47ff9ba9f0030eeabbc6be9ac3b.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/it_IT/48057dcf9b9da1efde1c87bf92f7fdae.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/de_DE/fb7a631a7f093f7c65bd0e6ab72fed75.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-063-C-FR",
+      "en": "TBF-063-C-EN",
+      "es": "TBF-063-C-ES",
+      "it": "TBF-063-C-IT",
+      "de": "TBF-063-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "6",
+      "RECALL_COST": "6",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "6",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": {
+        "fr": "Si je suis en {V}, je suis [Éternelle]. (Au Repos, je ne vais pas en Réserve.)",
+        "en": "If I'm in {V}, I am [Eternal]. (During Rest, I don't go to Reserve.)",
+        "es": "Si estoy en {V}, soy [Eterna]. (Durante el descanso, no voy a la reserva.)",
+        "it": "Se sono in {V}, ho [Eterno]. (Durante il riposo, non vado nella Riserva.)",
+        "de": "Falls ich in {V} bin, bin ich [Ewig]. (Während der Ruhepause gehe ich nicht in die Reserve.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_AX_37_C": {
+    "id": "ALT_ALIZE_B_AX_37_C",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_b54cc629947078e00d7406002fc8be63",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_043d733f0dbbb18c1dc2147665ca6d8b",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/WEB_2dc52b769d21191704f9154656caba92"
+      ]
+    },
+    "mainFaction": "AX",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Porteuse Intrépide",
+      "en": "Daring Porter",
+      "es": "Sherpa audaz",
+      "it": "Portatrice Audace",
+      "de": "Mutige Trägerin"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/fr_FR/6d037860b7ecc1dfefb3a50d88cc4c45.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/en_US/55c3eb425181c0d7fa7084ba123697fe.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/es_ES/8f8ee4ab40eebece9557a6e0d7c83988.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/it_IT/05fef76f18590273cdecff87fef0b4d9.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_37/JPG/de_DE/423e92e476fb257e3c9d864bbb140e33.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-008-C-FR",
+      "en": "TBF-008-C-EN",
+      "es": "TBF-008-C-ES",
+      "it": "TBF-008-C-IT",
+      "de": "TBF-008-C-DE"
+    },
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": {
+        "fr": "{R} [Ravitaillez Épuisé]. (Mettez la première carte de votre deck en Réserve, puis épuisez-la {T}. Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "{R} [Exhausted Resupply]. (Put the top card of your deck in Reserve, then exhaust it {T}. Exhausted cards can't be played and have no Support abilities.)",
+        "es": "{R} [Reabastece y agota]. (Coloca la primera carta de tu mazo en reserva y luego agótala {T}. Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "{R} [Rifornisci-Consuma]. (Metti la prima carta del tuo mazzo nella Riserva, poi consumala {T}. Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "{R} [Erschöpfter Nachschub]. (Lege die oberste Karte deines Decks in die Reserve, dann erschöpfe sie {T}. Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  },
+  "ALT_ALIZE_B_AX_01_C": {
+    "id": "ALT_ALIZE_B_AX_01_C",
+    "type": "HERO",
+    "subtypes": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/WEB_d285a38412a7c4754e423d2c50344298"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/HERO_THUMB_8e52a83c7e7aca7df1c0e4eb8ce2aadb"
+      ]
+    },
+    "mainFaction": "AX",
+    "rarity": "COMMON",
+    "name": {
+      "fr": "Sierra & Oddball",
+      "en": "Sierra & Oddball",
+      "es": "Sierra y Estrambot",
+      "it": "Sierra e Strambo",
+      "de": "Sierra & Botball"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/JPG/fr_FR/30a2127481d1b6b22fed36d13cbf7fcb.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/JPG/en_US/a712ec5e93c81e3becfd618a629e132e.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/JPG/es_ES/0e66b1207b588a035b03be9af16b5cfb.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/JPG/it_IT/1604bb8a8a59cf9bbf0442adf9cd28c8.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_01/JPG/de_DE/c982e30e73d6c9675e3feb6f81b2c68e.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-001-H-FR",
+      "en": "TBF-001-H-EN",
+      "es": "TBF-001-H-ES",
+      "it": "TBF-001-H-IT",
+      "de": "TBF-001-H-DE"
+    },
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "RESERVE": 2,
+      "PERMANENT": 2,
+      "MAIN_EFFECT": {
+        "fr": "Lorsque vous jouez un Permanent de Coût de Main {3} ou plus — Vous pouvez m'épuiser ({T}) pour créer un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée.",
+        "en": "When you play a Permanent with Hand Cost {3} or more — You may exhaust me ({T}) to create a [Brassbug 2/2/2] Robot token in target Expedition.",
+        "es": "Cuando juegues un permanente con coste desde la mano de {3} o más — Puedes agotarme ({T}) para crear una ficha de robot [Bicholata 2/2/2] en una expedición objetivo.",
+        "it": "Quando giochi un permanente con costo dalla mano pari o superiore a {3} — Puoi consumarmi ({T}) per creare una pedina Robot [Ottonblatta 2/2/2] in una spedizione bersaglio.",
+        "de": "Wenn du eine Bleibende Karte mit Handkosten {3} oder mehr spielst — Du darfst mich erschöpfen ({T}), um eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl zu erschaffen."
+      }
+    }
+  },
+  "ALT_ALIZE_B_MU_31_R2": {
+    "id": "ALT_ALIZE_B_MU_31_R2",
+    "type": "CHARACTER",
+    "subtypes": [
+      "MAGE"
+    ],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_ef3f336780448f2acd3ffad337315db0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_39048fd427a70623c3e279a3e7d3ccc2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/WEB_6cd468b8d04833e04e50ba40050e3a66"
+      ]
+    },
+    "mainFaction": "OR",
+    "rarity": "RARE",
+    "name": {
+      "fr": "Jack Frost",
+      "en": "Jack Frost",
+      "es": "Jack Frost",
+      "it": "Padre Inverno",
+      "de": "Jack Frost"
+    },
+    "imagePath": {
+      "fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/fr_FR/71109e556df83a68b324f24a9cb4d2b9.png",
+      "en": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/en_US/555851766463f70e50dc85f0b112a2a1.png",
+      "es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/es_ES/24cef27b10cd90820f6ef028c76c3b5f.jpg",
+      "it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/it_IT/52df848222a3e4a620554d7f9a00536f.jpg",
+      "de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_31/JPG/de_DE/9d8f44ab0b234684c15fd28bf190f9eb.jpg"
+    },
+    "collectorNumberFormatted": {
+      "fr": "TBF-055-F-FR",
+      "en": "TBF-055-F-EN",
+      "es": "TBF-055-F-ES",
+      "it": "TBF-055-F-IT",
+      "de": "TBF-055-F-DE"
+    },
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": {
+        "fr": "#{J}# Vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)",
+        "en": "#{J}# You may exhaust ({T}) target card in Reserve. (Exhausted cards can't be played and have no Support abilities.)",
+        "es": "#{J}# Puedes agotar ({T}) una carta objetivo en reserva. (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).",
+        "it": "#{J}# Puoi consumare ({T}) una carta bersaglio nella Riserva. (Le carte consumate non possono essere giocate e non hanno abilità di supporto.)",
+        "de": "#{J}# Du darfst eine Karte deiner Wahl in der Reserve erschöpfen ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
+      }
+    }
+  }
+}
