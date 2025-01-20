@@ -391,7 +391,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d8c3de751157a96d0bf2",
+        "@id": "/.well-known/genid/8e34d92066ffb25bc0bd",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -544,7 +544,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/efc600555d816b2321f6",
+        "@id": "/.well-known/genid/a9f0d542df0a6885e987",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -567,7 +567,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7a192ffe1ca5a9ef890c",
+        "@id": "/.well-known/genid/bd3d40b27a1907dee023",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -713,7 +713,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/083a18a78e6d575c1abf",
+        "@id": "/.well-known/genid/4b158af9004325f90a82",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -736,7 +736,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/529cb1661e7532c8f941",
+        "@id": "/.well-known/genid/553e004968d38682fd8d",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -882,7 +882,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/76c2ba2fd0a7c8e10cec",
+        "@id": "/.well-known/genid/d5e3873c9a4d0e8a032b",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -905,7 +905,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/90eeb2c0a06ab1b7a429",
+        "@id": "/.well-known/genid/138be2ec2ef0c59243cc",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -1051,7 +1051,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5c35980cd75ca4458bb2",
+        "@id": "/.well-known/genid/241e4c2babc0c2c8d078",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -1074,7 +1074,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e879207bfd45c100f3c0",
+        "@id": "/.well-known/genid/3b447b29dde03e2e9e26",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -1220,14 +1220,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cf606b4b20358458e909",
+        "@id": "/.well-known/genid/92998462851623b329b6",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/656f15d2f578cd9fdc8a",
+        "@id": "/.well-known/genid/8d1cd73bc4ab7399ee35",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -1383,14 +1383,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ecacb8da8d59d03b3a8d",
+        "@id": "/.well-known/genid/af1fc856ae68e97fbe21",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ea18e131c9e6cde1507c",
+        "@id": "/.well-known/genid/f1c8969aec3081d29f54",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -1413,7 +1413,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/5d48aec966ae03bcc199",
+        "@id": "/.well-known/genid/2a5fc555b65891fb4bf4",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -1560,7 +1560,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d0dc5f6fad9d2fab1da8",
+        "@id": "/.well-known/genid/4298ecb7f2ce3c8e42d7",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -1583,7 +1583,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/b12e5a8113aa6e4b157f",
+        "@id": "/.well-known/genid/dee14e4e01e27bf0da35",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -1725,7 +1725,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9f16ff375471a38bafb0",
+        "@id": "/.well-known/genid/20c5e2cbc9538a7cc5ff",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -1748,7 +1748,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/5c70f6b02f8ee1a4ea11",
+        "@id": "/.well-known/genid/59281a5fe5f7a13fa65f",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -1889,7 +1889,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/59dc05812b6015289e6a",
+        "@id": "/.well-known/genid/7333b31d0c4fcd33d87c",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -1912,7 +1912,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/6ee2f6a5d475bc998557",
+        "@id": "/.well-known/genid/f3fb6496dce21a66e121",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -1925,7 +1925,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a6afebc57a4275cdf560",
+        "@id": "/.well-known/genid/3c6323683f09da86890c",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -2066,7 +2066,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f83d2b8f6e1f4613868c",
+        "@id": "/.well-known/genid/611fa37deb18e3e60313",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -2089,7 +2089,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c7477e1e638335c15b23",
+        "@id": "/.well-known/genid/6b7b12f682815047e09c",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -2102,7 +2102,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/f9eb34ed74927a87b07a",
+        "@id": "/.well-known/genid/ebc090c807da3720e4f7",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -2144,6 +2144,170 @@
       "MAIN_COST": "3",
       "RECALL_COST": "#1#",
       "MAIN_EFFECT": "#{H}# [Ravitaillez Épuisé]. (Mettez la première carte de votre deck en Réserve, puis épuisez-la {T}.)  Vous pouvez jouer les Personnages épuisés de votre Réserve dans mon Expédition."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_AX_45_R1",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_AX_45_R1",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/104H5DJ3VP9NAB73AYBN71K1ZV",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J23TB440CMSVSXNJ4NGPN",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J23TB440CMSVSXNJ4NGPN",
+            "text": "Rien ne se crée, rien ne se perd... même dans le givre."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J23TWCD46G1D4VKF1W4RX",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J23TWCD46G1D4VKF1W4RX",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J23TMRT4RWCEQGE4YQEWG",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J23TMRT4RWCEQGE4YQEWG",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J23SQACYFH25GMBT8X50W",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J23SQACYFH25GMBT8X50W",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J23T1ZHEQVAG5JV23AE3W",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J23T1ZHEQVAG5JV23AE3W",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+          "@type": "LoreEntryType",
+          "id": "01J20ZZP61FEFQ4613REH25WRT",
+          "reference": "LANDMARK_PERMANENT",
+          "name": "LANDMARK_PERMANENT"
+        },
+        "id": "104H5DJ3VP9NAB73AYBN71K1ZV",
+        "reference": "ALT_ALIZE_B_AX_45_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Repère Permanent"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/0c36bc01c8d88ec469a7",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construction"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [
+      {
+        "@type": "CardRuling",
+        "@id": "/.well-known/genid/39ed5e2f6cfe56dbd9cc",
+        "gameType": {
+          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
+          "@type": "GameType",
+          "reference": "CONSTRUCTED",
+          "name": "Construit"
+        },
+        "createdAt": "2025-01-31T10:38:12+00:00",
+        "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
+        "answer": "Yes, an Exhausted Resupply counts as a Resupply."
+      }
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/fr_FR/09186dfd6c5af2e7c521c76a99d8ae09.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/WEB_fb423ec8f43eeba811be1023e64a63fc",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/WEB_aec91771f690760617f9bf9b01fc0071"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_45_R1",
+    "id": "01J1Q4P4RWK42AHDHYE196SYDJ",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/de_DE/84321a95d63d201626618cf8860bb5b4.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/es_ES/d86ab456c403439e97dcd8fea1d4edd8.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/en_US/1295b2d010c5ab939cc89f3f219b6ef5.png",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/fr_FR/09186dfd6c5af2e7c521c76a99d8ae09.png",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_45/JPG/it_IT/eb137d683c032e87e6a310b4841d0537.jpg"
+    },
+    "name": "Recycleur Gelé",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "#{J} [Ravitaillez Épuisé].# (Mettez la première carte de votre deck en Réserve, puis épuisez-la {T}.)  À Midi — [Ravitaillez Épuisé].  Vous pouvez conserver une carte de plus en Réserve pendant la Nuit si elle est épuisée."
     }
   },
   {
@@ -2243,7 +2407,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4b38fd5bf8d7f24eead4",
+        "@id": "/.well-known/genid/98b2230a786d33d0ba05",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -2266,7 +2430,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a2fe4077c1e4d474a25c",
+        "@id": "/.well-known/genid/3fb7e18a81eaf2a4d508",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -2407,7 +2571,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a7e369d3a23c7a0f75f3",
+        "@id": "/.well-known/genid/3f8c04438a3937a4d1a0",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -2430,7 +2594,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/63318af8d0590d75b44e",
+        "@id": "/.well-known/genid/5aa19a6e90b18a83f4f3",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -2572,7 +2736,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e32728f016cc6d75b9aa",
+        "@id": "/.well-known/genid/a1b74fa2fd70d86c06b0",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -2727,7 +2891,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c51e00657a4976606709",
+        "@id": "/.well-known/genid/6f36ea021fe48487633e",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -2881,7 +3045,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b43998557d2331790bdc",
+        "@id": "/.well-known/genid/4989a7ef5d189d0bee03",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -3031,7 +3195,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ae43d0bf1a59ffc253e3",
+        "@id": "/.well-known/genid/f794ff719d83399ecba6",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -3181,7 +3345,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3fc588f57efb0efbc603",
+        "@id": "/.well-known/genid/746a9f37a9d436bcc1f3",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -3204,7 +3368,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/072bac446bff6e3d9e2f",
+        "@id": "/.well-known/genid/e67dee5b23de6e7f9fc3",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -3217,7 +3381,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/564f884dbaafdc4065d0",
+        "@id": "/.well-known/genid/19df0302fceb2a8104c7",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -3359,7 +3523,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f02373c7f1d2f98539ea",
+        "@id": "/.well-known/genid/7224aad0a337a9615a10",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -3514,7 +3678,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a5036163d3c77de35ddd",
+        "@id": "/.well-known/genid/e42b6d28ceeb8fa683f4",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -3670,7 +3834,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2747fd0ed77b24d970b8",
+        "@id": "/.well-known/genid/23e61e6c996fd8ce1dd7",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -3821,7 +3985,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/514a8f1f610c3a4501d3",
+        "@id": "/.well-known/genid/9503519a0fae4c6797d7",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -3971,7 +4135,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/25aa3971d20849b0e134",
+        "@id": "/.well-known/genid/1cfb4b6e8ffba577e5c8",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -3994,7 +4158,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a19e8acb03bd3f34f08a",
+        "@id": "/.well-known/genid/5930884ae84b2a185c7a",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -4007,7 +4171,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/8adee0e617dfd32803de",
+        "@id": "/.well-known/genid/0d134f1a6ea90ea43a5e",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -4443,7 +4607,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/598af8bfdd4ccc0435a0",
+        "@id": "/.well-known/genid/e0293dfbc33653645fb2",
         "reference": "COMPANION",
         "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
         "name": "Compagnon"
@@ -4596,14 +4760,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/de53dd31d535c32def35",
+        "@id": "/.well-known/genid/8b824e57d16cf3504285",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4821de179e6a27c30b92",
+        "@id": "/.well-known/genid/27a50a29560fdcc7f19f",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -4626,7 +4790,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/6ec2f90c4914c7fa9526",
+        "@id": "/.well-known/genid/10a7118bafbf30907874",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -4772,14 +4936,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/efd80092991f9a2b808b",
+        "@id": "/.well-known/genid/ea044909178fc24650bb",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/527bf396b12f7dc468cc",
+        "@id": "/.well-known/genid/f6bb2486c792059eb2a3",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -4802,7 +4966,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/acc8b0154be458e52f1f",
+        "@id": "/.well-known/genid/34f4a9727214179e3b56",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -4949,7 +5113,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e4cac6530f4de154a39c",
+        "@id": "/.well-known/genid/be8044cbbbfb8a10eb51",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -5104,7 +5268,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f217e85043f03b1993f6",
+        "@id": "/.well-known/genid/35cad01feb47e34627aa",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -5259,7 +5423,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8b2364bdfaa78aa5b029",
+        "@id": "/.well-known/genid/ac2640500a3bd4e69a4f",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -5414,7 +5578,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ccab6606dd092ecaa91c",
+        "@id": "/.well-known/genid/f871d12ff3d2da30dc9e",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -5569,7 +5733,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/11468745a06d5598a0de",
+        "@id": "/.well-known/genid/ea0716b9ca98f74bf9f8",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -5724,7 +5888,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7ac47d0524b526008057",
+        "@id": "/.well-known/genid/86dc311ea59e1c71c88d",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -5879,7 +6043,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/aad033dc12400b652db6",
+        "@id": "/.well-known/genid/4c4aa657612b21ad3678",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -6034,7 +6198,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/63674cb8809c86709672",
+        "@id": "/.well-known/genid/27a2f13c55ab20ae4a08",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -6190,7 +6354,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/48b5e7dba4b6bddf966f",
+        "@id": "/.well-known/genid/003dce12ca68e9cfb54e",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -6213,7 +6377,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7b085532639fc0145b6c",
+        "@id": "/.well-known/genid/8b2f98da7105998f3dc7",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -6359,7 +6523,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5ec1e9fb18a6a0b3df1f",
+        "@id": "/.well-known/genid/4f998cf8bbf67f94c85d",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -6514,14 +6678,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7647edaa432e2afb411b",
+        "@id": "/.well-known/genid/22af9848c6c6fa1cca22",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cc597fa1d0681c386fcb",
+        "@id": "/.well-known/genid/185f5596516437e425c3",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -6676,14 +6840,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/adee457057662ea9c0ae",
+        "@id": "/.well-known/genid/e011541303bef1a716f8",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/93f0546d0c9909fe8157",
+        "@id": "/.well-known/genid/a47f9f838a5506ac3e4d",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -6838,7 +7002,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c5d560ec555ec2b51b83",
+        "@id": "/.well-known/genid/b82b32e3ac6b0f09abda",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -6861,7 +7025,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/375783253b181718a35b",
+        "@id": "/.well-known/genid/e0e4a47965428faa2554",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -7007,7 +7171,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c887d81757f1dafc190d",
+        "@id": "/.well-known/genid/fbcad162fd4959e7da90",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -7030,7 +7194,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/22ef04d5ccaa16a9e231",
+        "@id": "/.well-known/genid/9f4ef02996f14a6a3734",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -7176,7 +7340,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/61f9f61c6a4d0fec8f8a",
+        "@id": "/.well-known/genid/00369dd1d09ab1ff54d9",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -7199,7 +7363,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c880950262cf294c0886",
+        "@id": "/.well-known/genid/61202b3db5d673f5ae4e",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -7341,7 +7505,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ea22129a54610be64306",
+        "@id": "/.well-known/genid/d6038cfa6f38ae363da4",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -7364,7 +7528,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/8d68bf465555474c6f2d",
+        "@id": "/.well-known/genid/3c1cc3471e5e43b7e7ca",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -7506,7 +7670,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/76416ae6d8ede60cf3a7",
+        "@id": "/.well-known/genid/076a72f36f6d8a85e4c7",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -7529,7 +7693,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/25747bf5372e95b7d0ef",
+        "@id": "/.well-known/genid/a71e19a39d801ca2d3da",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -7670,7 +7834,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/baa30f204c44382b6a0f",
+        "@id": "/.well-known/genid/a57ce9837867bfcd71dc",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -7820,7 +7984,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/caa3432e5c6d74729997",
+        "@id": "/.well-known/genid/68793d233e588cc6487f",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -7970,7 +8134,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ca24c90599b872a27e19",
+        "@id": "/.well-known/genid/52b60016623a985e96ff",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -8120,7 +8284,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8b04e458a8201c3df90a",
+        "@id": "/.well-known/genid/e69173d0e7d3c07ac1d7",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -8270,7 +8434,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1f9d6146e87810466870",
+        "@id": "/.well-known/genid/9d3778b6152bf1da5ec3",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -8293,7 +8457,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/b7117d0755e85724d018",
+        "@id": "/.well-known/genid/256560636287fc596c5e",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -8306,7 +8470,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/56c3204883371b187dc6",
+        "@id": "/.well-known/genid/132d96bc6cd351419c6c",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -8319,7 +8483,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/9cdd2c20f04bdbd736f5",
+        "@id": "/.well-known/genid/72404a98776aa57ea464",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -8460,7 +8624,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/86b75e714755d2dc1d39",
+        "@id": "/.well-known/genid/99a373b10e8a8429cefc",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -8483,7 +8647,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a9c860fbe2a47399a65b",
+        "@id": "/.well-known/genid/77a192aa9655fae542eb",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -8624,7 +8788,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5695977fcb49b16b100c",
+        "@id": "/.well-known/genid/28b7f1a172452bc33711",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -8647,7 +8811,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/59053df4c688f6e1c863",
+        "@id": "/.well-known/genid/defdd48f9a55ee557d19",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -8660,7 +8824,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/612a8bd2f26c02b29ad6",
+        "@id": "/.well-known/genid/f5c41f38a70e8e717102",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -8801,7 +8965,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/25ae558778345a6052e0",
+        "@id": "/.well-known/genid/1a6bd0ec171d9080263c",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -8824,7 +8988,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/ca172c13bafe2662182a",
+        "@id": "/.well-known/genid/4844509f2d48c2cf877b",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -8837,7 +9001,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/138bddeac00211735c60",
+        "@id": "/.well-known/genid/48f2ea96e8424580c518",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -8979,7 +9143,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/66016caa152ef098ea34",
+        "@id": "/.well-known/genid/ea74219ca7c0e2ab75c6",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -9035,6 +9199,323 @@
       "MOUNTAIN_POWER": "3",
       "MAIN_EFFECT": "{J} Je gagne [[Fugace]] sauf si je suis en {O}. (Si je devais être envoyé en Réserve, défaussez-moi à la place.)",
       "ECHO_EFFECT": "#{D} : [Ravitaillez Épuisé].# (Défaussez-moi de la Réserve pour ça.)"
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_35_R2",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_35_R2",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/5RGAWJ2JAH85NSM7B3FX2ERXK9",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J26NXSZ9VVMV3AQEE4K6S",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J26NXSZ9VVMV3AQEE4K6S",
+            "text": "Parasitisme ou symbiose, la vie trouve toujours un moyen d'éclore."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26PNVS89SCYJENWQCB8T",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J26PNVS89SCYJENWQCB8T",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26PA86T2XT5X35ZDA3ZR",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J26PA86T2XT5X35ZDA3ZR",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26MT1J0NFEV8T23TF0SX",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J26MT1J0NFEV8T23TF0SX",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26N706F95MY3P4NVBA7F",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J26N706F95MY3P4NVBA7F",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "5RGAWJ2JAH85NSM7B3FX2ERXK9",
+        "reference": "ALT_ALIZE_B_MU_35_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/544845de5bebe7fed263",
+        "reference": "ENGINEER",
+        "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+        "name": "Ingénieur"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/fr_FR/9124d343d8fa5623c8eb6fede5c0708d.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_b040b9f608f1d4358f66a24a376dfc55",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_6a4a97dbf99ca2a609d6ba481ee4aaec",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_2efaaa3bc0f433b466505c5a89368524"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_35_R2",
+    "id": "01J1Q4P4SEE4HDV4CVAPEW8SVY",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/de_DE/07d9e5f3b1d21297de12105acb656fe4.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/it_IT/27873a4c0cac8353b4cd86d073084fc5.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/en_US/5bcb2ba7b36ecb6c5755df1ca1a11ee7.png",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/es_ES/804300953f6cc3fa2f32ca7af90bd068.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/fr_FR/9124d343d8fa5623c8eb6fede5c0708d.png"
+    },
+    "name": "Saskia, Naturaliste Rusée",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{J} Vous pouvez cibler un Personnage en {V}. Il gagne 2 boosts."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_37_R2",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_37_R2",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/0YMDTG4MQE8FKTGF8RFMD3X723",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J26TH08B7CJV72WPFFC1V",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J26TH08B7CJV72WPFFC1V",
+            "text": "On garde sans remords ce qu'on acquiert sans crimes."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26V97PY53DDVBYE48HSE",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J26V97PY53DDVBYE48HSE",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26TXNX7S7R6RXCW3KHMS",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J26TXNX7S7R6RXCW3KHMS",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26SRWQKC6RT321DG7XTP",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J26SRWQKC6RT321DG7XTP",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26T5BXENBJ8PYQHEJ9WH",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J26T5BXENBJ8PYQHEJ9WH",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "0YMDTG4MQE8FKTGF8RFMD3X723",
+        "reference": "ALT_ALIZE_B_MU_37_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/5d6ec70c7459a41ed5a1",
+        "reference": "ELEMENTAL",
+        "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+        "name": "Élémentaire"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/62429c4e51988d6dccef",
+        "reference": "PLANT",
+        "id": "01HKAGSB49H24XWW17AAY441MT",
+        "name": "Plante"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/fr_FR/c5011983065e26e848c0bfa4a9b87a9e.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_674adf84dd120cbcd1a4ec614e5c0d9f",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_f48a94d83ce4245a18eec32ddad91b0d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_2cf82da4e60d4f2c5d048a5d03044ae3"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_37_R2",
+    "id": "01J1Q4P4SEE4HDV4CVAPEW8SWG",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/it_IT/6dec51415466abaf9c7ab66523138539.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/es_ES/7c5c1b631f8c4e4faae636b5c3bdad78.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/en_US/c6672bc38e6b8e5b639917aa701b1d43.png",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/de_DE/62b81ea376da9d87815270db65065e60.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/fr_FR/c5011983065e26e848c0bfa4a9b87a9e.png"
+    },
+    "name": "Puissant Simbi",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "#3#",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "Lorsque mon Expédition avance grâce à {V} — Vous pouvez #me mettre dans la zone de Mana de mon propriétaire# (en tant qu'Orbe de Mana épuisé)."
     }
   },
   {
@@ -9135,14 +9616,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5ff4f27c3b4dcfb7afb2",
+        "@id": "/.well-known/genid/f0e475c7fedbb05ef821",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/848e80210958fd4a5be6",
+        "@id": "/.well-known/genid/433fc2ff6aacfc10315e",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -9297,7 +9778,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0290efb9d48bb75747c3",
+        "@id": "/.well-known/genid/3615ca80e3f4e334df12",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -9453,7 +9934,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/427369a4db69743b3580",
+        "@id": "/.well-known/genid/aab2ca162fd3f958752c",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -9604,7 +10085,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7565023c5a3f6b9725e4",
+        "@id": "/.well-known/genid/1f7e3e4867c743d06e3b",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -9627,7 +10108,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/d4fb169529555c70ff2a",
+        "@id": "/.well-known/genid/6e1e12054c8b92a04379",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -9769,7 +10250,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dde52f110cabfcb73244",
+        "@id": "/.well-known/genid/d71a63bb6efc6f325654",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -9924,7 +10405,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/89c92db298b744f5db80",
+        "@id": "/.well-known/genid/7fa01bbc667f4008d737",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -10079,7 +10560,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d8731f8378f55e671696",
+        "@id": "/.well-known/genid/48d413ed058bce866f4f",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -10233,7 +10714,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ecbc04f0b67e9023c3ba",
+        "@id": "/.well-known/genid/f7bb9409312097a5f59c",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -10256,7 +10737,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/bffa6fce4d2419bc6c03",
+        "@id": "/.well-known/genid/a7d65cf64e182dbf3aac",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -10269,7 +10750,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/d4c1fed30d7a49745c47",
+        "@id": "/.well-known/genid/8d81ed5544d170591d1b",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -10705,7 +11186,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e4c5206ddd2a31e90dbe",
+        "@id": "/.well-known/genid/b8bd7466b23dd13d95f8",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -10860,7 +11341,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e4cd3519b1e2f579c8fb",
+        "@id": "/.well-known/genid/dcc6817d127e797df25b",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -11016,7 +11497,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ddc0368cde9529002abc",
+        "@id": "/.well-known/genid/c6abaf72e38c1d255540",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -11039,7 +11520,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/56c6e72c835dac5e32c5",
+        "@id": "/.well-known/genid/f79bc16f248ea9764c78",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -11052,7 +11533,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e4bdc114a78a1064aca8",
+        "@id": "/.well-known/genid/e110330f32733881b825",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -11065,7 +11546,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/d27fe6d4ec0b3cad037e",
+        "@id": "/.well-known/genid/9d7720639b5c85a91c27",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -11211,7 +11692,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4e46d060620105350fdd",
+        "@id": "/.well-known/genid/2c1b592ff946a85a7eff",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -11234,7 +11715,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a35aba561bda21573efe",
+        "@id": "/.well-known/genid/ed4a480047c120f2534d",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -11380,7 +11861,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/868f8d4172f896dff01a",
+        "@id": "/.well-known/genid/1878c66b5ed4e2f5afe7",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -11403,7 +11884,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/9b64a6052be8f66f4b75",
+        "@id": "/.well-known/genid/3b7ab89e571bb38f55d3",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -11549,7 +12030,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/858316ee7424de7f9100",
+        "@id": "/.well-known/genid/4e204302313d5b1bc9b2",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -11572,7 +12053,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/3bc038d0c14f82539d0e",
+        "@id": "/.well-known/genid/884e7cf0e2b426256855",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -11718,14 +12199,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f9c7ca5b4af290ff95fe",
+        "@id": "/.well-known/genid/420b06e7b6307007fe30",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/94f0c091ee70c0a6f480",
+        "@id": "/.well-known/genid/b26dbc875c7e05e54572",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -11880,14 +12361,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/07d9878bf82ea88ac339",
+        "@id": "/.well-known/genid/6fbf5b2572448bbfeb3a",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/26a478dc4ae7f48d5bd3",
+        "@id": "/.well-known/genid/0f54277a621ed11711b4",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -12042,7 +12523,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5ee6634932fc5c7309cc",
+        "@id": "/.well-known/genid/4ff20b86c487783d79ea",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -12193,7 +12674,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4ac286cec351e8cb0aec",
+        "@id": "/.well-known/genid/0120eafbb41c010d418f",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -12244,6 +12725,308 @@
       "MAIN_COST": "1",
       "RECALL_COST": "1",
       "MAIN_EFFECT": "[Rafraîchissement]. (Si je vais en Réserve après résolution de mon effet, épuisez-moi {T}.)  Échangez une #carte# ciblée de votre Réserve avec une carte de votre main."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_LY_40_C",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_LY_40_C",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/7ZFXW1F28Y9GW9BM9NMRDSBWJ2",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J25RSXSJ1ET0JW3KY3KR3",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J25RSXSJ1ET0JW3KY3KR3",
+            "text": "Toutes les choses amusantes de la vie sont soit interdites, soit complètement folles."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J25SFS0QT4FV8TSW4MFHX",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J25SFS0QT4FV8TSW4MFHX",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J25S4R8SQR9M7QSVE9K3Z",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J25S4R8SQR9M7QSVE9K3Z",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J25QQ4C6R2C0CEYJEPTQY",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J25QQ4C6R2C0CEYJEPTQY",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J25RAJ2QT7SYH7X6Z4DG6",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J25RAJ2QT7SYH7X6Z4DG6",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+          "reference": "SPELL",
+          "name": "Spell",
+          "description": ""
+        },
+        "id": "7ZFXW1F28Y9GW9BM9NMRDSBWJ2",
+        "reference": "ALT_ALIZE_B_LY_40_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Sort"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a96a3bd9c3e18e5ff315",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manœuvre"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/fr_FR/111b9b4981d73b53935fa445bc5eafa1.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_71e54bfd0a9009355db9605e7147973c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_63dd4bd755024bafdf8c34c2099dea3d"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_40_C",
+    "id": "01J1Q4P4S9JQZW8ANWA2ZKEHD4",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/es_ES/e831c4e6c07849baafb5828aa98af61a.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/it_IT/2da3d733cd093e80d972007e79f419d5.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/fr_FR/111b9b4981d73b53935fa445bc5eafa1.png",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/en_US/719137f8e9c69647c58436186bb2966c.png",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/de_DE/8209af456a578a105f8054f4d541bc1c.jpg"
+    },
+    "name": "Virée Endiablée",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": "[Rafraîchissement]. (Si je vais en Réserve après la résolution de mon effet, épuisez-moi {T}. Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)  Défaussez une autre carte de votre Réserve. Si vous le faites, un Personnage ciblé gagne 2 boosts."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_LY_40_R1",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_LY_40_R1",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/7ZFXW1F28Y9GW9BM9NMRDSBWJ2",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J25RSXSJ1ET0JW3KY3KR3",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J25RSXSJ1ET0JW3KY3KR3",
+            "text": "Toutes les choses amusantes de la vie sont soit interdites, soit complètement folles."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J25SFS0QT4FV8TSW4MFHX",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J25SFS0QT4FV8TSW4MFHX",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J25S4R8SQR9M7QSVE9K3Z",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J25S4R8SQR9M7QSVE9K3Z",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J25QQ4C6R2C0CEYJEPTQY",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J25QQ4C6R2C0CEYJEPTQY",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J25RAJ2QT7SYH7X6Z4DG6",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J25RAJ2QT7SYH7X6Z4DG6",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+          "reference": "SPELL",
+          "name": "Spell",
+          "description": ""
+        },
+        "id": "7ZFXW1F28Y9GW9BM9NMRDSBWJ2",
+        "reference": "ALT_ALIZE_B_LY_40_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Sort"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/362b66e4d45ad0bc834f",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manœuvre"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/fr_FR/9bc4028ee27629023d15dc62fffd9814.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_71e54bfd0a9009355db9605e7147973c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_63dd4bd755024bafdf8c34c2099dea3d"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_40_R1",
+    "id": "01J1Q4P4S9JQZW8ANWA2ZKEHD7",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/en_US/65cb09fc07856bbbe2c78f16c43d01f2.png",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/de_DE/ff9eeddddc4756a28b198f48dadcbf4f.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/it_IT/1689701e9ff1efb0b59135aad842cb90.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/fr_FR/9bc4028ee27629023d15dc62fffd9814.png",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/es_ES/7b6e5b0c1166528877a0b49346af76d6.jpg"
+    },
+    "name": "Virée Endiablée",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": "Défaussez une autre carte de votre Réserve. Si vous le faites, un Personnage ciblé gagne 2 boosts."
     }
   },
   {
@@ -12344,7 +13127,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9c82a389cda47b42890c",
+        "@id": "/.well-known/genid/b07124267f08c454b686",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -12495,7 +13278,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ba8958746bc797e71157",
+        "@id": "/.well-known/genid/fd7fe25885ee9160da8d",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -12645,7 +13428,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2dc1a942d206ef00adb9",
+        "@id": "/.well-known/genid/85dbecc6ccb1c7a0510f",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -12795,7 +13578,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/74f4a744b93dbee8e276",
+        "@id": "/.well-known/genid/fa4f436011606d55a258",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -12945,7 +13728,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6084a7ed8d5ba5b2488d",
+        "@id": "/.well-known/genid/09e118b04de378aac39f",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -12968,7 +13751,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/1f18c6cc5597920359ab",
+        "@id": "/.well-known/genid/e500e35a3244bd3ca545",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -13109,7 +13892,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3ad5b3734362fa04c50c",
+        "@id": "/.well-known/genid/62754c989cc68b5a9e7a",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -13132,7 +13915,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/88565a61d2e465d1237e",
+        "@id": "/.well-known/genid/2fc5f02193b37ec12cea",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -13274,7 +14057,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9e04fbc78814f04338d1",
+        "@id": "/.well-known/genid/81c22a04e7b6c6e4e3b2",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -13428,7 +14211,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/73e3095d8d552d28ee1c",
+        "@id": "/.well-known/genid/a7fe34e5f4d4ab14cced",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -13451,7 +14234,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/1b4a69731280d4084cb2",
+        "@id": "/.well-known/genid/680e6d16ae9867f65f2c",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -13593,14 +14376,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8bd5aa03522c828b39db",
+        "@id": "/.well-known/genid/2bafe7c4709a1cbe62ff",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/aef06942a63b0b9e0231",
+        "@id": "/.well-known/genid/ff716594e19df9c29b46",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -13754,7 +14537,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/db122a7b574880dff539",
+        "@id": "/.well-known/genid/d8ad6258ad41181b957f",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -13777,7 +14560,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/ee6181e407582513ba4f",
+        "@id": "/.well-known/genid/e0edb8a92af289e1fdf7",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -13919,14 +14702,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/728859ad286d18800660",
+        "@id": "/.well-known/genid/88f5dedb2c7927f7b283",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c0067eb38e2c1898e51b",
+        "@id": "/.well-known/genid/f7b67de8e1f1fd12e6b7",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -14081,7 +14864,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/262d47bfd32a71069369",
+        "@id": "/.well-known/genid/ec45accb5ce38b6dafd5",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -14104,7 +14887,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/8c226c858f38fd427057",
+        "@id": "/.well-known/genid/a89f86f8d29320f5e4ce",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -14250,7 +15033,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5997c5fa50fea5ad4d02",
+        "@id": "/.well-known/genid/b23a32d0ed603df27254",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -14273,7 +15056,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a8137195af8952b1158d",
+        "@id": "/.well-known/genid/2112d5b192bc6404a132",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -14418,7 +15201,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2983137bad31338ed20b",
+        "@id": "/.well-known/genid/546109db536c9bfc6fc3",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -14863,7 +15646,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bb576dcaef765c76f43f",
+        "@id": "/.well-known/genid/3d822b4cfe0cd0c725cc",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -15018,7 +15801,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a0d064d6f091db12734c",
+        "@id": "/.well-known/genid/7ecc1effdaedb0cd00da",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -15073,6 +15856,317 @@
       "FOREST_POWER": "2",
       "MOUNTAIN_POWER": "1",
       "MAIN_EFFECT": "#{J}# Vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)"
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_32_C",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_32_C",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/2PXEAR7BA590F8J02GFXJ15WX5",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J26DZKVYSYA7FERJGTVM9",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J26DZKVYSYA7FERJGTVM9",
+            "text": "« Zzzz... »"
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26EP943JJR313BTDRQ2J",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J26EP943JJR313BTDRQ2J",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26EAJKX4KGFPWYB9KZ1C",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J26EAJKX4KGFPWYB9KZ1C",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26D7WQP8446VDZ3XGZ1G",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J26D7WQP8446VDZ3XGZ1G",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26DKFW748BEPKNZDYSNY",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J26DKFW748BEPKNZDYSNY",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "2PXEAR7BA590F8J02GFXJ15WX5",
+        "reference": "ALT_ALIZE_B_MU_32_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/4d2a8979d3cf530f7d64",
+        "reference": "PLANT",
+        "id": "01HKAGSB49H24XWW17AAY441MT",
+        "name": "Plante"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/fr_FR/0edf0b242996b9f5cd069d3c18257b1e.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_77d2e7b25d10fd6be4ec8fef331363d6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_7b406ab8ec42cd3a8c5810eb583f5ce9",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_94b168a5810a5498fc6a84b06a0389ce"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_32_C",
+    "id": "01J1Q4P4SDA8SPK4V8SP1KVFB5",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/de_DE/0f8f84c085da4f120370cccf2469a632.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/es_ES/7195611d954327d9cb15be8523039f7d.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/fr_FR/0edf0b242996b9f5cd069d3c18257b1e.png",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/it_IT/c519c9c9d852a89007bf13719f9f858f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/en_US/505410ad782126669db3896dd8ce4713.png"
+    },
+    "name": "Champignon Exténueur",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "ECHO_EFFECT": "{D} : Un Personnage ciblé que vous contrôlez de Coût de Main {4} ou moins gagne [[Endormi]]. (Défaussez-moi de la Réserve pour ça.)"
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_32_R1",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_32_R1",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/2PXEAR7BA590F8J02GFXJ15WX5",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J26DZKVYSYA7FERJGTVM9",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J26DZKVYSYA7FERJGTVM9",
+            "text": "« Zzzz... »"
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26EP943JJR313BTDRQ2J",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J26EP943JJR313BTDRQ2J",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26EAJKX4KGFPWYB9KZ1C",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J26EAJKX4KGFPWYB9KZ1C",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26D7WQP8446VDZ3XGZ1G",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J26D7WQP8446VDZ3XGZ1G",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26DKFW748BEPKNZDYSNY",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J26DKFW748BEPKNZDYSNY",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "2PXEAR7BA590F8J02GFXJ15WX5",
+        "reference": "ALT_ALIZE_B_MU_32_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2f54493a60af124d239e",
+        "reference": "PLANT",
+        "id": "01HKAGSB49H24XWW17AAY441MT",
+        "name": "Plante"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/fr_FR/1a23e1edcc56fbd390810f654b4177c3.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_77d2e7b25d10fd6be4ec8fef331363d6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_7b406ab8ec42cd3a8c5810eb583f5ce9",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_94b168a5810a5498fc6a84b06a0389ce"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_32_R1",
+    "id": "01J1Q4P4SDA8SPK4V8SP1KVFB8",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/de_DE/7f12b6f996d0618fe08056aa09035fcb.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/it_IT/02631b53e0f5d62199ac64a271abc74b.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/es_ES/24ccb881d524ff7376368cbb05ad23db.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/fr_FR/1a23e1edcc56fbd390810f654b4177c3.png",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/en_US/6600012052947de89b4d8c6b8e874d5f.png"
+    },
+    "name": "Champignon Exténueur",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "#{H} Vous pouvez payer {2}. Si vous le faites, un Personnage ciblé dans l'Expédition qui me fait face gagne [[Endormi]].#",
+      "ECHO_EFFECT": "{D} : Un Personnage ciblé que vous contrôlez de Coût de Main {4} ou moins gagne [[Endormi]]. (Défaussez-moi de la Réserve pour ça.)"
     }
   },
   {
@@ -15173,7 +16267,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/85fc5731556ad1eb9119",
+        "@id": "/.well-known/genid/db75b45de74db8150c3e",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -15196,7 +16290,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/399a3f589d9c976f8f2b",
+        "@id": "/.well-known/genid/07529bac57f316281ede",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -15342,7 +16436,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1c56024aec9728b53ebf",
+        "@id": "/.well-known/genid/c902121f1aa39b6e4856",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -15397,6 +16491,829 @@
       "FOREST_POWER": "3",
       "MOUNTAIN_POWER": "0",
       "MAIN_EFFECT": "Ma région #et la région de l'Expédition qui me fait face# sont {V} #et perdent leurs autres types.#"
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_35_C",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_35_C",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/5RGAWJ2JAH85NSM7B3FX2ERXK9",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J26NXSZ9VVMV3AQEE4K6S",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J26NXSZ9VVMV3AQEE4K6S",
+            "text": "Parasitisme ou symbiose, la vie trouve toujours un moyen d'éclore."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26PNVS89SCYJENWQCB8T",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J26PNVS89SCYJENWQCB8T",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26PA86T2XT5X35ZDA3ZR",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J26PA86T2XT5X35ZDA3ZR",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26MT1J0NFEV8T23TF0SX",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J26MT1J0NFEV8T23TF0SX",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26N706F95MY3P4NVBA7F",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J26N706F95MY3P4NVBA7F",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "5RGAWJ2JAH85NSM7B3FX2ERXK9",
+        "reference": "ALT_ALIZE_B_MU_35_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/9c3163622bd4828f3437",
+        "reference": "ENGINEER",
+        "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+        "name": "Ingénieur"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/fr_FR/3ea75cf44f4d4a5a27b83a82b00b37bb.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_b040b9f608f1d4358f66a24a376dfc55",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_6a4a97dbf99ca2a609d6ba481ee4aaec",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_2efaaa3bc0f433b466505c5a89368524"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_35_C",
+    "id": "01J1Q4P4SEE4HDV4CVAPEW8SVR",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/en_US/649d60efaed2a654964bfa6593787a51.png",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/de_DE/fc7cb940a0a7e537ef3d8f76220162c1.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/fr_FR/3ea75cf44f4d4a5a27b83a82b00b37bb.png",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/it_IT/d66c7035f075e25e3b09ab10c6318fe6.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/es_ES/54b01985786f7708154ebe230e0694e2.jpg"
+    },
+    "name": "Saskia, Naturaliste Rusée",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{J} Vous pouvez cibler un Personnage en {V}. Il gagne 2 boosts."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_35_R1",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_35_R1",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/5RGAWJ2JAH85NSM7B3FX2ERXK9",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J26NXSZ9VVMV3AQEE4K6S",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J26NXSZ9VVMV3AQEE4K6S",
+            "text": "Parasitisme ou symbiose, la vie trouve toujours un moyen d'éclore."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26PNVS89SCYJENWQCB8T",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J26PNVS89SCYJENWQCB8T",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26PA86T2XT5X35ZDA3ZR",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J26PA86T2XT5X35ZDA3ZR",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26MT1J0NFEV8T23TF0SX",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J26MT1J0NFEV8T23TF0SX",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26N706F95MY3P4NVBA7F",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J26N706F95MY3P4NVBA7F",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "5RGAWJ2JAH85NSM7B3FX2ERXK9",
+        "reference": "ALT_ALIZE_B_MU_35_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/7a6e35a1c1cfe980232a",
+        "reference": "ENGINEER",
+        "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+        "name": "Ingénieur"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/fr_FR/25ee1fa716e31d5ad94dbf96a93fb861.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_b040b9f608f1d4358f66a24a376dfc55",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_6a4a97dbf99ca2a609d6ba481ee4aaec",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_2efaaa3bc0f433b466505c5a89368524"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_35_R1",
+    "id": "01J1Q4P4SEE4HDV4CVAPEW8SVV",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/en_US/2dcc1fb99109c19473a0e1daf51b38c2.png",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/de_DE/e6a8aa0e5cd048da8c96383e5db34e36.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/es_ES/44c1b3860ced7fbf14061d68c2442b30.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/fr_FR/25ee1fa716e31d5ad94dbf96a93fb861.png",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/it_IT/52c7351fd50f1de16a481543d9ae3447.jpg"
+    },
+    "name": "Saskia, Naturaliste Rusée",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "#1#",
+      "FOREST_POWER": "#1#",
+      "MOUNTAIN_POWER": "#1#",
+      "MAIN_EFFECT": "{J} Ciblez #n'importe quel nombre# d'autres Personnages en {V}. Ils gagnent 2 boosts."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_37_C",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_37_C",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/0YMDTG4MQE8FKTGF8RFMD3X723",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J26TH08B7CJV72WPFFC1V",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J26TH08B7CJV72WPFFC1V",
+            "text": "On garde sans remords ce qu'on acquiert sans crimes."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26V97PY53DDVBYE48HSE",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J26V97PY53DDVBYE48HSE",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26TXNX7S7R6RXCW3KHMS",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J26TXNX7S7R6RXCW3KHMS",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26SRWQKC6RT321DG7XTP",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J26SRWQKC6RT321DG7XTP",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26T5BXENBJ8PYQHEJ9WH",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J26T5BXENBJ8PYQHEJ9WH",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "0YMDTG4MQE8FKTGF8RFMD3X723",
+        "reference": "ALT_ALIZE_B_MU_37_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/9b10a3ae5d0544088857",
+        "reference": "ELEMENTAL",
+        "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+        "name": "Élémentaire"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2d53a6f476c84e7d2e33",
+        "reference": "PLANT",
+        "id": "01HKAGSB49H24XWW17AAY441MT",
+        "name": "Plante"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/fr_FR/d53ca60166ace919d9194c7802c1afff.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_674adf84dd120cbcd1a4ec614e5c0d9f",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_f48a94d83ce4245a18eec32ddad91b0d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_2cf82da4e60d4f2c5d048a5d03044ae3"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_37_C",
+    "id": "01J1Q4P4SEE4HDV4CVAPEW8SWA",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/en_US/13a816509fbe55e5aec9d36f44660c67.png",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/it_IT/3f77f7b8985140e01f56ff7b600bf284.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/es_ES/01e2322d522254c4c0de6d30bd37cf5a.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/fr_FR/d53ca60166ace919d9194c7802c1afff.png",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/de_DE/2ed7eabd3c8721bdf6d0963902e64cf2.jpg"
+    },
+    "name": "Puissant Simbi",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "Lorsque mon Expédition avance grâce à {V} — Vous pouvez me sacrifier pour piocher une carte."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_37_R1",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_37_R1",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/0YMDTG4MQE8FKTGF8RFMD3X723",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J26TH08B7CJV72WPFFC1V",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J26TH08B7CJV72WPFFC1V",
+            "text": "On garde sans remords ce qu'on acquiert sans crimes."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26V97PY53DDVBYE48HSE",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J26V97PY53DDVBYE48HSE",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26TXNX7S7R6RXCW3KHMS",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J26TXNX7S7R6RXCW3KHMS",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26SRWQKC6RT321DG7XTP",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J26SRWQKC6RT321DG7XTP",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26T5BXENBJ8PYQHEJ9WH",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J26T5BXENBJ8PYQHEJ9WH",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "0YMDTG4MQE8FKTGF8RFMD3X723",
+        "reference": "ALT_ALIZE_B_MU_37_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/926ed41e6626967f54a4",
+        "reference": "ELEMENTAL",
+        "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+        "name": "Élémentaire"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/3003a347d79bea9597f2",
+        "reference": "PLANT",
+        "id": "01HKAGSB49H24XWW17AAY441MT",
+        "name": "Plante"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/fr_FR/cf5629497d609e00e02f98c060777dd9.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_674adf84dd120cbcd1a4ec614e5c0d9f",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_f48a94d83ce4245a18eec32ddad91b0d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_2cf82da4e60d4f2c5d048a5d03044ae3"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_37_R1",
+    "id": "01J1Q4P4SEE4HDV4CVAPEW8SWD",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/de_DE/515e76399d8f934c36acfc499aa83c32.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/en_US/d41017d897377bce5f10a02763476416.png",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/it_IT/7570fc42e9b94d16039bff0f9eba76ad.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/es_ES/3e9470bde8b0a32d5d2694426f0d3201.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/fr_FR/cf5629497d609e00e02f98c060777dd9.png"
+    },
+    "name": "Puissant Simbi",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "#3#",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "Lorsque mon Expédition avance grâce à {V} — Vous pouvez #me mettre dans la zone de Mana de mon propriétaire# (en tant qu'Orbe de Mana épuisé)."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_38_C",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_38_C",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/62E08N07B29QRTFRKDE6VV1JCZ",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J26X6517QE2BJ2TVNDJS0",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J26X6517QE2BJ2TVNDJS0",
+            "text": "« Je suis fort, et tu es dans mes bois ! »"
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26XY6SAE17ST5KFZGFXV",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J26XY6SAE17ST5KFZGFXV",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26XJ2NSST4QZJ2FWGEE4",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J26XJ2NSST4QZJ2FWGEE4",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26WCCV99K0VKAJS6SH38",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J26WCCV99K0VKAJS6SH38",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26WTJXNGR1D4SG6Y9VBC",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J26WTJXNGR1D4SG6Y9VBC",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "62E08N07B29QRTFRKDE6VV1JCZ",
+        "reference": "ALT_ALIZE_B_MU_38_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/56338b568c88e17f2c21",
+        "reference": "PLANT",
+        "id": "01HKAGSB49H24XWW17AAY441MT",
+        "name": "Plante"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/072f1d8a1623cbe037d5",
+        "reference": "DEITY",
+        "id": "01HKAGPAJFS4YDQVKY6AB16614",
+        "name": "Divinité"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "cardRulings": [
+      {
+        "@type": "CardRuling",
+        "@id": "/.well-known/genid/cce708a192c09b8c296a",
+        "gameType": {
+          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
+          "@type": "GameType",
+          "reference": "CONSTRUCTED",
+          "name": "Construit"
+        },
+        "createdAt": "2025-01-31T10:38:16+00:00",
+        "question": "Do the Expeditions of my opponent count towards the power of Leshy?",
+        "answer": "Yes. In a 1vs1 game, there can be up to 4 Expeditions in forest."
+      },
+      {
+        "@type": "CardRuling",
+        "@id": "/.well-known/genid/4b546a1610ae80d8258e",
+        "gameType": {
+          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
+          "@type": "GameType",
+          "reference": "CONSTRUCTED",
+          "name": "Construit"
+        },
+        "createdAt": "2025-01-31T10:38:17+00:00",
+        "question": "During a tiebreaker day, how many Expeditions are in Forest ?",
+        "answer": "In a 1vs1 game, there are 4 Expeditions in the arena (two for each player) which normally has Forest, Water and Mountain."
+      }
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/fr_FR/5d82a2b70ebeb573e91ba7e63f089012.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/WEB_9c1430ac5501999244c4bc6f663f01aa",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/WEB_6cfa87a76cc9a3161e3da16a5147705a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/WEB_e39f1adf1eb5a98b6f2e8025a498d42b"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_38_C",
+    "id": "01J1Q4P4SEE4HDV4CVAPEW8SWK",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/en_US/79acdfdb27a9225e4797952534cbd0ec.png",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/de_DE/9a32b4a1db8ff8eacb3b6e1785ac96d6.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/it_IT/f51a002d1f7c2dfa1b53300d20cd58c4.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/fr_FR/5d82a2b70ebeb573e91ba7e63f089012.png",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/es_ES/0486ad070520e5086da36d54c990020e.jpg"
+    },
+    "name": "Liéchi",
+    "elements": {
+      "MAIN_COST": "5",
+      "RECALL_COST": "5",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "{J} Je gagne 1 boost pour chaque Expédition en {V}."
     }
   },
   {
@@ -15497,14 +17414,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4fd53ad7766550c167f8",
+        "@id": "/.well-known/genid/d6e5b045cfbef645a843",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/131e1ca09697abacf82e",
+        "@id": "/.well-known/genid/5ce94bd4296d1638a448",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -15659,14 +17576,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/89c65b2d2545d76d47e4",
+        "@id": "/.well-known/genid/bf21fbc25d9310ede56f",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e645668c56f72ad58d39",
+        "@id": "/.well-known/genid/1b8d1fbece52d2b253af",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -15721,6 +17638,759 @@
       "FOREST_POWER": "6",
       "MOUNTAIN_POWER": "5",
       "MAIN_EFFECT": "#{J} Un Personnage ciblé gagne [[Ancré]].#  Si je suis en {V}, je suis [Éternelle]. (Au Repos, je ne vais pas en Réserve.)"
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_42_C",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_42_C",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/00KZ04Q2RP9KMTKFJMXCV93J1Z",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J279BRA7P6MGB4J85PAW3",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J279BRA7P6MGB4J85PAW3",
+            "text": "Lierre de rien, ils ont perdu leur chemin."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27A51YZATZ7P14FY01XV",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J27A51YZATZ7P14FY01XV",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J279Q2WQR0QNKGVPGQFJ6",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J279Q2WQR0QNKGVPGQFJ6",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J278EDT3X4QXAPD2JV8WT",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J278EDT3X4QXAPD2JV8WT",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J278Y4C0QG6S41YMY9ZTF",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J278Y4C0QG6S41YMY9ZTF",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+          "reference": "SPELL",
+          "name": "Spell",
+          "description": ""
+        },
+        "id": "00KZ04Q2RP9KMTKFJMXCV93J1Z",
+        "reference": "ALT_ALIZE_B_MU_42_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Sort"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/6975579b1070cb49ac63",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Interférence"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/fr_FR/ce6ac5e470e1409cd460df7922cdb771.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_2262155b2f5b863e293219b0f9b49411",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_d9b689e66ce65e4dde1bfe6c108f59c9"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_42_C",
+    "id": "01J1Q4P4SGG6TEVFRSKNDKQK6D",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/de_DE/f05f8397362c93d5ceed52a02eeb2346.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/it_IT/de15d68da54477aa0bbf47d7e6511164.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/fr_FR/ce6ac5e470e1409cd460df7922cdb771.png",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/es_ES/b1f49c150ef2a37cf2dffd19cfdca288.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/en_US/8fb8b2a4e665aab7ac9980a44f4231d2.png"
+    },
+    "name": "Perdu en Forêt",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MAIN_EFFECT": "[[Fugace]].  Choisissez l'un :  • Envoyez un Personnage ciblé en {V} en Réserve.  • Défaussez un Permanent ciblé."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_42_R1",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_42_R1",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/00KZ04Q2RP9KMTKFJMXCV93J1Z",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J279BRA7P6MGB4J85PAW3",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J279BRA7P6MGB4J85PAW3",
+            "text": "Lierre de rien, ils ont perdu leur chemin."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27A51YZATZ7P14FY01XV",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J27A51YZATZ7P14FY01XV",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J279Q2WQR0QNKGVPGQFJ6",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J279Q2WQR0QNKGVPGQFJ6",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J278EDT3X4QXAPD2JV8WT",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J278EDT3X4QXAPD2JV8WT",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J278Y4C0QG6S41YMY9ZTF",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J278Y4C0QG6S41YMY9ZTF",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+          "reference": "SPELL",
+          "name": "Spell",
+          "description": ""
+        },
+        "id": "00KZ04Q2RP9KMTKFJMXCV93J1Z",
+        "reference": "ALT_ALIZE_B_MU_42_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Sort"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b2a3ee88aa208e896492",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Interférence"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/fr_FR/7bb99a8fef8fc607364de2e2f774153b.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_2262155b2f5b863e293219b0f9b49411",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_d9b689e66ce65e4dde1bfe6c108f59c9"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_42_R1",
+    "id": "01J1Q4P4SGG6TEVFRSKNDKQK6G",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/de_DE/155e9810c35f039b96a164ee13f4138f.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/es_ES/45c7c3763be5c727dfaa18530c5a92c6.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/en_US/98a301a8da2b90a443358626e937f0b4.png",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/fr_FR/7bb99a8fef8fc607364de2e2f774153b.png",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/it_IT/94f36f9bd124013638b4249924b0b517.jpg"
+    },
+    "name": "Perdu en Forêt",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MAIN_EFFECT": "[[Fugace]].  Choisissez l'un :  • Envoyez un Personnage ciblé en Réserve. #S'il n'était pas en {V}, son contrôleur pioche une carte.#  • Défaussez un Permanent ciblé."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_43_R1",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_43_R1",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/66B9S88WN39669QGN1C7DN6ZXJ",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J27C8GEHZJWAREFQHYB1M",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J27C8GEHZJWAREFQHYB1M",
+            "text": "C'est la fin des haricots !"
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27D217QEHYSH2XDC4W4X",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J27D217QEHYSH2XDC4W4X",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27CNHJJZF25BC3GJCQDS",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J27CNHJJZF25BC3GJCQDS",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27B1VNK0GGQ0Y6Z9X7FP",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J27B1VNK0GGQ0Y6Z9X7FP",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27BWDXBX04X9J9KG427A",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J27BWDXBX04X9J9KG427A",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+          "@type": "LoreEntryType",
+          "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+          "reference": "EXPEDITION_PERMANENT",
+          "name": "EXPEDITION_PERMANENT"
+        },
+        "id": "66B9S88WN39669QGN1C7DN6ZXJ",
+        "reference": "ALT_ALIZE_B_MU_43_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+      "@type": "CardType",
+      "reference": "EXPEDITION_PERMANENT",
+      "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+      "name": "Permanent d’Expédition"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/17db190f4ea6989eddad",
+        "reference": "GEAR",
+        "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+        "name": "Matos"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/fr_FR/63745d5032852f18d9507f60c3801498.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/WEB_cc91157330dda52e83400129a47071f2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/WEB_78ae7ad6a907d483e0b0cfe8c6b55366"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_43_R1",
+    "id": "01J1Q4P4SGG6TEVFRSKNDKQK6S",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/de_DE/73993b961087aece511b979db3a62d2b.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/it_IT/560e39fa88f515011a64746ba4d45f29.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/fr_FR/63745d5032852f18d9507f60c3801498.png",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/es_ES/3eef39b7ce56b56212eb1410348d8c2f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/en_US/46e9b37c6c775a17aeccecdd67bf83f1.png"
+    },
+    "name": "Haricots Magiques",
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": "{J} Un Personnage ciblé dans mon Expédition gagne 1 boost.  Ma région #et la région de l'Expédition qui me fait face# sont {V} #et perdent leurs autres types.#"
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_44_C",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_44_C",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/4B3EQP2KM18EWVH6C8X34GY5MC",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J27EZV685EB9JPBJADCA5",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J27EZV685EB9JPBJADCA5",
+            "text": "Un joli abri face aux éléments déchaînés."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27FS9Y7ZFM7YHJFT9GF2",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J27FS9Y7ZFM7YHJFT9GF2",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27FCW4JB5BY2G2Y1SC7T",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J27FCW4JB5BY2G2Y1SC7T",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27E03AB89ZFQJZMGF060",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J27E03AB89ZFQJZMGF060",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27EECR34KM8X2JYNMD43",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J27EECR34KM8X2JYNMD43",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+          "@type": "LoreEntryType",
+          "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+          "reference": "EXPEDITION_PERMANENT",
+          "name": "EXPEDITION_PERMANENT"
+        },
+        "id": "4B3EQP2KM18EWVH6C8X34GY5MC",
+        "reference": "ALT_ALIZE_B_MU_44_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+      "@type": "CardType",
+      "reference": "EXPEDITION_PERMANENT",
+      "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+      "name": "Permanent d’Expédition"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/7fa04f5daa7f52924d89",
+        "reference": "GEAR",
+        "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+        "name": "Matos"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/fr_FR/1df643e3ee987f59c1bc8d6f9a5ac1d8.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/WEB_3d6c78a8e34fa5d87a1a2d351a7fde20",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/WEB_1fc7ad33fd9c8afe4ee29534b2b00b70"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_44_C",
+    "id": "01J1Q4P4SGG6TEVFRSKNDKQK6Z",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/es_ES/3d8e81f18127731104a1d09810750b26.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/it_IT/8367a53a61788852ab3a8e46917d065e.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/de_DE/20d00bca4445237d302afed671d24433.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/en_US/f494b681985e439b2e1f773fcb363cfd.png",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/fr_FR/1df643e3ee987f59c1bc8d6f9a5ac1d8.png"
+    },
+    "name": "Tente Florale",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": "{J} [Ravitaillez]. (Mettez la première carte de votre deck en Réserve.)  Si un Personnage [[Ancré]] devait quitter mon Expédition pendant l'Après-midi, il perd [[Ancré]] à la place."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_44_R1",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_44_R1",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/4B3EQP2KM18EWVH6C8X34GY5MC",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J27EZV685EB9JPBJADCA5",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J27EZV685EB9JPBJADCA5",
+            "text": "Un joli abri face aux éléments déchaînés."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27FS9Y7ZFM7YHJFT9GF2",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J27FS9Y7ZFM7YHJFT9GF2",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27FCW4JB5BY2G2Y1SC7T",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J27FCW4JB5BY2G2Y1SC7T",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27E03AB89ZFQJZMGF060",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J27E03AB89ZFQJZMGF060",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J27EECR34KM8X2JYNMD43",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J27EECR34KM8X2JYNMD43",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+          "@type": "LoreEntryType",
+          "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+          "reference": "EXPEDITION_PERMANENT",
+          "name": "EXPEDITION_PERMANENT"
+        },
+        "id": "4B3EQP2KM18EWVH6C8X34GY5MC",
+        "reference": "ALT_ALIZE_B_MU_44_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+      "@type": "CardType",
+      "reference": "EXPEDITION_PERMANENT",
+      "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+      "name": "Permanent d’Expédition"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/5102bbd23e73455ec137",
+        "reference": "GEAR",
+        "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+        "name": "Matos"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/fr_FR/60ebdedfff730f92acb00af73b30fecc.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/WEB_3d6c78a8e34fa5d87a1a2d351a7fde20",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/WEB_1fc7ad33fd9c8afe4ee29534b2b00b70"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_44_R1",
+    "id": "01J1Q4P4SGG6TEVFRSKNDKQK72",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/de_DE/8b5b1662c711d5877a351f90963e33c9.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/it_IT/398799ab511bad8c2ced01bf5462c649.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/es_ES/d6d6981522bffd933947fb7744ed6ea7.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/fr_FR/60ebdedfff730f92acb00af73b30fecc.png",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/en_US/2bd4c64c6d51e15cbc33f1a8260328ad.png"
+    },
+    "name": "Tente Florale",
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": "{J} [Ravitaillez].  Si un Personnage [[Ancré]] devait quitter mon Expédition pendant l'Après-midi, il perd [[Ancré]] à la place.",
+      "ECHO_EFFECT": "#{D} : Un Personnage ciblé de Coût de Main {3} ou moins gagne [[Ancré]].# (Défaussez-moi de la Réserve pour ça.)"
     }
   },
   {
@@ -15820,7 +18490,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f68c79369d9d2d33ee3a",
+        "@id": "/.well-known/genid/67f9d2d2c2aa269a4fd8",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -15843,7 +18513,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/48a44339f31a082c91c5",
+        "@id": "/.well-known/genid/d05dbe4b4b82b4cbe174",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -15984,7 +18654,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0d83d512075ef181c86f",
+        "@id": "/.well-known/genid/74e30a61fd9e40613194",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -16007,7 +18677,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a7eee7af35e47e339b5e",
+        "@id": "/.well-known/genid/24445505fe8412ad474f",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -16149,14 +18819,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f58aa5e5d00d7569cd6e",
+        "@id": "/.well-known/genid/d8931d6f117c5fbe1e15",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4c59583f1b8515cdd790",
+        "@id": "/.well-known/genid/914eb505945b4d9529c5",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -16311,14 +18981,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/27692e494dbeb4874cf9",
+        "@id": "/.well-known/genid/86ffa50ba179bcfa7208",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d40718d5a745bca7a4fc",
+        "@id": "/.well-known/genid/a7b5f467a410f1958ed1",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -16473,14 +19143,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3ebfd24291b735f8fd10",
+        "@id": "/.well-known/genid/9230bcd6b7ef9d53ede1",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dd5bdf386194eba6b383",
+        "@id": "/.well-known/genid/18d3cc67a9a8eb9555b9",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -16636,14 +19306,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4f34a41876980397609b",
+        "@id": "/.well-known/genid/a94ac98e84f9240b9745",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2aca8e35c9df87ea8f32",
+        "@id": "/.well-known/genid/d21b97073caf3afb3a5f",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -16666,7 +19336,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/81556fe80cd4cbde41f9",
+        "@id": "/.well-known/genid/97f4d2aa49a70bbfc340",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -16812,7 +19482,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/94ca3794d1d69cac48d0",
+        "@id": "/.well-known/genid/324f1911aa3ebd4e1b15",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -16835,7 +19505,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a8056642dcfa1496544b",
+        "@id": "/.well-known/genid/330f0e78a091ed3ac52c",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -16977,14 +19647,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bd997a843e2c84b4ef06",
+        "@id": "/.well-known/genid/8daee02cde37429882e0",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bd25a1d6aa95cd1e952c",
+        "@id": "/.well-known/genid/c058a04379da8d26883a",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -17139,7 +19809,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/56a9a97686e4af5e7636",
+        "@id": "/.well-known/genid/18be48967e7378f4102a",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -17290,7 +19960,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/41a9f3712f331c5ce754",
+        "@id": "/.well-known/genid/4159bcdb46666ef49891",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -17345,6 +20015,162 @@
       "FOREST_POWER": "2",
       "MOUNTAIN_POWER": "1",
       "MAIN_EFFECT": "#{J}# Vous pouvez épuiser ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)"
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_MU_32_R2",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_MU_32_R2",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/2PXEAR7BA590F8J02GFXJ15WX5",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J26DZKVYSYA7FERJGTVM9",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J26DZKVYSYA7FERJGTVM9",
+            "text": "« Zzzz... »"
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26EP943JJR313BTDRQ2J",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J26EP943JJR313BTDRQ2J",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26EAJKX4KGFPWYB9KZ1C",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J26EAJKX4KGFPWYB9KZ1C",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26D7WQP8446VDZ3XGZ1G",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J26D7WQP8446VDZ3XGZ1G",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J26DKFW748BEPKNZDYSNY",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J26DKFW748BEPKNZDYSNY",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "2PXEAR7BA590F8J02GFXJ15WX5",
+        "reference": "ALT_ALIZE_B_MU_32_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/f5631d4e3f5d19a32615",
+        "reference": "PLANT",
+        "id": "01HKAGSB49H24XWW17AAY441MT",
+        "name": "Plante"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/fr_FR/0104657e7c73dd6565ff78f22498dc09.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_77d2e7b25d10fd6be4ec8fef331363d6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_7b406ab8ec42cd3a8c5810eb583f5ce9",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/WEB_94b168a5810a5498fc6a84b06a0389ce"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_32_R2",
+    "id": "01J1Q4P4SDA8SPK4V8SP1KVFBB",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/en_US/eb94b62c64c34a7bc28fbab02786cb1c.png",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/de_DE/860d001e722c612f5255675e27a630f3.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/es_ES/a107d4ab526d199f6b0d593d1f633c24.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/it_IT/1d15e6a957adc2bc90e96dcb62b15266.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_32/JPG/fr_FR/0104657e7c73dd6565ff78f22498dc09.png"
+    },
+    "name": "Champignon Exténueur",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "#{H} Vous pouvez payer {2}. Si vous le faites, un Personnage ciblé dans l'Expédition qui me fait face gagne [[Endormi]].#",
+      "ECHO_EFFECT": "{D} : Un Personnage ciblé que vous contrôlez de Coût de Main {4} ou moins gagne [[Endormi]]. (Défaussez-moi de la Réserve pour ça.)"
     }
   },
   {
@@ -17739,7 +20565,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/414082650560e24fad27",
+        "@id": "/.well-known/genid/f3a88fa4751fac5b081a",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -17892,7 +20718,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a3746acefcdbab6aceab",
+        "@id": "/.well-known/genid/d0abd89052ae50426676",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -18047,7 +20873,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/99e8d2d2879415bd40d1",
+        "@id": "/.well-known/genid/3abc05bce129c33f1437",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -18202,14 +21028,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c823f1ffba2e7f43d6fb",
+        "@id": "/.well-known/genid/b7a5f176f495b6da7ea9",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cb6b85e6e7f83c07743d",
+        "@id": "/.well-known/genid/8687f8acf7bcb89e6603",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -18365,14 +21191,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fc3dcdea995c90bb2515",
+        "@id": "/.well-known/genid/b06e9bbb179e0b3f5b8c",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d7b2e0f2885902e1d221",
+        "@id": "/.well-known/genid/d41a79c035792cd69a8e",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -18528,14 +21354,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/45542f2f03927ae58655",
+        "@id": "/.well-known/genid/115cdb4d0abb9aa8bad2",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7e6cbf67444e662b728f",
+        "@id": "/.well-known/genid/d24a8fadbd09c4911e11",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -18690,14 +21516,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e17ec7b1623969ace71a",
+        "@id": "/.well-known/genid/a762d56ddb1fc64a3162",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b8287b5d5537ceed90f0",
+        "@id": "/.well-known/genid/4955157c521c4e33c5cd",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -18852,14 +21678,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/df7759aa66ec974e8da0",
+        "@id": "/.well-known/genid/e5a7f6b1d7436c22559f",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ca9564ab439ea1eb68ee",
+        "@id": "/.well-known/genid/004c901d59d6397d2fa6",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -19014,14 +21840,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8b3d6355c7cdfa39c2ce",
+        "@id": "/.well-known/genid/ba159ff5c121328e67f3",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c9ee2318be0208cead97",
+        "@id": "/.well-known/genid/2bc7acb2d1545346b8fb",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -19176,7 +22002,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b6b79670509be025766a",
+        "@id": "/.well-known/genid/6f9a4512618a04468df9",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -19327,7 +22153,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4758f4bcf0184bc6a776",
+        "@id": "/.well-known/genid/cb4f07a19126b1d7e4a0",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -19378,6 +22204,156 @@
       "MAIN_COST": "2",
       "RECALL_COST": "2",
       "MAIN_EFFECT": "#[Rafraîchissement].# (Si je vais en Réserve après résolution de mon effet, épuisez-moi {T}.)  Choisissez l'un. Si chacune de vos Expéditions est en retard ou à égalité, vous pouvez choisir les deux :  • Piochez une carte.  • Créez un jeton Soldat [1/1/1 Recrue Ordis] dans une Expédition ciblée."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_OR_45_C",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_OR_45_C",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/4B1TM498QK95RR7HN64WEQ5P5K",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J29NHEQ4M9E89421FQ3ES",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J29NHEQ4M9E89421FQ3ES",
+            "text": "L'Ordis est toujours prêt."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J29Q5XXYXKFCZQ9JJYJYV",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J29Q5XXYXKFCZQ9JJYJYV",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J29PPAQAXE264WP4X2V4W",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J29PPAQAXE264WP4X2V4W",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J29MGC8QWDER6SYMWXSBG",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J29MGC8QWDER6SYMWXSBG",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J29N06574YNW909SYRPZX",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J29N06574YNW909SYRPZX",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+          "@type": "LoreEntryType",
+          "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+          "reference": "EXPEDITION_PERMANENT",
+          "name": "EXPEDITION_PERMANENT"
+        },
+        "id": "4B1TM498QK95RR7HN64WEQ5P5K",
+        "reference": "ALT_ALIZE_B_OR_45_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+      "@type": "CardType",
+      "reference": "EXPEDITION_PERMANENT",
+      "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+      "name": "Permanent d’Expédition"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/927361c3c097afe77419",
+        "reference": "GEAR",
+        "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+        "name": "Matos"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/fr_FR/fc5d93a252aefa40766fcaa65b377ac8.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/WEB_45f364184468ac070f5ad3041a9b2bf8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/WEB_3d12ab05366702a94541684860aeb12d"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_45_C",
+    "id": "01J1Q4P4SPGZZS4TK0CWMVFXSG",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/de_DE/441f5f45d74348ad82a80504e7277420.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/it_IT/1e1c7dd2896329c11501f31a1db63874.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/es_ES/25a7889229f2d90aed6c3a8e0a43ee49.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/en_US/875e2d93abcf6989245771314fb8686a.png",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_45/JPG/fr_FR/fc5d93a252aefa40766fcaa65b377ac8.png"
+    },
+    "name": "Armurerie Mobile",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": "{J} Créez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Expédition."
     }
   },
   {
@@ -19477,7 +22453,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e1baf222b40964f48206",
+        "@id": "/.well-known/genid/1e92e523d34798bdfafb",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -19500,7 +22476,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/f2bae18aa5c6c34035be",
+        "@id": "/.well-known/genid/21319d41a2a27e3a8c08",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -19641,7 +22617,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ad97c59d4fae647507aa",
+        "@id": "/.well-known/genid/808a3bebb4b805650d76",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -19664,7 +22640,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c7d859180ab487436f1c",
+        "@id": "/.well-known/genid/4b7cf694338d5d9b0bd5",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -19806,7 +22782,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/63b5975a3cddb53cc879",
+        "@id": "/.well-known/genid/65f337b1ba8d3e1b164b",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -19957,7 +22933,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/be7fe2bdcd1d5cb4e2b5",
+        "@id": "/.well-known/genid/eefbd752d5f348911a4d",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -19980,7 +22956,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/772c0c21db5e1792ac6c",
+        "@id": "/.well-known/genid/fcec15f7db4ef44d2f5d",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -20126,7 +23102,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a0d48e66a4d00f723f9e",
+        "@id": "/.well-known/genid/844801f6b993c22c6562",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -20149,7 +23125,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/20515bf51c1b6663bc69",
+        "@id": "/.well-known/genid/43813b719fde7a7b1fa1",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -20294,7 +23270,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6af6286fe556ab1d1e9d",
+        "@id": "/.well-known/genid/365859077ad4645025b0",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -20317,7 +23293,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a0062441cc0cf63b4e72",
+        "@id": "/.well-known/genid/1e2ee3636f74784543ad",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -20330,7 +23306,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/96d9b1e6b17bdac9308e",
+        "@id": "/.well-known/genid/c7d2a6bdc561b100c2dd",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -20472,7 +23448,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b3700a17899759bd258a",
+        "@id": "/.well-known/genid/6e88b0fa73bf082a5497",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -20495,7 +23471,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/73973f41c49f0dfb507b",
+        "@id": "/.well-known/genid/47a1690603696ea318ca",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -20637,7 +23613,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8001e7a75d1e97e6e4fc",
+        "@id": "/.well-known/genid/aa2fd84d666c04d8de0d",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -20792,7 +23768,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/265a65026dd4afa9adf2",
+        "@id": "/.well-known/genid/d569d3487af87256bb4b",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -20942,7 +23918,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/25092fdbf01d3208df74",
+        "@id": "/.well-known/genid/77af2c588663004be48e",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -20965,7 +23941,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/0628885ce24dd3555fc2",
+        "@id": "/.well-known/genid/23d8130b3fcbffa3a876",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -21107,14 +24083,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cf6496237fc613aa4753",
+        "@id": "/.well-known/genid/fbc3daeeeef1f4952b1a",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/10a048564b3c69b43c81",
+        "@id": "/.well-known/genid/44429a5900bcc7db0979",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -21270,7 +24246,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cfd06f38d709cc06c1c4",
+        "@id": "/.well-known/genid/9958676e84c1ec68ed95",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -21420,7 +24396,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c76df2e1e336e05d2a3d",
+        "@id": "/.well-known/genid/81b2bf473f32f8e44971",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -21443,7 +24419,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/f190ce624efb5034ca73",
+        "@id": "/.well-known/genid/bd977a39e0175ca4ca40",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -21879,7 +24855,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6169dcc9e5d0e2ce72ff",
+        "@id": "/.well-known/genid/281fd3454314acfbe32e",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -22034,7 +25010,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fdc29df75d50db62121f",
+        "@id": "/.well-known/genid/a72e161ab62973a93f99",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -22190,14 +25166,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c61079e918aa77c745eb",
+        "@id": "/.well-known/genid/6499de4fbf69c3af6f2e",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/61ad0fee3115cca0d219",
+        "@id": "/.well-known/genid/e00febd7306c655cfbe1",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -22352,14 +25328,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7c0d206ca3a749dd385f",
+        "@id": "/.well-known/genid/b760339a2154b9cc8f17",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/25a6e2e8c7bb0940f314",
+        "@id": "/.well-known/genid/f476bfa40ac9bab5ef1a",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -22514,7 +25490,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/63777e1b62b8882bce32",
+        "@id": "/.well-known/genid/e093bf10b570b9ec8886",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -22669,7 +25645,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/82a364ad62794d9c206c",
+        "@id": "/.well-known/genid/4f5b3404d04ea1568cf7",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -22725,6 +25701,157 @@
       "MOUNTAIN_POWER": "3",
       "MAIN_EFFECT": "{H} Vous pouvez défausser un Sort de votre Réserve. Si vous le faites, je gagne #2 boosts#.",
       "ECHO_EFFECT": "#{D} : Le prochain Sort que vous jouez ce tour coûte {1} de moins.# (Défaussez-moi de la Réserve pour ça.)"
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_YZ_39_C",
+    "@type": "Card",
+    "reference": "ALT_ALIZE_B_YZ_39_C",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/6TED68Q2518PZVJ2XG1Y5W1G1D",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01J21J2B9ZH9AXABJSHH1EK2YF",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01J21J2B9ZH9AXABJSHH1EK2YF",
+            "text": "La gelée tardive repousse le printemps."
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J2BBXBQDG3V4GTEYWRAHT",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Histoire"
+            },
+            "id": "01J21J2BBXBQDG3V4GTEYWRAHT",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J2BAFJDR4SGV3Y00DCR33",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01J21J2BAFJDR4SGV3Y00DCR33",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J2B8QSW87MX5RB1BTBVF9",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narré par"
+            },
+            "id": "01J21J2B8QSW87MX5RB1BTBVF9",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01J21J2B9DE2D1FZHG5KRV2WJW",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01J21J2B9DE2D1FZHG5KRV2WJW",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+          "reference": "SPELL",
+          "name": "Spell",
+          "description": ""
+        },
+        "id": "6TED68Q2518PZVJ2XG1Y5W1G1D",
+        "reference": "ALT_ALIZE_B_YZ_39_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Sort"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/1bd043c21fe5d148a48b",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Interférence"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Épreuve du froid"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/fr_FR/a07fb8d0bc75b12c088a832bdd03d402.png",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/WEB_5754e5b74281d002dc234dda53de42e3",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/WEB_a3dd4c5cccea0da4ee48892043234a13"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_39_C",
+    "id": "01J1Q4P4SVH0BDDPS6F3F8Y5X1",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/it_IT/2404d19776940e4664482c14aeb419fe.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/es_ES/75388353c96be771ca330d58c4d157a7.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/fr_FR/a07fb8d0bc75b12c088a832bdd03d402.png",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/de_DE/ef166ada9a83b089ad6d9bfddefba093.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_39/JPG/en_US/c2a6bc1bf8ab838dd118b0da99f65d37.png"
+    },
+    "name": "Givre",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Épuisez ({T}) une carte ciblée en Réserve. (Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)"
     }
   },
   {
@@ -22825,7 +25952,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6f61aefee0cc9ff79c3e",
+        "@id": "/.well-known/genid/a015e9419c4f98acf3aa",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -22976,7 +26103,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ace3cc92d2507fc34afa",
+        "@id": "/.well-known/genid/be8f6c015431057b96f9",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -23127,7 +26254,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/07bf67cb2b1f997bc595",
+        "@id": "/.well-known/genid/d3586e45b69d95eccf94",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -23278,7 +26405,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4b05b375cf90774e49e4",
+        "@id": "/.well-known/genid/5f83ca1e152a56aa3ff9",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -23429,7 +26556,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/afcc2ef031b02c271cdc",
+        "@id": "/.well-known/genid/122c45e0bc14a7a0a631",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -23580,7 +26707,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b682f702806248f0e6b0",
+        "@id": "/.well-known/genid/a17d3a906d4c937ff288",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -23731,7 +26858,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2716c9c6bb63c79e684a",
+        "@id": "/.well-known/genid/cc0fc46a3f3961fa6e79",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -23882,7 +27009,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3593491bab4d19bc1b00",
+        "@id": "/.well-known/genid/9030d1d1c5a4d28ad376",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -24032,7 +27159,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/199c1fc65a76dc5590fd",
+        "@id": "/.well-known/genid/448ffba0299cac7f78ab",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -24055,7 +27182,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/429348c643290d1e55cc",
+        "@id": "/.well-known/genid/321a0ba3c4611d89bbd5",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -24068,7 +27195,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/67da2876c0f6bbe3f47a",
+        "@id": "/.well-known/genid/227dab7be750baf04aac",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -24209,7 +27336,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ff31af477b21f4c9da8c",
+        "@id": "/.well-known/genid/7ad52a87ca5523e38edd",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -24232,7 +27359,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/2e5188217d4c92c99ce1",
+        "@id": "/.well-known/genid/6f3ac226da2c7b041713",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -24245,7 +27372,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/0c03c9f39a6a6600bd21",
+        "@id": "/.well-known/genid/2aae2a6fad5570e3c9f4",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -24387,7 +27514,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3c6c08ff431c2539209c",
+        "@id": "/.well-known/genid/7ba1b38dfc64f666e78a",
         "reference": "ILLUSION",
         "id": "01J1QBG2268GSN3G0S560XZGZY",
         "name": "Illusion"
