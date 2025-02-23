@@ -44,7 +44,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/211ebd2facaf05d8417b",
+        "@id": "/.well-known/genid/d8d3d3d8bfce3a54454a",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -148,7 +148,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/64034d05e5943c440b24",
+        "@id": "/.well-known/genid/7e7a88cfa92d4d7eb873",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -303,7 +303,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/816a5f8c4e74c3d38208",
+        "@id": "/.well-known/genid/60f3f809322be45577c0",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -454,7 +454,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/372466e98a40ee4a5bed",
+        "@id": "/.well-known/genid/179d43e1d8174de7f44f",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -605,7 +605,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ea09d25008db7034ac8d",
+        "@id": "/.well-known/genid/2b61f3a61326073f86e8",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -756,7 +756,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/76f32621247ff617b427",
+        "@id": "/.well-known/genid/07a0164967810a1dc410",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -1204,7 +1204,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a7eea8b107a8617ecd87",
+        "@id": "/.well-known/genid/022b715c9fffb2373c09",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -1358,7 +1358,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/04dae67a6a48c0ab80c4",
+        "@id": "/.well-known/genid/cb7da6ec612d3367ed92",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -1514,7 +1514,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6b08545a4079eacc2324",
+        "@id": "/.well-known/genid/a79dc9cdb439a8534ff3",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -1670,7 +1670,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/55c8ce52a9ad342ac7a9",
+        "@id": "/.well-known/genid/886957392354f62e0756",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -1693,7 +1693,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/10e58d812a9ad89b60ba",
+        "@id": "/.well-known/genid/1699755f5a629b22755a",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -1840,7 +1840,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/37c136377a025c8fabfa",
+        "@id": "/.well-known/genid/321a7a82055fd0f8695f",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -1863,7 +1863,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/31e39d86f399b477d3d1",
+        "@id": "/.well-known/genid/1eb77d76138875e6c7d4",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -2010,7 +2010,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c5cbf1e11e166c69c36d",
+        "@id": "/.well-known/genid/421796f8769617bf5336",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Citoyen"
@@ -2166,7 +2166,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/916fd0209c6eac1264c5",
+        "@id": "/.well-known/genid/ae6abb68fe3a57f880f4",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Citoyen"
@@ -2189,7 +2189,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/4933ee3ccde01c813767",
+        "@id": "/.well-known/genid/4597dd1f5f17a446baca",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -2336,7 +2336,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d13e13d8efd241ad3e83",
+        "@id": "/.well-known/genid/838c27bb2226f8713e99",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -2359,7 +2359,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/634cee8619813157dd84",
+        "@id": "/.well-known/genid/91fd3775660925977e19",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -2506,7 +2506,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1ac97824138584488bb3",
+        "@id": "/.well-known/genid/6e80511edb982f0e19dd",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -2529,7 +2529,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/4733378a084250eefbbd",
+        "@id": "/.well-known/genid/7f1d94ac7f6291367ae2",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -2676,7 +2676,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5e75503a59222ed06049",
+        "@id": "/.well-known/genid/78bbd54202723c87864c",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -2831,7 +2831,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d6c0c723c61d5ef53fe4",
+        "@id": "/.well-known/genid/315d24d5d7fb2fcc7015",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -2987,7 +2987,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4c522418a54868acd7fb",
+        "@id": "/.well-known/genid/8b0d872c324036e7126f",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -3010,7 +3010,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/08882a3830658628253e",
+        "@id": "/.well-known/genid/ac4c73886637ff80810f",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -3157,7 +3157,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1245751be3e95bb31512",
+        "@id": "/.well-known/genid/189417789bfba993b562",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -3180,7 +3180,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/aa0b89f6e6ee75c7e2d6",
+        "@id": "/.well-known/genid/4a273b2bb99c93f91eab",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -3327,7 +3327,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cfd7df7b06d869e8fb9c",
+        "@id": "/.well-known/genid/8c3b3f2ee0b69cd4417c",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -3483,7 +3483,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e852e3ff3229d78db3c3",
+        "@id": "/.well-known/genid/3b96f2f0307eafc1607e",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -3639,7 +3639,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8635abde9295435d5081",
+        "@id": "/.well-known/genid/ccd84e9f65563bdbd2a3",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -3795,7 +3795,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0e0688f6466d6ac3ef3f",
+        "@id": "/.well-known/genid/2410ba3c63bc42041e8d",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -3951,14 +3951,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d8f0c27c7de2787c137c",
+        "@id": "/.well-known/genid/644c9c1dfa804153e4d3",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1ee07960b893ca3071e4",
+        "@id": "/.well-known/genid/64ce2c996c3e56ab8780",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -4115,14 +4115,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dfd0a29e9c41a1b635f5",
+        "@id": "/.well-known/genid/6e93dcbea609dd230c50",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1e30824abe3951286fca",
+        "@id": "/.well-known/genid/f78c40ab90c862592ae5",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -4145,7 +4145,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e9c4da4fa88b1d9d93f7",
+        "@id": "/.well-known/genid/86c1bd12f9e26f779760",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -4293,7 +4293,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a2df4fd57067a788f50e",
+        "@id": "/.well-known/genid/6df5d20bbfd6b7b4c230",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -4445,7 +4445,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ab83cf05cd36016bf42e",
+        "@id": "/.well-known/genid/16899e9cd1fa72fd9248",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -4468,7 +4468,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/ff3f25a02eb4d71e1215",
+        "@id": "/.well-known/genid/51aceed251228801ccb9",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -4611,7 +4611,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c23cbbc1d2abd0450e80",
+        "@id": "/.well-known/genid/c7bebbd30893b1afdb89",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -4634,7 +4634,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/cdccd8ef188cf29fcbf1",
+        "@id": "/.well-known/genid/a2cfee2fc7cb6ed13e75",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -4777,7 +4777,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/51ace12e12ecb8d8c58c",
+        "@id": "/.well-known/genid/8d551e568980fb2eab67",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -4800,7 +4800,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/17bc07fd7dcfe3434bb7",
+        "@id": "/.well-known/genid/b1bffda02351da446eb1",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -4942,7 +4942,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2fa65f8fe672032797b8",
+        "@id": "/.well-known/genid/8a4c0d775c2f98248781",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -4965,7 +4965,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/db23e08c6e1a9ebfa85e",
+        "@id": "/.well-known/genid/e49f8592bb71ec602138",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -4978,7 +4978,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/58d2a12b4cfaa41af865",
+        "@id": "/.well-known/genid/6046c69c10218614a2c3",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -5120,7 +5120,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b1ab636dc777d19fe64c",
+        "@id": "/.well-known/genid/fadb2db5b08ba25844dd",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -5143,7 +5143,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/3442b083940ec45399a2",
+        "@id": "/.well-known/genid/adc1b0d04e27a69bc49c",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -5156,7 +5156,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/f942164a9b48125d6892",
+        "@id": "/.well-known/genid/6ed789943873403f0d59",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -5299,14 +5299,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e748924ddbe0204e4c87",
+        "@id": "/.well-known/genid/a28323e4d5a049730be9",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d10e53e33e7751138c7a",
+        "@id": "/.well-known/genid/20589327af4aace3566e",
         "reference": "SCHOLAR",
         "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
         "name": "Érudit"
@@ -5462,14 +5462,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/762f3d583276c5058556",
+        "@id": "/.well-known/genid/1814c9d690f8e1ad14e2",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d4352401f07066edd0de",
+        "@id": "/.well-known/genid/c8e2cccef3514434583e",
         "reference": "SCHOLAR",
         "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
         "name": "Érudit"
@@ -5624,7 +5624,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3336d47c9033a2b31d14",
+        "@id": "/.well-known/genid/bbb8a6e8fe67469e1a13",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -5647,7 +5647,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/8525073ce84d0e36ff37",
+        "@id": "/.well-known/genid/e0a352c09288aaf9b229",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -5789,7 +5789,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d3b96c74cc18658fd037",
+        "@id": "/.well-known/genid/592b67e2fc7cd7cfd4ab",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -5812,7 +5812,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/98742580a54c494b62cc",
+        "@id": "/.well-known/genid/97bb3b998324720aa644",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -5954,7 +5954,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/241bc78452f8865036ee",
+        "@id": "/.well-known/genid/7c6f1a45c72567fb63c9",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -5977,7 +5977,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/04dd78cf6604dc780a87",
+        "@id": "/.well-known/genid/4860005a875cf6b8c26d",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -6119,7 +6119,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/25d2a4f3092a5a580e8d",
+        "@id": "/.well-known/genid/6571508fb20cfab3e7a8",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -6142,7 +6142,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/45c7a2a5984500f3f832",
+        "@id": "/.well-known/genid/16696f541801cac15067",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -6285,7 +6285,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/edd561ebea99f188077d",
+        "@id": "/.well-known/genid/02bab3201bd41fe08873",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -6441,7 +6441,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8e93561fe919eb718ad1",
+        "@id": "/.well-known/genid/c01ca196b79700aa79c4",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -6596,7 +6596,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7f1136d93d077419f9f0",
+        "@id": "/.well-known/genid/6ab1ad047425900ad5bf",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -6747,7 +6747,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b77364cd9edf7ebd2f1f",
+        "@id": "/.well-known/genid/671806378e13cafea44d",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -6898,7 +6898,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/328bf5f7b5eb547d8662",
+        "@id": "/.well-known/genid/f4e93131591a8bc62854",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -6921,7 +6921,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/bf1309273f0adea424be",
+        "@id": "/.well-known/genid/4ea93630a000960ad442",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -6934,7 +6934,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e10e20c1356e3e9ece4d",
+        "@id": "/.well-known/genid/b860d22ab1038222ea0b",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -7077,7 +7077,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6cfd041fbbcb3109a556",
+        "@id": "/.well-known/genid/5a36fa483b4af0593ed5",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -7233,7 +7233,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c9bf58472732270e3965",
+        "@id": "/.well-known/genid/841434d863f1f20a6b86",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Citoyen"
@@ -7256,7 +7256,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/01f376c8d6e93c76820b",
+        "@id": "/.well-known/genid/1f0fee0c0df48fb02dcf",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -7403,7 +7403,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0679d3a44edf16ce8503",
+        "@id": "/.well-known/genid/615c0afd2b149c4d7955",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -7559,7 +7559,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a4ab733599120b3b92ca",
+        "@id": "/.well-known/genid/f59656d4a82c6709153b",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -7715,7 +7715,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6f1f786179fbafa2d7ee",
+        "@id": "/.well-known/genid/947afb8d976a73909a5d",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -7872,7 +7872,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/61143b95636cb7c3091b",
+        "@id": "/.well-known/genid/677ae2b5e80ce9707edd",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -8024,7 +8024,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1118724f3c42790ddc9c",
+        "@id": "/.well-known/genid/ba53f5458d273b21cfe2",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -8175,7 +8175,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8761d9fa40a170f5957e",
+        "@id": "/.well-known/genid/e5da2a3b6e93ccf7fc36",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -8326,7 +8326,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/71806db62da6ecfd16ed",
+        "@id": "/.well-known/genid/891a358e470dc3de75a2",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -8349,7 +8349,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/0b996985f60c6a76e44c",
+        "@id": "/.well-known/genid/9429fd83ece4951d42c0",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -8362,7 +8362,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a4d195a7e1f103c32233",
+        "@id": "/.well-known/genid/b8ef4ee2c4fd00c139aa",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -8453,7 +8453,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2f1cc58933b0d7c6507c",
+        "@id": "/.well-known/genid/f2008a114f6188063768",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -8557,7 +8557,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3dd5daa7c30281e471b0",
+        "@id": "/.well-known/genid/6eae48632d6a1f957c0a",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -8712,7 +8712,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c170c65226a9a1eab1f0",
+        "@id": "/.well-known/genid/ffa69096a857560001ad",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -8863,7 +8863,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/253d94f3b586f7bebee5",
+        "@id": "/.well-known/genid/16268fa5102fe11c0ca2",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -8963,7 +8963,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a3b632d6640a73475bdd",
+        "@id": "/.well-known/genid/96dfcce517965a6672f3",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -9067,7 +9067,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a2fe32b7ecad94fa0348",
+        "@id": "/.well-known/genid/d6721cd913c478bca420",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -9224,7 +9224,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a07c80d513036f1f50a8",
+        "@id": "/.well-known/genid/80918cbca30388c7f0bd",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Citoyen"
@@ -9676,7 +9676,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1d8517c6e552c5d47333",
+        "@id": "/.well-known/genid/9d74729c0de3a573b0e4",
         "reference": "COMPANION",
         "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
         "name": "Compagnon"
@@ -9830,14 +9830,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/948e356b14043434adf7",
+        "@id": "/.well-known/genid/2653c7bf28d88ab834d0",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8e057a1043c5c0effd16",
+        "@id": "/.well-known/genid/759629303fd8aecfa488",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -9860,7 +9860,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/fa066a5fd6ac7665dc70",
+        "@id": "/.well-known/genid/d5b9b99c5549385aa7e6",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -10007,14 +10007,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a3e7c3de5103d869417e",
+        "@id": "/.well-known/genid/5f4b5fe397c2096cf381",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/21a8909676e143661b2b",
+        "@id": "/.well-known/genid/4ca13622a5ed5041de72",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -10037,7 +10037,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a7bcdbe80080d0f0d118",
+        "@id": "/.well-known/genid/bef69203278d1e17894a",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -10185,7 +10185,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/de114b4f6e049bc5a182",
+        "@id": "/.well-known/genid/448ce64392a3b5f865e7",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -10341,7 +10341,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/479f68e89ac754509461",
+        "@id": "/.well-known/genid/6ac5bd519089892a0401",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -10497,7 +10497,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a4bd87065a90cd8b0d40",
+        "@id": "/.well-known/genid/d506d32488b481bf22e5",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -10653,7 +10653,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a6bca207fd76585d980f",
+        "@id": "/.well-known/genid/c121d9829653376e084d",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -10809,7 +10809,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7c93514aaf1a20353cb4",
+        "@id": "/.well-known/genid/f50931f38e8fb87aea60",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -10965,7 +10965,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4ff9ed5a765e029d631f",
+        "@id": "/.well-known/genid/11d2e621ca655a4cc5ad",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -11121,7 +11121,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d958c85f043ff038d00c",
+        "@id": "/.well-known/genid/d8ddb2b937d1164762a5",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -11277,7 +11277,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/02d84f320789f12503d6",
+        "@id": "/.well-known/genid/d49eaba51233e33f0f12",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -11434,7 +11434,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b19965d116227fee88a4",
+        "@id": "/.well-known/genid/bb8a31db9ce7da24a9b0",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -11457,7 +11457,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c9c933adbcaf25b14bcb",
+        "@id": "/.well-known/genid/b1398d704f868f9709d0",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -11604,7 +11604,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0bf3379e48f87324318e",
+        "@id": "/.well-known/genid/ed7d9fefd4df8c066ffc",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -11760,14 +11760,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5f77e872b602d391ae0d",
+        "@id": "/.well-known/genid/fa80139215fc84f8ecf9",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0ce06562f1a7172c8995",
+        "@id": "/.well-known/genid/30bad6c1606f3f1a7e25",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -11923,14 +11923,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ab5750b73ec1846fb860",
+        "@id": "/.well-known/genid/9b90fcf5eae5285cf886",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/16134c1ab544ad72c9ff",
+        "@id": "/.well-known/genid/27d11af9f596e6902972",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -12086,7 +12086,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3233763c64fbac0a3145",
+        "@id": "/.well-known/genid/d885bf5e6fc1cf38dda7",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -12109,7 +12109,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/960cb35fa8487d08ad76",
+        "@id": "/.well-known/genid/bb38d714040f1d8a9086",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -12122,7 +12122,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/24f8f916e5e8a3a00dd1",
+        "@id": "/.well-known/genid/30ee13eb45ab2c067f4b",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -12269,7 +12269,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2a0eb6d618d65f2337dd",
+        "@id": "/.well-known/genid/407b2e1b615f7bfbcb84",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -12292,7 +12292,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/3b1d2e76537a15e124cf",
+        "@id": "/.well-known/genid/7297a1e36e2a33169d30",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -12305,7 +12305,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/682581b8c2b6bcdc0509",
+        "@id": "/.well-known/genid/379ae52df1f78cfa7617",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -12452,7 +12452,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/566c29d628b71f471359",
+        "@id": "/.well-known/genid/c889696a31ed2af1eec0",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -12475,7 +12475,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/07ccd819e1d263bfd59a",
+        "@id": "/.well-known/genid/3324108edc54c50e52c4",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -12622,7 +12622,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ea1f9a96d2b1301c9363",
+        "@id": "/.well-known/genid/4890db5b8fc59e7d43b1",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -12645,7 +12645,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/412588d2d8d986881109",
+        "@id": "/.well-known/genid/c0a3670d1704d92b20e7",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -12792,7 +12792,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ff3869511d510326df38",
+        "@id": "/.well-known/genid/3e6d3a9b67395be7d848",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -12815,7 +12815,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/09723ced52f1737cc096",
+        "@id": "/.well-known/genid/33f701f3f079632398d8",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -12958,7 +12958,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/61a290500d5b30f4ec37",
+        "@id": "/.well-known/genid/0d0ed3102246965a0c28",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -12981,7 +12981,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/8b82298253a509e742fb",
+        "@id": "/.well-known/genid/947e2ee31a59fad4e157",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -13124,7 +13124,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5459838f2ffab94262ef",
+        "@id": "/.well-known/genid/73d7c72d429840ae632d",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -13147,7 +13147,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/9085b91bf67ee22eb815",
+        "@id": "/.well-known/genid/ecedcba9f174583c3ee9",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -13290,7 +13290,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c65ce500798478a06a35",
+        "@id": "/.well-known/genid/1f594c0c4fb5664a6e5a",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -13313,7 +13313,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c4306bc96471d7a62485",
+        "@id": "/.well-known/genid/9ab059faf2ae08818efd",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -13455,7 +13455,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b1441e3dffc197230e67",
+        "@id": "/.well-known/genid/ebf80bd519816d88a553",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -13606,7 +13606,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6b4f22c2a6baf072c32f",
+        "@id": "/.well-known/genid/e0db71df97299988ff2e",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -13757,7 +13757,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/420bee9f177948c717ae",
+        "@id": "/.well-known/genid/c50c45f52cdfe2d47767",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -13908,7 +13908,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ec5249fe84d7f6a9b081",
+        "@id": "/.well-known/genid/29c43885673d9327980f",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -14059,7 +14059,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/278ba236662ff9fc1123",
+        "@id": "/.well-known/genid/e9a8ceea7a2a8c402764",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -14082,7 +14082,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/044babd9c8b9a23c0376",
+        "@id": "/.well-known/genid/bf5a53214cc557928678",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -14095,7 +14095,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/6bfae2de1349f59c5d61",
+        "@id": "/.well-known/genid/6b53990acad2433cb165",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -14108,7 +14108,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/8a2f7beab74823611598",
+        "@id": "/.well-known/genid/b0d1ce9324427f6e7f69",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -14250,7 +14250,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bc9fcf1345a10741cbf7",
+        "@id": "/.well-known/genid/d2f17ee1dc580ead97c3",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -14273,7 +14273,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/cdc030d41daf732d180f",
+        "@id": "/.well-known/genid/4bedebd8311a4c60db5e",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -14415,7 +14415,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3d014d44fa168a3d4138",
+        "@id": "/.well-known/genid/60b45ede0d8d7b6b9886",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -14438,7 +14438,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/5c57dca0eff36e47337b",
+        "@id": "/.well-known/genid/915596f471d2a132ca13",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -14451,7 +14451,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/3efb829cff24a5bacdd7",
+        "@id": "/.well-known/genid/ebe542ab5f6d55a2eb41",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -14593,7 +14593,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fd3bc15e30584140a970",
+        "@id": "/.well-known/genid/5bbf46b67cd3a282d5aa",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -14616,7 +14616,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7b1f500f1fe4f6cc6d4a",
+        "@id": "/.well-known/genid/114100210b28bbe7f24e",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -14629,7 +14629,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/dd0e316084079a079dd1",
+        "@id": "/.well-known/genid/dfed54ac423b7115fd90",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -14772,7 +14772,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8f6229963d38c298a3ad",
+        "@id": "/.well-known/genid/79c57fd53521f06d5dc2",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -14928,7 +14928,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a06cd730d959854509a6",
+        "@id": "/.well-known/genid/09f3f97c19eef0557e1b",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -15080,7 +15080,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/458ecbabe5d89827cc68",
+        "@id": "/.well-known/genid/80f21fdee315aae52fdc",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -15236,7 +15236,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b3dfecf3b19c47201187",
+        "@id": "/.well-known/genid/ed2e921901886f1bbb59",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -15259,7 +15259,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/36a9b467216686f79fa9",
+        "@id": "/.well-known/genid/6198e14bb6d5eb5e1fd3",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -15406,14 +15406,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/812a5092925027d55e7c",
+        "@id": "/.well-known/genid/f2805d5314c24b06d0f6",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5b9c1f92d72aa40648a7",
+        "@id": "/.well-known/genid/4c9fc2e046fa2cea3d9e",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -15569,14 +15569,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3f2d5ca66774408078b4",
+        "@id": "/.well-known/genid/a6a5dd54ed67f92e1ca1",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c7b27c0b4d50768a163a",
+        "@id": "/.well-known/genid/41cf538961f7ad7a998a",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -15599,7 +15599,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/d8f4f76ef197ddeb682b",
+        "@id": "/.well-known/genid/fe412a130e4f8950edac",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -15612,7 +15612,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/4259f7db13cbd793a623",
+        "@id": "/.well-known/genid/17778f1d3eb61630a25f",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -15759,14 +15759,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a24ba2c85b7fe7e7b017",
+        "@id": "/.well-known/genid/34c415daf5921399c038",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5400a76af55916b6bbf1",
+        "@id": "/.well-known/genid/069c90110cd43c19add1",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -15922,7 +15922,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1de434269304f8522243",
+        "@id": "/.well-known/genid/413fedef5dac700529ea",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -16074,7 +16074,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0eb68f4b64edbca6bec5",
+        "@id": "/.well-known/genid/41661b1fb08e4283cd62",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -16227,14 +16227,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7ee3249c145f3a3c440a",
+        "@id": "/.well-known/genid/7215209f7d8fa142a16a",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a04179fdbe4bc901b4f4",
+        "@id": "/.well-known/genid/a428867ca0d668e75bce",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -16390,7 +16390,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/091940faad4e4c50fd8c",
+        "@id": "/.well-known/genid/699af87c674114694275",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -16413,7 +16413,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/dde9ab53c7aee3e9e2f8",
+        "@id": "/.well-known/genid/a76d786ef07dd294bf73",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -16556,7 +16556,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ffab05eaea9bfdd9b168",
+        "@id": "/.well-known/genid/95681c7881f49282e731",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -16712,7 +16712,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f8df8e87f859c0f8f835",
+        "@id": "/.well-known/genid/cfa490ccfd7d22104d1d",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -16868,7 +16868,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1680a7674387369d71fd",
+        "@id": "/.well-known/genid/4f1a75093c88159ad07c",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -17025,7 +17025,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/af76571f037bd1197478",
+        "@id": "/.well-known/genid/430263124879237622cf",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -17125,7 +17125,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2a0ad443c48dcca7bd7f",
+        "@id": "/.well-known/genid/df3888f64bdfc44c2cfb",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -17229,7 +17229,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8e424aa0f5a1675128e6",
+        "@id": "/.well-known/genid/8858d5f1610bf5b39226",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -17333,7 +17333,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/64d5a9e6106a12d2d8f4",
+        "@id": "/.well-known/genid/f6948f39f834a934dc65",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -17488,7 +17488,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/95a82599b2481484f8a7",
+        "@id": "/.well-known/genid/21534dc817aca40f697c",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -17639,7 +17639,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/739c2f888e462af28db9",
+        "@id": "/.well-known/genid/5d69b52e2593c1b4c9e0",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -17790,7 +17790,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0222229203fa46b38f6f",
+        "@id": "/.well-known/genid/172cb69e414f9de18853",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -17942,7 +17942,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c065ad89f7a28870f82f",
+        "@id": "/.well-known/genid/4356364dddc1f9827acd",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -17965,7 +17965,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/19a0950ed1e042edef88",
+        "@id": "/.well-known/genid/23c39a23fabe7caf66a9",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -18108,7 +18108,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5f6dcb701bc0807e6b0d",
+        "@id": "/.well-known/genid/2c6aedb60ec2894928be",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -18264,7 +18264,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2a280df0b0710e282a62",
+        "@id": "/.well-known/genid/90c1aaeb32efe42436a4",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -18420,7 +18420,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2bbaaf742a2f91106786",
+        "@id": "/.well-known/genid/94679cea360cbe6ed712",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -18575,7 +18575,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5b56bea72d91a230c953",
+        "@id": "/.well-known/genid/69909339711ef5350e6c",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -18598,7 +18598,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/dd95622c94fcfc6919ed",
+        "@id": "/.well-known/genid/c6239c8dee9a20df8b8b",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -18611,7 +18611,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/2d0e35a100b1c8d767f5",
+        "@id": "/.well-known/genid/2386575708d672309442",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -19050,7 +19050,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f60fa895ea0f12f584aa",
+        "@id": "/.well-known/genid/3884fc0f6e3b0ef38932",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -19206,7 +19206,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/af65defa523ed77da02c",
+        "@id": "/.well-known/genid/c61295bebfb776054d1c",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -19362,7 +19362,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e5f1e4fd43149adf74cf",
+        "@id": "/.well-known/genid/c404db214540ca5a11b5",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Citoyen"
@@ -19518,7 +19518,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/84186c431931989d3e14",
+        "@id": "/.well-known/genid/0ebe46d5bc492bbd1db4",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Citoyen"
@@ -19674,7 +19674,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/49246460dadf7a98e44d",
+        "@id": "/.well-known/genid/72a13f2e3659b77af501",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -19830,7 +19830,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a7e25b47fe82c3a6ecd1",
+        "@id": "/.well-known/genid/1f5add5c394389571a54",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -19987,7 +19987,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/882358423b524119156e",
+        "@id": "/.well-known/genid/7d3fa835d11c54942329",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -20010,7 +20010,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/f7195c631f9141be55f1",
+        "@id": "/.well-known/genid/9cab9bff197e2d498525",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -20023,7 +20023,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/12627adb90e09eee85bc",
+        "@id": "/.well-known/genid/bda634219d9a7f2ad0c7",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -20036,7 +20036,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/06d7a587c947e8286bc9",
+        "@id": "/.well-known/genid/cb901bc7449196b51f44",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -20183,7 +20183,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5237aad2f2a27f1b357d",
+        "@id": "/.well-known/genid/21c8e1c8f5f5f4812666",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -20206,7 +20206,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/ca5e651e15df148d7f1e",
+        "@id": "/.well-known/genid/acdce9df48c88b540463",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -20353,7 +20353,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ab3bbeee26df6c26a50e",
+        "@id": "/.well-known/genid/34869f00ee01dd88bb6e",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -20510,7 +20510,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/efd5b923c5bc2349a10a",
+        "@id": "/.well-known/genid/cf460f49971e8d73ab3a",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -20667,7 +20667,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/53fed804c993c50568af",
+        "@id": "/.well-known/genid/ceececd9734daf6d8e18",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Citoyen"
@@ -20690,7 +20690,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/123aec895343c1923244",
+        "@id": "/.well-known/genid/9538e0edf74e8dacd146",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -20837,7 +20837,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/aef88e58de4c80556d13",
+        "@id": "/.well-known/genid/82cbdd4515f6c4784154",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Citoyen"
@@ -20860,7 +20860,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/bed3e3ba5538754f7efd",
+        "@id": "/.well-known/genid/8c4e7e94ffde2ed25b65",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -21007,7 +21007,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5b0fe6eec5fdb3249653",
+        "@id": "/.well-known/genid/64c2cc7a9e77ac0f4ec2",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -21030,7 +21030,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/21426d801ea37bb77578",
+        "@id": "/.well-known/genid/b2d5d0add813dab16817",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -21177,7 +21177,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/04bc0c40d3959105119e",
+        "@id": "/.well-known/genid/cdc791c90917a1b02217",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -21200,7 +21200,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/1cbd3816603c00e61abe",
+        "@id": "/.well-known/genid/3f3f4e17ede6b1caf8a5",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -21347,14 +21347,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/43f44903a0c12a2954f3",
+        "@id": "/.well-known/genid/62c71687a0729840a58e",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/89ba9a2d408e474e9a63",
+        "@id": "/.well-known/genid/d782a1edd95eb7ec2975",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -21510,14 +21510,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/09d78b235950d9f1392e",
+        "@id": "/.well-known/genid/f437184618c4c544ad68",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f626dd116e164242ef59",
+        "@id": "/.well-known/genid/2cf8e0f8468ee8cec1b4",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -21673,7 +21673,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d1a3a8d2e9df8cce4fd4",
+        "@id": "/.well-known/genid/c0fba737fbf5633f994f",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -21825,7 +21825,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c0156625563393dd276b",
+        "@id": "/.well-known/genid/d26367f749ea3667d414",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -21977,7 +21977,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/716365aab9c1081c0076",
+        "@id": "/.well-known/genid/7092336229095f894f50",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -22129,7 +22129,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/96e80287e1cedd421863",
+        "@id": "/.well-known/genid/3c7e27f3cf76a8a68138",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -22281,7 +22281,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4e44316e2729fc7604c1",
+        "@id": "/.well-known/genid/3ad568c8d01a59c28ae2",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -22433,7 +22433,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/98f8e57a204026087030",
+        "@id": "/.well-known/genid/f144bebc7560f427f3ee",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -22585,7 +22585,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/10d8feb3a04dd9733cde",
+        "@id": "/.well-known/genid/cfc26add30068401bae7",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -22737,7 +22737,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/32bdf9b75863bbecb69d",
+        "@id": "/.well-known/genid/b1ad8318ecb0646e1a04",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -22888,7 +22888,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c06bc4e9d3f31326186a",
+        "@id": "/.well-known/genid/a623049f78ed8fe27b8a",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -23039,7 +23039,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f4d48552762a777e8a29",
+        "@id": "/.well-known/genid/1b292838fbbb79c0f750",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -23190,7 +23190,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b9f01619fbea5863a92c",
+        "@id": "/.well-known/genid/0b485841b792785ea05a",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -23341,7 +23341,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2a03abcc243af7e5762b",
+        "@id": "/.well-known/genid/f623abed0c5c1a23df60",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -23492,7 +23492,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a5ddfc2f64f1c17cb0e2",
+        "@id": "/.well-known/genid/6b726bd67ce89298d8fb",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -23515,7 +23515,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a43895ffd0cf69d85079",
+        "@id": "/.well-known/genid/6030da31187cc5fededa",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -23657,7 +23657,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c186e6390404baffd3fd",
+        "@id": "/.well-known/genid/963c83c010fd5364a0a1",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -23680,7 +23680,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/35ba8dc0786c2f9d2829",
+        "@id": "/.well-known/genid/c444104b82b77eeb5c21",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -23823,7 +23823,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0c50d41defd05c1b209a",
+        "@id": "/.well-known/genid/ff1843874ce0fa8f361d",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -23979,7 +23979,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7a7212ba6fbd2278389d",
+        "@id": "/.well-known/genid/5ee268b0fe79dd9f1cdc",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -24130,7 +24130,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0538d87ca40a0bf1e6fa",
+        "@id": "/.well-known/genid/2444dd7a82e0722ef35c",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -24281,7 +24281,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5ca08044da7a260df98d",
+        "@id": "/.well-known/genid/8f5d6bf2c0acc0e92ddb",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -24304,7 +24304,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/3e4f8b7e60cd6386a909",
+        "@id": "/.well-known/genid/c233435376bf36888bd3",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -24447,7 +24447,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b61462dbae39b4978c7e",
+        "@id": "/.well-known/genid/33a381d40f592b87b6d0",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -24603,7 +24603,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/579e7da40cdb01ba2507",
+        "@id": "/.well-known/genid/4b1e4a20fc7163db9092",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -24755,7 +24755,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/33d604ffe12a3d790601",
+        "@id": "/.well-known/genid/7bbe273bd6d8e5190592",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -24907,14 +24907,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6537f29b8a6096d03501",
+        "@id": "/.well-known/genid/905747d09561b64904b7",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e6cebffa4fdc301b8518",
+        "@id": "/.well-known/genid/920f986627ff81059486",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -25070,14 +25070,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/724d919e0184449b2a1e",
+        "@id": "/.well-known/genid/99d4a6040dbaeb231b6f",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1c547767a9a452ed7265",
+        "@id": "/.well-known/genid/f6a233f93d3ab17d330e",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -25228,7 +25228,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bb2bd61abfb97f2eec4a",
+        "@id": "/.well-known/genid/6f65606103ee22fdb2a4",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -25328,7 +25328,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/03aeafb5c145d3b1b5d1",
+        "@id": "/.well-known/genid/41a251dae4c55c039e0e",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -25432,7 +25432,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a9d52092fcb05e9b3869",
+        "@id": "/.well-known/genid/7343c659d20f1bc80d83",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -25587,7 +25587,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/451e1c29273cf2c6beab",
+        "@id": "/.well-known/genid/52982c663c98dc305f83",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -25738,7 +25738,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fb6698e3f2b4e7cf17a4",
+        "@id": "/.well-known/genid/3b9bf10b2328f2baefc6",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -25890,7 +25890,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a502ee52a24671bf44a1",
+        "@id": "/.well-known/genid/780110ce233112730349",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -26046,7 +26046,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/57acfe900b09772e0632",
+        "@id": "/.well-known/genid/bb415edb2b2183823dbd",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -26202,7 +26202,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d6849f97c0f628c25c4f",
+        "@id": "/.well-known/genid/de19101ebd6ce2066f2e",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -26358,7 +26358,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6b7e53e899ce20aecceb",
+        "@id": "/.well-known/genid/2ad6c95a747db1d50337",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -26381,7 +26381,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/ebea68510649909d6ab5",
+        "@id": "/.well-known/genid/6e6ceca3f034477f51e8",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -26524,14 +26524,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/27ef0c0c871d843df33b",
+        "@id": "/.well-known/genid/a5c5712791f26dbf3178",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a403fbcc37d2f6f55a8e",
+        "@id": "/.well-known/genid/fb574012a6a8d9fa821a",
         "reference": "SCHOLAR",
         "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
         "name": "Érudit"
@@ -26686,7 +26686,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fa9312e61b50d51aab7a",
+        "@id": "/.well-known/genid/1aebc8f8be8859228e98",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -26709,7 +26709,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/39cc67697fb57719eed1",
+        "@id": "/.well-known/genid/5a9c69f99439003ca050",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -26851,7 +26851,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a6f7d2431f6d7ec06395",
+        "@id": "/.well-known/genid/852b6be660f413793f80",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -26874,7 +26874,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/3651c3b003b9f51668b9",
+        "@id": "/.well-known/genid/d3fc751f698f955ab8fa",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -27017,14 +27017,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6af7352ff35dfd5c67ee",
+        "@id": "/.well-known/genid/d9a3dd384a872ff89658",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f27f486594bdf7c41df8",
+        "@id": "/.well-known/genid/5d6814222cde5860cb54",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -27180,7 +27180,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/64703df46bd720cd41da",
+        "@id": "/.well-known/genid/5d35a5dd1c2936723fdc",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -27203,7 +27203,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/23073cc93b4dd57cbe2b",
+        "@id": "/.well-known/genid/05b1ecb723076be5b469",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -27350,7 +27350,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d40990bb0555a25e0692",
+        "@id": "/.well-known/genid/0a93386fb29959574cb1",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -27507,7 +27507,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bfdbefdcb70054b28ffe",
+        "@id": "/.well-known/genid/b2f5539928457afccd56",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -27530,7 +27530,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/776c84d868d06246be59",
+        "@id": "/.well-known/genid/d2f159d81a3fd838595e",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -27676,7 +27676,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/eeb138b8682fd58f8771",
+        "@id": "/.well-known/genid/e7e5ec0e767e481e30b2",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -28124,7 +28124,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cf71b7c438f59a69df92",
+        "@id": "/.well-known/genid/187dd47db84528156b12",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -28280,7 +28280,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7745b1311c045e628f27",
+        "@id": "/.well-known/genid/7db3a0af0eac33c1f184",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -28436,7 +28436,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6095c34e74ced106811d",
+        "@id": "/.well-known/genid/f106cc04e2bfae0d2c48",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -28592,7 +28592,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2edc60734a92e3d96e7f",
+        "@id": "/.well-known/genid/488708858302b73a3108",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -28749,7 +28749,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/da40ec3f7f69700a45a2",
+        "@id": "/.well-known/genid/a6bf28aee1f07e34baa2",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -28772,7 +28772,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/582d8a63217d6364ed96",
+        "@id": "/.well-known/genid/4a25563d76a7cb328635",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -28919,7 +28919,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8523787809ce2dd214c3",
+        "@id": "/.well-known/genid/318e065bf2a216f24c7c",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -29075,7 +29075,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/da83948bdc6e33257a73",
+        "@id": "/.well-known/genid/5e23a89e670b0330a663",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -29231,7 +29231,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bb9d70116ad8d5541cd6",
+        "@id": "/.well-known/genid/db0dedb9cea8cf6d0cab",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -29387,7 +29387,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9f091776a77dd7bd42cc",
+        "@id": "/.well-known/genid/d85e85cf1494ebd8a3eb",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -29543,7 +29543,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/defd3f6ec4270d6726ea",
+        "@id": "/.well-known/genid/6e71c89b2d4e90c1102a",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -29699,7 +29699,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/28aafcc7a5d268b3ea99",
+        "@id": "/.well-known/genid/14f35144b4ec7d66ba82",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -29722,7 +29722,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/d6e4a316484529676de5",
+        "@id": "/.well-known/genid/e8c47d56d462930f656f",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -29869,7 +29869,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/871fef16d539d7a1cb48",
+        "@id": "/.well-known/genid/33b5e6efd5ace6212058",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -29892,7 +29892,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/1af38eac361667a60fd5",
+        "@id": "/.well-known/genid/98586559d59765dd51e3",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -30039,14 +30039,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/055fac52cf8e03d87a7f",
+        "@id": "/.well-known/genid/051cfb1245aec29dfcc5",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e3de39fee8cbedc0abb0",
+        "@id": "/.well-known/genid/047001116e7b4b78ee70",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -30202,14 +30202,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/366c2cda00ccde832e68",
+        "@id": "/.well-known/genid/103dd6b5e71941a42b9e",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/888e10a629c56d6bc61d",
+        "@id": "/.well-known/genid/42a674bb6bf7d35cde65",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -30365,14 +30365,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a87bc03c0575477aecf6",
+        "@id": "/.well-known/genid/56a2864ccce9787ea3ff",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8be7c7482e5327524a04",
+        "@id": "/.well-known/genid/dff457ea7cdc58ec84a6",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -30395,7 +30395,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/8222e35228a5b8a788d4",
+        "@id": "/.well-known/genid/6a254ef535780775a759",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -30408,7 +30408,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c8c01bb41f1d1747357a",
+        "@id": "/.well-known/genid/2515f42a59f9135bb2a4",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -30555,14 +30555,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/069505b53b8004553049",
+        "@id": "/.well-known/genid/1af8eb37ae570c8b0b12",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/47e8fee065a069e57425",
+        "@id": "/.well-known/genid/f13f0f38b8b564e451bd",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -30585,7 +30585,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/bf3be5be0a23bafe5192",
+        "@id": "/.well-known/genid/4a7b8824dbb060e7d2c8",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -30598,7 +30598,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/688c14401fbc5e67a17c",
+        "@id": "/.well-known/genid/61f6f938817bf4346701",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -30745,7 +30745,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/af23516175300a95d28d",
+        "@id": "/.well-known/genid/8f38d40ebf141803c87e",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -30768,7 +30768,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/4450fa4f2767c55c8fe0",
+        "@id": "/.well-known/genid/93b3c7edde487d67916a",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -30781,7 +30781,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/6cc1d8888e943aa62d8a",
+        "@id": "/.well-known/genid/6c9bef7b65b34ddc1266",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -30928,7 +30928,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/869d6fee15f09553f9a5",
+        "@id": "/.well-known/genid/c82e9ab6eb60e230c8fb",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -30951,7 +30951,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c536bec3319113a6aabd",
+        "@id": "/.well-known/genid/912c4bcd3309993ade09",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -30964,7 +30964,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/b623f05a0b3dea268511",
+        "@id": "/.well-known/genid/9d76316a39f7b93520d4",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -31111,14 +31111,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9e676cfa32009f003080",
+        "@id": "/.well-known/genid/0f7402749c1ad86b4b31",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a40091e1510ead12fa8a",
+        "@id": "/.well-known/genid/29b4d3908c1b0144987f",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -31274,14 +31274,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/278aa3588592a3d89e51",
+        "@id": "/.well-known/genid/03d7118e293096205bd8",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ab56d71c612182436809",
+        "@id": "/.well-known/genid/b0bb738ff8192c3d1afa",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -31437,7 +31437,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cfc7a32232f2f1a1ebb4",
+        "@id": "/.well-known/genid/946ee12416768e742296",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -31590,7 +31590,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4744fe13f355654f437a",
+        "@id": "/.well-known/genid/983748a73d541717a843",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -31743,7 +31743,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/afc2ba2d231082aa2697",
+        "@id": "/.well-known/genid/843cd65f106cc6059875",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -31895,7 +31895,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6a9efebb732b3fc405aa",
+        "@id": "/.well-known/genid/329ee5beca791169aa27",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -32046,7 +32046,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8a8dc94233506f56baff",
+        "@id": "/.well-known/genid/6f00050faef74e2a8e36",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -32197,7 +32197,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7f7602b0df8e8729a733",
+        "@id": "/.well-known/genid/0beab80b770cab6cdf5b",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -32348,7 +32348,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/670cd55ce8d5e1295bbf",
+        "@id": "/.well-known/genid/2429db66e6373da43a7b",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -32499,7 +32499,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fdb7e817f9884cc86c87",
+        "@id": "/.well-known/genid/1dc9a90f898c52f8adc8",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -32651,7 +32651,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fc9789c627f244c02e72",
+        "@id": "/.well-known/genid/d2789b6b3f9b074eb7ad",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -32674,7 +32674,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/6fb314657fbcc03e39fc",
+        "@id": "/.well-known/genid/7d4da0e0cac7063e3fcb",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -32816,7 +32816,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3ab4ae7ff84467059a67",
+        "@id": "/.well-known/genid/38fa552261407bd5a9d5",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -32839,7 +32839,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/5eb0f24586325ecc041b",
+        "@id": "/.well-known/genid/f96580588c0c9b7d6bc5",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -32982,14 +32982,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/60313f8e3a228be60c7e",
+        "@id": "/.well-known/genid/4cbceaf836eb8865718f",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b24c91d94d0f5ac137c8",
+        "@id": "/.well-known/genid/22489a1e0728445c7540",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -33145,7 +33145,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/16bd92d82b0280b0493e",
+        "@id": "/.well-known/genid/f4a9966012f950d035a7",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -33302,14 +33302,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f541d093ffff846c4ed4",
+        "@id": "/.well-known/genid/51ecd0c40ee5c39517b9",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7496b33db16ff7cbaf2a",
+        "@id": "/.well-known/genid/daa9630abd319c7bd8a3",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -33465,7 +33465,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/35a04203f8eb73b0f29e",
+        "@id": "/.well-known/genid/52be39f3c77df86932aa",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -33565,7 +33565,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b6765d6e1bc2683f006c",
+        "@id": "/.well-known/genid/d077d239ebcf99085461",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -33669,7 +33669,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/656df19f7349a9559649",
+        "@id": "/.well-known/genid/77dd563de6d16dcc63a6",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -33824,7 +33824,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c8f7d482e0d29ae76ba4",
+        "@id": "/.well-known/genid/3b104dbb23f7ff3e492e",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -33975,7 +33975,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a886af25d9796141b492",
+        "@id": "/.well-known/genid/f2c2f7c53ea3f3a02dd4",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -34127,7 +34127,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/80129261fa3f447719be",
+        "@id": "/.well-known/genid/6bc05b6ddd914a0719ab",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -34283,14 +34283,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7ea159ee7824d145d183",
+        "@id": "/.well-known/genid/5b3d02f1ef170cffb2f5",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/26ac6f57cea5ce382c78",
+        "@id": "/.well-known/genid/5430522a191d38fa95c7",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -34447,14 +34447,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e5361333069131cb4c1c",
+        "@id": "/.well-known/genid/e288a1221fa895615f1a",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f2a5cbe3e650aede95d6",
+        "@id": "/.well-known/genid/352a391a88a133840235",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -34477,7 +34477,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/2ea5bd914840784a0d3e",
+        "@id": "/.well-known/genid/2b7913eaa08bdbc5fff6",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -34624,7 +34624,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5ce764f9b35ca6d8ea9c",
+        "@id": "/.well-known/genid/7dedd54457b53d848102",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -34647,7 +34647,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/157f4834a9a4e82fc9af",
+        "@id": "/.well-known/genid/e0ee92ef2d58bff9992e",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -34790,14 +34790,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/44d0af8d748acc106ed5",
+        "@id": "/.well-known/genid/53ae0c6012cc04ad817b",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bc7d74044e0e9329c24d",
+        "@id": "/.well-known/genid/eeec967d183ef81cb291",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -34953,7 +34953,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/37703dd204b0cb9eb89b",
+        "@id": "/.well-known/genid/56cf2402d6c900d493e3",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -35105,7 +35105,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9c7f914ead61ece83bed",
+        "@id": "/.well-known/genid/7cfadfb964b047fb9e5c",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -35257,7 +35257,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/824b4283e9baeef61b8a",
+        "@id": "/.well-known/genid/83b142870eec8425bf9a",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -35413,7 +35413,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/22a73bf94eae3d37999d",
+        "@id": "/.well-known/genid/e989dd368142ff41157e",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -35570,7 +35570,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/db9fe9a68efab0e813cf",
+        "@id": "/.well-known/genid/a85e3984eba27ff9d929",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -35593,7 +35593,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/d4bd1f3b8410d1985d16",
+        "@id": "/.well-known/genid/2536861f0197c0f45caf",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -35606,7 +35606,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7dcdbb25014396058d39",
+        "@id": "/.well-known/genid/e035b17d2dfe816dafc2",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -36049,7 +36049,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fbb88dae6cbc7f633ce3",
+        "@id": "/.well-known/genid/bcf644f581a2af306927",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -36203,7 +36203,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f1c0a4e44363e6d116ad",
+        "@id": "/.well-known/genid/88c307082807cd62da1b",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -36359,7 +36359,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1eb4347565660da6c85b",
+        "@id": "/.well-known/genid/f0f6078fa2441ec428c7",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -36515,14 +36515,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/38c10d083ec67b62ffff",
+        "@id": "/.well-known/genid/bec9ecd4464503d8bb00",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b89f3aaf0cc945970276",
+        "@id": "/.well-known/genid/6b6113baafd0c14af211",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -36679,14 +36679,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e1e011a68c0432f32bfd",
+        "@id": "/.well-known/genid/1b85ea1bb4d3588e5389",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ce4b82ad9018e82758c2",
+        "@id": "/.well-known/genid/faf64e41e2ca6907918c",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -36843,14 +36843,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0db8df0f3eaa698d40e5",
+        "@id": "/.well-known/genid/f83746ec825e511c8895",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cc09d520a0cbc6959854",
+        "@id": "/.well-known/genid/963a5d3c97045daadb57",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -37006,14 +37006,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b3efa155bd146c587eed",
+        "@id": "/.well-known/genid/49af53922de93d656a27",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6cb75480ebc5f6cf44a1",
+        "@id": "/.well-known/genid/c8fbf70c48b71e962257",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -37169,7 +37169,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0856f5a0c84cac5d22cb",
+        "@id": "/.well-known/genid/2b2d6f1aeae03437f805",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -37325,7 +37325,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dfd97621223657651763",
+        "@id": "/.well-known/genid/e693b1fcdef4e71c2111",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -37481,7 +37481,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/38099bcc9903edab0da1",
+        "@id": "/.well-known/genid/701de66e17156bcaf245",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -37637,7 +37637,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/209cfb2b83972221069a",
+        "@id": "/.well-known/genid/a843d749c48330c612e4",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -37794,7 +37794,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/040bba83475a2a55bc6c",
+        "@id": "/.well-known/genid/08205f02fc23a8e5a5f5",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -37950,7 +37950,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e5a73d5e017368d859e0",
+        "@id": "/.well-known/genid/5f3c593505b6c18b5fb7",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -38106,14 +38106,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/33ff31075e6e5b28ab31",
+        "@id": "/.well-known/genid/6d06dd4a5d6049d1c11a",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a5e4102d78d6606f495f",
+        "@id": "/.well-known/genid/352d5bd0201b886262f2",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -38269,14 +38269,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5a68c213be1f2e64d76e",
+        "@id": "/.well-known/genid/f4262477bb5d66ee9001",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b59ba84c99b34639148d",
+        "@id": "/.well-known/genid/62b34824d7f713f90126",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -38432,7 +38432,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f7cb6483b6d4279f8e81",
+        "@id": "/.well-known/genid/76825b487e9cf2295240",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -38584,7 +38584,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d988b2f64ac88912a4b0",
+        "@id": "/.well-known/genid/ecf31c3da0f9b120c730",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -38736,14 +38736,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5b7e66437ea2f67d1592",
+        "@id": "/.well-known/genid/1466e0c8b31cefaef799",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d6fe238c478e74e01095",
+        "@id": "/.well-known/genid/eb1f2caaf862b3ee7b6c",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -38899,14 +38899,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bcb66f859c7533f2e1cb",
+        "@id": "/.well-known/genid/229c8df2c5992316bda2",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dbdceb49b7b79f885ba3",
+        "@id": "/.well-known/genid/0ffa7724ce101950569a",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -39062,7 +39062,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5f564856cd5d61b3ab3d",
+        "@id": "/.well-known/genid/52777751ff4764d68872",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -39085,7 +39085,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/337dc75964c78548cf94",
+        "@id": "/.well-known/genid/837a4eb30729a308fb16",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -39228,7 +39228,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/021567aed8a3e27849ae",
+        "@id": "/.well-known/genid/d847380f29b3560188ab",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -39251,7 +39251,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/652a890fbc6477fcb2e5",
+        "@id": "/.well-known/genid/775c988381785c54df19",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -39394,7 +39394,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1e5fc195fc34144da4fc",
+        "@id": "/.well-known/genid/75b7dc6edf9165d636b0",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -39546,7 +39546,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/00167f848ac03e5a186f",
+        "@id": "/.well-known/genid/2507411eb61b26dc0076",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -39698,7 +39698,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3c5336395df0939cc87d",
+        "@id": "/.well-known/genid/c1360c4108c176f731b2",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -39850,7 +39850,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/957b473a45263e88d820",
+        "@id": "/.well-known/genid/07c2fda69284cce57f4f",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -40001,7 +40001,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bd64a819f02217985be1",
+        "@id": "/.well-known/genid/96d494a560bf8d4ddf41",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -40152,7 +40152,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6673670cfb235952391b",
+        "@id": "/.well-known/genid/253c7c439ce93b432d88",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -40304,7 +40304,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1a580e1a8651bd91f150",
+        "@id": "/.well-known/genid/0dbfbe1eefceaa4732cf",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -40460,7 +40460,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e0788044427e3f8a8088",
+        "@id": "/.well-known/genid/5f5beeae9c2545aac756",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -40615,7 +40615,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c754d1b8e18c288cf4a7",
+        "@id": "/.well-known/genid/1d86050dbc4c2045bd59",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -40638,7 +40638,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/28144c0ae6c9bc245feb",
+        "@id": "/.well-known/genid/2e3a4796cbe614f15b8b",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -40780,7 +40780,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0dc316516183f2c6427b",
+        "@id": "/.well-known/genid/f9615eb0943c5ad69373",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -40803,7 +40803,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/72414276a7eec040faf8",
+        "@id": "/.well-known/genid/5f75936958baadfb8da5",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -40946,7 +40946,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/695575711553df18d194",
+        "@id": "/.well-known/genid/4d0e55d3855ad6c8df49",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -41103,14 +41103,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d8294b2fb6e0922db6b7",
+        "@id": "/.well-known/genid/9ecbb1d586e6fdcf8dd9",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b43e86189815b366ac21",
+        "@id": "/.well-known/genid/473abe135a38a9ce48a0",
         "reference": "FAIRY",
         "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
         "name": "Fée"
@@ -41266,7 +41266,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/adc480412d4d0afa6ec4",
+        "@id": "/.well-known/genid/ae8290daa0486afc851c",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -41417,7 +41417,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c7428430100055f11bbf",
+        "@id": "/.well-known/genid/20da90b9a43f5c526e06",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -41517,7 +41517,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d4a535af6faf9b388842",
+        "@id": "/.well-known/genid/433a1a5c52368e6a282b",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -41621,7 +41621,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8b5d4dbb40365f157123",
+        "@id": "/.well-known/genid/37b2eb17a1c2d8ecb739",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -41776,7 +41776,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ae806c3d84bb21fb2fbc",
+        "@id": "/.well-known/genid/e771f381d8c77ce20f79",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -41876,7 +41876,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ca1964da1aaaec7098c0",
+        "@id": "/.well-known/genid/228d1dffcdc67574eab8",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -42031,7 +42031,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9559778ec6243bb3c392",
+        "@id": "/.well-known/genid/ee55870ed36cd1531abc",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -42131,7 +42131,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3bff472f0e488ba50b1f",
+        "@id": "/.well-known/genid/476505867c79de080f2d",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -42235,7 +42235,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9d38d80da267218e363d",
+        "@id": "/.well-known/genid/f2e5029b6ec4b57acec0",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -42391,7 +42391,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e9898ef4ca33507fdf78",
+        "@id": "/.well-known/genid/1287735b1b93e46d3520",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -42542,7 +42542,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/97d30d0d1c598b969017",
+        "@id": "/.well-known/genid/bad299445373c0af733b",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -42694,7 +42694,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2ab3b3311b49d927e3ab",
+        "@id": "/.well-known/genid/478f74d530991b7e0289",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -42717,7 +42717,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/208fd7604a7778ab9df8",
+        "@id": "/.well-known/genid/f0084f5c9aff254c2ee2",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -42864,7 +42864,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d6d87ab89d33feed2a20",
+        "@id": "/.well-known/genid/f5f0e14c310f671cfd36",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -42887,7 +42887,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/2c771f8ceac69e319e8e",
+        "@id": "/.well-known/genid/4d7849bdb996b5ac1164",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -43034,7 +43034,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8aaa2c668bdb7db43777",
+        "@id": "/.well-known/genid/d81dca5f4c05145cc087",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -43057,7 +43057,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/fd415391c7252d40c5a1",
+        "@id": "/.well-known/genid/83087e03582bee2bbab1",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -43203,7 +43203,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/57da9583936512a38cd8",
+        "@id": "/.well-known/genid/d4c1ffd1f1f5945e1fc9",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -43226,7 +43226,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7c1a3340ac8c524be182",
+        "@id": "/.well-known/genid/9d7a800608c2bf7882b2",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -43239,7 +43239,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/4f3d8c7bd3de4fe9435e",
+        "@id": "/.well-known/genid/91146df494adb35d56c6",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -43382,7 +43382,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d5f2600b96b611b4174a",
+        "@id": "/.well-known/genid/b1474c1b8f7b58306244",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -43405,7 +43405,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/673be68dd73f4846069a",
+        "@id": "/.well-known/genid/c8967d8fa2639e92f242",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -43418,7 +43418,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/224555a57f1fc4f9d416",
+        "@id": "/.well-known/genid/f3aece5ef254e9288a9a",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -43565,7 +43565,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9bbba4322ac75a65c0bf",
+        "@id": "/.well-known/genid/ba33dd9cc654008b933f",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -43588,7 +43588,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/994ce3fe024493f62d80",
+        "@id": "/.well-known/genid/4e98a88edffda8ee5c15",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -43731,7 +43731,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8844ef9e05c9bda2db9c",
+        "@id": "/.well-known/genid/f89dd1c0957b1bf76ceb",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Citoyen"
@@ -43887,7 +43887,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/833c10880c8c5eaca787",
+        "@id": "/.well-known/genid/91f2d5c400730249b7cb",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -44043,7 +44043,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7ebef543012b8e7871d9",
+        "@id": "/.well-known/genid/8c32159aea0a87c452b6",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -44195,7 +44195,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/29eac1cb4b08977d3f2e",
+        "@id": "/.well-known/genid/c9f2828d98b1810067fc",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -44346,7 +44346,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9c83d5a39c6295e1b0c7",
+        "@id": "/.well-known/genid/0d955803fc64104d3db8",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -44369,7 +44369,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/1d4d7715836b9d20d494",
+        "@id": "/.well-known/genid/2e3f502415c6e019443d",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -44512,14 +44512,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/56ca41ec0ad877b3eedd",
+        "@id": "/.well-known/genid/06c5f0d1c54205779ebc",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6313747756512dbaf083",
+        "@id": "/.well-known/genid/257d39d94a05cf71e4e5",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -44676,7 +44676,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/51abc1d9eff1913148af",
+        "@id": "/.well-known/genid/a093ee613a20b4e46fcc",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -44832,7 +44832,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/34f15a84eab2923248a7",
+        "@id": "/.well-known/genid/4226e8d39bacea34ac06",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -44983,7 +44983,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b62f847885a4e4791eef",
+        "@id": "/.well-known/genid/7cd415a2cda9c1fdf108",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -45134,7 +45134,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9dee6c756d26172645de",
+        "@id": "/.well-known/genid/631a34d6d776599d9f55",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -45157,7 +45157,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/57c565f51392d7e3e10e",
+        "@id": "/.well-known/genid/4c5246cfd83a79eb69f6",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -45596,7 +45596,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/48fa6534ee0435d3d0f0",
+        "@id": "/.well-known/genid/04f7e554102e75b3caf0",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -45752,7 +45752,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ca996dbab724e61cac59",
+        "@id": "/.well-known/genid/62f4618a950ecea41877",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -45909,7 +45909,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/87572333b8186532687f",
+        "@id": "/.well-known/genid/e4712a62f189f808e95e",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -46065,7 +46065,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0d11b9a83e371e4da501",
+        "@id": "/.well-known/genid/5fa3db196d0d4f461639",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -46222,14 +46222,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7635a19a00b3a7fed6db",
+        "@id": "/.well-known/genid/cb8d80ec5c7389bcff37",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cd4046b26d6910d5962e",
+        "@id": "/.well-known/genid/85f9d2dc4f201261a503",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -46385,14 +46385,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dd98e36514d6483d19d9",
+        "@id": "/.well-known/genid/222164e6085246aeb3ea",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c7e10fe37258d447c605",
+        "@id": "/.well-known/genid/c04c84cb714a481f0ad8",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -46548,7 +46548,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/50f19bbd3302004a48dd",
+        "@id": "/.well-known/genid/d3e246ac36c7daa97c56",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -46704,7 +46704,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ca70d2480d065481d830",
+        "@id": "/.well-known/genid/99e86f24ef677f6b5fe0",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -46860,7 +46860,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d3d191333df6b537115a",
+        "@id": "/.well-known/genid/4b4fd8d688b948f03449",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -47016,7 +47016,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/302607e5731b7fc9fb39",
+        "@id": "/.well-known/genid/d52ea2a7cd887b36dfe2",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -47173,14 +47173,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3d2cb605d7202972652a",
+        "@id": "/.well-known/genid/0d568300ba1c1497ba78",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/12148f44f11cc546715f",
+        "@id": "/.well-known/genid/5cf2ac16208dc15b589f",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -47332,14 +47332,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/91b1f3899fbdd488a2c8",
+        "@id": "/.well-known/genid/e12b951eb0d937f76337",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/de0b44ce448c6673263a",
+        "@id": "/.well-known/genid/d1d286386006cb5d893c",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -47491,14 +47491,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b6648bd24252e4e493c1",
+        "@id": "/.well-known/genid/f99d98c511ed840fa4cc",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/47f369a884e905fa8cc7",
+        "@id": "/.well-known/genid/063d6eb7d42d3c334194",
         "reference": "FAIRY",
         "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
         "name": "Fée"
@@ -47654,14 +47654,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6a55d28de6b3a3381dd7",
+        "@id": "/.well-known/genid/fded5570d3a93592815c",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fb8e58541bd037816e5b",
+        "@id": "/.well-known/genid/45aab693bbfc17856483",
         "reference": "FAIRY",
         "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
         "name": "Fée"
@@ -47817,7 +47817,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f1577ac46d1b2b0f799e",
+        "@id": "/.well-known/genid/1cdf9c0ab49ebdad09c0",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -47969,7 +47969,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3a87e59440e4336dd0e9",
+        "@id": "/.well-known/genid/c1545311a65c5afa496d",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -48121,7 +48121,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/286d32aff72916c0007a",
+        "@id": "/.well-known/genid/cec6853a7a5485175805",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -48273,7 +48273,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ec0913031ba62ea5fffa",
+        "@id": "/.well-known/genid/099eda2d18a5287eb3e9",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -48425,7 +48425,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/26cae25b4b69ce9eb74b",
+        "@id": "/.well-known/genid/1d47fb912c2536f0755e",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -48577,7 +48577,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2431f95a20c3a47628ae",
+        "@id": "/.well-known/genid/392eb78037bbb7ae98d7",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -48729,7 +48729,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/129e53e39284dd99514a",
+        "@id": "/.well-known/genid/ba4685783a40927fd99b",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -48881,7 +48881,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/610fc7c100b97e19692f",
+        "@id": "/.well-known/genid/5974ca4096da8213ae3d",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -49033,7 +49033,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d465cf4b7e67abe19281",
+        "@id": "/.well-known/genid/2faef3bad2dd20fd1fd2",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -49185,7 +49185,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b126acf9fa7afaf6aadd",
+        "@id": "/.well-known/genid/e3f23315f3110cbd8085",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -49336,7 +49336,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e0d92ffa6145669c6d7d",
+        "@id": "/.well-known/genid/91233c75593c6099c1cc",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -49487,7 +49487,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e691259a4bb19b71fffd",
+        "@id": "/.well-known/genid/4837744ef72786cbe78b",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Matos"
@@ -49638,7 +49638,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/83a926becd572937e61e",
+        "@id": "/.well-known/genid/316e7c9ceaf8df5b3eef",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -49789,7 +49789,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/83d948032b4c1039d6cf",
+        "@id": "/.well-known/genid/43bd9f92c1a78a97cf75",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -49940,7 +49940,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b21e3c689bae8265bef3",
+        "@id": "/.well-known/genid/893d569e1b447511712a",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -49963,7 +49963,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/33ca05406bd3607e81d7",
+        "@id": "/.well-known/genid/f7bad03bdfab02f34f69",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -49976,7 +49976,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/afcd79befe37825448c2",
+        "@id": "/.well-known/genid/deacc632bbee49a1f3c7",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -50118,7 +50118,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a8ad9b396c42ed179eae",
+        "@id": "/.well-known/genid/18faef2849372c9d3be9",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -50141,7 +50141,7 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/95ed398805883b90e824",
+        "@id": "/.well-known/genid/53e4ec6990553ade4aac",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -50154,7 +50154,7 @@
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a328c9ae7d85d2f66818",
+        "@id": "/.well-known/genid/dd87f372a6618e3eca95",
         "gameType": {
           "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
           "@type": "GameType",
@@ -50297,7 +50297,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9ac579a46e3ff03c4e54",
+        "@id": "/.well-known/genid/b333a3f7ecea2ea47301",
         "reference": "ILLUSION",
         "id": "01J1QBG2268GSN3G0S560XZGZY",
         "name": "Illusion"
@@ -50594,7 +50594,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/32d656c3c30e0297cb7c",
+        "@id": "/.well-known/genid/d31a4adcc8660c0f2ec4",
         "reference": "ILLUSION",
         "id": "01J1QBG2268GSN3G0S560XZGZY",
         "name": "Illusion"
