@@ -44,7 +44,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b1f0f1e840c4a4fdda16",
+        "@id": "/.well-known/genid/ed99a6aebdbb0b5a0fbe",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -148,7 +148,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/14047c44c2c7e7ce38c7",
+        "@id": "/.well-known/genid/99081b42b13838782b35",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -303,7 +303,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8c690d1fc387007f25a5",
+        "@id": "/.well-known/genid/993a88c15082665080fe",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -454,7 +454,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/413a859fc7ca25402137",
+        "@id": "/.well-known/genid/939cfc766879d082264f",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -605,7 +605,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/221226acf244d95b3303",
+        "@id": "/.well-known/genid/534b51266f5daecd6f24",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -756,7 +756,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4bb4de1f4a07d6ac54ed",
+        "@id": "/.well-known/genid/e85b500199d93346e6ea",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -956,7 +956,7 @@
       "RECALL_COST": "0",
       "RESERVE": "2",
       "PERMANENT": "2",
-      "MAIN_EFFECT": "Wenn du eine Bleibende Karte mit Handkosten {3} oder mehr spielst — Du darfst mich erschöpfen ({T}), um eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl zu erschaffen."
+      "MAIN_EFFECT": "Wenn du eine Bleibende Karte mit Handkosten {3} oder mehr spielst — Du darfst mich erschöpfen ({T}), um eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl zu erschaffen."
     }
   },
   {
@@ -1204,7 +1204,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f679ba04c8cfaa0a83de",
+        "@id": "/.well-known/genid/b62f45495a48ef56e511",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Roboter"
@@ -1358,7 +1358,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/40e8e27c1579637c0ffc",
+        "@id": "/.well-known/genid/74dd3895535a39b2435b",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Roboter"
@@ -1514,7 +1514,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/47ce99c5115a206f18a0",
+        "@id": "/.well-known/genid/270d670d6e3a7ddeee5b",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Roboter"
@@ -1670,7 +1670,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e8b68700c39554983dd5",
+        "@id": "/.well-known/genid/e7c3323c7782121bf2f5",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -1693,13 +1693,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/b00f13155a382af1474e",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/649d640f70271471a54f",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:18+00:00",
         "question": "Can the effect of Rocket Puffin ready a card in another player's Reserve?",
         "answer": "Yes."
@@ -1840,7 +1835,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8f7617feac9e83117316",
+        "@id": "/.well-known/genid/cfa0d7552b0b9a7c591e",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -1863,13 +1858,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/9eec61093cd690de473e",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/d3e79e299db197a08633",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:18+00:00",
         "question": "Can the effect of Rocket Puffin ready a card in another player's Reserve?",
         "answer": "Yes."
@@ -2010,7 +2000,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f416c7d7c148b016e6d1",
+        "@id": "/.well-known/genid/14a92fc2a3e59a23c021",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Bürger"
@@ -2166,7 +2156,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/15ddcba785291d06d8ce",
+        "@id": "/.well-known/genid/e4785ff1607c664ac6b0",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Bürger"
@@ -2189,13 +2179,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e1a08a97d93ac265c131",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/e98aa31f5e19054becbc",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:19+00:00",
         "question": "If both my Reserve and Hand are empty as I play the Rare version of 'The Little Match Girl' from Reserve, do I draw 2 cards at once or one then another (for effects such as Quetzalcoatl \"When a player draws one or more cards —\")?",
         "answer": "You draw twice, as two separate instances. (Note that you still finish resolving the effect of The Little Match Girl before resolving the effects it triggered, in the rare situations where it matters.)"
@@ -2336,7 +2321,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a9191c68106fbf4611f4",
+        "@id": "/.well-known/genid/f6ec22eeac5f23c90848",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -2359,13 +2344,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/23ef7febcbe240a5095b",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/731a8a56bb43213dd9b1",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:20+00:00",
         "question": "When I play an Exhausted Character or Permanent from Reserve thanks to Vaike, does it arrive in the Expedition/the Landmark zone ready or exhausted?",
         "answer": "Ready!"
@@ -2506,7 +2486,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4fc95a16b3edcf45b652",
+        "@id": "/.well-known/genid/0489d33cb6924944014d",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -2529,13 +2509,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/d05724c0a25600c87938",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/8700636aef041eaff381",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:20+00:00",
         "question": "When I play an Exhausted Character or Permanent from Reserve thanks to Vaike, does it arrive in the Expedition/the Landmark zone ready or exhausted?",
         "answer": "Ready!"
@@ -2676,7 +2651,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/527e46475fcb1658e5dd",
+        "@id": "/.well-known/genid/9132d1070f3c246dcc5b",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -2831,7 +2806,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a022d65c460ca1a267c1",
+        "@id": "/.well-known/genid/f9278442411befcd8ec6",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -2987,7 +2962,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/30fc19783dab26b662ce",
+        "@id": "/.well-known/genid/2770bcbc1e24e04c083e",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -3010,13 +2985,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/87f9d45a6c897b8b6a4d",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/a2be80b51e9ef1b537ea",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:10+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -3157,7 +3127,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1d84c409c4cec168d082",
+        "@id": "/.well-known/genid/d4b978ee8694ad0d09d0",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -3180,13 +3150,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a38abdae06be7147688b",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/1bd565ed4311e521d3e4",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:10+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -3327,7 +3292,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4cd9883ddb6f75684be0",
+        "@id": "/.well-known/genid/13a1140375cf90d4eeaa",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Roboter"
@@ -3483,7 +3448,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d6271433c2795e04777f",
+        "@id": "/.well-known/genid/c38daa392bcce5ce3990",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Roboter"
@@ -3639,7 +3604,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c9b71448d7b0426fb6a1",
+        "@id": "/.well-known/genid/557fdec2bcf515794bba",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -3795,7 +3760,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3c47a7f8e2f3aff67312",
+        "@id": "/.well-known/genid/2a4027b169f5ee540beb",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -3951,14 +3916,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0569d0a4e650be1ae6e5",
+        "@id": "/.well-known/genid/50ade0c575a6d8968f50",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/271afd4912488c92e145",
+        "@id": "/.well-known/genid/54900762307c85d8e427",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -4115,14 +4080,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/70ac649ba3d5a27e10c7",
+        "@id": "/.well-known/genid/4df974d41bb311ca3065",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2fda7e83bc41fee580ca",
+        "@id": "/.well-known/genid/b918ccb0aa772de01775",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -4145,13 +4110,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/d930df00099c2de913fb",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/0b8d13f5a4c6cde1f0d3",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:13+00:00",
         "question": "Can Rare Gibil create Brassbugs in two different Expeditions?",
         "answer": "No. "
@@ -4293,7 +4253,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3f8cb77fb7841f09e42e",
+        "@id": "/.well-known/genid/c8a2b6ef5d92b90dbdee",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Beschwörung"
@@ -4445,7 +4405,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a86b82a69d8c3f632eff",
+        "@id": "/.well-known/genid/22cb6ef9d1bfde9e2ca5",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Beschwörung"
@@ -4468,13 +4428,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/486e2706a3e2891ddfda",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/4e1bc6d4de8773dc4318",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:12+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -4611,7 +4566,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4c08523c726e34579a14",
+        "@id": "/.well-known/genid/263a4504fee2a8258ba3",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -4634,13 +4589,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/5a403ccfcc1fc67ef139",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/3d880ee7830384102f0f",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:10+00:00",
         "question": "Do the boosts of a Character count towards the stat limit?",
         "answer": "Yes."
@@ -4777,7 +4727,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6f2d523aa9a3f7a308c7",
+        "@id": "/.well-known/genid/bc327bf502e07a162163",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -4800,13 +4750,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/ea3033d0ba122e8ee01e",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/e1c23bd2691e66ba52b7",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:10+00:00",
         "question": "Do the boosts of a Character count towards the stat limit?",
         "answer": "Yes."
@@ -4942,7 +4887,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b6b0ceca1c938f3e5f31",
+        "@id": "/.well-known/genid/aa4c7322a047c2f8f8bc",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -4965,26 +4910,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/bcebd3374c4c30c14a0f",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/28652ee4e6e5176a7d39",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:16+00:00",
         "question": "When I play an Exhausted Character from Reserve thanks to Kelonic Heater, does it arrive in the Expedition ready or exhausted?",
         "answer": "Ready!"
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7a782a76c7efeb70ca3b",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/8e2637b3cb71c04cb1cb",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:16+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -5120,7 +5055,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5da6f51a68c591efc9d5",
+        "@id": "/.well-known/genid/9fecf0167145eb7ae220",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -5143,26 +5078,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/90d5f0358a06a86f4ed4",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/0b83bf688393b60c2d9b",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:16+00:00",
         "question": "When I play an Exhausted Character from Reserve thanks to Kelonic Heater, does it arrive in the Expedition ready or exhausted?",
         "answer": "Ready!"
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e8edbd7187eb71752307",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/96323c1c988eaf23cd6f",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:16+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -5299,14 +5224,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4852441c82480f35e80e",
+        "@id": "/.well-known/genid/54f82101b4aecefc1ab2",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Adliger"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c9e309100b216ff08061",
+        "@id": "/.well-known/genid/d1793370507b30d64abc",
         "reference": "SCHOLAR",
         "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
         "name": "Gelehrter"
@@ -5462,14 +5387,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ea7556f75413f9032e7c",
+        "@id": "/.well-known/genid/a188142c7378a74b7884",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Adliger"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e04f1b6a0dd40b1f96c2",
+        "@id": "/.well-known/genid/c502b0b62a1c358ae67c",
         "reference": "SCHOLAR",
         "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
         "name": "Gelehrter"
@@ -5624,7 +5549,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/50ec30e59b7db8399a88",
+        "@id": "/.well-known/genid/11d798732a504e0c3d5b",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Konstrukt"
@@ -5647,13 +5572,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/38d546363ceb6ce2eafe",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/379647a8111215d46014",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:12+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -5789,7 +5709,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1cc7bd71712daeb61997",
+        "@id": "/.well-known/genid/5b445070a4b0d62656c3",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Konstrukt"
@@ -5812,13 +5732,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/72c6092fab92e5343f71",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/45a8bb1409bf770e9ced",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:12+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -5954,7 +5869,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c263b58d824223a23f20",
+        "@id": "/.well-known/genid/41c60ae86cf78f548647",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -5977,13 +5892,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e4f50861fcdf3459a2ca",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/b53402ab2c6a56f60fb1",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:13+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -6119,7 +6029,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/118d801138b690a88dd1",
+        "@id": "/.well-known/genid/4470768cf49a565b588e",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -6142,13 +6052,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7fc27b1d12cad8c4d5c0",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/3712e254b43ce6417a1e",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:13+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -6285,7 +6190,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/051245e20fad0f6c361b",
+        "@id": "/.well-known/genid/0eae6441ea6ae949fc0f",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -6441,7 +6346,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/462eac8a2b46f8911d10",
+        "@id": "/.well-known/genid/5bd9b740d4a53fb37c00",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -6596,7 +6501,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b77c075085322cef136b",
+        "@id": "/.well-known/genid/06dfa52d76d72fafb01c",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -6747,7 +6652,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2e087138dc96313fee89",
+        "@id": "/.well-known/genid/3bde1d23f7b1a5fbd5e3",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -6898,7 +6803,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b41d64ac92c41134ed49",
+        "@id": "/.well-known/genid/bb40ad36374ff21a0016",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -6921,26 +6826,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/bd42c2f62ce51d54bda3",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/e5f8ca67790a174f9e89",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:15+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/3009f46b46186afdd98f",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/d13e6bbd21e2c785afbf",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:15+00:00",
         "question": "If I control a Character which is already Fleeting, and some effects gives it Fleeting again, what happens?",
         "answer": "Unless there's a specific exception (such as the Common version of Gericht, Revered Duellist), a Character which already has a status cannot gain it again. Your Fleeting Characters therefore cannot gain Fleeting (and therefore do not add an additional Trial counter to the Icebound Peak)."
@@ -7077,7 +6972,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/181a43b903415c88c953",
+        "@id": "/.well-known/genid/7e008bd354cf4bd6fdd0",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -7233,7 +7128,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c9183b64cdfaa2b7b9b9",
+        "@id": "/.well-known/genid/4f76c0fae3e63d52750d",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Bürger"
@@ -7256,13 +7151,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/0b25ca1273276496275f",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/54b23fbf9ebd688d7c63",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:18+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -7403,7 +7293,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/db9b25997ec22880d32a",
+        "@id": "/.well-known/genid/44f91b4f70a3136aefe1",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -7559,7 +7449,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c9e7838dfe824b5ddffe",
+        "@id": "/.well-known/genid/f18f4a486be95e6d19e8",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -7715,7 +7605,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/51b8a481e98e0a54d068",
+        "@id": "/.well-known/genid/54ae664bc1eb054f7d7f",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -7872,7 +7762,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/965bfd43f1edd9aaa7db",
+        "@id": "/.well-known/genid/3bd52408ea8991555be6",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -8024,7 +7914,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2e4b76dbdb2f13a21c44",
+        "@id": "/.well-known/genid/1d3b056f104d6e3ccec5",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -8175,7 +8065,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/837adf586f9653c0d1ff",
+        "@id": "/.well-known/genid/aab6d52da9df3ff8f28d",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -8326,7 +8216,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5b75dc7c026a25f4609c",
+        "@id": "/.well-known/genid/d60247ff3819814687c3",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -8349,26 +8239,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/69d56cd379d9e62d86b9",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/5e959d9214671d3a1f2a",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:14+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/5ba25a9a0c77a597d865",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/c084bd5284e0cbf40187",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:14+00:00",
         "question": "If I exhaust two cards in Reserve as part of the same effect, do I gain 1 or 2 Trial counters on Icebound pass?",
         "answer": "You gain 1 counter for each card you exhaust."
@@ -8453,7 +8333,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c875dfc7e527ba55bac5",
+        "@id": "/.well-known/genid/4747817d9af4d22af902",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -8557,7 +8437,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/977d72acf7f7693aa0cd",
+        "@id": "/.well-known/genid/8b6a5d7e9c98db8f6a4c",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -8712,7 +8592,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7a5ce94ceec3398907a1",
+        "@id": "/.well-known/genid/0ae498d4d3e7970904b3",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -8863,7 +8743,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1bcf3a4baa343bf7fa1e",
+        "@id": "/.well-known/genid/b9a981312e91a70af696",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -8963,7 +8843,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4be863af9a4850163b17",
+        "@id": "/.well-known/genid/05b7fb20bbe00d894fe3",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -9067,7 +8947,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/35c8eaba9ac32fd53254",
+        "@id": "/.well-known/genid/23aa7f71ed22fcbdffbb",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -9224,7 +9104,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ea9b9a5e36a1f074858e",
+        "@id": "/.well-known/genid/dc6a828a80c2bd6540b5",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Bürger"
@@ -9676,7 +9556,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6db75096287f79352109",
+        "@id": "/.well-known/genid/561c6eed4ad55b76a6a8",
         "reference": "COMPANION",
         "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
         "name": "Gefährte"
@@ -9830,14 +9710,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7ec66e2a33e87591c03d",
+        "@id": "/.well-known/genid/cf8db0064057726a79ae",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5009c80b5ce750a608b5",
+        "@id": "/.well-known/genid/ca7ffaaddd7d37e0741b",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -9860,13 +9740,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/92a62efa6094708b5e37",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/37efa158394797263916",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:12+00:00",
         "question": "If I play a Fire Rabbit from hand in an Expedition with Arcolano Milk, can I activate the {h} effect of the Rabbit?",
         "answer": "Both reactions are triggered at the same time, but then you resolve your reactions (including  \"When X happens — \"; {h}, {r}, and {j} abilities) in the order of your choice. So you can choose to first resolve the Fire Rabbit effect (giving 1 boost to another Character) then resolve the effects of Arcolano Milk."
@@ -10007,14 +9882,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/aefa055107ee1d6872e0",
+        "@id": "/.well-known/genid/99115abc430cd80a3350",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/30be68363d39ad06b2b9",
+        "@id": "/.well-known/genid/1da739a206418b7940ea",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -10037,13 +9912,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c3fa72544e8ec4c1cb7b",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/289215262dede90b41f0",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:12+00:00",
         "question": "If I play a Fire Rabbit from hand in an Expedition with Arcolano Milk, can I activate the {h} effect of the Rabbit?",
         "answer": "Both reactions are triggered at the same time, but then you resolve your reactions (including  \"When X happens — \"; {h}, {r}, and {j} abilities) in the order of your choice. So you can choose to first resolve the Fire Rabbit effect (giving 1 boost to another Character) then resolve the effects of Arcolano Milk."
@@ -10185,7 +10055,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d6022505869b2ad5f12d",
+        "@id": "/.well-known/genid/62c0023f67c0da71bc79",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -10341,7 +10211,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fe4a8c09343e994737e9",
+        "@id": "/.well-known/genid/869b17debc3ce4cdd6a3",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -10497,7 +10367,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3b397b22c54fa8462cfc",
+        "@id": "/.well-known/genid/c2a95726a4ace8bd3a84",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -10653,7 +10523,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b1ce7a5e54b5c9cfa9ef",
+        "@id": "/.well-known/genid/3fdd262dc46d800c71ab",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -10809,7 +10679,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ea28177a08fd8e89120d",
+        "@id": "/.well-known/genid/7b4d2650d03274f10eb0",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -10965,7 +10835,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3d890489f7963b81c6f9",
+        "@id": "/.well-known/genid/d68280517ea509a26e6d",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -11121,7 +10991,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4629ad73d15d5fb1e1e6",
+        "@id": "/.well-known/genid/22d4547f960eb7b475cb",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -11277,7 +11147,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4d195e0a75927a6753ed",
+        "@id": "/.well-known/genid/8bf343a9549cd97b505e",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -11434,7 +11304,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8595e3976376973d4a89",
+        "@id": "/.well-known/genid/ec80d1a8b7138ff5f117",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -11457,13 +11327,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/80347922f4e7967fc992",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/b42e92627d034623a24e",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:12+00:00",
         "question": "What happens if Gericht, Revered Duelist is already Fleeting and should gain Fleeting due to another effect?",
         "answer": "It gains Fleeting again (which in general doesn't change anything, but gives him a boost). The power of the Common version of Gericht is an exception to the general rule that a Character cannot gain Fleeting if it's already Fleeting."
@@ -11604,7 +11469,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1af25bd7cb5f2aaeff22",
+        "@id": "/.well-known/genid/7c988b9235ad48b21073",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -11760,14 +11625,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0daaffe3e8d860543116",
+        "@id": "/.well-known/genid/a2ae7d209ca2c517c779",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/49405f71f18b5c169631",
+        "@id": "/.well-known/genid/027c0aa8fb0a9d2a0c2d",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -11923,14 +11788,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b8dc8ca0c3764a467d2d",
+        "@id": "/.well-known/genid/b9367a0e30c017a87421",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b95d7727d238628dfc54",
+        "@id": "/.well-known/genid/cd89c2bbeb5ec3dd05e8",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -12086,7 +11951,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/47c901d80ee7db30ce9b",
+        "@id": "/.well-known/genid/d52aa3977ebd401d1cac",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -12109,26 +11974,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/feb0fd1eb189e68d0e78",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/16d82c1bab678d453ff2",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:09+00:00",
         "question": "What happens if a Gigantic Character is played in the other Expedition (the one Amarok is not in)?",
         "answer": "It gets sacrificed."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7879ddcb391842b20210",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/8f2414544d76dd1e850c",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:09+00:00",
         "question": "What happens if Amarok is Gigantic, for example thanks to Eat Me Energy Bars?",
         "answer": "For a Gigantic Character, \"my Expedition\" means \"the Expeditions I'm in\".  Any Character played in either Expedition of a Gigantic Amarok will be sacrificed. Note that when you play Amarok, you check \"the Expedition it's played in\" as you pay its cost, before it's Gigantic."
@@ -12269,7 +12124,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2a077c6ebc27f36fcdea",
+        "@id": "/.well-known/genid/1bc0132024114bfd3174",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -12292,26 +12147,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/89407805a4b99a2fed9c",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/2be959be1c07a287fc64",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:09+00:00",
         "question": "What happens if a Gigantic Character is played in the other Expedition (the one Amarok is not in)?",
         "answer": "It gets sacrificed."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a1e03c4b0ee109024998",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/70302ffb17ca499473ee",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:10+00:00",
         "question": "What happens if Amarok is Gigantic, for example thanks to Eat Me Energy Bars?",
         "answer": "For a Gigantic Character, \"my Expedition\" means \"the Expeditions I'm in\".  Any Character played in either Expedition of a Gigantic Amarok will be sacrificed. Note that when you play Amarok, you check \"the Expedition it's played in\" as you pay its cost, before it's Gigantic."
@@ -12452,7 +12297,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4bb80495dde0e148904d",
+        "@id": "/.well-known/genid/39f0cd29b2527307b484",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -12475,13 +12320,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c479e86233e8705b6f8b",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/79438e3734128b2db445",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:11+00:00",
         "question": "In which order are the effects triggered by playing Eros and by playing the Character thanks to Eros effect resolved?",
         "answer": "1. Eros is played  2. Any effects triggered by playing Eros join Limbo (the pool of effects \"to be resolved\")  3. The active player starts resolving their effects in Limbo (in the order of their choice)  (3.a Depending on the player's choice and who's the active player, some effects may be resolved before a 2nd Character is played)  3.b Whenever Eros's controller resolves the effect of Eros, they play their 2nd Character.  3.c Any effects triggered by playing the new Character joins Limbo  3.d The active player may now resolve any of their effects in Limbo (in the order of their choice), including ones triggered in 3.c  3.e Once the active player has finished, the next player resolves the effects they still have in Limbo."
@@ -12622,7 +12462,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/825bd0125cb396d4804d",
+        "@id": "/.well-known/genid/6f886442a60108084fc3",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -12645,13 +12485,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/9d4c668df293a1182138",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/5527ee4f905a6cb1341b",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:11+00:00",
         "question": "In which order are the effects triggered by playing Eros and by playing the Character thanks to Eros effect resolved?",
         "answer": "1. Eros is played  2. Any effects triggered by playing Eros join Limbo (the pool of effects \"to be resolved\")  3. The active player starts resolving their effects in Limbo (in the order of their choice)  (3.a Depending on the player's choice and who's the active player, some effects may be resolved before a 2nd Character is played)  3.b Whenever Eros's controller resolves the effect of Eros, they play their 2nd Character, then give 2 boosts to it.  3.c Any effects triggered by playing the new Character joins Limbo  3.d The active player may now resolve any of their effects in Limbo (in the order of their choice), including ones triggered in 3.c  3.e Once the active player has finished, the next player resolves the effects they still have in Limbo."
@@ -12792,7 +12627,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f48c1b886897e6bd0e2f",
+        "@id": "/.well-known/genid/d421670d117e28be0427",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Beschwörung"
@@ -12815,13 +12650,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/71e9061cb93185666273",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/97cdce084a7bdc4a7be9",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:17+00:00",
         "question": "If I play a Character with a {j} ability using Mana Flare, while I have an effect triggered by playing a spell (such as Afanas), in which order do I resolve them ?",
         "answer": "First, you finish resolving the Spell (playing the Character). Then, the active player (you) resolve all their reactions triggered by playing the spell and the Character, in the order of their choice. (This may include effects such as \"When you play a Spell —\", \"When you play a Character —\", {h}, {j}, {r} abilities, etc). "
@@ -12958,7 +12788,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/666195114f6dab434e1b",
+        "@id": "/.well-known/genid/41f4f6ab386dfa9e5bba",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Beschwörung"
@@ -12981,13 +12811,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/4ca27614b8d595729116",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/17d80e7f6d78b51b7edf",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:17+00:00",
         "question": "If I play a Character with a {j} ability using Mana Flare, while I have an effect triggered by playing a spell (such as Afanas), in which order do I resolve them ?",
         "answer": "First, you finish resolving the Spell (playing the Character). Then, the active player (you) resolve all their reactions triggered by playing the spell and the Character, in the order of their choice. (This may include effects such as \"When you play a Spell —\", \"When you play a Character —\", {h}, {j}, {r} abilities, etc). "
@@ -13124,7 +12949,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0ff3827c1a91cdbc7be1",
+        "@id": "/.well-known/genid/d497b697874096455779",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -13147,13 +12972,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/f3656682cc2094a2ae13",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/328f0c3a266fc7a20903",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:13+00:00",
         "question": "If I play \"Geyser\" from Reserve and it gains Fleeting, do I still put it in my Mana Orbs?",
         "answer": "Yes."
@@ -13290,7 +13110,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7930e5b06983cfe1fa7d",
+        "@id": "/.well-known/genid/bd31f638979954fd6ec4",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -13313,13 +13133,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/bd880831fc6f671a22f6",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/4975e7236afc86dbad6d",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:13+00:00",
         "question": "If I play \"Geyser\" from Reserve and it gains Fleeting, can I still put it in my Mana Orbs?",
         "answer": "Yes."
@@ -13455,7 +13270,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c12b277f3f134ecc08e5",
+        "@id": "/.well-known/genid/ca42743509b0f9436acc",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -13606,7 +13421,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a58e41fc47e568d86736",
+        "@id": "/.well-known/genid/774f5c51da63700388be",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -13757,7 +13572,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5e1a4c3ae070f3b319de",
+        "@id": "/.well-known/genid/908e1556e830d09d71e2",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -13908,7 +13723,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/87d35539bd3addcfc8ca",
+        "@id": "/.well-known/genid/ed70e15bbfafb59b6db9",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -14059,7 +13874,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1312ab95b3a3023221e2",
+        "@id": "/.well-known/genid/50deb30ab5570b950d0b",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -14082,39 +13897,24 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/384a1b340111ecee5a39",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/e4f941ff1691efa7f5aa",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:10+00:00",
         "question": "If a Gigantic Character has an effect referring to \"my Expedition\", which Expedition is it?",
         "answer": "Its effects affecting its Expedition affect both Expeditions it's in. "
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/71430be5380398e77911",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/05948c57e243ecd209e3",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:11+00:00",
         "question": "If a Gigantic Character has an effect referring to \"the Expedition facing me\", which Expedition is it?",
         "answer": "If an effect refers to the Expedition facing a gigantic character, it refers to the Expeditions facing each of its controller’s expeditions. For example, if you play Sakarabru in an Expedition containing the Eat Me Energy Bars, both your opponent's Expeditions move backwards."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/d2cc730c395c3ec4615a",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/69ee8262edb3de261d51",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:11+00:00",
         "question": "If there's an Eat Me Energy Bars in both of my Expeditions, and I play one Character in each, what happens?",
         "answer": "The first Character you play will become Gigantic. Therefore, when you play the second Character, it will not be alone in its Expedition, so the other Eat Me Energy Bar won't have any effect (until the first Character or the first Eat Me Energy Bar is somehow removed)."
@@ -14250,7 +14050,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/32f2153429399d5fad2f",
+        "@id": "/.well-known/genid/c73df6ce6b8ff72d3363",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -14273,13 +14073,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/67ef4cc18c73216a4d2d",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/c14d0c51756d87975a40",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:11+00:00",
         "question": "If a Gigantic Character has an effect referring to \"my Expedition\", which Expedition is it?",
         "answer": "Its effects affecting its Expedition affect both Expeditions it's in."
@@ -14415,7 +14210,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/becdcb0f6438d7d373ad",
+        "@id": "/.well-known/genid/bf39ba8d77a8a47cc14e",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -14438,26 +14233,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/4baa5c351eb0250a315d",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/89d54c8c1a5949d0e78a",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:14+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/2239e570923e908f1432",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/be67f6dcfc04754750b5",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:15+00:00",
         "question": "If I control a Character which is already Fleeting, and some effects gives it Fleeting again, what happens?",
         "answer": "Unless there's a specific exception (such as the Common version of Gericht, Revered Duellist), a Character which already has a status cannot gain it again. Your Fleeting Characters therefore cannot gain Fleeting (and therefore do not add an additional Trial counter to the Icebound Peak)."
@@ -14593,7 +14378,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/746fee55e3b3bed7182a",
+        "@id": "/.well-known/genid/29b00957afac296cfd93",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -14616,26 +14401,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/821ad4ffa06460806895",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/ec3cf6b9c26bcda15c47",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:14+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/8803fa8b4add7f35d7b7",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/efabcb32444be71e17e8",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:15+00:00",
         "question": "If I control a Character which is already Fleeting, and some effects gives it Fleeting again, what happens?",
         "answer": "Unless there's a specific exception (such as the Common version of Gericht, Revered Duellist), a Character which already has a status cannot gain it again. Your Fleeting Characters therefore cannot gain Fleeting (and therefore do not add an additional Trial counter to the Icebound Peak)."
@@ -14772,7 +14547,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/96d0ccde2e66bbffd3d2",
+        "@id": "/.well-known/genid/4d9fe05855945eaf8996",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elementar"
@@ -14928,7 +14703,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c6979774b1c110598275",
+        "@id": "/.well-known/genid/fa35e2008488a4edb502",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -15080,7 +14855,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/af701e47266848533b0e",
+        "@id": "/.well-known/genid/f5ea2d9f92e2915ac71a",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -15236,7 +15011,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/16d866a7cc94839dcbcd",
+        "@id": "/.well-known/genid/e764f144619f010b2011",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -15259,13 +15034,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/beb583263451872f1d1f",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/9959e07c6e273c4246e2",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:21+00:00",
         "question": "What happens if my Character switches Expeditions?",
         "answer": "\"Your Expeditions\" means the set of {your Companion Expedition + your Hero Expedition}. Switching inside the set doesn't count as joining \"your Expeditions\". "
@@ -15406,14 +15176,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/efe9338a51c41618a95e",
+        "@id": "/.well-known/genid/6c1b4455c17abe18564c",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elementar"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/be1ec4853fb2c9b2ae19",
+        "@id": "/.well-known/genid/265e8fb534234214c399",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
@@ -15569,14 +15339,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b3b7057014dd29151d64",
+        "@id": "/.well-known/genid/b30d3759d0fd095438cb",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/082f63431dfd41376798",
+        "@id": "/.well-known/genid/a23adf307c4969fcc6be",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -15599,26 +15369,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7b7dff42399366347137",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/4207889255f03a7038c9",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:17+00:00",
         "question": "Do the Expeditions of my opponent count towards the power of Leshy?",
         "answer": "Yes. In a 1vs1 game, there can be up to 4 Expeditions in forest."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/19758b030129ded59f8f",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/6af6c6b6c174af03db23",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:17+00:00",
         "question": "During a tiebreaker day, how many Expeditions are in Forest ?",
         "answer": "In a 1vs1 game, there are 4 Expeditions in the arena (two for each player) which normally has Forest, Water and Mountain."
@@ -15759,14 +15519,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f47d9f605a4640c852a7",
+        "@id": "/.well-known/genid/f8e2aaa06176e044046e",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/075856e79b198fe87b7e",
+        "@id": "/.well-known/genid/1eafd5a54cacd2ef6f2e",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -15922,7 +15682,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5890a0b8bebdf614996a",
+        "@id": "/.well-known/genid/2a90dddf87d54e98e25e",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Segen"
@@ -16074,7 +15834,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c5975aed2e8253e95cb3",
+        "@id": "/.well-known/genid/0c9da82a2fbd60714b0c",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -16227,14 +15987,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5d72bb854f1449e8464d",
+        "@id": "/.well-known/genid/b11b34726f46ea97d08a",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Adliger"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/41b45b98a469239ad4ec",
+        "@id": "/.well-known/genid/03de0c7d80eb90c0f737",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -16390,7 +16150,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/354ff5f8187272da7542",
+        "@id": "/.well-known/genid/8289b90b8f04dbada18e",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -16413,13 +16173,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/20400829cdf0481759f2",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/1cd234f1e14cf8b1c812",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:20+00:00",
         "question": "Do the boosts of a Character count towards the stat limit?",
         "answer": "Yes."
@@ -16556,7 +16311,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/acf3c1e653d6839cb635",
+        "@id": "/.well-known/genid/edd4994c4420319e6179",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -16712,7 +16467,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7884144889c8b2d84c21",
+        "@id": "/.well-known/genid/5e41dbd882f7f3a32189",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -16868,7 +16623,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a04b4ae5c11c994ed89e",
+        "@id": "/.well-known/genid/2d8e9b05d47f023ca5e4",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -17025,7 +16780,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cdd497b041005f4429d3",
+        "@id": "/.well-known/genid/c3b38b8a1b41a453bab6",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -17125,7 +16880,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5868390d631023c55aea",
+        "@id": "/.well-known/genid/89a9a37458ea2c2efe8d",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -17229,7 +16984,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1bee11dfb07fc1a98994",
+        "@id": "/.well-known/genid/d2def8fa43d7764c1f72",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -17333,7 +17088,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8f1affa28da3d94834dc",
+        "@id": "/.well-known/genid/15b4382eed5f29e3c72b",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -17488,7 +17243,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/57a10e862fc719ca9099",
+        "@id": "/.well-known/genid/762353af7160b3a1fa33",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -17639,7 +17394,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7b378f3c8870c88535b4",
+        "@id": "/.well-known/genid/4d5b7db0ad7b5449f7ef",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -17790,7 +17545,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ac4b720b557da6d2bffe",
+        "@id": "/.well-known/genid/91a8edcc98c8429cad4c",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -17942,7 +17697,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cd999d6fc44d100d735c",
+        "@id": "/.well-known/genid/78465c9a17e0db910c1f",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -17965,13 +17720,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e73c5bc66558d9ecc533",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/db1b036a3a13f863bde5",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:10+00:00",
         "question": "Do the boosts of a Character count towards the stat limit?",
         "answer": "Yes."
@@ -18108,7 +17858,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5136fd822d3f095e6114",
+        "@id": "/.well-known/genid/2e649f8cd088152d1443",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -18264,7 +18014,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d7460112efa81540c98c",
+        "@id": "/.well-known/genid/897e29ef851d33a0dab3",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -18420,7 +18170,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b6a9e2da8342c26c8b06",
+        "@id": "/.well-known/genid/33c727ca6a2ca6a0e99b",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -18575,7 +18325,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/03c16d88a22637ad6034",
+        "@id": "/.well-known/genid/8e9ccadba32965c1f64b",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -18598,26 +18348,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/5094947937b4f0d72192",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/0483647084cc13ebc9e6",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:11+00:00",
         "question": "If a Gigantic Character has an effect referring to \"my Expedition\", which Expedition is it?",
         "answer": "Its effects affecting its Expedition affect its Expeditions instead."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7c0fef3de4074fb7127c",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/1d9b71c5405852fa2c4b",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:11+00:00",
         "question": "If a Gigantic Character has an effect referring to \"the Expedition facing me\", which Expedition is it?",
         "answer": "Both of the Expeditions facing it. For example, if you play Sakarabru in an Expedition containing the Eat Me Energy Bars, both your opponent's Expeditions move backwards."
@@ -19050,7 +18790,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f88c69a58e453559fb0d",
+        "@id": "/.well-known/genid/07b63f45e2c3377e19d1",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -19206,7 +18946,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b6441689d1f234ad0598",
+        "@id": "/.well-known/genid/79317b14d887187c310c",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -19362,7 +19102,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6eb16caa4403e2893f0d",
+        "@id": "/.well-known/genid/efb64ba161f94f96bac5",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Bürger"
@@ -19518,7 +19258,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/24c97cc9a83fd87418b1",
+        "@id": "/.well-known/genid/822563ed7df06735c93f",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Bürger"
@@ -19674,7 +19414,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d58a404a8db5d9869a0d",
+        "@id": "/.well-known/genid/4c49ecf344397f63a318",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elementar"
@@ -19830,7 +19570,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d2406f074da80faaa0c9",
+        "@id": "/.well-known/genid/fa93d74e3959e7c8373b",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elementar"
@@ -19987,7 +19727,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/28ac1bfe949420f9238c",
+        "@id": "/.well-known/genid/7b8a436955bdcf78c150",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -20010,39 +19750,24 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/32f3a96f48b278b57445",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/85f6078949388210bc08",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:18+00:00",
         "question": "Does the card placed in Reserve count for effects such as Coppelia or Icebound Hollow?",
         "answer": "Yes."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/cbcb12a1ec756865bb3f",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/ba03106c7e8b04f87ebc",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:18+00:00",
         "question": "If I echange an exhausted card from my Reserve, does the new card I place from my hand arrive ready or exhausted?",
         "answer": "Ready!"
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7ea772023c49577d0251",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/1c61481fe9d1b482725e",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:18+00:00",
         "question": "If I have no card in hand or no card in Reserve when I play this card, can I resolve this effect?",
         "answer": "No. You resolve effects \"as much as you can\", but you cannot do this step unless there's a card in your Reserve and a card in your hand."
@@ -20183,7 +19908,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/427bbf6c138adb0ab01b",
+        "@id": "/.well-known/genid/0ef1729b164179b1a3c2",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -20206,13 +19931,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/bf0158b09b3fa7546ab7",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/fb2fc138da6c03d51b3a",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:18+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -20353,7 +20073,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/80b39da0142d0d5c09cd",
+        "@id": "/.well-known/genid/54138ff38a50582c4254",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -20510,7 +20230,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/57b82dbb957ca759c380",
+        "@id": "/.well-known/genid/2c2c76733aebc9243e92",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -20667,7 +20387,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bad817d2ac6417e2662b",
+        "@id": "/.well-known/genid/0c7346bdc8de5277d88a",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Bürger"
@@ -20690,13 +20410,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e562848b6a910664d7a5",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/e2fdbf771434a3edecf1",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:17+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -20837,7 +20552,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a90785f6e604c2d43bbe",
+        "@id": "/.well-known/genid/e26cd3e283ea14109517",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Bürger"
@@ -20860,13 +20575,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/9d08907d2c2284b909ca",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/3b3e56642d4f6f87b54b",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:17+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -21007,7 +20717,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e6f21c80715dca560557",
+        "@id": "/.well-known/genid/d5b22fb270c1d98de5c0",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Bote"
@@ -21030,13 +20740,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e74f5be5d287b14a427f",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/b2f4f5c9290724e2ca2b",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:19+00:00",
         "question": "In which order to we resolve the {h}, {j}, {r} abilities of the Characters played thanks to Santa Claus effect?",
         "answer": "When you resolve Santa Claus effect:  1. Each player plays their free cards.  2. The active player (normally, the one who played Santa Claus), resolve all of their reactions (including the {h}, {r}, {j} abilities) in the order of their choice.  3. The next player in turn order resolve any of their reactions in the order of their choice."
@@ -21177,7 +20882,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a17dc728e8dec24ea106",
+        "@id": "/.well-known/genid/b8c17e46583528f93b77",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Bote"
@@ -21200,13 +20905,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/215567a1afcfd097bf7e",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/dc867dacf9909ef246fe",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:19+00:00",
         "question": "In which order to we resolve the {h}, {j}, {r} abilities of the Characters played thanks to Santa Claus effect?",
         "answer": "When you resolve Santa Claus effect:  1. Each player plays their free cards.  2. The active player (normally, the one who played Santa Claus), resolve all of their reactions (including the {h}, {r}, {j} abilities) in the order of their choice.  3. The next player in turn order resolve any of their reactions in the order of their choice."
@@ -21347,14 +21047,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a2f852a1776fa53193c6",
+        "@id": "/.well-known/genid/3582864258fd7af65e33",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cf018282f3f6e45aa660",
+        "@id": "/.well-known/genid/d197c9220aa49b745ade",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -21510,14 +21210,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6877e8d34a5f00ed167e",
+        "@id": "/.well-known/genid/c18d778d924a610441c9",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/98622accf2df9caa96d5",
+        "@id": "/.well-known/genid/2be9aecd2ee8057c2103",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -21673,7 +21373,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/696783a24a67a7b8edc9",
+        "@id": "/.well-known/genid/6b0535ad4a09e22b32d1",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Beschwörung"
@@ -21825,7 +21525,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/12b73b9ec247d9307fce",
+        "@id": "/.well-known/genid/9e6b44dfcc071a0980ef",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Beschwörung"
@@ -21977,7 +21677,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/18d7b3d7655bfd9311c4",
+        "@id": "/.well-known/genid/bf6234c52168aa0dd8f5",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -22129,7 +21829,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0c5c52faa50fdafe9fc4",
+        "@id": "/.well-known/genid/0b6231da02e18f240055",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -22281,7 +21981,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1125038f97762dd12531",
+        "@id": "/.well-known/genid/57c524f0cdeebbe31ace",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Lied"
@@ -22433,7 +22133,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1027e6e56c3382612e59",
+        "@id": "/.well-known/genid/1292606b113a2204a90f",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Lied"
@@ -22585,7 +22285,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/45cb7f06bf324e19fe63",
+        "@id": "/.well-known/genid/357f7b387e0fb0c6075b",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -22737,7 +22437,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d6e165ed164feea9310f",
+        "@id": "/.well-known/genid/d7b39a4bfcfc6c9fe5cc",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -22888,7 +22588,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ccea6c2bf3611f3d7f1f",
+        "@id": "/.well-known/genid/1bacfe086e56d8450810",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -23039,7 +22739,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/211d890a7cb5ff2dc39b",
+        "@id": "/.well-known/genid/e468e72aec0592893c14",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -23190,7 +22890,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0433c5576eb3071c1899",
+        "@id": "/.well-known/genid/6a5a50b17c866b7be034",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -23341,7 +23041,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a71442c1abb25bca3772",
+        "@id": "/.well-known/genid/e0edb0af469d4e8c7e01",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -23492,7 +23192,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8f2c5a48c79ddc075a97",
+        "@id": "/.well-known/genid/7b5768c59ad13704782d",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -23515,13 +23215,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/cb72553f47a6cd282649",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/0af6642d2eead95d688e",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:15+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -23657,7 +23352,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/641d0cc4b93ac6ce77fa",
+        "@id": "/.well-known/genid/7c80b138cdce02d29b2b",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -23680,13 +23375,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/64ee193c9088fd67b0a4",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/cc248a958cfecc8d3e1d",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:15+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -23823,7 +23513,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/44303d255d7bd409383a",
+        "@id": "/.well-known/genid/4e1ff09300d5f2fbefee",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -23979,7 +23669,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5afd00e0c57b1e5bfa3e",
+        "@id": "/.well-known/genid/6634fffa6ba35fba84a8",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -24130,7 +23820,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ec1ae1729d6a497bdf42",
+        "@id": "/.well-known/genid/6cf0a18fe1a157656b2b",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -24281,7 +23971,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5ccdc067251f9ab4b9bf",
+        "@id": "/.well-known/genid/d68983df5d9e293085ae",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -24304,13 +23994,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/5a236dbee0ca81cd034e",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/fddb6126c04cd53b9922",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:15+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -24447,7 +24132,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cb4a898a75e479e973de",
+        "@id": "/.well-known/genid/26f906ff805814316d3b",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
@@ -24603,7 +24288,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0c62bf60af65b78fcfa5",
+        "@id": "/.well-known/genid/800cdbb2be4975c5378a",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -24755,7 +24440,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a52c739d2763afa40ea0",
+        "@id": "/.well-known/genid/817bd3c7f93446bd23fa",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Lied"
@@ -24907,14 +24592,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bf84cb959673c827e9ca",
+        "@id": "/.well-known/genid/b77c5615a8e957a1f0b1",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a226fef15ace4879d312",
+        "@id": "/.well-known/genid/527aed2448a111db1293",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -25070,14 +24755,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8e2d6c0088a70409173e",
+        "@id": "/.well-known/genid/0ba5475a3e497912ce58",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/84f0aa7afcfaa508240a",
+        "@id": "/.well-known/genid/370368edf1817610cdac",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -25228,7 +24913,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0091a4ee2fe088776053",
+        "@id": "/.well-known/genid/fa92203619c434ab48d6",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -25328,7 +25013,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/206f946d676960485b7a",
+        "@id": "/.well-known/genid/2c3033ab856883cb9fa1",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -25432,7 +25117,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b0d5df8fc20168137bb5",
+        "@id": "/.well-known/genid/f6cf749fbc45a3e2ec7a",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -25587,7 +25272,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/315feef8b19f18a18e2c",
+        "@id": "/.well-known/genid/9211808496c4119f396a",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -25738,7 +25423,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/90cdf98d9baa3b3e90b7",
+        "@id": "/.well-known/genid/7dd5e0cc15a8bc81f670",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -25890,7 +25575,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a334c2abba5e491e62a5",
+        "@id": "/.well-known/genid/17bacdc1b95678d75207",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Roboter"
@@ -26046,7 +25731,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/866f10433d372f895e8f",
+        "@id": "/.well-known/genid/312b731d375d540a6a0b",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -26202,7 +25887,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/82469576c9c5f41aa1b3",
+        "@id": "/.well-known/genid/6169e44ce4dcd2cbf486",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Roboter"
@@ -26358,7 +26043,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f3b506235079a8fe7225",
+        "@id": "/.well-known/genid/57adf12466083f9d14d7",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Beschwörung"
@@ -26381,13 +26066,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c01902d98046f8c96f23",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/ad7fcc875d552522c4e5",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:12+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -26524,14 +26204,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fb0d6613a7c08fb9abd2",
+        "@id": "/.well-known/genid/dd176c2699827fe697e1",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Adliger"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/877197f5d616a752ca39",
+        "@id": "/.well-known/genid/9da997abc4f9f881c97e",
         "reference": "SCHOLAR",
         "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
         "name": "Gelehrter"
@@ -26686,7 +26366,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e1a74250fe63e9d4e5b8",
+        "@id": "/.well-known/genid/b87d55bee2c5695a92bc",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Konstrukt"
@@ -26709,13 +26389,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/8295e2e3bea4282526ee",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/65dec4dc74a36ca73814",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:12+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -26851,7 +26526,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d37f314d9978331a5e8e",
+        "@id": "/.well-known/genid/82cf22c5e56ba0004804",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -26874,13 +26549,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/53cc07935584dc454937",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/d775fc1254352938eede",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:13+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -27017,14 +26687,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/aefa25977d48a22cc679",
+        "@id": "/.well-known/genid/6b1ab15facf8d782a6f9",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8da87ae8cad5183cceca",
+        "@id": "/.well-known/genid/2fff088f37abdb25a22f",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -27180,7 +26850,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/732611fd7441c7bfc3c0",
+        "@id": "/.well-known/genid/9e4aaed0ca285453ac79",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -27203,13 +26873,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/9012bb5af6133354b8af",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/4cdddc3a0add1689ce8f",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:11+00:00",
         "question": "In which order are the effects triggered by playing Eros and by playing the Character thanks to Eros effect resolved?",
         "answer": "1. Eros is played  2. Any effects triggered by playing Eros join Limbo (the pool of effects \"to be resolved\")  3. The active player starts resolving their effects in Limbo (in the order of their choice)  (3.a Depending on the player's choice and who's the active player, some effects may be resolved before a 2nd Character is played)  3.b Whenever Eros's controller resolves the effect of Eros, they play their 2nd Character, then it gains Anchored.  3.c Any effects triggered by playing the new Character joins Limbo.  3.d The active player may now resolve any of their effects in Limbo (in the order of their choice), including ones triggered in 3.c  3.e Once the active player has finished, the next player resolves the effects they still have in Limbo."
@@ -27350,7 +27015,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/be59d97b5ca4a7d82006",
+        "@id": "/.well-known/genid/7e6d03cf6e05fef7d3c3",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -27507,7 +27172,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8e0430bf48138b3290c4",
+        "@id": "/.well-known/genid/f47eea000b2f0bde6722",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Bote"
@@ -27530,13 +27195,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/da600d8df687c302dc77",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/cd34f4f2a6cd9ab8566f",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:19+00:00",
         "question": "In which order to we resolve the {h}, {j}, {r} abilities of the Characters played thanks to Santa Claus effect?",
         "answer": "When you resolve Santa Claus effect:  1. Each player plays their free cards.  2. The active player (normally, the one who played Santa Claus), resolve all of their reactions (including the {h}, {r}, {j} abilities) in the order of their choice.  3. The next player in turn order resolve any of their reactions in the order of their choice."
@@ -27676,7 +27336,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/212d898bd48cb79ac874",
+        "@id": "/.well-known/genid/d2b01ead990483ad13f3",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -28024,7 +27684,7 @@
       "RECALL_COST": "0",
       "RESERVE": "2",
       "PERMANENT": "2",
-      "MAIN_EFFECT": "Wenn sich eine deiner Expeditionen aufgrund von {V} vorwärts bewegt — Ziehe eine Karte, dann lege eine Karte aus deiner Hand in die Reserve."
+      "MAIN_EFFECT": "Wenn sich eine deiner Expeditionen aufgrund von {V} vorwärts bewegt — Ziehe eine Karte und lege dann eine Karte aus deiner Hand in die Reserve."
     }
   },
   {
@@ -28124,7 +27784,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b52ef7dcd55efb07b71d",
+        "@id": "/.well-known/genid/43ea22de509d21d5b703",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -28280,7 +27940,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3fca96906b6e7d59aa80",
+        "@id": "/.well-known/genid/5ca94e78ef315320787a",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -28436,7 +28096,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/326eeaebbdddc38455e6",
+        "@id": "/.well-known/genid/59e79654fae4897ecb13",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
@@ -28592,7 +28252,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7daaad0f09851b8aee98",
+        "@id": "/.well-known/genid/b0fbbd3a67d09484723f",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
@@ -28749,7 +28409,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f164e1e01226b86c334d",
+        "@id": "/.well-known/genid/c38118c155b011ec608b",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -28772,13 +28432,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/96b35bd4f864934621db",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/01db7dbfca781160fde7",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:18+00:00",
         "question": "If an opponent's Expedition is in the same region as the Expedition in which I played Persephone, are they in Forest too ?",
         "answer": "Yes."
@@ -28919,7 +28574,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a26ef8a7ea5978065dbe",
+        "@id": "/.well-known/genid/cd96beb8c6248a948d61",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -29075,7 +28730,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/461f1af71cb1af369bc8",
+        "@id": "/.well-known/genid/c5170cac9693723a7003",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -29231,7 +28886,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3f6b117624c50e64120d",
+        "@id": "/.well-known/genid/cc7feb2256f6c900d2aa",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -29387,7 +29042,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4ab226c9d2f9b70f0e51",
+        "@id": "/.well-known/genid/455b70aa13f409d33549",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -29543,7 +29198,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f29e01cb143eb8a575ef",
+        "@id": "/.well-known/genid/251d5134a641714817c3",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -29699,7 +29354,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/83acf615747037bd3015",
+        "@id": "/.well-known/genid/fb9b820fcdb84ef9867e",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -29722,13 +29377,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/fd727f7a9c966a372f04",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/9af6472306525caed4f5",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:21+00:00",
         "question": "What happens if my Character switches Expeditions?",
         "answer": "\"Your Expeditions\" means the set of {your Companion Expedition + your Hero Expedition}. Switching inside the set doesn't count as joining \"your Expeditions\". "
@@ -29869,7 +29519,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/be35e4c47e61a767ff0e",
+        "@id": "/.well-known/genid/2fe88a4e331ee2973fa5",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -29892,13 +29542,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/53f08430d060cd3e81ed",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/841b198d9d73d884e01a",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:21+00:00",
         "question": "What happens if my Character switches Expeditions?",
         "answer": "\"Your Expeditions\" means the set of {your Companion Expedition + your Hero Expedition}. Switching inside the set doesn't count as joining \"your Expeditions\". "
@@ -30039,14 +29684,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f998bacd53a455d5e484",
+        "@id": "/.well-known/genid/3a136910210cf477fa24",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elementar"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a59e4a6d570b331db27f",
+        "@id": "/.well-known/genid/19288efb1481f97781e9",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
@@ -30202,14 +29847,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/792607bd96752824258a",
+        "@id": "/.well-known/genid/cceffc4bb800f0bc46cd",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elementar"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5588f8f9d2e5b65ca27b",
+        "@id": "/.well-known/genid/2cef1dd55a263c2fce71",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
@@ -30365,14 +30010,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/82ed00a4220fd6e95403",
+        "@id": "/.well-known/genid/d23fcb58097d8035ab70",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a7de65512cf08d80d48b",
+        "@id": "/.well-known/genid/593d0f9a5b4c54d9f1fb",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -30395,26 +30040,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/be791dd0d2550fd183be",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/3ec797a1d9337f4f73c0",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:16+00:00",
         "question": "Do the Expeditions of my opponent count towards the power of Leshy?",
         "answer": "Yes. In a 1vs1 game, there can be up to 4 Expeditions in forest."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/7e1fdaea7221e498ddfc",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/2bbdf11152f8d4415723",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:17+00:00",
         "question": "During a tiebreaker day, how many Expeditions are in Forest ?",
         "answer": "In a 1vs1 game, there are 4 Expeditions in the arena (two for each player) which normally has Forest, Water and Mountain."
@@ -30555,14 +30190,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a6e5ce564558e40dcf51",
+        "@id": "/.well-known/genid/1b2a86b6d8beb13aafc0",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c4cbfdf4e2a8889a4523",
+        "@id": "/.well-known/genid/8672642e42a4caa702c1",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -30585,26 +30220,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/80a64ee4de56c0ca00c1",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/7309d2e40c36a6cc8376",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:16+00:00",
         "question": "Do the Expeditions of my opponent count towards the power of Leshy?",
         "answer": "Yes. In a 1vs1 game, there can be up to 4 Expeditions in forest."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/0e263d9b8025c78e570d",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/1bc4d19918b8da74a518",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:17+00:00",
         "question": "During a tiebreaker day, how many Expeditions are in Forest ?",
         "answer": "In a 1vs1 game, there are 4 Expeditions in the arena (two for each player) which normally has Forest, Water and Mountain."
@@ -30745,7 +30370,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9cf14698db82dfcb295c",
+        "@id": "/.well-known/genid/f83c4f4b7d3b7a2d8e25",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elementar"
@@ -30768,26 +30393,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/1b0d5bf4907d40a1bfb9",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/5543a83a08ad15d40ec9",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:19+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/b69086dc1cc274e4d7e9",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/a51a15ad073beb530bbd",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:19+00:00",
         "question": "When the effect of my card gives an \"Exhausted Resupply' to another player, which players \"exhausting\" the card? ",
         "answer": "The player that receives the Exhausted Resupply performs both steps of the action."
@@ -30928,7 +30543,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fe87fae060b4f3e5bf8f",
+        "@id": "/.well-known/genid/92309d986618df1c99e6",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elementar"
@@ -30951,26 +30566,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/f3a29260e41384f3400a",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/06417b05983ba22b9a16",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:19+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/018c523d3da4f5c64117",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/2dfbb5a2570d5556be09",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:20+00:00",
         "question": "When the effect of my card gives an \"Exhausted Resupply' to another player, who counts as \"exhausting\" the card? ",
         "answer": "The player that receives the Exhausted Resupply performs both steps of the action."
@@ -31111,14 +30716,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/95107d4a16f0766b1bfa",
+        "@id": "/.well-known/genid/b393242af58e8bb8e665",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f16b22a18caca7cda05e",
+        "@id": "/.well-known/genid/a35920e7ea868ee48f07",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -31274,14 +30879,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f4d42686f5e27261bc67",
+        "@id": "/.well-known/genid/46a0e671fb8c919b5867",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/651a8e880ac2c1d5a80e",
+        "@id": "/.well-known/genid/625da281779dc6c47922",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -31437,7 +31042,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/234a037951996ca7bb75",
+        "@id": "/.well-known/genid/d1859ff5ba34134b29cd",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Segen"
@@ -31590,7 +31195,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b2097093afdb2f955e44",
+        "@id": "/.well-known/genid/412033f0f717516c470a",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Segen"
@@ -31743,7 +31348,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/54e895f9bc8b222e82a6",
+        "@id": "/.well-known/genid/4b794470f594e623ee44",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -31895,7 +31500,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0e600b35c81930b28176",
+        "@id": "/.well-known/genid/d4f4bce5692ae7351354",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -32046,7 +31651,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dca7620e3d3568dfbbfb",
+        "@id": "/.well-known/genid/88b2c3f7dd56aa5947de",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -32197,7 +31802,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/122d49a725135d77b379",
+        "@id": "/.well-known/genid/a2119a9a950f58a8bfbb",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -32348,7 +31953,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dade53412dcfb7feef2e",
+        "@id": "/.well-known/genid/16209b3b4d0b3ff5e939",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -32499,7 +32104,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8e0b3f10e4a26d414017",
+        "@id": "/.well-known/genid/13495c5bf342c36f92f4",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -32651,7 +32256,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9734c688d5742fc37c58",
+        "@id": "/.well-known/genid/5fbd90fea8a08b64ed3f",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -32674,13 +32279,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c1dd5321281021b8ddf6",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/e9982fa543ad9a6c31f1",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:15+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -32816,7 +32416,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2e5fc7ec8e4db282516f",
+        "@id": "/.well-known/genid/4a34d309f934ce5bac6e",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -32839,13 +32439,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/74a9e9bbfc07ae750250",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/08f351d8cb06a7dcb815",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:15+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -32982,14 +32577,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3a343b16741baca5c4d9",
+        "@id": "/.well-known/genid/5dc4da1bf3eaaa9be43c",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/787785f48e96972d5970",
+        "@id": "/.well-known/genid/b621064f8b5fe9584909",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -33145,7 +32740,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/54914ebf25010bcd0a82",
+        "@id": "/.well-known/genid/933cf4f6d6b85f4a76de",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
@@ -33302,14 +32897,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c8d651e3940d6174d1b8",
+        "@id": "/.well-known/genid/718cb4dfb94d70f8fe9a",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Bote"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/02d39479580fbec62f7a",
+        "@id": "/.well-known/genid/b54b9da0ae055c4c5684",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -33465,7 +33060,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/14baddfa15541cd2cd51",
+        "@id": "/.well-known/genid/0e74e1ee54fe3f68599a",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -33565,7 +33160,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8653367c6a065d33532c",
+        "@id": "/.well-known/genid/081f6b95f89fca7ebe8e",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -33669,7 +33264,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ae7de3dac5dfbdf08d95",
+        "@id": "/.well-known/genid/614aead46236cc1b6311",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -33824,7 +33419,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/824a87c56ae33a6cc046",
+        "@id": "/.well-known/genid/db2b268a6a0ae7dfa52d",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -33975,7 +33570,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/868a14d63ad768d5acb6",
+        "@id": "/.well-known/genid/9a56c3af50d8290f6631",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -34127,7 +33722,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9bc73bda1ee7fde53983",
+        "@id": "/.well-known/genid/a81d836ad5b5a1490e16",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -34283,14 +33878,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b03c35a7b3ccf15ac2f4",
+        "@id": "/.well-known/genid/35b3563f323f24892858",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4399cbc59ac6afad0ece",
+        "@id": "/.well-known/genid/a894b3fad7187ec076ef",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -34447,14 +34042,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c5d880d91e1461efc588",
+        "@id": "/.well-known/genid/dc293715c9647c29cdd3",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2d306a8c7f513244e3c0",
+        "@id": "/.well-known/genid/ec30017b1d31a8d96e32",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -34477,13 +34072,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/3eed994e9f66bc39831b",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/c03e43588d770ac17e4c",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:12+00:00",
         "question": "If I play a Fire Rabbit from hand in an Expedition with Arcolano Milk, can I activate the {h} effect of the Rabbit?",
         "answer": "Both reactions are triggered at the same time, but then you resolve your reactions (including  \"When X happens — \"; {h}, {r}, and {j} abilities) in the order of your choice. So you can choose to first resolve the Fire Rabbit effect (giving 1 boost to another Character) then resolve the effects of Arcolano Milk."
@@ -34624,7 +34214,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/839c01ce0237d5894e23",
+        "@id": "/.well-known/genid/bbf3e2f81cc3db6cfd69",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -34647,13 +34237,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/6ccca4762f0b3a6eb8aa",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/7753445388ffc55437a4",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:13+00:00",
         "question": "If I play \"Geyser\" from Reserve and it gains Fleeting, do I still put it in my Mana Orbs?",
         "answer": "Yes."
@@ -34790,14 +34375,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c2c2e7d9a1db05008c6d",
+        "@id": "/.well-known/genid/1ee6b6d8d743409a4794",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e60f4664734bc8fdc8f5",
+        "@id": "/.well-known/genid/122f03654c91599eb661",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -34953,7 +34538,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6e4c295899ab38fe4e1a",
+        "@id": "/.well-known/genid/d7227efa321ab9a69fb3",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Lied"
@@ -35105,7 +34690,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bda8dd93457617d14949",
+        "@id": "/.well-known/genid/e7cff8a279782258d426",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -35257,7 +34842,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dd70edbf74dfc8666f3d",
+        "@id": "/.well-known/genid/720e699a0b4278a13d03",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -35413,7 +34998,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f2c9a24f1db561f76c49",
+        "@id": "/.well-known/genid/0aac4221b804af98c38b",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pflanze"
@@ -35570,7 +35155,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/db885c7e3b696df9f1fe",
+        "@id": "/.well-known/genid/ac9a0fe33d68afc5868b",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elementar"
@@ -35593,26 +35178,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e7ed81ad986f25f6909c",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/47cdcf4555227a2612a7",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:19+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/6716d26340986358da4b",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/11a84045df12746fb192",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:20+00:00",
         "question": "When the effect of my card gives an \"Exhausted Resupply' to another player, who counts as \"exhausting\" the card? ",
         "answer": "The player that receives the Exhausted Resupply performs both steps of the action."
@@ -36049,7 +35624,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/09aeeabc5b1cabb1f76d",
+        "@id": "/.well-known/genid/7d92d167576f6211b3a3",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -36203,7 +35778,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5126520e3e9bc6c36ce2",
+        "@id": "/.well-known/genid/daf5d8cbd3422031a3c6",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -36359,7 +35934,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e606ea35eb626398751a",
+        "@id": "/.well-known/genid/9fb0a6cadeed76bbd84f",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -36515,14 +36090,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cc68462d650cbaba39f3",
+        "@id": "/.well-known/genid/6347ced6b981d693009c",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/87fc4ef2c81ae2917a59",
+        "@id": "/.well-known/genid/995ed01c8c21d62eba38",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -36679,14 +36254,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/507fe2358eb021a400e5",
+        "@id": "/.well-known/genid/61a1ac545c8b8e8c1851",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e910b1350508fb88f3f6",
+        "@id": "/.well-known/genid/92e0c1ea172506a86225",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -36843,14 +36418,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e57da8d513778fdafe1a",
+        "@id": "/.well-known/genid/323a0b050efb953447a8",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4aebf33ef22dee8984d5",
+        "@id": "/.well-known/genid/5161fd946a64d8837b97",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -37006,14 +36581,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a87e033cd72490fbb0a5",
+        "@id": "/.well-known/genid/107bbd71a23118c87a8d",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e16190acf85e1af51b98",
+        "@id": "/.well-known/genid/3f38c6c6fd0744cd634c",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -37169,7 +36744,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/13ac003330e49e52fdc4",
+        "@id": "/.well-known/genid/4b3e94dde0f092c2e291",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
@@ -37325,7 +36900,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/02dced782ad986415109",
+        "@id": "/.well-known/genid/47abed1608363b62e3df",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
@@ -37481,7 +37056,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a6a276b7139b2126dbb6",
+        "@id": "/.well-known/genid/52e33dac7a4a2ee2cb30",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
@@ -37637,7 +37212,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c2fe2c5dfd1014331fee",
+        "@id": "/.well-known/genid/6761836cbcdcffe49377",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
@@ -37794,7 +37369,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1d03d86fe41dc267b11b",
+        "@id": "/.well-known/genid/133ce41f2a4efe70c205",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -37950,7 +37525,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a15cbcadf51e2cef3abb",
+        "@id": "/.well-known/genid/44c297ff3d7560f2550f",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -38106,14 +37681,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/60835b3a139666968948",
+        "@id": "/.well-known/genid/bd61b9935dfb2c6d65ca",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Adliger"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8ead98b8c19534f3a50e",
+        "@id": "/.well-known/genid/6b64d551df85da1435be",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -38269,14 +37844,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dc6e8a15ff0036d4ef6c",
+        "@id": "/.well-known/genid/f6d256825c1f03317fc9",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Adliger"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/38d8e82fd9e27bdc1bff",
+        "@id": "/.well-known/genid/b607bdc52749fa927d0d",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -38432,7 +38007,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/38b78f6cc66d0aeef734",
+        "@id": "/.well-known/genid/3b60eb96a661b9634341",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -38584,7 +38159,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b1807fa6ae3a94dccd3b",
+        "@id": "/.well-known/genid/62d128a5661af99b0ad3",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -38736,14 +38311,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4c371d355a8f5bdff1e0",
+        "@id": "/.well-known/genid/0118362f99ea1b3af731",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Bote"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d67bda6be9e9cfc5fa10",
+        "@id": "/.well-known/genid/840edd68b62da581ceb5",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -38899,14 +38474,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ad577d2100f469bf8973",
+        "@id": "/.well-known/genid/5a08c6d212f8d0baccef",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Bote"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e87e259036e57b0f151c",
+        "@id": "/.well-known/genid/46b3a3839f6a31a8a208",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -39062,7 +38637,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c51ec3788d77e9fc774b",
+        "@id": "/.well-known/genid/ad4e97dff43c287a9b81",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -39085,13 +38660,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/dce2d0e2b4fa543a9bd2",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/78e5147870bcab4a5ac3",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:20+00:00",
         "question": "Do the boosts of a Character count towards the stat limit?",
         "answer": "Yes."
@@ -39228,7 +38798,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d2efd24ed0e5f3a321de",
+        "@id": "/.well-known/genid/a72fb0365250c8a63e77",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -39251,13 +38821,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/b879038b649e91ea467a",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/68280eff92b33450d0fe",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:20+00:00",
         "question": "Do the boosts of a Character count towards the stat limit?",
         "answer": "Yes."
@@ -39394,7 +38959,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4696b4098670f11cd588",
+        "@id": "/.well-known/genid/9b5154911c5c3930d920",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -39446,7 +39011,7 @@
     "elements": {
       "MAIN_COST": "2",
       "RECALL_COST": "2",
-      "MAIN_EFFECT": "[[Vergänglich]].  Wähle eine Aktion. Falls alle deine Expeditionen hinten liegen oder gleichauf sind, kannst du beide wählen:  • Ziehe eine Karte.  • Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Expedition deiner Wahl."
+      "MAIN_EFFECT": "[[Vergänglich]].  Wähle eine Aktion. Falls alle deine Expeditionen hinten liegen oder gleichauf sind, kannst du beide wählen:  • Ziehe eine Karte.  • Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Expedition deiner Wahl."
     }
   },
   {
@@ -39546,7 +39111,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c81159e43435805aa557",
+        "@id": "/.well-known/genid/faa45561613aec6f26b3",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -39598,7 +39163,7 @@
     "elements": {
       "MAIN_COST": "2",
       "RECALL_COST": "2",
-      "MAIN_EFFECT": "#[Abkühlung].# (Falls ich in die Reserve gehe, nachdem mein Effekt abgeklungen ist, erschöpfe mich {T}.)  Wähle eine Aktion. Falls alle deine Expeditionen hinten liegen oder gleichauf sind, kannst du beide wählen:  • Ziehe eine Karte.  • Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Expedition deiner Wahl."
+      "MAIN_EFFECT": "#[Abkühlung].# (Falls ich in die Reserve gehe, nachdem mein Effekt abgeklungen ist, erschöpfe mich {T}.)  Wähle eine Aktion. Falls alle deine Expeditionen hinten liegen oder gleichauf sind, kannst du beide wählen:  • Ziehe eine Karte.  • Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Expedition deiner Wahl."
     }
   },
   {
@@ -39698,7 +39263,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8f6dc61544fd6db9fc6b",
+        "@id": "/.well-known/genid/89470855d705073add88",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Lied"
@@ -39850,7 +39415,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/04cec2aaead019dbea49",
+        "@id": "/.well-known/genid/12530d4517f52ca344dc",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Lied"
@@ -40001,7 +39566,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f3823cdd087e7f8a7815",
+        "@id": "/.well-known/genid/195769bc98bd8d6db229",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -40152,7 +39717,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/84364f013eb7b7333a12",
+        "@id": "/.well-known/genid/aec72f1aee5e7c5bae1d",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -40304,7 +39869,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0cf18020902239df4f2d",
+        "@id": "/.well-known/genid/31a9553426569f84037e",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -40460,7 +40025,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f3e42887257598691a66",
+        "@id": "/.well-known/genid/00027dbfc37b6f4495d3",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Gottheit"
@@ -40615,7 +40180,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d2c699e94978abb90086",
+        "@id": "/.well-known/genid/7de0751c0aff633d1845",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -40638,13 +40203,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/27f926a95c9a780e700f",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/b6d598e51fb94ba564b7",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:13+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -40780,7 +40340,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e5d1691b30c80d508e47",
+        "@id": "/.well-known/genid/77a510affc5acdbde702",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -40803,13 +40363,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/f9dd9f7832e57f5efe80",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/579557793258315ac13c",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:13+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -40946,7 +40501,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/53e3a7a93ba19871f820",
+        "@id": "/.well-known/genid/4a319ac7b7d038734e4a",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -41103,14 +40658,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cab68d05a60ef26aaf94",
+        "@id": "/.well-known/genid/e8615a1dedff28090c9f",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Adliger"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d6e34eec90a6bd21f706",
+        "@id": "/.well-known/genid/5f935eccbb2e2d9d5980",
         "reference": "FAIRY",
         "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
         "name": "Fee"
@@ -41266,7 +40821,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a0bc719285a902be2af7",
+        "@id": "/.well-known/genid/6f0b9d04182bfbecf5e8",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -41417,7 +40972,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/04629383139bef2e2c06",
+        "@id": "/.well-known/genid/fee8d11fbeda4548bda8",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -41469,7 +41024,7 @@
     "elements": {
       "MAIN_COST": "#2#",
       "RECALL_COST": "2",
-      "MAIN_EFFECT": "Wenn du einen Nicht-Illusion-Charakter opferst — Erschaffe eine [Mana-Motte 2/2/2]-Illusionsmarke in meiner Expedition.  {J} Opfere einen Charakter in meiner Expedition."
+      "MAIN_EFFECT": "Wenn du einen Nicht-Illusion-Charakter opferst — Erschaffe eine [Mana-Motte 2/2/2]-Illusionsmarke in meiner Expedition.  {J} Opfere einen Charakter aus meiner Expedition."
     }
   },
   {
@@ -41517,7 +41072,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/891562932c45b65622e0",
+        "@id": "/.well-known/genid/7afe90f02be0cf7fcd65",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -41621,7 +41176,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/43e58e19683254aa4362",
+        "@id": "/.well-known/genid/83b94bdf1ade3ec8f8c5",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -41776,7 +41331,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cc4a50203f5d52abb2cd",
+        "@id": "/.well-known/genid/894da09a1c24d8a31830",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -41876,7 +41431,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7c29b54501ea873f7382",
+        "@id": "/.well-known/genid/bdacbf9374bf33350848",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -42031,7 +41586,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/31275f045f9efa9fd564",
+        "@id": "/.well-known/genid/e07095c20c2402b3859b",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -42131,7 +41686,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/de62dd99909bf66c31ca",
+        "@id": "/.well-known/genid/9a7d5b5113b1ae08c120",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -42235,7 +41790,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/12655dbdc3e331ec8c78",
+        "@id": "/.well-known/genid/6b056d8e0e494bc2437c",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -42391,7 +41946,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/eebb4b2f5dd0ed0e8704",
+        "@id": "/.well-known/genid/544942943e538a10dfa8",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -42542,7 +42097,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9160502279d8c717144f",
+        "@id": "/.well-known/genid/05924c96fbf6577edc79",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -42694,7 +42249,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ca8ee59290820fca5a95",
+        "@id": "/.well-known/genid/686658801a1eda7f2fa9",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -42717,13 +42272,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/6d2053e96b2935ca086d",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/5855940a51b09556ef12",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:18+00:00",
         "question": "Can the effect of Rocket Puffin ready a card in another player's Reserve?",
         "answer": "Yes."
@@ -42864,7 +42414,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/106e269b52c7efc1c023",
+        "@id": "/.well-known/genid/fd2f9b27f7de53e749d5",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingenieur"
@@ -42887,13 +42437,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/b201d24ed7bb248e9aa5",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/1faa8b41137902fb43ee",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:20+00:00",
         "question": "When I play an Exhausted Character or Permanent from Reserve thanks to Vaike, does it arrive in the Expedition/the Landmark zone ready or exhausted?",
         "answer": "Ready!"
@@ -43034,7 +42579,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d86d6b86a3aa35733f91",
+        "@id": "/.well-known/genid/ec7ff6ecf0e5e4b89f73",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Abenteurer"
@@ -43057,13 +42602,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/8499dc9148530193a89f",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/f4d1637517b4d9ed819c",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:10+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -43203,7 +42743,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/20bc6b6016c803f23692",
+        "@id": "/.well-known/genid/7aec5b0f6a38bec76ede",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -43226,26 +42766,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/d1b65e893824810a219a",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/2454da73e710b67b91c3",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:16+00:00",
         "question": "When I play an Exhausted Character from Reserve thanks to Kelonic Heater, does it arrive in the Expedition ready or exhausted?",
         "answer": "Ready!"
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/d0fde0731c16d7519148",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/85b1216b08940f5fe4f4",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:16+00:00",
         "question": "Does \"Exhausted Resupply\" count as Resupply (for effects such as Quetzalcoatl or the Axiom version of the Ouroubouros)?",
         "answer": "Yes, an Exhausted Resupply counts as a Resupply."
@@ -43382,7 +42912,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c7c80a6d1dcbdd451874",
+        "@id": "/.well-known/genid/7c1912c97cf810bdb6ec",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -43405,26 +42935,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/48071bfb662bd72a8413",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/0d4e28f05ded749d48bf",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:09+00:00",
         "question": "What happens if a Gigantic Character is played in the other Expedition (the one Amarok is not in)?",
         "answer": "It gets sacrificed."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/acc518efa7ef1452d9fb",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/0f7d6c167b2b1017d913",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:10+00:00",
         "question": "What happens if Amarok is Gigantic, for example thanks to Eat Me Energy Bars?",
         "answer": "For a Gigantic Character, \"my Expedition\" means \"the Expeditions I'm in\".  Any Character played in either Expedition of a Gigantic Amarok will be sacrificed."
@@ -43565,7 +43085,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/14dfd1a02bb20b2fedb9",
+        "@id": "/.well-known/genid/992920b1606c83efb7f6",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Beschwörung"
@@ -43588,13 +43108,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/ed0dfecd43500a322860",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/40dbcf788d5ea5e209c6",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:17+00:00",
         "question": "If I play a Character with a {j} ability using Mana Flare, while I have an effect triggered by playing a spell (such as Afanas), in which order do I resolve them ?",
         "answer": "First, you finish resolving the Spell (playing the Character). Then, the active player (you) resolve all their reactions triggered by playing the spell and the Character, in the order of their choice. (This may include effects such as \"When you play a Spell —\", \"When you play a Character —\", {h}, {j}, {r} abilities, etc). "
@@ -43731,7 +43246,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e223db5a3c2d0bedbbe1",
+        "@id": "/.well-known/genid/a05eb587a27643a85b6a",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Bürger"
@@ -43887,7 +43402,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c49718c6aae84eb25c07",
+        "@id": "/.well-known/genid/5ce930526cb7111964c1",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -44043,7 +43558,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e6c4831e6750aa54b5ec",
+        "@id": "/.well-known/genid/e72b9f755c2543989ce6",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Beschwörung"
@@ -44195,7 +43710,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/de31e76feb096b6e4f08",
+        "@id": "/.well-known/genid/4f545f7d418e01b579ff",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -44346,7 +43861,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/184e5a1453e01934707c",
+        "@id": "/.well-known/genid/9dfa4725e08bb17fec36",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -44369,13 +43884,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/856422abe315f52021fc",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/64557af8b7f4e4775e2f",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:16+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -44512,14 +44022,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cc2752c99a65086b4ed5",
+        "@id": "/.well-known/genid/54ac19527310f7159405",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bürokrat"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/189444f3716418d634af",
+        "@id": "/.well-known/genid/b47cff9ceceee69663f7",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -44676,7 +44186,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/575163486dd2fcc49940",
+        "@id": "/.well-known/genid/648835edc0df5426356a",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -44832,7 +44342,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/53cf1a934c85024f45a6",
+        "@id": "/.well-known/genid/cacb1376240556066433",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -44884,7 +44394,7 @@
     "elements": {
       "MAIN_COST": "2",
       "RECALL_COST": "2",
-      "MAIN_EFFECT": "[[Vergänglich]].  Wähle eine Aktion. Falls alle deine Expeditionen hinten liegen oder gleichauf sind, kannst du beide wählen:  • Ziehe eine Karte.  • Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Expedition deiner Wahl."
+      "MAIN_EFFECT": "[[Vergänglich]].  Wähle eine Aktion. Falls alle deine Expeditionen hinten liegen oder gleichauf sind, kannst du beide wählen:  • Ziehe eine Karte.  • Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Expedition deiner Wahl."
     }
   },
   {
@@ -44983,7 +44493,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d8f5bd919c91d13c1dbf",
+        "@id": "/.well-known/genid/43d0aa05a1a1f26026e6",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -45134,7 +44644,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e25e9e2dbfbc4f8ee1eb",
+        "@id": "/.well-known/genid/ac37250ca5c046b1d97a",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -45157,13 +44667,8 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/0c61290ab3ac66cb5b25",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/09043e5687a0c8fffaa5",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:14+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
@@ -45596,7 +45101,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/62d8b7f995c9f0285a0f",
+        "@id": "/.well-known/genid/cd4e1b47ac7a36dee478",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -45752,7 +45257,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/aeaef1b09b4638197b9b",
+        "@id": "/.well-known/genid/6c04faa7188ebff57a8e",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -45909,7 +45414,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5efd073f3fce01f2e01a",
+        "@id": "/.well-known/genid/c5f52797b4e7b6c5ae13",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -46065,7 +45570,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f96e4ffe78f0824b7075",
+        "@id": "/.well-known/genid/b56626bd85ad44137a12",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -46222,14 +45727,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fc9293fba04353d63c4a",
+        "@id": "/.well-known/genid/dc7f42485e9e59a9d940",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2a9669909e67e7d52f3f",
+        "@id": "/.well-known/genid/2faa103e0912bc31bbdd",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -46385,14 +45890,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9c026a897dee361bce0d",
+        "@id": "/.well-known/genid/1f592f8d9768a6d8bfec",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/46da43f4f0129ab71c4e",
+        "@id": "/.well-known/genid/ee232779727d35215728",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Geist"
@@ -46548,7 +46053,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3f0d7cb54a859300ed1e",
+        "@id": "/.well-known/genid/4ff8a6c1c05ac9ab44fe",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -46704,7 +46209,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d6a737b184ffe5f26ddd",
+        "@id": "/.well-known/genid/e817bf7a671c0b91a4b7",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -46860,7 +46365,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/637cebe3ab97b27e54bd",
+        "@id": "/.well-known/genid/ea4b116cea4338454547",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -47016,7 +46521,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e53d6709fbb204c10a32",
+        "@id": "/.well-known/genid/998aa8bd7970494139ea",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Magier"
@@ -47173,14 +46678,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/de1456a1406fd028fc46",
+        "@id": "/.well-known/genid/0e3c429467abd9292339",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2328ad5fe1b5daf2a9bc",
+        "@id": "/.well-known/genid/dcd03c6f18b6cc413e54",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -47332,14 +46837,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5a76979c1a2d9683b265",
+        "@id": "/.well-known/genid/c8470ad5f7547d0f2352",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/26e4a5fb466cda520e6d",
+        "@id": "/.well-known/genid/ea95fcd4a9ab823a2007",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -47491,14 +46996,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3fbb02d803aeb4452c4e",
+        "@id": "/.well-known/genid/27d443a964e2c7dfd87d",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Adliger"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1e9e9ae65aabb87791df",
+        "@id": "/.well-known/genid/d74c9e6e9c7e97585377",
         "reference": "FAIRY",
         "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
         "name": "Fee"
@@ -47654,14 +47159,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2b7c602e8d87185dcf92",
+        "@id": "/.well-known/genid/cd6662d6de8e7dfee81e",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Adliger"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e28e31107c1f5069f272",
+        "@id": "/.well-known/genid/d1a35c30cc6cf2ff149e",
         "reference": "FAIRY",
         "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
         "name": "Fee"
@@ -47817,7 +47322,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c569ca897c889e840997",
+        "@id": "/.well-known/genid/6986bc4a1497f0ddd47b",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -47969,7 +47474,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9adb30b3e2c163ba07c5",
+        "@id": "/.well-known/genid/c3acd48aeb0397d5c356",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -48121,7 +47626,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/adf8e6ab4b4344dfb919",
+        "@id": "/.well-known/genid/33b6cf57f9656e65ae2d",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -48273,7 +47778,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fe40961d8c3428c68bc2",
+        "@id": "/.well-known/genid/d6e8ebcf249a69049e6a",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -48425,7 +47930,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6129ce65ecdc0053e91f",
+        "@id": "/.well-known/genid/5fe6f9761680f7c78046",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -48577,7 +48082,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e16f08c21752155bf717",
+        "@id": "/.well-known/genid/b5c0f686fe76199392de",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -48729,7 +48234,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d5eadd293411820af71f",
+        "@id": "/.well-known/genid/3f444b4842ac1ee72117",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -48881,7 +48386,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ad6c4f52c8793a7bdd5d",
+        "@id": "/.well-known/genid/94b93b94cbf88e495371",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Unterbrechung"
@@ -49033,7 +48538,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/777c45e1482f40eb37b6",
+        "@id": "/.well-known/genid/f38a2340fdb264044d65",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -49185,7 +48690,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/21eaa1eb7342eb8e01f9",
+        "@id": "/.well-known/genid/d2d132b38f28d4365502",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -49336,7 +48841,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/307f0cdd24788657fe14",
+        "@id": "/.well-known/genid/11b102eec1998b996d1a",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -49388,7 +48893,7 @@
     "elements": {
       "MAIN_COST": "3",
       "RECALL_COST": "2",
-      "MAIN_EFFECT": "Wenn du einen Nicht-Illusion-Charakter opferst — Erschaffe eine [Mana-Motte 2/2/2]-Illusionsmarke in meiner Expedition.  {J} Opfere einen Charakter in meiner Expedition."
+      "MAIN_EFFECT": "Wenn du einen Nicht-Illusion-Charakter opferst — Erschaffe eine [Mana-Motte 2/2/2]-Illusionsmarke in meiner Expedition.  {J} Opfere einen Charakter aus meiner Expedition."
     }
   },
   {
@@ -49487,7 +48992,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c933c948e58ab0390f5a",
+        "@id": "/.well-known/genid/f3201498bbd85374bbce",
         "reference": "GEAR",
         "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
         "name": "Ausrüstung"
@@ -49539,7 +49044,7 @@
     "elements": {
       "MAIN_COST": "#2#",
       "RECALL_COST": "2",
-      "MAIN_EFFECT": "Wenn du einen Nicht-Illusion-Charakter opferst — Erschaffe eine [Mana-Motte 2/2/2]-Illusionsmarke in meiner Expedition.  {J} Opfere einen Charakter in meiner Expedition."
+      "MAIN_EFFECT": "Wenn du einen Nicht-Illusion-Charakter opferst — Erschaffe eine [Mana-Motte 2/2/2]-Illusionsmarke in meiner Expedition.  {J} Opfere einen Charakter aus meiner Expedition."
     }
   },
   {
@@ -49638,7 +49143,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/01fca21a03b963391b25",
+        "@id": "/.well-known/genid/6ebe7c97a8822507e074",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -49789,7 +49294,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/46cedf091ba5c962dcbd",
+        "@id": "/.well-known/genid/9047feaa7d6f8c36332f",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -49940,7 +49445,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/47f3f18dd03ed11f4a01",
+        "@id": "/.well-known/genid/6611d8e19a739e89dd2d",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -49963,26 +49468,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/a8a15e22174e4210427b",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/a599e135d23a4a821713",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:14+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/c608f2109fe417218550",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/e50ce1def4ce9ceb6991",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:14+00:00",
         "question": "If I exhaust two cards in Reserve as part of the same effect, do I gain 1 or 2 Trial counters on Icebound pass?",
         "answer": "You gain 1 counter for each card you exhaust."
@@ -50118,7 +49613,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7d6e6a2abf4f17091807",
+        "@id": "/.well-known/genid/be77da1081c7f090497d",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Ort"
@@ -50141,26 +49636,16 @@
     "cardRulings": [
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/57a36466076d273a87f0",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/7a6f9e48d6575e216ac9",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:14+00:00",
         "question": "If I sacrifice an Icebound Landmark via another effect, such as the Rare version of Boom!, can I create a Dragon Shade?",
         "answer": "No. You only create the Dragon Shade when you successfully sacrifice the Icebound Landmark via its effect."
       },
       {
         "@type": "CardRuling",
-        "@id": "/.well-known/genid/e48328b0131d5d591738",
-        "gameType": {
-          "@id": "/game_types/01GDNGQY64G6NRWBZ7PYP0Z3E3",
-          "@type": "GameType",
-          "reference": "CONSTRUCTED",
-          "name": "Constructed"
-        },
+        "@id": "/.well-known/genid/67379832162f9e74e1f3",
+        "eventFormat": "STANDARD",
         "createdAt": "2025-01-31T10:38:14+00:00",
         "question": "If I exhaust two cards in Reserve as part of the same effect, do I gain 1 or 2 Trial counters on Icebound pass?",
         "answer": "You gain 1 counter for each card you exhaust."
@@ -50297,7 +49782,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d7c2038903cd630450cd",
+        "@id": "/.well-known/genid/7fddfdc0cc64420c034a",
         "reference": "ILLUSION",
         "id": "01J1QBG2268GSN3G0S560XZGZY",
         "name": "Illusion"
@@ -50594,7 +50079,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fc4824e2b283d71957dd",
+        "@id": "/.well-known/genid/e3973afa5791786016c2",
         "reference": "ILLUSION",
         "id": "01J1QBG2268GSN3G0S560XZGZY",
         "name": "Illusion"
