@@ -386,7 +386,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d23b30af992d2bc39aa8",
+        "@id": "/.well-known/genid/5ad07fa6b4e2c3a5dadf",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -542,7 +542,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1588b1b8356563976659",
+        "@id": "/.well-known/genid/620c274e9f4b000bfc9c",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -698,7 +698,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/47f0bdae367497ea89a3",
+        "@id": "/.well-known/genid/1bf438d6b129c54fc13e",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -855,7 +855,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/62c6801f40eb86aa1f9c",
+        "@id": "/.well-known/genid/fce3134a1e212b1bc383",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -1012,14 +1012,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a47c4dab771e7cab515a",
+        "@id": "/.well-known/genid/1a0079b2ca593cfaee17",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9c11e7b430f9f568636f",
+        "@id": "/.well-known/genid/aa852b87c77c730496ac",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -1175,14 +1175,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c12b5eb6f320b98ea2e1",
+        "@id": "/.well-known/genid/02490333af56ae6ba93d",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9bd387cfa57b55249bbc",
+        "@id": "/.well-known/genid/200d5d9496f3ac044dec",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -1339,7 +1339,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/01297c38ba27d80ed4ce",
+        "@id": "/.well-known/genid/d90d2a5197f79689bf63",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -1495,7 +1495,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cc0ee0f48f2ebf53cd60",
+        "@id": "/.well-known/genid/f4bd90877563d864b1e7",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -1651,14 +1651,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4de8abc805ce92f0b0ee",
+        "@id": "/.well-known/genid/5b730261f5338e080664",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ce24180aba5395e50e85",
+        "@id": "/.well-known/genid/c81b5eaa6ca1b93cf22e",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -1814,14 +1814,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c8986db5e718505ffb13",
+        "@id": "/.well-known/genid/b322e23458ab68628165",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/12489d48ec7b9ad29e74",
+        "@id": "/.well-known/genid/0be5f310c48c78eff491",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -1977,7 +1977,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/723f91878a0d991cce10",
+        "@id": "/.well-known/genid/ef49b90221d0f0506dba",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -2134,7 +2134,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4add52c6e4b12ad8783d",
+        "@id": "/.well-known/genid/e034a31915eb1a9181ec",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -2290,7 +2290,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4f787123702b7b487910",
+        "@id": "/.well-known/genid/f194d4dd9da6b5b78b30",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -2441,7 +2441,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a93944b7036451a36747",
+        "@id": "/.well-known/genid/8102ef6c2cfd2a77202f",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -2592,7 +2592,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c61b952f3d2a75a21581",
+        "@id": "/.well-known/genid/9746c29a37c25a07cb99",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -2743,7 +2743,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6bcad8da2d4d4be475f1",
+        "@id": "/.well-known/genid/8d890be7e11ed30a6cf5",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -2894,7 +2894,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/96254bbb32b3521f8ea1",
+        "@id": "/.well-known/genid/3c363e425dec9cfd3b6a",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -3045,7 +3045,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cda8343d8e04ec8c3d10",
+        "@id": "/.well-known/genid/50160bccf0a0dbbf560f",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -3197,7 +3197,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5e850fd502ad765b82cd",
+        "@id": "/.well-known/genid/1218e7933cae67d9b74b",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -3349,7 +3349,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1846acc905b29f9a3ed4",
+        "@id": "/.well-known/genid/bf055bb699483fe5d6dc",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -3506,7 +3506,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d515a56f3300d31b39fd",
+        "@id": "/.well-known/genid/4363876369ee556c539b",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -3663,7 +3663,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cf922df7530bbea193be",
+        "@id": "/.well-known/genid/f935712a4725e1b18cad",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -3819,7 +3819,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/358018500138a234a6b7",
+        "@id": "/.well-known/genid/a13342fd0cfb3fd92444",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -3975,7 +3975,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b55ab89e98e12098b843",
+        "@id": "/.well-known/genid/f6532e5c0e875aea5ac0",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -4130,7 +4130,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/76d2c8f69293ac83f04f",
+        "@id": "/.well-known/genid/63894ab34806da63f3e5",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -4282,7 +4282,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6db679db7c13fdd8825e",
+        "@id": "/.well-known/genid/f464b558fdff663fc1cb",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -4438,7 +4438,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4c5f81f07a1062dbd3e8",
+        "@id": "/.well-known/genid/c8de68355531ab45dfc2",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -4590,7 +4590,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f70c528bdccd265081e5",
+        "@id": "/.well-known/genid/8fb445430bbf007f3297",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -4742,7 +4742,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ae719f02ebeb1037393c",
+        "@id": "/.well-known/genid/b1a02e6ab4fd9dcffaeb",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -4898,7 +4898,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7909b96c6336732e610b",
+        "@id": "/.well-known/genid/42d3965f7c386c5fa9ce",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -5054,7 +5054,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/475f7497bb3099ec0e11",
+        "@id": "/.well-known/genid/409768c8f827c46c3430",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -5210,7 +5210,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/170468b3d42700533e8e",
+        "@id": "/.well-known/genid/0ad23db3e1c9e798cb1e",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -5657,7 +5657,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/eaf424a3a0bb7d818222",
+        "@id": "/.well-known/genid/b862dfb11148d7bc4c99",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -5813,7 +5813,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/987116eb2d8febf9234b",
+        "@id": "/.well-known/genid/16e41ff2886c0299a842",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -5969,7 +5969,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ac7ebc8e67580fa95b27",
+        "@id": "/.well-known/genid/ec29512933484b62736a",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -6125,7 +6125,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cc3a95c65e1419c65d87",
+        "@id": "/.well-known/genid/58747bb53316bbb2993a",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -6281,7 +6281,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/02f7b499f5b5d35fb73d",
+        "@id": "/.well-known/genid/c44c24bd44ad19b20f1b",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -6437,7 +6437,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b07219b6fc7f592e330f",
+        "@id": "/.well-known/genid/03e12e9fe820fe2213c3",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -6593,7 +6593,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d571a36773afce98a574",
+        "@id": "/.well-known/genid/39e85385c4189bbf5f29",
         "reference": "CITIZEN",
         "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
         "name": "Citoyen"
@@ -6750,14 +6750,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8f0903019b5db0754824",
+        "@id": "/.well-known/genid/988e695a6addb826c218",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/44d75c96c678c6c179fa",
+        "@id": "/.well-known/genid/bf5bf0011b91a9e38ca0",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -6913,14 +6913,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/465254d42ae3a8d3ba9d",
+        "@id": "/.well-known/genid/313f260c9ce05bc0ee65",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b4bbd713a56e5d4fb000",
+        "@id": "/.well-known/genid/db8c54f49c351a843da2",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -7076,7 +7076,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/97ad993a68361447bc7f",
+        "@id": "/.well-known/genid/d780e6f404c2d5c1e99e",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -7232,7 +7232,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c6a96d0c8f98a32c7898",
+        "@id": "/.well-known/genid/afb2759542cd695bd3f9",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -7388,7 +7388,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/73d4cec5d87b05478d51",
+        "@id": "/.well-known/genid/ce4310e5845fe4b01631",
         "reference": "DRAGON",
         "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
         "name": "Dragon"
@@ -7544,7 +7544,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7004ada7ce0f2e3eba4e",
+        "@id": "/.well-known/genid/20b91a589af340b911b6",
         "reference": "DRAGON",
         "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
         "name": "Dragon"
@@ -7700,7 +7700,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cef5afa7d872a259e459",
+        "@id": "/.well-known/genid/4c3538386164701214f4",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -7852,7 +7852,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/74616f0a8ff398de9707",
+        "@id": "/.well-known/genid/cde0db0928612679dc10",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -8004,7 +8004,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8af09925dc49d562d76b",
+        "@id": "/.well-known/genid/aab64e9158a8d482df6e",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -8156,7 +8156,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/81600e2100ebb2e3ce4c",
+        "@id": "/.well-known/genid/28fd13ebaee3f851a4ca",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -8307,7 +8307,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7225ccd3e496de2e72e6",
+        "@id": "/.well-known/genid/5ea405419a31ff1efcda",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -8458,7 +8458,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cb77223531fd98df0c05",
+        "@id": "/.well-known/genid/77a3f905355572f8ae65",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -8610,7 +8610,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e79ab839e6b322b2e783",
+        "@id": "/.well-known/genid/c15f5b6b59f8292ec0ef",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -8766,7 +8766,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ea03e56965d651614279",
+        "@id": "/.well-known/genid/559707b908a73663e5bd",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -8918,14 +8918,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8e44d1bace1cd0e0eb56",
+        "@id": "/.well-known/genid/b9d507b2cf71878e98eb",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0b8657e82e250f8986d7",
+        "@id": "/.well-known/genid/8fc7c58f1fa217599d6a",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -9081,7 +9081,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0209bea9e6871047c17f",
+        "@id": "/.well-known/genid/88dc5a9b8f5dc07cc4d2",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -9233,7 +9233,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/adaa10ab64bd8e8e8560",
+        "@id": "/.well-known/genid/b7e6937b84e2b00e596e",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -9385,14 +9385,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d84dd7eb44ab891567fd",
+        "@id": "/.well-known/genid/60323756e61b5315f3e1",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cf5646bf5adb45436715",
+        "@id": "/.well-known/genid/c8faa2c96173ac0259a9",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -9548,7 +9548,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5de27aec4a2a144f97c8",
+        "@id": "/.well-known/genid/d68fc93eeda20b09e9ec",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -9700,7 +9700,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/672fc121c243e723eb8d",
+        "@id": "/.well-known/genid/1bce26bb6a97d898c33e",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -9852,14 +9852,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2767d7c77aca3e7ed9b8",
+        "@id": "/.well-known/genid/c9d628ada90fb77dfcb3",
         "reference": "DRUID",
         "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
         "name": "Druide"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/16d88b3dd08db3c617b8",
+        "@id": "/.well-known/genid/c2ac871aee82ce6246c4",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -10016,7 +10016,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/131a7e220035e24125fd",
+        "@id": "/.well-known/genid/ef5ff0353a1a2e82bce9",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -10172,7 +10172,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/834346537edc27af3a20",
+        "@id": "/.well-known/genid/6c9a8a148acb73d97262",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -10323,7 +10323,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e17b47ce913a6ca91b08",
+        "@id": "/.well-known/genid/744ff844589deca1793b",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -10475,7 +10475,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/910c78564459013dc6ae",
+        "@id": "/.well-known/genid/b60498c95da7f7d1eec6",
         "reference": "DRAGON",
         "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
         "name": "Dragon"
@@ -10631,7 +10631,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bdfb005a1324f1d98aa4",
+        "@id": "/.well-known/genid/0f039a5e0748a0fa534c",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -11073,7 +11073,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e04f2d61e4c9f6604b19",
+        "@id": "/.well-known/genid/fa2830329c0448e3443c",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -11229,7 +11229,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2ad9ff0d6d2211b5d4fd",
+        "@id": "/.well-known/genid/de7d2778a246a4c9e334",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -11386,7 +11386,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/335ba9d3fdcb3fab59a1",
+        "@id": "/.well-known/genid/0557d957553403dcac56",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -11543,7 +11543,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fdfdef54ba59f8e7c0bf",
+        "@id": "/.well-known/genid/360cb2a74f7aeabd8874",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -11700,7 +11700,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d5b47415ceae591efdaf",
+        "@id": "/.well-known/genid/b1b298812ad09c0d640d",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -11856,7 +11856,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7b86c92419180a206b16",
+        "@id": "/.well-known/genid/2704790ce13eefb1fe9c",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
@@ -12012,7 +12012,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f59064f68d31671c1447",
+        "@id": "/.well-known/genid/9c5d949826f3890119aa",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -12169,7 +12169,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8948f9b87a836f472a60",
+        "@id": "/.well-known/genid/dd5673f88328ecc98f47",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -12326,7 +12326,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c8f9e2b9cb57c3eb48da",
+        "@id": "/.well-known/genid/6cb5c72740524e74374e",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -12482,7 +12482,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b14dbd4890df52811548",
+        "@id": "/.well-known/genid/2868bab16a9036e1aef0",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -12638,7 +12638,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cdb0edd07b2f37106250",
+        "@id": "/.well-known/genid/5ac9b65546a1ac1e8df4",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -12790,7 +12790,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/197c0395613db6563d35",
+        "@id": "/.well-known/genid/691c5605b0ccd7c12a4e",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -12942,7 +12942,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3125ac1fa115ec30ab6d",
+        "@id": "/.well-known/genid/43eec9f3750a8947fb68",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -13094,7 +13094,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e223e17dadf766ea0eef",
+        "@id": "/.well-known/genid/189925d19f9b8550882d",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -13245,7 +13245,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3dd268d6d9acbfb76d37",
+        "@id": "/.well-known/genid/4b14bc29c067f90627c6",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -13396,7 +13396,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ccf2675446ae0bf5d02a",
+        "@id": "/.well-known/genid/6933617a6d8b2406f9cf",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -13547,7 +13547,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f243d4d6abb837303ca8",
+        "@id": "/.well-known/genid/87a97c0aab9b31cad7f1",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -13698,7 +13698,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/048b555919a19a8e0730",
+        "@id": "/.well-known/genid/979b7856a0c5d25057d2",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -13850,7 +13850,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/79e6d0fcfa364c6bc6db",
+        "@id": "/.well-known/genid/1c371f43ea949519296f",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -14006,14 +14006,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b303ac63e77f49cacbac",
+        "@id": "/.well-known/genid/26e007d9097fa40ed6b5",
         "reference": "DRUID",
         "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
         "name": "Druide"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c087c9f6a688d59bf1d1",
+        "@id": "/.well-known/genid/c010673ec2f4c0a5983d",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -14169,7 +14169,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3d6c8529f8d83a9d6d87",
+        "@id": "/.well-known/genid/bb0816edbadf0d69dce7",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -14321,14 +14321,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4b610fa88a3c01f0a9c8",
+        "@id": "/.well-known/genid/1b9b26b973df738d21ac",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/de16e94f28f97f6792f2",
+        "@id": "/.well-known/genid/f58cf897167b822b4762",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -14485,7 +14485,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b730dc63ea0b49252f24",
+        "@id": "/.well-known/genid/594d3629a75e18b07408",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -14637,7 +14637,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3a6db316cc33f74c4984",
+        "@id": "/.well-known/genid/bb4d1a428b7cb2141b4c",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -14793,14 +14793,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/10aa1a6fab389f29792b",
+        "@id": "/.well-known/genid/71b8262e96eaf464d167",
         "reference": "DRUID",
         "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
         "name": "Druide"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2c2dcfc6fc082895e880",
+        "@id": "/.well-known/genid/0a665ff4e27572d055fe",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -14957,7 +14957,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2ec37ba747a78af04d51",
+        "@id": "/.well-known/genid/2a7d0f1ff480fe8813e7",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
@@ -15113,7 +15113,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7d92e9ee5ebfc561ecb0",
+        "@id": "/.well-known/genid/33f479043425afc1cc86",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -15269,7 +15269,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9d71f90aae0218ffe0e6",
+        "@id": "/.well-known/genid/6406004f9d91205ef156",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -15425,7 +15425,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6cb4f07d0e40ecfdd5f8",
+        "@id": "/.well-known/genid/b52312c441c2e828b346",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -15581,14 +15581,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/54cf6ffda0e4673a23c3",
+        "@id": "/.well-known/genid/42bfca0f145141041677",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ab02f0ca8294c68e467c",
+        "@id": "/.well-known/genid/afdd22d4da301c3e88b7",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Élémentaire"
@@ -15744,7 +15744,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b398524921830be72892",
+        "@id": "/.well-known/genid/ab2d89dd7e8688c79e45",
         "reference": "ADVENTURER",
         "id": "01HKAGPC92CGHANVSRSC8R8ES6",
         "name": "Aventurier"
@@ -15900,7 +15900,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bcce03db752bf2c1bd1b",
+        "@id": "/.well-known/genid/3ea35c8d3ee4b6782a07",
         "reference": "SONG",
         "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
         "name": "Chant"
@@ -16342,14 +16342,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/748244adc892be9f0a00",
+        "@id": "/.well-known/genid/afce0b7f9e3f3e5b72fb",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0bafadb2dbb9b1c21fd0",
+        "@id": "/.well-known/genid/6ca6c82511eaf285b0a5",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -16504,14 +16504,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/60502d9aae719959d77d",
+        "@id": "/.well-known/genid/6197c78865a007c84d41",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/06b0c13d2aafc95d8f50",
+        "@id": "/.well-known/genid/dc637cb9dc9c1e86016b",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -16667,7 +16667,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7166c2456a667c1a3f01",
+        "@id": "/.well-known/genid/999525852cd95cdd73ac",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -16823,7 +16823,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4b2f7f76d8a3bc5be06b",
+        "@id": "/.well-known/genid/d329feb01378d5ec843a",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -16979,14 +16979,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cff210ac9233f3edaa19",
+        "@id": "/.well-known/genid/9480cffbcdabfaea1209",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3b42e5f8204f4f57adc5",
+        "@id": "/.well-known/genid/0905ffe635ef391110ce",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -17142,14 +17142,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ee84dcd4405440514d3b",
+        "@id": "/.well-known/genid/89a02c58f4cb2159ea09",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/084651703f687bd88f15",
+        "@id": "/.well-known/genid/c94bdf032221b49254c1",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -17305,7 +17305,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c5491ef558fcdc1543f4",
+        "@id": "/.well-known/genid/371bcb3f795c5095321c",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -17462,7 +17462,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ea64b407146b58e16a19",
+        "@id": "/.well-known/genid/985c364d5a9739642c68",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -17619,7 +17619,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0cee51140c090c3741b5",
+        "@id": "/.well-known/genid/e052546d6652a92ec1a4",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -17775,7 +17775,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7622706290a18ed131f2",
+        "@id": "/.well-known/genid/ab053a7f6c1058a0ca53",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -17931,14 +17931,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d6030dac48e631eab1d6",
+        "@id": "/.well-known/genid/d44c229f638fe82fc35d",
         "reference": "DRUID",
         "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
         "name": "Druide"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ff9bda62f0a0f145b0c8",
+        "@id": "/.well-known/genid/820876cc0a3343aee725",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -18094,14 +18094,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8efd8a62b60ab93c5f77",
+        "@id": "/.well-known/genid/e5faa2e16575c7504b62",
         "reference": "DRUID",
         "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
         "name": "Druide"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ce8dd0713cfb36706543",
+        "@id": "/.well-known/genid/b7660d0eef0eddb7f2a6",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -18258,7 +18258,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/990860c78d74f3bd7d1d",
+        "@id": "/.well-known/genid/1657dc1b11faca7132f1",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -18410,7 +18410,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3e8eb263b9d5e15a2bbd",
+        "@id": "/.well-known/genid/30562463b613e2347a6b",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -18562,7 +18562,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/487b49306c6be0b475d3",
+        "@id": "/.well-known/genid/8899d1bf73e02a728569",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -18714,7 +18714,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bf784e5de410c1672851",
+        "@id": "/.well-known/genid/7b86634ddbed2e822759",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
@@ -18865,7 +18865,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9e2b4cdc90e27a825a34",
+        "@id": "/.well-known/genid/6a7765d6081d2be2a6a1",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -19016,7 +19016,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d18ac36e507a11cc58c4",
+        "@id": "/.well-known/genid/28c2c1c9feb0921c167f",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -19167,7 +19167,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/24e435f5b5192bd8266b",
+        "@id": "/.well-known/genid/1a65f98582195e998eb3",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -19318,7 +19318,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1bcc9185a880b836b230",
+        "@id": "/.well-known/genid/5cc5529984eb97e00074",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -19470,7 +19470,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d320f643b0a5a21ab040",
+        "@id": "/.well-known/genid/bc1c40a6d9692d26f50d",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -19627,14 +19627,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ba58e37991ed6010424c",
+        "@id": "/.well-known/genid/c02ac37d2fbe1caf8351",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a20e57ddbea49a29641a",
+        "@id": "/.well-known/genid/f41fa4acb15a36ad1905",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
@@ -19789,7 +19789,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1578354fa2071b179080",
+        "@id": "/.well-known/genid/3a4932df2f10a50a299d",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -19941,7 +19941,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b67e348f37c4f1d8700c",
+        "@id": "/.well-known/genid/84a663f5af6fd77270af",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
@@ -20097,14 +20097,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4113675354d9f11a5f4d",
+        "@id": "/.well-known/genid/946cf20de443fdff9e70",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cfaa40c07d89638697e5",
+        "@id": "/.well-known/genid/57018122a2b45fddd531",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
@@ -20260,14 +20260,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b2f862c4832b4103049e",
+        "@id": "/.well-known/genid/b7aaf4b19608bc259b24",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/87001a408bd1e1d1af53",
+        "@id": "/.well-known/genid/ce2ddc9ccb7be466b3c5",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
@@ -20423,14 +20423,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f652f9df7be71356a91f",
+        "@id": "/.well-known/genid/310a1c93ed4ee47ae540",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d4e10e682391eb9bfa92",
+        "@id": "/.well-known/genid/677a78edcefb5b07fc76",
         "reference": "ROBOT",
         "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
         "name": "Robot"
@@ -20587,14 +20587,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1c2fd22972a06294bf38",
+        "@id": "/.well-known/genid/7095c1d89f9ad03c59b2",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingénieur"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a6d51140e38760d0c4ca",
+        "@id": "/.well-known/genid/8b6ff509661d109efaf4",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -20749,7 +20749,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1e0e837a38c3c1e8e8cb",
+        "@id": "/.well-known/genid/d7952027dd9c3ef9bd32",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -20901,14 +20901,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d88c221d0f2f65158819",
+        "@id": "/.well-known/genid/3b31ec8f87827dce30a0",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/333833367765d62bb63b",
+        "@id": "/.well-known/genid/7652cd2b820395db2b0d",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Plante"
@@ -21064,7 +21064,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a28287b4f1a014d22d15",
+        "@id": "/.well-known/genid/ef28298530c3d66e5e12",
         "reference": "DEITY",
         "id": "01HKAGPAJFS4YDQVKY6AB16614",
         "name": "Divinité"
@@ -21220,7 +21220,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e4d635fb61127d4ddd63",
+        "@id": "/.well-known/genid/8756e5dbfe578aab80e4",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -21662,7 +21662,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ab7a8520c80bea0303d9",
+        "@id": "/.well-known/genid/36e8164772355e154782",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -21818,7 +21818,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/9a85968d12b7bcd67c6d",
+        "@id": "/.well-known/genid/4b2a0d851db6aa06793c",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -21975,7 +21975,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/036e50f3a8ab08d2d9f6",
+        "@id": "/.well-known/genid/0c97c5aae7e1a6b9d1a1",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -22132,7 +22132,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a390ba3553b6780ea495",
+        "@id": "/.well-known/genid/9718f790ebb5693ddec5",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -22289,7 +22289,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/075054066efaf38048b1",
+        "@id": "/.well-known/genid/0409f0fe46d1c0438e9a",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -22445,7 +22445,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/979a1a326326b12d2630",
+        "@id": "/.well-known/genid/b7a7d0f82cdbd0baea2e",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
@@ -22601,7 +22601,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b544c4badc17a7cc5dfa",
+        "@id": "/.well-known/genid/39435c57aba582dc5db2",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -22758,7 +22758,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2919d2e5f12e2b0757c4",
+        "@id": "/.well-known/genid/3f2e9b3efcbc4193f047",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -22915,7 +22915,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6fa36a3a74d0ed0a2739",
+        "@id": "/.well-known/genid/4474b557394c4db5d7f6",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -23071,7 +23071,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bd0de6be31b12716d912",
+        "@id": "/.well-known/genid/4946a67376b4242f8f70",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -23227,14 +23227,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b26578a442032e39be90",
+        "@id": "/.well-known/genid/78a8bd1857ac4d618ae7",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7d844f7998e62b4a1bfc",
+        "@id": "/.well-known/genid/d1e36be00871dae40214",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -23390,14 +23390,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a6d9b6bfbb36ea610b01",
+        "@id": "/.well-known/genid/8a263ff0c633917c5aed",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/85081a4aaa0e90eb2047",
+        "@id": "/.well-known/genid/030cea37250567cd466a",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -23553,14 +23553,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/09c9839dff999758d4fe",
+        "@id": "/.well-known/genid/5f5ae593d66129509f7e",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8163b6f62f9174667eaa",
+        "@id": "/.well-known/genid/13d51eded99ace21c31d",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
@@ -23716,14 +23716,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0438af8bd3c3449156a7",
+        "@id": "/.well-known/genid/f1c4d1507e3ce37cc1e9",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c34370da6f5f5c6ca683",
+        "@id": "/.well-known/genid/9970a5d738a48f3f9752",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
@@ -23879,7 +23879,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/31bb3d70100efca67a53",
+        "@id": "/.well-known/genid/36b1194fd8a1972f779e",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -24035,7 +24035,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7879edd357e939359280",
+        "@id": "/.well-known/genid/92b1da1d6a45395dc672",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -24187,7 +24187,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/85c874772c1c8305b028",
+        "@id": "/.well-known/genid/3172ce53c463c8364f32",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -24338,7 +24338,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f82d752574a01d19f6f6",
+        "@id": "/.well-known/genid/efac8ecc8b6e3b2f053a",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -24489,7 +24489,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b9fdf923d8e16b2761d3",
+        "@id": "/.well-known/genid/658fc6f4c91b50f9ec7a",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -24640,7 +24640,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/72ebea182231f9c3208f",
+        "@id": "/.well-known/genid/322085f253df74bf2342",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -24791,7 +24791,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2b536e7943f01f59c800",
+        "@id": "/.well-known/genid/81b505a3ebfd72fd26aa",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -24943,21 +24943,21 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/93fbc0d383da21d83ca3",
+        "@id": "/.well-known/genid/e562afb0783ce7ab81d9",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3468d4990a71152a1346",
+        "@id": "/.well-known/genid/792d57fb1bbbecca3464",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cf717587531990a35398",
+        "@id": "/.well-known/genid/0aa93bf931936ea4aa46",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -25113,7 +25113,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e8ddbea42a52c9f92c77",
+        "@id": "/.well-known/genid/e17b375673714417b25b",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -25270,7 +25270,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f91e8307c8dced5125bd",
+        "@id": "/.well-known/genid/5e7bdfcf600b05944d22",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
@@ -25425,7 +25425,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f5e5339156c8cf5c508f",
+        "@id": "/.well-known/genid/03c12072c083c59a9868",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -25576,7 +25576,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/759ace53c61688962972",
+        "@id": "/.well-known/genid/e436d5b84dc4260ceeaf",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -25728,7 +25728,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8a727a6a6abeffdc4005",
+        "@id": "/.well-known/genid/3574ecbca0ca84af7d3d",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
@@ -25884,7 +25884,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4e511a1f72411a89f4f2",
+        "@id": "/.well-known/genid/545140f5e4bc2ff14ddd",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -26036,7 +26036,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/65b73ac9e63d1715155f",
+        "@id": "/.well-known/genid/2f18e85eb0f5ca55aa93",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -26192,7 +26192,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/3a9de0dc922697e186f6",
+        "@id": "/.well-known/genid/70d40d9e6d393b9a3d1f",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -26349,7 +26349,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6247e95681d4562b9365",
+        "@id": "/.well-known/genid/6b47a1dc99e68ff460eb",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldat"
@@ -26506,7 +26506,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e75c3227f78c43ef8d66",
+        "@id": "/.well-known/genid/e7a94088b714bfc9614e",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manœuvre"
@@ -26948,14 +26948,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dcad424fb2146dbae0c6",
+        "@id": "/.well-known/genid/6a9e8b8cbe4edf4e4787",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/234c567dae5c9a3eae2b",
+        "@id": "/.well-known/genid/9fd782d3bc70ef748448",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -27112,14 +27112,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e38f61cc45e138b0ed99",
+        "@id": "/.well-known/genid/5aa1d45374921551d569",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artiste"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c8e800a6b245fee5bad3",
+        "@id": "/.well-known/genid/cc82a338d36c834b92f3",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -27276,7 +27276,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5ff0090814d35f26580a",
+        "@id": "/.well-known/genid/56365796fd1615654ab0",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
@@ -27432,7 +27432,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/8a6cfea7afed2e116631",
+        "@id": "/.well-known/genid/e64c3987b10794baa395",
         "reference": "NOBLE",
         "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
         "name": "Noble"
@@ -27588,21 +27588,21 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1dd44c183df4933ffab6",
+        "@id": "/.well-known/genid/66a3241595be2d218068",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/35e87c18e172a26cebe3",
+        "@id": "/.well-known/genid/158e01da36c74166855b",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/49083d1b335f6cd1b4bc",
+        "@id": "/.well-known/genid/c9e0e0230bd492b1f03f",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -27758,21 +27758,21 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/edb0592e54a853db0460",
+        "@id": "/.well-known/genid/a9d8c2d94a9188018879",
         "reference": "BUREAUCRAT",
         "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
         "name": "Bureaucrate"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7e1d48f021ef891855db",
+        "@id": "/.well-known/genid/ff23038822d6af2d8af8",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/bc6a9bc297a6bda2bf0b",
+        "@id": "/.well-known/genid/7da61cd2b72648cff2dd",
         "reference": "MESSENGER",
         "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
         "name": "Émissaire"
@@ -27928,7 +27928,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/83a5ae48f275ee016014",
+        "@id": "/.well-known/genid/5ba2bf4c402516e4ec52",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -28084,7 +28084,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2262679347cc99a5cac0",
+        "@id": "/.well-known/genid/53104321a407f10fb827",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -28240,7 +28240,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/eb32b6d3f4a31c1a89ae",
+        "@id": "/.well-known/genid/a9a3afbc45922866e52e",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -28397,7 +28397,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/527ae5c5043a2a9d4dbc",
+        "@id": "/.well-known/genid/384c9bda0805db562edf",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mage"
@@ -28554,7 +28554,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/6a1100bec9aa63288d91",
+        "@id": "/.well-known/genid/80d6133cdba993b9ff5d",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Esprit"
@@ -28704,7 +28704,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7b68aaa3547513503bd1",
+        "@id": "/.well-known/genid/326bb4f2f8253152dbcf",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -28857,7 +28857,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b8ec0038f7223138104f",
+        "@id": "/.well-known/genid/6b1280c29d7504dcefd4",
         "reference": "BOON",
         "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
         "name": "Bénédiction"
@@ -29010,7 +29010,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1521259814beb7d5721f",
+        "@id": "/.well-known/genid/1c04720ee4a498ef5ba6",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -29163,7 +29163,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/4b629d7eaf15fa7b2c24",
+        "@id": "/.well-known/genid/dd37122aba764fe8cbb3",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -29316,7 +29316,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/11d9225037c58d92603e",
+        "@id": "/.well-known/genid/260ab8051f240894b140",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -29468,7 +29468,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d07d33a6273545b9ff3c",
+        "@id": "/.well-known/genid/f772c975db722e0a094d",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Interférence"
@@ -29619,7 +29619,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/dea692b1892e68604983",
+        "@id": "/.well-known/genid/0446504dc77265dec537",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -29770,7 +29770,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/68ffe67b6c44045688df",
+        "@id": "/.well-known/genid/70bd7426f965a4f786ac",
         "reference": "CONSTRUCTION",
         "id": "01J1SYC159ACKJS202498RAQRR",
         "name": "Construction"
@@ -29921,7 +29921,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/df8e256a1099703cf419",
+        "@id": "/.well-known/genid/5586b0e1be60fa3b48f8",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
@@ -30072,7 +30072,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b397ca41323323c60421",
+        "@id": "/.well-known/genid/3ad8648004b1a7872a96",
         "reference": "SITE",
         "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
         "name": "Lieu"
