@@ -1,1 +1,1 @@
-Altered TCG Cards Set in JSON format with all available languages and sets.
+Altered TCG card sets in JSON format, available for all languages and sets.
