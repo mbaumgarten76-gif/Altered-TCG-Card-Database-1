@@ -1,6 +1,1402 @@
 [
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_AX_59_R2",
+    "@type": "Card",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/5EQWHSH8VG9YVVX1ZEVSNJJR0T",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01JBT1A4CW1E6T6G5RN4MVMNR2",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01JBT1A4CW1E6T6G5RN4MVMNR2",
+            "text": "With every dig, the Sap becomes riskier to harvest."
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A4D8PB66KGDV2VN2YKDK",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Story"
+            },
+            "id": "01JBT1A4D8PB66KGDV2VN2YKDK",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A4D3C84AAK706GXRQRK9",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01JBT1A4D3C84AAK706GXRQRK9",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A4CHE4G3SE3BTTEB29NX",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narrator"
+            },
+            "id": "01JBT1A4CHE4G3SE3BTTEB29NX",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A4CQTWFW49BH9DGSBB8G",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01JBT1A4CQTWFW49BH9DGSBB8G",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+          "reference": "SPELL",
+          "name": "Spell",
+          "description": ""
+        },
+        "id": "5EQWHSH8VG9YVVX1ZEVSNJJR0T",
+        "reference": "ALT_BISE_B_AX_59_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c379b4162c1de7b8b42e",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Disruption"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/it_IT/a5b92c1ca1ff35a368f10e72b04a43e9.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/WEB_42ac8e81f796caec3ff2067581034441",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/WEB_c429cb2571f356f638d71df9a4711075"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_59_R2",
+    "isSuspended": false,
+    "reference": "ALT_BISE_B_AX_59_R2",
+    "id": "01JB1YGPB6T61E0YAFG5S1GH8G",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/de_DE/05286bcd35c89c5f9abc93cd75fe8a01.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/es_ES/f089218f30ae77a97fb768bec49db2c6.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/it_IT/a5b92c1ca1ff35a368f10e72b04a43e9.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/en_US/ebf1d34e55d315da0a5368fa5c57098f.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_59/JPG/fr_FR/dfd92638be5c22b5169ac557bc7c5c9a.jpg"
+    },
+    "name": "Sap Overflow",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "[[Fleeting]].  #Choose one:  • Spend 1 counter from a card you control or in your Reserve to discard target Permanent.#  • Discard target Character in play or in Reserve."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_BR_58_C",
+    "@type": "Card",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/6ZYG53VX2Z9RCSATE7SS7X7J6H",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01JBT1A3X8054667P70K9AQGSE",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01JBT1A3X8054667P70K9AQGSE",
+            "text": "What a surprise, he's pulling out the big cards."
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3XGH9YV6H54WBKW54S8",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Story"
+            },
+            "id": "01JBT1A3XGH9YV6H54WBKW54S8",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3XCKG9G5N782GDAX6TY",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01JBT1A3XCKG9G5N782GDAX6TY",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3X03VFPVP9TMGW1G6RS",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narrator"
+            },
+            "id": "01JBT1A3X03VFPVP9TMGW1G6RS",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3X42VY4AY7WXK5EZHDP",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01JBT1A3X42VY4AY7WXK5EZHDP",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "6ZYG53VX2Z9RCSATE7SS7X7J6H",
+        "reference": "ALT_BISE_A_BR_58_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/9648409e9c0b65abb8ab",
+        "reference": "ADVENTURER",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "name": "Adventurer"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/it_IT/5ddc9bec7535b848b5daeb594bc80818.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/WEB_7ac81c75f76a8d06c740f9aa025b1240",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/WEB_e13a1b458419fc998aca91c2c2b492bf",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/WEB_b61e9225995f059476ac0ac0a6051416"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_BR_58_C",
+    "isSuspended": false,
+    "reference": "ALT_BISE_A_BR_58_C",
+    "id": "01JB20DP778E55Z8A7YNVWART2",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/en_US/8f41b720b162f5e9f966bb7ac4aa21f7.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/de_DE/33a0d906aff9000289de895e7b2b892c.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/es_ES/e3b221b62222ccba235741084448f199.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/it_IT/5ddc9bec7535b848b5daeb594bc80818.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_58/JPG/fr_FR/94d022fb3b39cfa643935228a6e49dcb.jpg"
+    },
+    "name": "Theseus",
+    "elements": {
+      "MAIN_COST": "8",
+      "RECALL_COST": "8",
+      "OCEAN_POWER": "6",
+      "FOREST_POWER": "6",
+      "MOUNTAIN_POWER": "6",
+      "MAIN_EFFECT": "[Scout] {3}. (You may play me from hand for {3} with \"{h} Send me to Reserve\".)  {J} Return target Character to its owner's hand.  {R} I gain 2 boosts."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_AX_56_C",
+    "@type": "Card",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/2ADYXNBHHP8HN8SYBPJFVM6WWE",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01JBT1A3WH33079GYX9Z3WZ3VC",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01JBT1A3WH33079GYX9Z3WZ3VC",
+            "text": "Casting off boosters!"
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3WT3GJSR6SERV9GT09F",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Story"
+            },
+            "id": "01JBT1A3WT3GJSR6SERV9GT09F",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3WNGYBAT8SZKZPQ961E",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01JBT1A3WNGYBAT8SZKZPQ961E",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3VYE00KX6389H6XF2YM",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narrator"
+            },
+            "id": "01JBT1A3VYE00KX6389H6XF2YM",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3WCVP622EKD83YHCZ3V",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01JBT1A3WCVP622EKD83YHCZ3V",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "2ADYXNBHHP8HN8SYBPJFVM6WWE",
+        "reference": "ALT_BISE_A_AX_56_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c95658ddc2bfbce04ca0",
+        "reference": "ADVENTURER",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "name": "Adventurer"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/it_IT/c08415e4f14de6878ac65d3789115cd5.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_AX_56_C",
+    "isSuspended": false,
+    "reference": "ALT_BISE_A_AX_56_C",
+    "id": "01JB1ZKV4Y93QC35CPPY7691CZ",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/de_DE/a6c92c19b9b6c2a983bd0629eb4f37dd.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/it_IT/c08415e4f14de6878ac65d3789115cd5.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/fr_FR/a709548ecd9bc32028716b6d4a4d9578.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/es_ES/32f635a4d3a34d79dc4c801efb25880f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/en_US/5d803e29601a5f4803d287d6eeab65fb.jpg"
+    },
+    "name": "Icarus",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "[Scout] {1}. (You may play me from hand for {1} with \"{h} Send me to Reserve\".)  {J} Ready all cards in your Reserve."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_AX_56_R2",
+    "@type": "Card",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/2ADYXNBHHP8HN8SYBPJFVM6WWE",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01JBT1A3WH33079GYX9Z3WZ3VC",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01JBT1A3WH33079GYX9Z3WZ3VC",
+            "text": "Casting off boosters!"
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3WT3GJSR6SERV9GT09F",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Story"
+            },
+            "id": "01JBT1A3WT3GJSR6SERV9GT09F",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3WNGYBAT8SZKZPQ961E",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01JBT1A3WNGYBAT8SZKZPQ961E",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3VYE00KX6389H6XF2YM",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narrator"
+            },
+            "id": "01JBT1A3VYE00KX6389H6XF2YM",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A3WCVP622EKD83YHCZ3V",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01JBT1A3WCVP622EKD83YHCZ3V",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "2ADYXNBHHP8HN8SYBPJFVM6WWE",
+        "reference": "ALT_BISE_A_AX_56_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/779d7a69533f6850594d",
+        "reference": "ADVENTURER",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "name": "Adventurer"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/it_IT/fa3b70d9d54ce768277590ac86fbc8f1.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_AX_56_R2",
+    "isSuspended": false,
+    "reference": "ALT_BISE_A_AX_56_R2",
+    "id": "01JB2054E0D34Y42FNZ23N0Q8J",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/es_ES/9956b2e17ddc36898e8fee35745c51ea.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/it_IT/fa3b70d9d54ce768277590ac86fbc8f1.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/de_DE/fa5b8bf8025bbecc46b96760a5a86c44.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/en_US/f55962255f261df70986d6b1100e4e16.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_56/JPG/fr_FR/917de6b0099155e9ebe204422a011a83.jpg"
+    },
+    "name": "Icarus",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "[Scout] {1}. (You may play me from hand for {1} with \"{h} Send me to Reserve\".)  {J} Ready all cards in your Reserve."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_AX_52_R2",
+    "@type": "Card",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/444H0RYXG98D7RAH2RR6XKQ8B7",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01JBT1A460ZEBZFTE1QWKN7P89",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01JBT1A460ZEBZFTE1QWKN7P89",
+            "text": "Not my cabbages!"
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A46AFM3NQNAMVMCXY191",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Story"
+            },
+            "id": "01JBT1A46AFM3NQNAMVMCXY191",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A465ECBFXD0JQVVFSXJ4",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01JBT1A465ECBFXD0JQVVFSXJ4",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A45Q451Q76BJHAGK707M",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narrator"
+            },
+            "id": "01JBT1A45Q451Q76BJHAGK707M",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A45WM7JVJNY0PE0JSR49",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01JBT1A45WM7JVJNY0PE0JSR49",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "444H0RYXG98D7RAH2RR6XKQ8B7",
+        "reference": "ALT_BISE_B_AX_52_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/fe1fdba422af85387d1b",
+        "reference": "ROBOT",
+        "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+        "name": "Robot"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@id": "/rarities/RARE",
+      "@type": "Rarity",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/it_IT/ca5876775544055283290392bfc86826.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/WEB_8c071b1d59499ea72aa486c429121e54",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/WEB_a30c3831c2a37b0a8c82ffb1b24e1b8a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/WEB_2e9184b93c46e667e40e6ad72621ed6e"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_52_R2",
+    "isSuspended": false,
+    "reference": "ALT_BISE_B_AX_52_R2",
+    "id": "01JB1YGPB3HW2076HJWYCET35D",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/de_DE/a6630d5b14b8f0c203c90f1eeaf185bc.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/it_IT/ca5876775544055283290392bfc86826.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/es_ES/35a41979edf93ef5b865e2d435e50c46.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/en_US/614cd212e717cf3d159f6681f4ec6030.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_52/JPG/fr_FR/237d2c5a91cac0bf571dff22770cf549.jpg"
+    },
+    "name": "Drillmole",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "#1#",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{R} You may spend #1 counter# from #a card you control or in your Reserve# to [Sabotage].",
+      "ECHO_EFFECT": "{I} #When another Character joins your Expeditions# — I gain 1 boost, up to a #max of 2.#"
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_BR_55_C",
+    "@type": "Card",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/09T3WPK67E9DQRHRV9BEYHS8FD",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01JBT1A4Y2HFKAEZ2536Z8Z97E",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01JBT1A4Y2HFKAEZ2536Z8Z97E",
+            "text": "One offering for one serving of stew. House rules."
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A4YGNMXZX1F5KW0CCQ25",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Story"
+            },
+            "id": "01JBT1A4YGNMXZX1F5KW0CCQ25",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A4Y905K1N5BAB3MMP026",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01JBT1A4Y905K1N5BAB3MMP026",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A4XM9TXRG32WR7YDJPDD",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narrator"
+            },
+            "id": "01JBT1A4XM9TXRG32WR7YDJPDD",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A4XVETHPDG0S4CGBARYF",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01JBT1A4XVETHPDG0S4CGBARYF",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "09T3WPK67E9DQRHRV9BEYHS8FD",
+        "reference": "ALT_BISE_B_BR_55_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c6eb121abd915ca0e6f4",
+        "reference": "DEITY",
+        "id": "01HKAGPAJFS4YDQVKY6AB16614",
+        "name": "Deity"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/it_IT/98368083860f01036d84f1540cca4dc9.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/WEB_095ea28fe5f007f67c129ecca1ce7d99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/WEB_41cc4e1a3b5b81e2bdf1a19dbc05fb3a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/WEB_3b080bfb1fa765fdc81d5030680a28e0"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_55_C",
+    "isSuspended": false,
+    "reference": "ALT_BISE_B_BR_55_C",
+    "id": "01JB1YGPBBZWWPFJGWZ68G4WXG",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/de_DE/76c98fa2722a42076cab4f56b50a0821.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/es_ES/a51ef9b54e106c278014870fb3fdf300.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/it_IT/98368083860f01036d84f1540cca4dc9.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/en_US/5bd46c4d13673ad1ff3a12de4ac36e68.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/fr_FR/bf4d72c13e90db68df234bf119d4bf74.jpg"
+    },
+    "name": "Hestia",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "2",
+      "ECHO_EFFECT": "{I} When you play another Character — You may pay {1} to give it 1 boost."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_MU_53_C",
+    "@type": "Card",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/3F1J16PHCK9AYT424VC722H74N",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01JBT1A784G4NARNH225XG3N9W",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01JBT1A784G4NARNH225XG3N9W",
+            "text": "It fights tooth-for-tooth with the fairy."
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A78RP8QX760P0308M65J",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Story"
+            },
+            "id": "01JBT1A78RP8QX760P0308M65J",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A78EWPNEM3THEQ8T58Q7",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01JBT1A78EWPNEM3THEQ8T58Q7",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A77GQX82W2N34RCBG8H9",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narrator"
+            },
+            "id": "01JBT1A77GQX82W2N34RCBG8H9",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A77TV432YJGYYSXXN8CQ",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01JBT1A77TV432YJGYYSXXN8CQ",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "3F1J16PHCK9AYT424VC722H74N",
+        "reference": "ALT_BISE_B_MU_53_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2c4cb613335f4178ba7c",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animal"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_53/JPG/it_IT/3c3113327c390d4fdd11909c184dd5f2.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_53/WEB_3821850fc51b50cb6e1c1f2418a2215c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_53/WEB_5701736f05c20589b5744bb784128911",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_53/WEB_6f5b7d9fc597e7910e91480289d8b122"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_53_C",
+    "isSuspended": false,
+    "reference": "ALT_BISE_B_MU_53_C",
+    "id": "01JB1YGPBNB8J0VP19NC8TN17S",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_53/JPG/en_US/8fe4f21de8f2a6344a3f0239c6af2d84.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_53/JPG/de_DE/9845abb665197d41ce1d30c121123870.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_53/JPG/es_ES/5d4781351130a2ae9f0801d9bb26997e.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_53/JPG/it_IT/3c3113327c390d4fdd11909c184dd5f2.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_53/JPG/fr_FR/83fd768498608d9845f0072c30feb48f.jpg"
+    },
+    "name": "The Little Mouse",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{H} [Sabotage]. If you discarded a card this way, its owner [Exhausted Resupplies]. (They put the top card of their deck in Reserve, then they exhaust it {T}. Exhausted cards can't be played and have no Support abilities.)"
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_OR_52_C",
+    "@type": "Card",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/25KBJKMJ2598T8CDR0JY79F8EB",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01JBT1A93XR91FVRA298C2XTJ2",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01JBT1A93XR91FVRA298C2XTJ2",
+            "text": "Certain ancient knowledge must not be allowed to fall into the wrong hands."
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A94NJ6BCPF4YHVXV0BQE",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Story"
+            },
+            "id": "01JBT1A94NJ6BCPF4YHVXV0BQE",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A949TN0BKSZGV2QQZ6ME",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01JBT1A949TN0BKSZGV2QQZ6ME",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A936HC3ZKFNEBEFYC77X",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narrator"
+            },
+            "id": "01JBT1A936HC3ZKFNEBEFYC77X",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A93JH4GJVMZ5GM0PEYRK",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01JBT1A93JH4GJVMZ5GM0PEYRK",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "25KBJKMJ2598T8CDR0JY79F8EB",
+        "reference": "ALT_BISE_B_OR_52_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/bcee1b73d64ce1ece5df",
+        "reference": "BUREAUCRAT",
+        "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+        "name": "Bureaucrat"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/07947483c6ffbb14e0e4",
+        "reference": "SCHOLAR",
+        "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+        "name": "Scholar"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/it_IT/7a429b7a13942c29f35cf4d9ce8b06fa.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_0f4a356d4f65aa35d807a64787f6386e",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_6650adda98b6a20a1e143911612cab91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_b76422b8599cdacb4fd09bcca34dc948"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_52_C",
+    "isSuspended": false,
+    "reference": "ALT_BISE_B_OR_52_C",
+    "id": "01JB1YGPBVGB6DPE03BAS3WEP4",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/de_DE/ebeda3736293740b7cf40baee120a536.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/es_ES/bfce5a0eb6338392386987063a8ec89a.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/it_IT/7a429b7a13942c29f35cf4d9ce8b06fa.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/en_US/0a0354eef1b87ef93d0729249d569259.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/fr_FR/aafd1085cdb45816a75aa8c94dfff75e.jpg"
+    },
+    "name": "Leo, Relic Expert",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "At Night — You may spend 1 counter from a card in your Reserve or Landmarks to [Sabotage] after Rest. (Discard up to one target card from a Reserve.)"
+    }
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_OR_55_C",
+    "@type": "Card",
+    "loreEntries": [
+      {
+        "@id": "/lore_entries/2XKD6N27H293BB3PD6K9HGC03G",
+        "@type": "LoreEntry",
+        "loreEntryElements": [
+          {
+            "@id": "/lore_entry_elements/01JBT1A9FV62R0DJTFM3A4TGH1",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+              "reference": "FLAVOR_TEXT",
+              "subject": "Flavor Text"
+            },
+            "id": "01JBT1A9FV62R0DJTFM3A4TGH1",
+            "text": "Using untested ingredients is a recipe for disaster."
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A9GNNSS4DRX5NSTZXBY7",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+              "reference": "STORY",
+              "subject": "Story"
+            },
+            "id": "01JBT1A9GNNSS4DRX5NSTZXBY7",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A9G8N2B63TKSW9B0TKVX",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+              "@type": "LoreEntryElementType",
+              "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+              "reference": "INSPIRATION",
+              "subject": "Inspiration"
+            },
+            "id": "01JBT1A9G8N2B63TKSW9B0TKVX",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A9E4SWGCQYRA7CT4CJNG",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+              "@type": "LoreEntryElementType",
+              "id": "01H19024M31D80P12EJCYX9GB0",
+              "reference": "NARRATOR",
+              "subject": "Narrator"
+            },
+            "id": "01JBT1A9E4SWGCQYRA7CT4CJNG",
+            "text": ""
+          },
+          {
+            "@id": "/lore_entry_elements/01JBT1A9FGQXC8ZR4H106Q0P3Y",
+            "@type": "LoreEntryElement",
+            "loreEntryElementType": {
+              "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "@type": "LoreEntryElementType",
+              "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+              "reference": "DATE",
+              "subject": "Date"
+            },
+            "id": "01JBT1A9FGQXC8ZR4H106Q0P3Y",
+            "text": ""
+          }
+        ],
+        "loreEntryType": {
+          "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "@type": "LoreEntryType",
+          "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+          "reference": "CHARACTER",
+          "name": "Character",
+          "description": ""
+        },
+        "id": "2XKD6N27H293BB3PD6K9HGC03G",
+        "reference": "ALT_BISE_B_OR_55_C"
+      }
+    ],
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/bd771d905315839f23cd",
+        "reference": "BUREAUCRAT",
+        "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+        "name": "Bureaucrat"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@id": "/rarities/COMMON",
+      "@type": "Rarity",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/it_IT/2cd552a888da58aaa72764d322a45081.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/WEB_4080b184f238cf5a30f7911ddecd666b",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/WEB_03add66860e5fbb3e9d95f7138045f13",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/WEB_a241a8e1ad235cb16e813c9b250a2b6e"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_55_C",
+    "isSuspended": false,
+    "reference": "ALT_BISE_B_OR_55_C",
+    "id": "01JB1YGPBWTPZXT1NTY4H3V3B1",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/de_DE/426a7fce3765909cd2034f2154e88bca.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/es_ES/defec7e8a610fd5c799ae1cdd252b175.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/it_IT/2cd552a888da58aaa72764d322a45081.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/en_US/34cf9f7c4220515e3e03e8b99efc5af6.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_55/JPG/fr_FR/be9c6086446f699a88ba9db2275faa37.jpg"
+    },
+    "name": "Health Inspector",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "Cards in your opponent's Reserve can't gain counters."
+    }
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_A_YZ_52_C",
     "@type": "Card",
     "loreEntries": [
