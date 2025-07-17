@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ALT_WCQ25_P_AX_08_R1",
+    "name": "Axiom Salvager",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ENGINEER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/en_US/0d743dc2fbadbf325e2bbe915e01ba8d.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "#1#",
+      "OCEAN_POWER": "#0#",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{R} [Resupply]. (Put the top card of your deck in Reserve.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-01-R-EN"
+  },
+  {
+    "id": "ALT_WCQ25_P_BR_06_R1",
+    "name": "Tiny Jinn",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ELEMENTAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/en_US/800553cfbcdb5be8f002f10cf3b93564.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "#1#",
+      "RECALL_COST": "#2#",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "If I would leave the Expedition zone while I'm [[Boosted]], put me in my owner's Mana zone instead (as an exhausted Mana Orb).  {R} I gain 1 boost."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-02-R-EN"
+  },
+  {
+    "id": "ALT_WCQ25_P_LY_10_R1",
+    "name": "Ouroboros Inkcaster",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ARTIST"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/en_US/2d998a5d59511c76480f7dcd12ab9757.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "#2#",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "#2#",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "When I go to Reserve from the Expedition zone — You may return another card from your Reserve to your hand.",
+      "ECHO_EFFECT": "#{D} : The next card you play this turn costs {1} less.# (Discard me from Reserve to do this.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-03-R-EN"
+  },
+  {
+    "id": "ALT_WCQ25_P_MU_16_R1",
+    "name": "Aloe Vera",
+    "type": "CHARACTER",
+    "subtypes": [
+      "PLANT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/en_US/e0c336ec0252a8614aca5ec0605fb786.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "#{J} You may pay {1} to have me gain [[Anchored]].# (During Rest, I don't go to Reserve and I lose Anchored.)  At Noon — [Resupply]. (Put the top card of your deck in Reserve.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-04-R-EN"
+  },
+  {
+    "id": "ALT_WCQ25_P_OR_05_R1",
+    "name": "Ordis Trooper",
+    "type": "CHARACTER",
+    "subtypes": [
+      "SOLDIER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/en_US/738c1d534ce0cc6675dc76cda7d5b406.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "#2#",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "#2#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-05-R-EN"
+  },
+  {
+    "id": "ALT_WCQ25_P_YZ_05_R1",
+    "name": "Moonlight Jellyfish",
+    "type": "CHARACTER",
+    "subtypes": [
+      "SPIRIT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/en_US/0cbab5200ada2477bf5f820f03600730.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "When I'm sacrificed, if I was not [[Fleeting]] — Put me in Reserve.  #When I'm sacrificed, if I was [[Fleeting]] — Draw a card.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-06-R-EN"
+  }
+]

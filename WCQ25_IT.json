@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ALT_WCQ25_P_AX_08_R1",
+    "name": "Rovistatore Axiom",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ENGINEER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/it_IT/e526a01af324504fb5e31346327b2cb0.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "#1#",
+      "OCEAN_POWER": "#0#",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{R} [Rifornisci]. (Metti la prima carta del tuo mazzo nella Riserva.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-01-R-IT"
+  },
+  {
+    "id": "ALT_WCQ25_P_BR_06_R1",
+    "name": "Piccolo Jinn",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ELEMENTAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/it_IT/6eefdce0c011f59973f864f26e8ad2b3.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "#1#",
+      "RECALL_COST": "#2#",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "Se sto per lasciare l'area delle spedizioni quando ho [[Rinforzato]], mettimi invece nell'area del mana del mio proprietario (come una sfera di mana consumata).  {R} Ottengo 1 rinforzo."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-02-R-IT"
+  },
+  {
+    "id": "ALT_WCQ25_P_LY_10_R1",
+    "name": "Grafomante dell'Uroboro",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ARTIST"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/it_IT/57ad68bd2fd9ce31566830f8c35ef997.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "#2#",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "#2#",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "Quando vado nella Riserva dall'area delle spedizioni — Puoi riprendere in mano un'altra carta dalla tua Riserva.",
+      "ECHO_EFFECT": "#{D}: La prossima carta che giochi in questo turno costa {1} in meno.# (Scartami dalla Riserva per eseguire questa azione.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-03-R-IT"
+  },
+  {
+    "id": "ALT_WCQ25_P_MU_16_R1",
+    "name": "Aloe Vera",
+    "type": "CHARACTER",
+    "subtypes": [
+      "PLANT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/it_IT/5265129c8064d6bdf3e97537b0a83bfc.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "#{J} Puoi pagare {1} per farmi ottenere [[Ancorato]].# (Durante il riposo, non vado nella Riserva e perdo Ancorato.)  A mezzogiorno — [Rifornisci]. (Metti la prima carta del tuo mazzo nella Riserva.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-04-R-IT"
+  },
+  {
+    "id": "ALT_WCQ25_P_OR_05_R1",
+    "name": "Fante Ordis",
+    "type": "CHARACTER",
+    "subtypes": [
+      "SOLDIER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/it_IT/7644024256cb26b9c5cd4b21dc6a5e43.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "#2#",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "#2#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-05-R-IT"
+  },
+  {
+    "id": "ALT_WCQ25_P_YZ_05_R1",
+    "name": "Medusa Lunare",
+    "type": "CHARACTER",
+    "subtypes": [
+      "SPIRIT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/it_IT/d3a460d6d01134a9d046fce02f5a9627.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "Quando mi sacrifichi, se non avevo [[Fugace]] — Mettimi nella Riserva.  #Quando mi sacrifichi, se avevo [[Fugace]] — Pesca una carta.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-06-R-IT"
+  }
+]

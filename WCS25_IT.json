@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ALT_WCS25_P_AX_01_C",
+    "name": "Sierra e Strambo",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_01/JPG/it_IT/9aeb295a3f6acd3935656ef5527ee528.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Quando giochi un permanente con costo dalla mano pari o superiore a {3} — Puoi consumarmi ({T}) per creare una pedina Robot [Ottonblatta 2/2/2] in una spedizione bersaglio."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-AX-01-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_AX_02_C",
+    "name": "Treyst e Rossum",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_02/JPG/it_IT/89fb1f7c029aba96b9ff64860893efe6.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Quando una carta lascia la tua Riserva durante il pomeriggio — Se ho meno di 5 segnalini Rottame, ottengo 1 segnalino Rottame.  Se ho 5 o più segnalini Rottame, ottengo \"{T}: pesca una carta, poi metti una carta dalla tua mano nella Riserva.\""
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-AX-02-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_AX_03_C",
+    "name": "Subhash e Marmo",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_03/JPG/it_IT/c7fbf17e2a0eef32a91698554c762c53.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "A mezzogiorno — Puoi pagare {1} e mettere una carta dalla tua mano nella Riserva per creare una pedina Robot [Ottonblatta 2/2/2] in una spedizione bersaglio."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-03-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_01_C",
+    "name": "Kojo e Booda",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_01/JPG/it_IT/24f7381749e8a678420384d3e5e37302.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "A mezzogiorno — Se sei il primo giocatore, crea una pedina Compagno [Booda 2/2/2] nella spedizione del tuo compagno."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-01-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_02_C",
+    "name": "Atsadi e Folgore",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_02/JPG/it_IT/f7e1ddf13d50ac133bbb473d3f0a67da.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Inizio la partita con cinque segnalini Eroismo.  Quando giochi un personaggio con costo dalla mano pari o superiore al numero dei miei segnalini Eroismo — Pesca una carta e ottengo un segnalino Eroismo."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-02-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_03_C",
+    "name": "Basira e Kaizaimon",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/it_IT/c7e8ce1877f9813b44a9b33240e61ab7.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Quando un personaggio che controlli ottiene 1 o più rinforzi — Puoi consumarmi ({T}) per conferire 1 rinforzo a un personaggio bersaglio. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-03-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_01_C",
+    "name": "Nevenka e Macchia",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_01/JPG/it_IT/96ca8ccd9a21119c0533eff15085e4b0.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T}: Scegli come bersaglio un personaggio che controlli, poi tira un dado. Con:  • 6+, ottiene [[Ancorato]]. (Durante il riposo, non va nella Riserva e perde Ancorato.)  • 2-5, ottiene 1 rinforzo. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)  • 1, mandalo nella Riserva."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-LY-01-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_02_C",
+    "name": "Auraq e Crocchetta",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_02/JPG/it_IT/edfb01fa562ee8fa2b093f5aec36163d.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Quando giochi un personaggio con una statistica base pari a 0 — Ottengo 1 segnalino Prestazione.  A mezzogiorno — Puoi spendere 5 dei miei segnalini Prestazione per rivelare la prima carta del tuo mazzo. Puoi giocarla senza pagarne il costo o aggiungerla alla tua mano. (Non attivi alcuna abilità {h}.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-02-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_03_C",
+    "name": "Fen e Riff",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_03/JPG/it_IT/6794eb6abcd21f51b330580b2d229705.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Durante la mattina, pesca solo una carta. Poi, metti la prima carta del tuo mazzo nella tua area del mana invece di una carta dalla tua mano.  A mezzogiorno — [Rifornisci]. (Metti la prima carta del tuo mazzo nella Riserva.)  Ignora le mie abilità durante la prima giornata."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-LY-03-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_01_C",
+    "name": "Teija e Nauraa",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/it_IT/70918ae99d32e6b48a0f21dc783c599d.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Il primo personaggio che giochi ogni pomeriggio ottiene 1 rinforzo[]. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-01-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_02_C",
+    "name": "Arjun e Spina",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_02/JPG/it_IT/d8280706e490247ed67c56c9e6a3e159.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T}, Scarta una carta dalla tua Riserva: il prossimo personaggio che giochi in questo turno con costo dalla mano pari o inferiore a {3} ottiene [[Ancorato]]. (Durante il riposo, non va nella Riserva e perde Ancorato.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-02-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_03_C",
+    "name": "Rin e Orchidea",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_03/JPG/it_IT/3c24bbced0bfbf1ec05e492abbf58612.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Quando una delle tue spedizioni avanza per via di {V} — Pesca una carta, poi metti una carta dalla tua mano nella Riserva."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-03-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_01_C",
+    "name": "Sigismar e Alagrande",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/it_IT/695ccd7331e76e7877c2ae26ddc0d1f7.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "A mezzogiorno — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella spedizione del tuo eroe."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-01-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_02_C",
+    "name": "Waru e Mack",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/it_IT/e9a699a1a1b1110c1b8bc1bae92144f3.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Quando giochi un Burocrate — Ottiene [[Dormiente]]. (Durante il crepuscolo, ignora le sue statistiche. Durante il riposo, non va nella Riserva e perde Dormiente.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-02-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_03_C",
+    "name": "Gulrang e Campana",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_03/JPG/it_IT/a590306311b09841ee2a390dd897ae00.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Quando crei una pedina personaggio — Ottiene 1 rinforzo.  Se hai meno di otto sfere di mana, le pedine con [[Rinforzato]] che controlli hanno [Difensore]. (Le loro spedizioni non possono avanzare durante il crepuscolo.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-03-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_01_C",
+    "name": "Akesha e Taru",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/it_IT/b3aa19030ce27932fb8a1614b80d49c1.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T}: [Dopo di te]. Puoi eseguire questa azione solo se sei il primo giocatore. (Termina il tuo turno come se avessi giocato una carta. Puoi comunque giocare carte più avanti in questa giornata.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-01-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_02_C",
+    "name": "Lindiwe e Fauce",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_02/JPG/it_IT/ca4fd1545cc2f5a5c5dbd5b8d275f440.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T}: Crea una pedina Compagno [Fauce 0/0/0] nella spedizione del tuo compagno con \"Quando sacrifichi un personaggio — Ottengo 2 rinforzi\". Questa azione costa {1} in più se non sei il primo giocatore."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-02-C-IT"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_03_C",
+    "name": "Afanas e Senka",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_03/JPG/it_IT/4525c4b4e26a6b40e0176e65de5e2f57.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Quando giochi un incantesimo — Un personaggio bersaglio che controlli ottiene 1 rinforzo[]. (Fallo dopo che l'incantesimo si è risolto. Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-03-C-IT"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ALT_WCS25_P_AX_01_C",
+    "name": "Sierra & Oddball",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_01/JPG/en_US/26bcae2b600a48ac9875889a70cd6b9b.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "When you play a Permanent with Hand Cost {3} or more — You may exhaust me ({T}) to create a [Brassbug 2/2/2] Robot token in target Expedition."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-AX-01-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_AX_02_C",
+    "name": "Treyst & Rossum",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_02/JPG/en_US/5b592480d4a9efbe4f75808d787b51a7.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "When a card leaves your Reserve during the Afternoon — If I have less than 5 Scrap counters, I gain 1 Scrap counter.  If I have 5 or more Scrap counters, I gain \"{T} : Draw a card, then put a card from your hand in Reserve.\""
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-AX-02-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_AX_03_C",
+    "name": "Subhash & Marmo",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_03/JPG/en_US/81d2889d45969973fefd5e1e37c823d8.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "At Noon — You may pay {1} and put a card from your hand in Reserve to create a [Brassbug 2/2/2] Robot token in target Expedition."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-03-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_01_C",
+    "name": "Kojo & Booda",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_01/JPG/en_US/61b61cbdee13d8edb13bc3b0b74d08de.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "At Noon — If you are the first player, create a [Booda 2/2/2] Companion token in your Companion Expedition."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-01-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_02_C",
+    "name": "Atsadi & Surge",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_02/JPG/en_US/6cb61cca2329ccdda4655e01f2d80edc.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "I begin the game with 5 Heroism counters.  When you play a Character with Hand Cost greater than or equal to my number of Heroism counters — Draw a card and I gain 1 Heroism counter."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-02-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_03_C",
+    "name": "Basira & Kaizaimon",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/en_US/56c785563879de29564b144adc393bf7.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "When a Character you control gains 1 or more boosts — You may exhaust me ({T}) to give target Character 1 boost. (A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-03-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_01_C",
+    "name": "Nevenka & Blotch",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_01/JPG/en_US/8f95a2b4539d6aca2dc7cf7cde5aa0f5.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T} : Target a Character you control, then roll a die. On a:  • 6+, it gains [[Anchored]]. (During Rest, it doesn't go to Reserve and it loses Anchored.)  • 2-5, it gains 1 boost. (A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)  • 1, send it to Reserve."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-LY-01-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_02_C",
+    "name": "Auraq & Kibble",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_02/JPG/en_US/903bbb47aca988716f60bb13950883f3.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "When you play a Character with a base statistic of 0 — I gain 1 Performance counter.  At Noon — You may spend 5 of my Performance counters to reveal the top card of your deck. You may play it for free or put it into your hand. (Don't activate any {h} abilities.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-02-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_03_C",
+    "name": "Fen & Crowbar",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_03/JPG/en_US/861e30c9fc64ae8ce9cc09ccd52e9376.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "During Morning, draw only one card. Then, put the top card of your deck in your Mana zone instead of a card from your hand.  At Noon — [Resupply]. (Put the top card of your deck in Reserve.)  Ignore my abilities during the first Day."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-LY-03-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_01_C",
+    "name": "Teija & Nauraa",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/en_US/eb08e42753f9d139df482a5462102a5e.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "The first Character you play each Afternoon gains 1 boost[]. (A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-01-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_02_C",
+    "name": "Arjun & Spike",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_02/JPG/en_US/9215fd95a642c1193a4df241f8fe3a5d.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T}, Discard a card from your Reserve: the next Character you play this turn with Hand Cost {3} or less gains [[Anchored]]. (During Rest, it doesn't go to Reserve and it loses Anchored.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-02-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_03_C",
+    "name": "Rin & Orchid",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_03/JPG/en_US/5caa42e50f0a47f615f5706b720c1aff.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "When one of your Expeditions moves forward due to {V} — Draw a card, then put a card from your hand in Reserve."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-03-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_01_C",
+    "name": "Sigismar & Wingspan",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/en_US/7bbb25d586a29067ff3e34ee5330bc5c.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "At Noon — Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-01-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_02_C",
+    "name": "Waru & Mack",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/en_US/48857fe398f77be5c6277cd978020e66.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "When you play a Bureaucrat — It gains [[Asleep]]. (During Dusk, ignore its statistics. During Rest, it doesn't go to Reserve and it loses Asleep.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-02-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_03_C",
+    "name": "Gulrang & Tocsin",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_03/JPG/en_US/4707c559d6af1977dd9b1303db22bf26.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "When you create a token Character — It gains 1 boost.  If you have less than eight Mana Orbs, [[Boosted]] tokens you control are [Defender]. (Their Expeditions can't move forward during Dusk.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-03-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_01_C",
+    "name": "Akesha & Taru",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/en_US/440b869ac4abc7f250d63e614e357560.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T} : [After You]. You can only activate this if you are the first player. (End your turn as if you had played a card. You may still play cards later this Day.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-01-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_02_C",
+    "name": "Lindiwe & Maw",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_02/JPG/en_US/2cf76777adb6c9c2d1b8d9e1a17bb175.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T} : Create a [Maw 0/0/0] Companion token in your Companion Expedition with \"When you sacrifice a Character — I gain 2 boosts\". This action costs {1} more if you are not the first player."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-02-C-EN"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_03_C",
+    "name": "Afanas & Senka",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_03/JPG/en_US/da8d7328e94e9dc77668a11090f27649.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "When you play a Spell — Target Character you control gains 1 boost[]. (Do this after the spell resolves. A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-03-C-EN"
+  }
+]

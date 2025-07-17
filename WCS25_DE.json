@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ALT_WCS25_P_AX_01_C",
+    "name": "Sierra & Botball",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_01/JPG/de_DE/a099f401f225e9f1964a9e430c6c6a43.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Wenn du eine Bleibende Karte mit Handkosten {3} oder mehr spielst — Du darfst mich erschöpfen ({T}), um eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl zu erschaffen."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-AX-01-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_AX_02_C",
+    "name": "Treyst & Rossum",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_02/JPG/de_DE/8d377799f2bc79135938fa48f7ee1303.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Wenn eine Karte am Nachmittag deine Reserve verlässt — Falls ich weniger als 5 Schrottzähler habe, erhalte ich 1 Schrottzähler.  Falls ich 5 oder mehr Schrottzähler habe, erhalte ich „{T} : Ziehe eine Karte und lege dann eine Karte aus deiner Hand in deine Reserve.“"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-AX-02-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_AX_03_C",
+    "name": "Subhash & Marmo",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_03/JPG/de_DE/969f6bce7337040e569d907e12c906d4.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Zum Mittag — Du darfst {1} bezahlen und eine Karte aus deiner Hand in die Reserve legen, um eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl zu erschaffen."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-03-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_01_C",
+    "name": "Kojo & Booda",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_01/JPG/de_DE/75dc47bdc9d813e2dfe16074632cb59b.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Zum Mittag — Falls du der Startspieler bist, erschaffe eine [Booda 2/2/2]-Gefährtenmarke in deiner Gefährten-Expedition."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-01-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_02_C",
+    "name": "Atsadi & Blitz",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_02/JPG/de_DE/d5df7fcd96c04b2ebc2640dcb4e741bf.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Ich beginne das Spiel mit fünf Heldentumszählern.  Wenn du einen Charakter spielst, dessen Handkosten größer oder gleich meiner Anzahl an Heldentumszählern sind — Ziehe eine Karte und ich erhalte einen Heldentumszähler."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-02-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_03_C",
+    "name": "Basira & Kaizaimon",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/de_DE/54fda18fa2b9a9810bb32864cc394318.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Wenn ein Charakter, den du kontrollierst, mindestens 1 Verstärkung erhält — Du darfst mich erschöpfen ({T}), um einem Charakter deiner Wahl 1 Verstärkung zu geben. (Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-03-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_01_C",
+    "name": "Nevenka & Klecks",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_01/JPG/de_DE/ae7774737d7cfe0246c9fe98d13a5964.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T} : Wähle einen Charakter, den du kontrollierst, und würfle dann einmal. Bei:  • 6+ erhält er [[Verankert]]. (Während der Ruhepause geht er nicht in die Reserve und verliert Verankert.)  • 2–5 erhält er 1 Verstärkung. (Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)  • 1 geht er in die Reserve."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-LY-01-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_02_C",
+    "name": "Auraq & Schnurre",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_02/JPG/de_DE/6353fcd92edc105a343325a0e4b68849.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Wenn du einen Charakter mit einer Basisstatistik von 0 spielst — Ich erhalte 1 Auftrittszähler.  Zum Mittag – Du darfst 5 meiner Auftrittszähler ausgeben, um die oberste Karte deines Decks aufzudecken. Du darfst sie kostenlos spielen oder sie in deine Hand aufnehmen. (Aktiviere keine {h} Fähigkeiten.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-02-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_03_C",
+    "name": "Fen & Feedback",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_03/JPG/de_DE/6154f3534fca7fc99f5bf7a12421cdf9.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Am Morgen ziehe nur eine Karte. Dann lege statt einer Karte aus deiner Hand die oberste Karte deines Decks in deine Manazone.  Zum Mittag — [Nachschub]. (Lege die oberste Karte deines Decks in die Reserve.)  Ignoriere meine Fähigkeiten während des ersten Tages."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-LY-03-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_01_C",
+    "name": "Teija & Nauraa",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/de_DE/9e4f2466acabec44891703aba560d8d1.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Der erste Charakter, den du jeden Nachmittag spielst, erhält 1 Verstärkung[]. (Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-01-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_02_C",
+    "name": "Arjun & Spike",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_02/JPG/de_DE/69ed4833d4062aac73f36f02ba682ce7.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T}, Lege eine Karte aus deiner Reserve ab: Der nächste Charakter, den du in dieser Runde mit Handkosten {3} oder weniger spielst, erhält [[Verankert]]. (Während der Ruhepause geht er nicht in die Reserve und verliert Verankert.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-02-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_03_C",
+    "name": "Rin & Orchidee",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_03/JPG/de_DE/2d41f9d1f49360e0e39a242b8fe7c35a.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Wenn sich eine deiner Expeditionen aufgrund von {V} vorwärts bewegt — Ziehe eine Karte und lege dann eine Karte aus deiner Hand in die Reserve."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-03-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_01_C",
+    "name": "Sigismar & Spannweit",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/de_DE/64bb77c37bfb023f952997e24fac15f6.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Zum Mittag — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in deiner Helden-Expedition."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-01-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_02_C",
+    "name": "Waru & Mack",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/de_DE/b989c9d92ff7df20c75b523b9f3d5c1d.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Wenn du einen Bürokraten spielst — Er erhält [[Schlafend]]. (Am Abend ignoriere seine Statistiken. Während der Ruhepause geht er nicht in die Reserve und verliert Schlafend.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-02-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_03_C",
+    "name": "Gulrang & Tocsin",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_03/JPG/de_DE/1bf0feba1351fdfe19aa5b38ecfc1f9a.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Wenn du einen Marken-Charakter erschaffst — Er erhält 1 Verstärkung.  Falls du weniger als acht Manakugeln hast, sind Marken mit [[Verstärkt]], die du kontrollierst, [Verteidiger]. (Ihre Expeditionen können sich am Abend nicht vorwärts bewegen.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-03-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_01_C",
+    "name": "Akesha & Taru",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/de_DE/e008f436cedeb6b771eb7786f22fc0eb.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T} : [Nach dir]. Du kannst dies nur aktivieren, falls du der Startspieler bist. (Beende deine Runde, als ob du eine Karte gespielt hättest. Du darfst auch später an diesem Tag noch eine Karte spielen.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-01-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_02_C",
+    "name": "Lindiwe & Schlund",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_02/JPG/de_DE/7347684fa896bf2fb47697cd2860a1e2.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T} : Erschaffe eine [Schlund 0/0/0]-Gefährtenmarke in deiner Gefährten-Expedition mit „Wenn du einen Charakter opferst — Ich erhalte 2 Verstärkungen“. Diese Aktion kostet {1} mehr, falls du nicht der Startspieler bist."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-02-C-DE"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_03_C",
+    "name": "Afanas & Senka",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_03/JPG/de_DE/eb3a11e95cb187c9e9bcf4268dbb71bd.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung[]. (Dies geschieht, wenn der Effekt abgeklungen ist. Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-03-C-DE"
+  }
+]

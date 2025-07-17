@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ALT_WCS25_P_AX_01_C",
+    "name": "Sierra & Oddball",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_01/JPG/fr_FR/51dd3227be6fb3d08e19d2212504377f.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Lorsque vous jouez un Permanent de Coût de Main {3} ou plus — Vous pouvez m'épuiser ({T}) pour créer un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-AX-01-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_AX_02_C",
+    "name": "Treyst & Rossum",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_02/JPG/fr_FR/6fd6ee2ccb987501380acfb2d14c723d.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Lorsqu'une carte quitte votre Réserve pendant l'Après-midi — Si j'ai moins de 5 compteurs Ferraille, je gagne 1 compteur Ferraille.  Si j'ai au moins 5 compteurs Ferraille, je gagne « {T} : Piochez une carte, puis mettez une carte de votre main en Réserve. »"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-AX-02-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_AX_03_C",
+    "name": "Subhash & Marmo",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_AX_03/JPG/fr_FR/a1f3fc43e1d8d47298f1551a668fc23d.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "À Midi — Vous pouvez payer {1} et mettre une carte de votre main en Réserve pour créer un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-03-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_01_C",
+    "name": "Kojo & Booda",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_01/JPG/fr_FR/06053afb106dd3648930f4633cc6ca6f.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "À Midi — Si vous êtes le premier joueur, créez un jeton Compagnon [2/2/2 Booda] dans votre Expédition Compagnon."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-01-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_02_C",
+    "name": "Atsadi & Surge",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_02/JPG/fr_FR/7c37b62dc35e61061b9e6273dcfe2e2d.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Je commence la partie avec 5 compteurs Héroïsme.  Lorsque vous jouez un Personnage de Coût de Main supérieur ou égal à mon nombre de compteurs Héroïsme — Piochez une carte et je gagne 1 compteur Héroïsme."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-02-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_BR_03_C",
+    "name": "Basira & Kaizaimon",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/fr_FR/3b158398013ae510b30a5084a88c77a1.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Lorsqu'un Personnage que vous contrôlez gagne au moins 1 boost — Vous pouvez m'épuiser ({T}) pour donner 1 boost à un Personnage ciblé. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-BR-03-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_01_C",
+    "name": "Nevenka & Blotch",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_01/JPG/fr_FR/a96fc3befb974a7db2b89c72a3059a76.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T} : Ciblez un Personnage que vous contrôlez, puis lancez un dé. Sur :  • 6+, il gagne [[Ancré]]. (Au Repos, il ne va pas en Réserve et il perd Ancré.)  • 2-5, il gagne 1 boost. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)  • 1, envoyez-le en Réserve."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-LY-01-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_02_C",
+    "name": "Auraq & Kibble",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_02/JPG/fr_FR/d57ad80622197252b80ed151e5cc5e30.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Lorsque vous jouez un Personnage avec une statistique de base 0 — Je gagne 1 compteur Spectacle.  À Midi — Vous pouvez dépenser 5 de mes compteurs Spectacle pour révéler la première carte de votre deck. Vous pouvez la jouer gratuitement ou la mettre dans votre main. (N'activez pas les capacités {h}.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-02-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_LY_03_C",
+    "name": "Fen & Crowbar",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_LY_03/JPG/fr_FR/bac07a352a418798c1b35bd0a1847bb2.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Le Matin, piochez une seule carte. Puis, mettez la première carte de votre deck dans votre zone de Mana, au lieu d'une carte de votre main.  À Midi — [Ravitaillez]. (Mettez la première carte de votre deck en Réserve.)  Ignorez mes capacités le premier Jour."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-LY-03-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_01_C",
+    "name": "Teija & Nauraa",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/fr_FR/9a246eb0b7dc4087454c291eb8531c77.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Le premier Personnage que vous jouez chaque Après-midi gagne 1 boost[]. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-01-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_02_C",
+    "name": "Arjun & Spike",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_02/JPG/fr_FR/40af7339044dbef362e4caa8766050aa.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T}, Défaussez une carte de votre Réserve : le prochain Personnage de Coût de Main {3} ou moins que vous jouez ce tour gagne [[Ancré]]. (Au Repos, il ne va pas en Réserve et il perd Ancré.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-02-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_MU_03_C",
+    "name": "Rin & Orchid",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_03/JPG/fr_FR/6097f6cd9437dcc5065c544648404149.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Lorsqu'une de vos Expéditions avance grâce à {V} — Piochez une carte, puis mettez une carte de votre main en Réserve."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-MU-03-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_01_C",
+    "name": "Sigismar & Wingspan",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/fr_FR/09f4ea882fc7caf998be2917b7fcb52d.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "À Midi — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Expédition Héros."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-01-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_02_C",
+    "name": "Waru & Mack",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/fr_FR/8005c29f37f8f3f69ed925de2b89037e.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Lorsque vous jouez un Bureaucrate — Il gagne [[Endormi]]. (Au Crépuscule, ignorez ses statistiques. Au Repos, il ne va pas en Réserve et il perd Endormi.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-02-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_OR_03_C",
+    "name": "Gulrang & Tocsin",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_03/JPG/fr_FR/f378d2e162e5ed3e9a79a556e16492c3.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Lorsque vous créez un jeton Personnage — Il gagne 1 boost.  Si vous avez moins de huit Orbes de Mana, les jetons [[Boostés]] que vous contrôlez sont [Défenseurs]. (Leurs Expéditions ne peuvent pas avancer au Crépuscule.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-OR-03-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_01_C",
+    "name": "Akesha & Taru",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/fr_FR/8736ec10ef134f3f013816dad28394e4.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T} : [Après vous]. Vous pouvez seulement activer cela si vous êtes le premier joueur. (Terminez votre tour comme si vous aviez joué une carte. Vous pouvez encore jouer des cartes plus tard ce Jour.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-01-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_02_C",
+    "name": "Lindiwe & Maw",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_02/JPG/fr_FR/3af087a748fae92cd48a0b51f1dd37df.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "{T} : Créez un jeton Compagnon [0/0/0 Maw] dans votre Expédition Compagnon avec « Lorsque vous sacrifiez un Personnage — Je gagne 2 boosts ». Cette action coûte {1} de plus si vous n'êtes pas le premier joueur."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-02-C-FR"
+  },
+  {
+    "id": "ALT_WCS25_P_YZ_03_C",
+    "name": "Afanas & Senka",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_03/JPG/fr_FR/059f74f0b543fe520bd54694a103a1be.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Lorsque vous jouez un Sort — Un Personnage ciblé que vous contrôlez gagne 1 boost. (Faites cela après la résolution du sort. Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "WCS25-YZ-03-C-FR"
+  }
+]

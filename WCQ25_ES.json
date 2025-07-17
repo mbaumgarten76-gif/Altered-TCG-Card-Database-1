@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ALT_WCQ25_P_AX_08_R1",
+    "name": "Chatarrero de Axiom",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ENGINEER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/es_ES/7b5ac0f0f27634704658359f9617388d.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "#1#",
+      "OCEAN_POWER": "#0#",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{R} [Reabastece]. (Coloca la primera carta de tu mazo en la reserva.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-01-R-ES"
+  },
+  {
+    "id": "ALT_WCQ25_P_BR_06_R1",
+    "name": "Jinn chiquitín",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ELEMENTAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/es_ES/ed4c875ab430ac2a1bcb8e17e2443e70.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "#1#",
+      "RECALL_COST": "#2#",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "Si fuese a abandonar la zona de expedición mientras estoy [[potenciado]], colócame en la zona de maná de mi propietario (como orbe de maná agotado.)  {R} Gano 1 potenciador."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-02-R-ES"
+  },
+  {
+    "id": "ALT_WCQ25_P_LY_10_R1",
+    "name": "Tejetintas del Uroboros",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ARTIST"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/es_ES/a22b2eb5962e75458cfd25163ecc2546.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "#2#",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "#2#",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "Cuando voy a la reserva desde la zona de expedición — Puedes devolver a tu mano otra carta de tu reserva.",
+      "ECHO_EFFECT": "#{D}: La siguiente carta que juegues este turno cuesta {1} menos.# (Descártame de la reserva para hacer esto.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-03-R-ES"
+  },
+  {
+    "id": "ALT_WCQ25_P_MU_16_R1",
+    "name": "Aloe vera",
+    "type": "CHARACTER",
+    "subtypes": [
+      "PLANT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/es_ES/36499c9a7903357ede9a886712f30c11.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "#{J} Puedes pagar {1} para que gane [[Anclaje]].# (Durante el descanso, no voy a la reserva y pierdo anclaje.)  Al mediodía — [Reabastece]. (Coloca la primera carta de tu mazo en la reserva.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-04-R-ES"
+  },
+  {
+    "id": "ALT_WCQ25_P_OR_05_R1",
+    "name": "Tropa de Ordis",
+    "type": "CHARACTER",
+    "subtypes": [
+      "SOLDIER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/es_ES/c5a360f77adfb7256dc12e1c330fe9c5.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "#2#",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "#2#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-05-R-ES"
+  },
+  {
+    "id": "ALT_WCQ25_P_YZ_05_R1",
+    "name": "Medusa de luz lunar",
+    "type": "CHARACTER",
+    "subtypes": [
+      "SPIRIT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/es_ES/e43e2ce31eafe86a4590aa136ade1ea0.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "Cuando me sacrifiques, si no tenía [[Fugacidad]] — Colócame en la reserva.  #Cuando me sacrifiques, si tenía [[Fugacidad]] — Roba una carta.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-06-R-ES"
+  }
+]

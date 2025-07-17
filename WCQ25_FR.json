@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ALT_WCQ25_P_AX_08_R1",
+    "name": "Récupérateur Axiom",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ENGINEER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/fr_FR/afccc0f35bbcda6db739b9a74c14d7aa.jpg",
+    "assets": [],
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "#1#",
+      "OCEAN_POWER": "#0#",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{R} [Ravitaillez]. (Mettez la première carte de votre deck en Réserve.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-01-R-FR"
+  },
+  {
+    "id": "ALT_WCQ25_P_BR_06_R1",
+    "name": "Petit Djinn",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ELEMENTAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/fr_FR/4ec1e534be758dbaed10665b950abc35.jpg",
+    "assets": [],
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "#1#",
+      "RECALL_COST": "#2#",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "Si je devais quitter la zone d'Expédition en étant [[Boosté]], mettez-moi dans la zone de Mana de mon propriétaire à la place (en tant qu'Orbe de Mana épuisé).  {R} Je gagne 1 boost."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-02-R-FR"
+  },
+  {
+    "id": "ALT_WCQ25_P_LY_10_R1",
+    "name": "Encrière de l'Ouroboros",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ARTIST"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/fr_FR/937cf8a4d13d461ec59641c59dff37ef.jpg",
+    "assets": [],
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "#2#",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "#2#",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "Lorsque je vais en Réserve depuis la zone d'Expédition — Vous pouvez renvoyer une autre carte de votre Réserve dans votre main.",
+      "ECHO_EFFECT": "#{D} : La prochaine carte que vous jouez ce tour coûte {1} de moins.# (Défaussez-moi de la Réserve pour ça.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-03-R-FR"
+  },
+  {
+    "id": "ALT_WCQ25_P_MU_16_R1",
+    "name": "Aloe Vera",
+    "type": "CHARACTER",
+    "subtypes": [
+      "PLANT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/fr_FR/dbcfc7dd2c24d4f6486d1efaf65ad6ef.jpg",
+    "assets": [],
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "#{J} Vous pouvez payer {1} pour que je gagne [[Ancré]].# (Au Repos, je ne vais pas en Réserve et je perds Ancré.)  À Midi — [Ravitaillez]. (Mettez la première carte de votre deck en Réserve.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-04-R-FR"
+  },
+  {
+    "id": "ALT_WCQ25_P_OR_05_R1",
+    "name": "Troupière Ordis",
+    "type": "CHARACTER",
+    "subtypes": [
+      "SOLDIER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/fr_FR/5592f6bb8c39ca8fd5246129ddae79b0.jpg",
+    "assets": [],
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "#2#",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "#2#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-05-R-FR"
+  },
+  {
+    "id": "ALT_WCQ25_P_YZ_05_R1",
+    "name": "Méduse Lunaire",
+    "type": "CHARACTER",
+    "subtypes": [
+      "SPIRIT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/fr_FR/f664b8bd3c4e0a3c13066927b7bd9fdd.jpg",
+    "assets": [],
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "Lorsque je suis sacrifiée, si je n'étais pas [[Fugace]] — Mettez-moi en Réserve.  #Lorsque je suis sacrifiée, si j'étais [[Fugace]] — Piochez une carte.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "WCQ25-06-R-FR"
+  }
+]
