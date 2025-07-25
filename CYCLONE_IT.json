@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ALT_CYCLONE_B_AX_65_C",
+    "name": "Isaree e Sassolino",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/JPG/it_IT/c96916ec03eb978a4229b33987d5b86e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/WEB_ae3d866a0d5f4bb0c68d3603f42b1516"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/HERO_THUMB_56c517b5d28c90bd317d57e534daf68b"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "A mezzogiorno — Se sei il primo giocatore, crea una pedina [Aerolite] nei tuoi fulcri. (È un permanente con \"Quando mi sacrifichi — Rifornisci. {T}, {1}: sacrificami.\")"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-1-H-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_C",
+    "name": "Arpionatore 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/it_IT/17a8f75205fd715b24ddea01ecc08106.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "{J} Puoi sacrificare un permanente. Se lo fai, un personaggio bersaglio cambia spedizione. (Lascia la sua spedizione e si unisce all'altra spedizione del suo controllore.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-9-C-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_R1",
+    "name": "Arpionatore 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/it_IT/bdd1339bfc821e80fda09714a0478a2c.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "{J} Puoi sacrificare un permanente. Se lo fai, un personaggio bersaglio cambia spedizione."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-9-R-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_65_C",
+    "name": "Sol e Halua",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/JPG/it_IT/45865e91e3f21df84fa623c99b52ae4c.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/WEB_0bd6374afa94942823892c37a328ecd9"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/HERO_THUMB_96da0af0dd504ba0e1d854af3187075a"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Quando passi per primo (smetti di effettuare turni prima degli altri giocatori) — Ottengo 1 segnalino Missione. Poi, se ho 3 o più segnalini Missione, crea una pedina [Halua 2/2/2] nella spedizione del tuo compagno. (È una pedina Compagno Leviatano con \"Se il tuo eroe ha 5 o più segnalini Missione, ho Colossale\".)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-19-H-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_C",
+    "name": "Arpionatrice Bravos",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/it_IT/2c49a52d756cca131ef82a183a6d1132.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{H} Puoi [Incalzare] per [Sabotare]. (Incalzare significa giocare un'altra carta immediatamente. Se lo fai, scarta fino a una carta bersaglio da una Riserva.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-26-C-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_R1",
+    "name": "Arpionatrice Bravos",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/it_IT/32fd660211066739628df84589d80b71.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "#{J}# Puoi [Incalzare] per [Sabotare]. (Incalzare significa giocare un'altra carta immediatamente.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-26-R-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_C",
+    "name": "Halua, Leviatano Furioso",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/it_IT/ffd12286d7cc8ae4a0d8dffd5d6e759e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Colossale]. (Considerami presente in ciascuna delle tue spedizioni.)  [Tenace 1]. (I tuoi avversari devono pagare {1} per scegliermi come bersaglio.)  Al crepuscolo — Ogni personaggio ottiene [[Fugace]]."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-31-C-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_R1",
+    "name": "Halua, Leviatano Furioso",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/it_IT/f76fccf78dbd79ff67792791be8a9960.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Colossale], [Tenace 1].  Al crepuscolo — Ogni #altro# personaggio ottiene [[Fugace]].",
+      "ECHO_EFFECT": "#{D}: pesca una carta.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-31-R-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_83_C",
+    "name": "Halua",
+    "type": "TOKEN",
+    "subtypes": [
+      "COMPANION",
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/it_IT/3872b5f9ec47fdae51721571229e1c81.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/WEB_58f7bf25b55d6ec811137d428b74b79b"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "Se il tuo eroe ha 5 o più segnalini Missione, ho [Colossale]. (Un personaggio Colossale si considera presente in entrambe le spedizioni. Quando lascio l'area delle spedizioni, rimuovimi dalla partita.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-110-T-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_R2",
+    "name": "Koi, Leviatano Giocoso",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/it_IT/f9361a049691c551b32c155263f1f324.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Colossale]. (Considerami presente in ciascuna delle tue spedizioni.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-47-F-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_R2",
+    "name": "Arpionatrice Bravos",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/it_IT/3c73d6e116a8a153900098eead7bdc03.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "#{J}# Puoi [Incalzare] per [Sabotare]. (Incalzare significa giocare un'altra carta immediatamente.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-26-F-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_65_C",
+    "name": "Nadir e Bollicina",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/JPG/it_IT/324c49acef906767ab72796f785f90cb.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/WEB_5f6b560d2dfed64acffea67682a8070b"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/HERO_THUMB_e9323511ad4a9089ec82a0da00cb5858"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Inizio la partita con un indicatore terreno {V}, uno {M} e uno {O}.  A mezzogiorno — Puoi posizionare uno dei miei indicatori su una regione bersaglio visibile. (Ottiene il terreno dell'indicatore e perde gli altri suoi terreni finché l'indicatore non viene rimosso.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-37-H-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_C",
+    "name": "Koi, Leviatano Giocoso",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/it_IT/4d4b9dcd6763917876f9b8e3b7898b8a.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Colossale]. (Considerami presente in ciascuna delle tue spedizioni.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-47-C-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_R1",
+    "name": "Koi, Leviatano Giocoso",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/it_IT/b949d0a5cb322cc0a97a93df57e2d5dc.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Colossale]. (Considerami presente in ciascuna delle tue spedizioni.)  #{H} Se nessuna delle mie spedizioni si trova in {M}, pesca una carta.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-47-R-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_R2",
+    "name": "Halua, Leviatano Furioso",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/it_IT/a240d786a439812bbe260d1c1f0b67cb.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Colossale], [Tenace 1].  Al crepuscolo — Ogni #altro# personaggio ottiene [[Fugace]].",
+      "ECHO_EFFECT": "#{D}: pesca una carta.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-31-F-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_65_C",
+    "name": "Kauri e Batuffolo",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/JPG/it_IT/3d1d01dc99472a5e0f68e35bb0728617.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/WEB_26e501aa6986394c7a0bc28a605d4f87"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/HERO_THUMB_d9005ac3a3e57afe607984cb4e69831e"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "A mezzogiorno — Se sei il primo giocatore, crea una pedina Animale [Lanuvola 1/1/1] nella spedizione del compagno di un avversario bersaglio, poi pesca una carta."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-55-H-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_C",
+    "name": "Uccello Corazzato",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/it_IT/d697d7616961dcd801ab02a826e3ecce.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "[Difensore]. (La mia spedizione non può avanzare durante il crepuscolo.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-63-C-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_R1",
+    "name": "Uccello Corazzato",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/it_IT/57405987f5fe778c62bad9dfe30e4f05.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "#5#",
+      "MAIN_EFFECT": "Ho [Difensore] #a meno che io non stia affrontando due o più personaggi.# (La mia spedizione non può avanzare durante il crepuscolo.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-63-R-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_83_C",
+    "name": "Lanuvola",
+    "type": "TOKEN",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_83/JPG/it_IT/9ac80788dba014a1120fc5f42212324e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_83/WEB_aebcc3fdc9b1dd5c6f11cc61024754bf"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "(Quando lascio l'area delle spedizioni, rimuovimi dalla partita.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-112-T-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_R2",
+    "name": "Uccello Corazzato",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/it_IT/eda22b412b5caf51f498459b54635e63.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "#5#",
+      "MAIN_EFFECT": "Ho [Difensore] #a meno che io non stia affrontando due o più personaggi.# (La mia spedizione non può avanzare durante il crepuscolo.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-63-F-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_OR_65_C",
+    "name": "Zhen e Zefiro",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/JPG/it_IT/f31c7e2dadaa745a626d988afe948f01.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/WEB_7ce032cc0c205d93165b691a4f5799d5"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/HERO_THUMB_fcff100cc4164d07e4b00082d0944b95"
+      ]
+    },
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "A mezzogiorno — Se sei il primo giocatore, la spedizione del tuo eroe [Ascende]. (Fino al riposo, può avanzare anche se i terreni della sua regione eguagliano quelli della spedizione dell'avversario.)  Quando una o più delle tue spedizioni Ascese avanzano — Se non ci sono personaggi che le affrontano, pesca una carta."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-73-H-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_R2",
+    "name": "Arpionatore 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/it_IT/6ab75d3f92ecb2ac81bccd9752e5d7b3.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "{J} Puoi sacrificare un #personaggio# o un permanente. Se lo fai, un personaggio bersaglio cambia spedizione."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-9-F-IT"
+  },
+  {
+    "id": "ALT_CYCLONE_B_YZ_65_C",
+    "name": "Moyo e Seta",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/JPG/it_IT/85b420beac0185501433935c19a923ae.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/WEB_a781b95e511aae868a9ff2b8dcdac7c6"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/HERO_THUMB_fd33d29efb99b887faf25e45a2fc406e"
+      ]
+    },
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Quando giochi un incantesimo con costo base pari o superiore a {4} — Puoi consumarmi ({T}) per creare una pedina Illusione [Falena di Mana 2/2/2] nella spedizione del tuo eroe. Se il costo base era pari o superiore a {7}, pesca anche una carta. (Costo dalla Riserva se nella Riserva, altrimenti costo dalla mano.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-91-H-IT"
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ALT_CYCLONE_B_AX_65_C",
+    "name": "Isaree y Petro",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/JPG/es_ES/7cdc6deaf27540ec47dcbd5bfe962113.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/WEB_ae3d866a0d5f4bb0c68d3603f42b1516"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/HERO_THUMB_56c517b5d28c90bd317d57e534daf68b"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Al mediodía — Si eres el primer jugador, crea una ficha de [Aerolito] en tus hitos. (Es un permanente con \"Cuando me sacrifiques — Reabastece. {T}, {1}: Sacrifícame.\")"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-1-H-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_C",
+    "name": "Agarratrón 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/es_ES/05c823560f797241e13623415add658b.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "{J} Puedes sacrificar un permanente. Si lo haces, un personaje objetivo se traslada de expedición. (Abandona su expedición y se incorpora a la otra expedición de su controlador.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-9-C-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_R1",
+    "name": "Agarratrón 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/es_ES/4b155331a0d87a7bf39f3482bad64ed1.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "{J} Puedes sacrificar un permanente. Si lo haces, un personaje objetivo se traslada de expedición."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-9-R-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_65_C",
+    "name": "Sol y Halua",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/JPG/es_ES/acdadddad68e5985d5ae6011c9b7a10e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/WEB_0bd6374afa94942823892c37a328ecd9"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/HERO_THUMB_96da0af0dd504ba0e1d854af3187075a"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Cuando pases primero (cuando dejes de jugar turnos antes que los otros jugadores) — Gano 1 contador de misión. Luego, si tengo 3 o más contadores de misión, crea una ficha de [Halua 2/2/2] en tu expedición del compañero. (Es una ficha de compañero leviatán con \"Si tu héroe tiene 5 o más contadores de misión, soy gigante.\")"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-19-H-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_C",
+    "name": "Arponera de Bravos",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/es_ES/86c47bdc0a26fba0edd29352a62f4ea4.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{H} Puedes [Presionar] para [Sabotear]. (Presionar es jugar otra carta inmediatamente. Si lo haces, descarta hasta una carta objetivo de una reserva.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-26-C-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_R1",
+    "name": "Arponera de Bravos",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/es_ES/e3b2fab9b3667327efb041bee497f220.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "#{J}# Puedes [Presionar] para [Sabotear]. (Presionar es jugar otra carta inmediatamente.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-26-R-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_C",
+    "name": "Halua, leviatán furioso",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/es_ES/452f8512861e33441ccb9c982567ad6d.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigante]. (Estoy presente en todas tus expediciones.)  [Resistencia 1]. (Los oponentes tienen que pagar {1} para hacerme objetivo.)  Al anochecer — Cada personaje gana [[Fugacidad]]."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-31-C-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_R1",
+    "name": "Halua, leviatán furioso",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/es_ES/fd970f1180254bf4c3b7858476dc5c16.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigante], [Resistencia 1].  Al anochecer — Cada #otro# personaje gana [[Fugacidad]].",
+      "ECHO_EFFECT": "#{D} : Roba una carta.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-31-R-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_83_C",
+    "name": "Halua",
+    "type": "TOKEN",
+    "subtypes": [
+      "COMPANION",
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/es_ES/c25ee0eccd44f962a99856f52b2971b4.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/WEB_58f7bf25b55d6ec811137d428b74b79b"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "Si tu héroe tiene 5 o más contadores de misión, soy [Gigante]. (Un personaje gigante se considera presente en ambas expediciones. Cuando abandone la zona de expedición, retírame del juego.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-110-T-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_R2",
+    "name": "Koi, leviatán juguetón",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/es_ES/53aed3614a960a018394cc036de99d35.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Gigante]. (Estoy presente en todas tus expediciones.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-47-F-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_R2",
+    "name": "Arponera de Bravos",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/es_ES/4e561d219d33b3aa570fc60f52087960.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "#{J}# Puedes [Presionar] para [Sabotear]. (Presionar es jugar otra carta inmediatamente.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-26-F-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_65_C",
+    "name": "Nadir y Burbuja",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/JPG/es_ES/c5ef2a8a3f3fa477d7266337d6b506c5.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/WEB_5f6b560d2dfed64acffea67682a8070b"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/HERO_THUMB_e9323511ad4a9089ec82a0da00cb5858"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Comienzo la partida con un marcador de terreno de {V}, otro de {M} y otro de {O}.  Al mediodía — Puedes colocar uno de mis marcadores en una región visible objetivo. (Gana el terreno del marcador y pierde sus otros terrenos hasta que se retire el marcador.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-37-H-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_C",
+    "name": "Koi, leviatán juguetón",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/es_ES/8b9064fa892b304de16a890787638490.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Gigante]. (Estoy presente en todas tus expediciones.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-47-C-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_R1",
+    "name": "Koi, leviatán juguetón",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/es_ES/186fb79c07ace1e0a7adb266ec9f5ff2.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Gigante]. (Estoy presente en todas tus expediciones.)  #{H} Si ninguna de mis expediciones está en {M}, roba una carta.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-47-R-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_R2",
+    "name": "Halua, leviatán furioso",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/es_ES/7bc3f02264ac51c7be9d2e6f970f06e4.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigante], [Resistencia 1].  Al anochecer — Cada #otro# personaje gana [[Fugacidad]].",
+      "ECHO_EFFECT": "#{D} : Roba una carta.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-31-F-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_65_C",
+    "name": "Kauri y Pompón",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/JPG/es_ES/32e1daa25e028855610a0209107b9e46.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/WEB_26e501aa6986394c7a0bc28a605d4f87"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/HERO_THUMB_d9005ac3a3e57afe607984cb4e69831e"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Al mediodía — Si eres el primer jugador, crea una ficha de animal [Lanudo 1/1/1] en la expedición del compañero del oponente objetivo y luego roba una carta."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-55-H-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_C",
+    "name": "Ave blindada",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/es_ES/3c46cf6f286a339999f971a291946731.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "[Defensor]. (Mi expedición no puede avanzar durante el anochecer.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-63-C-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_R1",
+    "name": "Ave blindada",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/es_ES/8e7665886c85dca998f9e439779f919f.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "#5#",
+      "MAIN_EFFECT": "Soy [Defensor] #a menos que haya dos o más personajes enfrentados a mí.# (Mi expedición no puede avanzar durante el anochecer.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-63-R-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_83_C",
+    "name": "Lanudo",
+    "type": "TOKEN",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_83/JPG/es_ES/7b6a571d52d29c9efcaf31ec01c218a7.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_83/WEB_aebcc3fdc9b1dd5c6f11cc61024754bf"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "(Cuando abandone la zona de expedición, retírame del juego.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-112-T-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_R2",
+    "name": "Ave blindada",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/es_ES/08c8f3fbbbdfe4fc4f357596a10bd7ae.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "#5#",
+      "MAIN_EFFECT": "Soy [Defensor] #a menos que haya dos o más personajes enfrentados a mí.# (Mi expedición no puede avanzar durante el anochecer.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-63-F-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_OR_65_C",
+    "name": "Zhen y Céfiro",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/JPG/es_ES/9bfab95f73c5c3e62b698b2ebc8bc807.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/WEB_7ce032cc0c205d93165b691a4f5799d5"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/HERO_THUMB_fcff100cc4164d07e4b00082d0944b95"
+      ]
+    },
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Al mediodía — Si eres el primer jugador, tu expedición del héroe [Asciende]. (Hasta el descanso, puede avanzar aunque los terrenos de su región estén igualados con los de la expedición del oponente.)  Cuando una o más de tus expediciones ascendidas avancen — Si no hay ningún personaje enfrentado a ellas, roba una carta."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-73-H-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_R2",
+    "name": "Agarratrón 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/es_ES/0aabfe55a70255a4a02b29844ee8b52e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "{J} Puedes sacrificar un #personaje# o permanente. Si lo haces, un personaje objetivo se traslada de expedición."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-9-F-ES"
+  },
+  {
+    "id": "ALT_CYCLONE_B_YZ_65_C",
+    "name": "Moyo y Seda",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/JPG/es_ES/473641dec6a850558b3f86180a4599ab.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/WEB_a781b95e511aae868a9ff2b8dcdac7c6"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/HERO_THUMB_fd33d29efb99b887faf25e45a2fc406e"
+      ]
+    },
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Cuando juegues un hechizo con coste base de {4} o más — Puedes agotarme ({T}) para crear una ficha de ilusión [Polilla de maná 2/2/2] en tu expedición del héroe. Si el coste base era {7} o más, roba también una carta. (Si se juega desde la reserva, es su coste desde esta, si no, su coste desde la mano.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-91-H-ES"
+  }
+]

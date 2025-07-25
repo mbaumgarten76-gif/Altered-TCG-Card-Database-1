@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ALT_CYCLONE_B_AX_65_C",
+    "name": "Isaree & Pebble",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/JPG/fr_FR/7f0e70d4ebed273f2c6425e769c9c617.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/WEB_ae3d866a0d5f4bb0c68d3603f42b1516"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/HERO_THUMB_56c517b5d28c90bd317d57e534daf68b"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "À Midi — Si vous êtes le premier joueur, créez un jeton [Aérolithe] dans vos Repères. (C'est un Permanent avec « Quand je suis sacrifié — Ravitaillez. {T}, {1} : Sacrifiez-moi. »)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-1-H-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_C",
+    "name": "FarFetch 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/fr_FR/f554a08f653ecfc2b01bd6eb407a23a1.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "{J} Vous pouvez sacrifier un Permanent. Si vous le faites, un Personnage ciblé change d'Expédition. (Il quitte son Expédition et rejoint l'autre Expédition de son contrôleur.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-9-C-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_R1",
+    "name": "FarFetch 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/fr_FR/1f3db24ea0b55bc04cc9fa9922c1311f.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "{J} Vous pouvez sacrifier un Permanent. Si vous le faites, un Personnage ciblé change d'Expédition."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-9-R-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_65_C",
+    "name": "Sol & Halua",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/JPG/fr_FR/442dc18f051bf1e37e99f54f3bb173ac.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/WEB_0bd6374afa94942823892c37a328ecd9"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/HERO_THUMB_96da0af0dd504ba0e1d854af3187075a"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Lorsque vous passez en premier (vous arrêtez de jouer des tours avant les autres joueurs) — Je gagne 1 compteur Quête. Puis, si j'ai au moins 3 compteurs Quête, créez un jeton [2/2/2 Halua] dans votre Expédition Compagnon. (C'est un jeton Compagnon Léviathan avec « Si votre Héros a au moins 5 compteurs Quête, je suis Gigantesque. »)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-19-H-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_C",
+    "name": "Harponneuse Bravos",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/fr_FR/238d0979dcef23d8df4449102a4093f4.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{H} Vous pouvez [Foncer] pour [Saboter]. (Foncer signifie jouer une autre carte immédiatement. Si vous le faites, défaussez jusqu'à une carte ciblée d'une Réserve.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-26-C-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_R1",
+    "name": "Harponneuse Bravos",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/fr_FR/94cadbc29f21ff2945e94e12dc89d6e7.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "#{J}# Vous pouvez [Foncer] pour [Saboter]. (Foncer signifie jouer une autre carte immédiatement.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-26-R-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_C",
+    "name": "Halua, Léviathan Déchaîné",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/fr_FR/3278a104e45778154897c2d67885f76c.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigantesque]. (Je suis considéré présent dans chacune de vos Expéditions.)  [Coriace 1]. (Les adversaires doivent payer {1} pour me cibler.)  Au Crépuscule — Chaque Personnage gagne [[Fugace]]."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-31-C-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_R1",
+    "name": "Halua, Léviathan Déchaîné",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/fr_FR/f24051cf04bd271a2a0d400954383aee.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigantesque], [Coriace 1].  Au Crépuscule — Chaque #autre# Personnage gagne [[Fugace]].",
+      "ECHO_EFFECT": "#{D} : Piochez une carte.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-31-R-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_83_C",
+    "name": "Halua",
+    "type": "TOKEN",
+    "subtypes": [
+      "COMPANION",
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/fr_FR/ecdf8d6b467bcaec743143e1d610a451.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/WEB_58f7bf25b55d6ec811137d428b74b79b"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "Si votre Héros a au moins 5 compteurs Quête, je suis [Gigantesque]. (Un Personnage Gigantesque est considéré présent dans les deux Expéditions. Lorsque je quitte la zone d'Expédition, retirez-moi du jeu.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-110-T-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_R2",
+    "name": "Koï, Léviathan Espiègle",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/fr_FR/0974376354ca4770144705078e029a9d.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Gigantesque]. (Je suis considéré présent dans chacune de vos Expéditions.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-47-F-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_R2",
+    "name": "Harponneuse Bravos",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/fr_FR/4f480898dda2f2e8ceadd07b2d84dde6.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "#{J}# Vous pouvez [Foncer] pour [Saboter]. (Foncer signifie jouer une autre carte immédiatement.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-26-F-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_65_C",
+    "name": "Nadir & Bubbles",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/JPG/fr_FR/ab9ad26ac4ed6f0f0b4a03e7be87316e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/WEB_5f6b560d2dfed64acffea67682a8070b"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/HERO_THUMB_e9323511ad4a9089ec82a0da00cb5858"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Je commence la partie avec un marqueur Terrain {V}, un {M} et un {O}.  À Midi — Vous pouvez placer l'un de mes marqueurs sur une région visible ciblée. (Elle gagne le terrain du marqueur et perd ses autres terrains jusqu'à ce que ce marqueur soit retiré)."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-37-H-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_C",
+    "name": "Koï, Léviathan Espiègle",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/fr_FR/393e35afb81c9baaa9144a88a51d485b.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Gigantesque]. (Je suis considéré présent dans chacune de vos Expéditions.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-47-C-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_R1",
+    "name": "Koï, Léviathan Espiègle",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/fr_FR/58a2587dc155c92c20b4459197ec6e85.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Gigantesque]. (Je suis considéré présent dans chacune de vos Expéditions.)  #{H} Si aucune de mes Expéditions n'est en {M}, piochez une carte.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-47-R-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_R2",
+    "name": "Halua, Léviathan Déchaîné",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/fr_FR/60a1cb5fb91d08016da0026d210b66c7.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigantesque], [Coriace 1].  Au Crépuscule — Chaque #autre# Personnage gagne [[Fugace]].",
+      "ECHO_EFFECT": "#{D} : Piochez une carte.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-31-F-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_65_C",
+    "name": "Kauri & Puff",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/JPG/fr_FR/806e4912c75c6c9ae1524602a09d95b9.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/WEB_26e501aa6986394c7a0bc28a605d4f87"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/HERO_THUMB_d9005ac3a3e57afe607984cb4e69831e"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "À Midi — Si vous êtes le premier joueur, créez un jeton Animal [Dotouffu 1/1/1] dans l'Expédition Compagnon d'un adversaire ciblé, puis piochez une carte."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-55-H-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_C",
+    "name": "Oiseau Cuirassé",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/fr_FR/3982f7c603f3367966fda7e43c11acca.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "[Défenseur]. (Mon Expédition ne peut pas avancer pendant le Crépuscule.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-63-C-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_R1",
+    "name": "Oiseau Cuirassé",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/fr_FR/3c691a432e03fb8a6cedfd5b063f4978.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "#5#",
+      "MAIN_EFFECT": "Je suis [Défenseur] #sauf si je suis face à au moins deux Personnages.# (Mon Expédition ne peut pas avancer pendant le Crépuscule.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-63-R-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_83_C",
+    "name": "Dotouffu",
+    "type": "TOKEN",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_83/JPG/fr_FR/c63b85d499fb187595171518ad57af0c.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_83/WEB_aebcc3fdc9b1dd5c6f11cc61024754bf"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "(Lorsque je quitte la zone d'Expédition, retirez-moi du jeu.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-112-T-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_R2",
+    "name": "Oiseau Cuirassé",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/fr_FR/23f1528fa3ee96abeba1c82cf5814906.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "#5#",
+      "MAIN_EFFECT": "Je suis [Défenseur] #sauf si je suis face à au moins deux Personnages.# (Mon Expédition ne peut pas avancer pendant le Crépuscule.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-63-F-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_OR_65_C",
+    "name": "Zhen & Zéphyr",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/JPG/fr_FR/d0164885e1e2c715657dd973949534bf.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/WEB_7ce032cc0c205d93165b691a4f5799d5"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/HERO_THUMB_fcff100cc4164d07e4b00082d0944b95"
+      ]
+    },
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "À Midi — Si vous êtes le premier joueur, votre Expédition Héros [s'Élève]. (Jusqu'au Repos, elle peut avancer même en cas de stats égales à l'Expédition adverse sur les terrains de sa région.)  Lorsqu'au moins une de vos Expéditions Élevées avance — S'il n'y a aucun Personnage qui lui fait face, piochez une carte."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-73-H-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_R2",
+    "name": "FarFetch 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/fr_FR/614e7e38c37618caeedd65820e57af8b.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "{J} Vous pouvez sacrifier un #Personnage# ou un Permanent. Si vous le faites, un Personnage ciblé change d'Expédition."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-9-F-FR"
+  },
+  {
+    "id": "ALT_CYCLONE_B_YZ_65_C",
+    "name": "Moyo & Silk",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/JPG/fr_FR/ae6e015b084a96d2fcf5ad71a264a6b5.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/WEB_a781b95e511aae868a9ff2b8dcdac7c6"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/HERO_THUMB_fd33d29efb99b887faf25e45a2fc406e"
+      ]
+    },
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Lorsque vous jouez un Sort de Coût de Base {4} ou plus — Vous pouvez m'épuiser ({T}) pour créer un jeton Illusion [2/2/2 Phalène de Mana] dans votre Expédition Héros. Si le Coût de Base était d'au moins {7}, piochez aussi une carte. (Coût de Main, ou Coût de Réserve si joué depuis la Réserve.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-91-H-FR"
+  }
+]

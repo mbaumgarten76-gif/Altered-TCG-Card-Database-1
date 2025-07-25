@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ALT_CYCLONE_B_AX_65_C",
+    "name": "Isaree & Pebble",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/JPG/en_US/2d6abe250165d76c16639f7a4f2e2c75.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/WEB_ae3d866a0d5f4bb0c68d3603f42b1516"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/HERO_THUMB_56c517b5d28c90bd317d57e534daf68b"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "At Noon — If you are first player, create an [Aerolith] token in your Landmarks. (It's a Permanent with \"When I'm sacrificed — Resupply. {T}, {1}: Sacrifice me.\")"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-1-H-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_C",
+    "name": "FarFetch 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/en_US/b33ec06c7d257cd875d16db399f19a74.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "{J} You may sacrifice a Permanent. If you do, target Character switches Expeditions. (It leaves its Expedition and joins its controller's other Expedition.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-9-C-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_R1",
+    "name": "FarFetch 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/en_US/71114eb76c13c7e9faea4cc8c017433c.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "AX",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "{J} You may sacrifice a Permanent. If you do, target Character switches Expeditions."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-9-R-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_65_C",
+    "name": "Sol & Halua",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/JPG/en_US/af8149a24784f13e086735e69a0cf7c3.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/WEB_0bd6374afa94942823892c37a328ecd9"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/HERO_THUMB_96da0af0dd504ba0e1d854af3187075a"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "When you pass first (stop taking turns before other players) — I gain 1 Quest counter. Then, if I have 3 or more Quest counters, create a [Halua 2/2/2] token in your Companion Expedition. (It's a Leviathan Companion token with \"If your Hero has 5 or more Quest counters, I am Gigantic.\")"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-19-H-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_C",
+    "name": "Bravos Harpooner",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/en_US/289351cd1602c73dc5b7f87de2e83a1e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{H} You may [Rush] to [Sabotage]. (Rush means playing another card immediately. If you do, discard up to one target card from a Reserve.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-26-C-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_R1",
+    "name": "Bravos Harpooner",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/en_US/b558189f844c4f59d6053a4417afd3de.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "#{J}# You may [Rush] to [Sabotage]. (Rush means playing another card immediately.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-26-R-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_C",
+    "name": "Halua, Raging Leviathan",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/en_US/0f9f2b1815c8f7c4db47f05fa6a7a630.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigantic]. (I am considered present in each of your Expeditions.)  [Tough 1]. (Opponents must pay {1} to target me.)  At Dusk — Each Character gains [[Fleeting]]."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-31-C-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_R1",
+    "name": "Halua, Raging Leviathan",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/en_US/d8a523829d0aeed86a26a691618d0793.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigantic], [Tough 1].  At Dusk — Each #other# Character gains [[Fleeting]].",
+      "ECHO_EFFECT": "#{D} : Draw a card.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-31-R-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_83_C",
+    "name": "Halua",
+    "type": "TOKEN",
+    "subtypes": [
+      "COMPANION",
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/en_US/1d401ae74f6b615bdd7747543a735c31.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/WEB_58f7bf25b55d6ec811137d428b74b79b"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "If your Hero has 5 or more Quest counters, I am [Gigantic]. (A Gigantic Character is considered present in both Expeditions. When I leave the Expedition zone, remove me from the game.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-110-T-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_R2",
+    "name": "Koi, Playful Leviathan",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/en_US/6444fbdb1534c868f641ad62f35a4345.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "BR",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Gigantic]. (I am considered present in each of your Expeditions.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-47-F-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_73_R2",
+    "name": "Bravos Harpooner",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ADVENTURER"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/en_US/4c8fa5821c8ec7e1359584892f2620c8.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "#{J}# You may [Rush] to [Sabotage]. (Rush means playing another card immediately.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-26-F-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_65_C",
+    "name": "Nadir & Bubbles",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/JPG/en_US/3a46ee6793624931b60fc85cc8d60145.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/WEB_5f6b560d2dfed64acffea67682a8070b"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/HERO_THUMB_e9323511ad4a9089ec82a0da00cb5858"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "I begin the game with one {V}, one {M} and one {O} Terrain Marker.  At Noon — You may place one of my Markers on target visible region. (It gains the terrain of the Marker and loses its other terrains until the Marker is removed.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-37-H-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_C",
+    "name": "Koi, Playful Leviathan",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/en_US/adbfaeff0abf24ca85fae26ea3b3da28.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Gigantic]. (I am considered present in each of your Expeditions.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-47-C-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_LY_74_R1",
+    "name": "Koi, Playful Leviathan",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/en_US/2bdcd9ce33aa4651e6a52c929f2ca628.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+      ]
+    },
+    "mainFaction": "LY",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Gigantic]. (I am considered present in each of your Expeditions.)  #{H} If neither of my Expeditions is in {M}, draw a card.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-47-R-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_BR_77_R2",
+    "name": "Halua, Raging Leviathan",
+    "type": "CHARACTER",
+    "subtypes": [
+      "LEVIATHAN"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/en_US/ea53c40c5dff8ca229c82a79ea37077d.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigantic], [Tough 1].  At Dusk — Each #other# Character gains [[Fleeting]].",
+      "ECHO_EFFECT": "#{D} : Draw a card.#"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-31-F-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_65_C",
+    "name": "Kauri & Puff",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/JPG/en_US/9bcc790061cb36e74d1a904c62a4a810.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/WEB_26e501aa6986394c7a0bc28a605d4f87"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_65/HERO_THUMB_d9005ac3a3e57afe607984cb4e69831e"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "At Noon — If you are first player, create a [Woollyback 1/1/1] Animal token in target opponent's Companion Expedition, then draw a card."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-55-H-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_C",
+    "name": "Armored Bird",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/en_US/0fe6bb0e2b85bf1f069eb3ea2bc49ef8.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "[Defender]. (My Expedition can't move forward during Dusk.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-63-C-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_R1",
+    "name": "Armored Bird",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/en_US/ff5a90d212d679a96e10f6b14febdb6b.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "#5#",
+      "MAIN_EFFECT": "I am [Defender] #unless I'm facing two or more Characters.# (My Expedition can't move forward during Dusk.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-63-R-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_83_C",
+    "name": "Woollyback",
+    "type": "TOKEN",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_83/JPG/en_US/2ca5dfefc79cdea8375207724df690b0.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_83/WEB_aebcc3fdc9b1dd5c6f11cc61024754bf"
+      ]
+    },
+    "mainFaction": "MU",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "(When I leave the Expedition zone, remove me from the game.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-112-T-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_MU_69_R2",
+    "name": "Armored Bird",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ANIMAL"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/JPG/en_US/73f9e2361dcddae27b69dd0dfa7ca016.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ce757491fb57f841c6f4f0ad24428f91",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_ecc524708ec9875f1b76dd8cedd6e85c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_69/WEB_d4da1d93806876a80221d0d3670ea3f1"
+      ]
+    },
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "#5#",
+      "MAIN_EFFECT": "I am [Defender] #unless I'm facing two or more Characters.# (My Expedition can't move forward during Dusk.)"
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-63-F-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_OR_65_C",
+    "name": "Zhen & Zephyr",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/JPG/en_US/f1a16b2fd2fbe3d93bf036c4fdf65b97.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/WEB_7ce032cc0c205d93165b691a4f5799d5"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_65/HERO_THUMB_fcff100cc4164d07e4b00082d0944b95"
+      ]
+    },
+    "mainFaction": "OR",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "At Noon — If you are first player, your Hero Expedition [Ascends]. (Until Rest, it can move forward even if matched in its region's terrains by the opponent's Expedition.)  When one or more of your Ascended Expeditions moves forward — If there is no Character facing it, draw a card."
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-73-H-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_AX_69_R2",
+    "name": "FarFetch 2.0",
+    "type": "CHARACTER",
+    "subtypes": [
+      "ROBOT"
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/en_US/690e89d4f94f6e2934941455b2124a46.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+      ]
+    },
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "{J} You may sacrifice a #Character# or Permanent. If you do, target Character switches Expeditions."
+    },
+    "rarity": "RARE",
+    "collectorNumberFormatted": "SKY-9-F-EN"
+  },
+  {
+    "id": "ALT_CYCLONE_B_YZ_65_C",
+    "name": "Moyo & Silk",
+    "type": "HERO",
+    "subtypes": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/JPG/en_US/6e8cca215deb735be56177a1cfd09ca8.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/WEB_a781b95e511aae868a9ff2b8dcdac7c6"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/HERO_THUMB_fd33d29efb99b887faf25e45a2fc406e"
+      ]
+    },
+    "mainFaction": "YZ",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "When you play a Spell with Base Cost {4} or more — You may exhaust me ({T}) to create a [Mana Moth 2/2/2] Illusion token in your Hero Expedition. If the Base Cost was {7} or more, also draw a card. (Reserve Cost if from Reserve, Hand Cost otherwise.)"
+    },
+    "rarity": "COMMON",
+    "collectorNumberFormatted": "SKY-91-H-EN"
+  }
+]
