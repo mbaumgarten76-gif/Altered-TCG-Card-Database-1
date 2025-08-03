@@ -1,0 +1,480 @@
+{
+  "ALT_BISE_B_LY_54_R2": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/6086a0a7cb71ce09552f",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/b9f0fff115a1649f85c5",
+      "id": "220",
+      "fromDate": "2025-05-26T15:27:10+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Only reduces the cost of cards in your own Reserve",
+      "answer": "No. BLISS Drummer only reduces the cost of cards in your Reserve. The French translation on the first printing was incorrect: it should say \"Les autres Personnages/autres Artistes/Robots joués depuis [votre Reserve] coûtent {1} de moins, jusqu'à un minimum de {1}.\"",
+      "question": "Does BLISS Drummer reduces the cost of cards in my opponent's Reserve?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/b9f0fff115a1649f85c5",
+        "id": "220",
+        "fromDate": "2025-05-26T15:27:10+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Only reduces the cost of cards in your own Reserve",
+        "answer": "No. BLISS Drummer only reduces the cost of cards in your Reserve. The French translation on the first printing was incorrect: it should say \"Les autres Personnages/autres Artistes/Robots joués depuis [votre Reserve] coûtent {1} de moins, jusqu'à un minimum de {1}.\"",
+        "question": "Does BLISS Drummer reduces the cost of cards in my opponent's Reserve?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/b78a3e41e746b1041714",
+        "id": "221",
+        "fromDate": "2025-05-26T15:27:10+00:00",
+        "type": "RULING",
+        "name": "This minimum only apply to this specific decrease",
+        "answer": "No. The minimum mentioned in BLISS Drummer is for its own, specific reduction. When playing a card, you may apply all cost reduction in the order of your choice, so other effects, such as the Support ability of Martengale, may still reduce it further.",
+        "question": "Does BLISS Drummer prevent players from playing cards for 0 or for free?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/1cd99c74cf941ad41564",
+        "id": "217",
+        "fromDate": "2025-05-01T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Axiom Passive Support Ability",
+        "answer": "This card has a Support Ability (this only works when it's in Reserve.)  At Noon, you have the option to give it 1 or 2 boosts. If you choose 2, you'll need to exhaust it {T}, meaning you won't be able to play it until you ready it next morning.",
+        "question": "What's the {I} effect?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/7e11da1ccee30cacb60d",
+        "id": "218",
+        "fromDate": "2025-05-01T15:27:10+00:00",
+        "type": "RULING",
+        "name": "\"Up to a max\" only restrict this effect",
+        "answer": "Yes. \"Up to a max\" restricts the maximum number of counters the card can reach at the moment this effect is activated. Other ways of giving it counters still work. (And this effect could even give more counters in a future activation if the card loses some first.)",
+        "question": "Can this card get more boosts another way?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/cdc6f4220ead039870d4",
+        "id": "219",
+        "fromDate": "2025-05-01T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Passive Support Ability",
+        "answer": "This card has a Support Ability (this only works when it's in Reserve.)",
+        "question": "What's the {I} effect?"
+      }
+    ]
+  },
+  "ALT_BISE_A_LY_53_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/b1fc0f9d7075c6619276",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/b38c47834322cbb1b73e",
+      "id": "427",
+      "fromDate": "2025-06-07T15:27:14+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Daedalus Reserve Cost is {3}",
+      "answer": "Some promo versions of Daedalus were mistakenly printed with a Reserve Cost of {2} instead of {3}.",
+      "question": "Why does my card indicates a Reserve Cost of {2}?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/b38c47834322cbb1b73e",
+        "id": "427",
+        "fromDate": "2025-06-07T15:27:14+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Daedalus Reserve Cost is {3}",
+        "answer": "Some promo versions of Daedalus were mistakenly printed with a Reserve Cost of {2} instead of {3}.",
+        "question": "Why does my card indicates a Reserve Cost of {2}?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/43744251f75c43e21d9d",
+        "id": "417",
+        "fromDate": "2025-05-30T15:27:14+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Misprint of Reserve Cost",
+        "answer": "Daedalus (Common, Lyra Version) Reserve Cost is {3}. Some of the Alt Art versions were erroneously printed with a Mana Cost of {2} .",
+        "question": "What's the correct Reserve Cost of Daedalus?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/28f77542152805b4aa83",
+        "id": "216",
+        "fromDate": "2025-05-13T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Resolve \"scout\" in the order of your choice",
+        "answer": "Yes!",
+        "question": "If I play (Rare) Daedalus thanks to Scout, can I first send it to Reserve, then have it gain 1 boost if I roll 4 or higher? "
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/c2d044277ceae2015eea",
+        "id": "215",
+        "fromDate": "2025-05-01T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Resolve \"scout\" in the order of your choice",
+        "answer": "Yes! A card played via Scout joins the Expedition it's played in. Then you resolve all such reactions, (including \"{h} Send me to Reserve\") in the order of your choice.",
+        "question": "Can I activate a reaction ({h}, {j}, \"When a Character joins an Expedition...\") before sending to reserve a card played via Scout?"
+      }
+    ]
+  },
+  "ALT_BISE_A_LY_53_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/eadeb574d000edd66762",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/9b39692516eab1ce860e",
+      "id": "427",
+      "fromDate": "2025-06-07T15:27:14+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Daedalus Reserve Cost is {3}",
+      "answer": "Some promo versions of Daedalus were mistakenly printed with a Reserve Cost of {2} instead of {3}.",
+      "question": "Why does my card indicates a Reserve Cost of {2}?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/9b39692516eab1ce860e",
+        "id": "427",
+        "fromDate": "2025-06-07T15:27:14+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Daedalus Reserve Cost is {3}",
+        "answer": "Some promo versions of Daedalus were mistakenly printed with a Reserve Cost of {2} instead of {3}.",
+        "question": "Why does my card indicates a Reserve Cost of {2}?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/cc9011ae3939af9142b4",
+        "id": "417",
+        "fromDate": "2025-05-30T15:27:14+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Misprint of Reserve Cost",
+        "answer": "Daedalus (Common, Lyra Version) Reserve Cost is {3}. Some of the Alt Art versions were erroneously printed with a Mana Cost of {2} .",
+        "question": "What's the correct Reserve Cost of Daedalus?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/4bb187e315735b7f45b1",
+        "id": "216",
+        "fromDate": "2025-05-13T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Resolve \"scout\" in the order of your choice",
+        "answer": "Yes!",
+        "question": "If I play (Rare) Daedalus thanks to Scout, can I first send it to Reserve, then have it gain 1 boost if I roll 4 or higher? "
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/67eb17b14cf2f1f7b2ca",
+        "id": "215",
+        "fromDate": "2025-05-01T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Resolve \"scout\" in the order of your choice",
+        "answer": "Yes! A card played via Scout joins the Expedition it's played in. Then you resolve all such reactions, (including \"{h} Send me to Reserve\") in the order of your choice.",
+        "question": "Can I activate a reaction ({h}, {j}, \"When a Character joins an Expedition...\") before sending to reserve a card played via Scout?"
+      }
+    ]
+  },
+  "ALT_BISE_B_LY_53_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/823266fe72889e519047",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/05285d2dfa7ec49a2a32",
+      "id": "427",
+      "fromDate": "2025-06-07T15:27:14+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Daedalus Reserve Cost is {3}",
+      "answer": "Some promo versions of Daedalus were mistakenly printed with a Reserve Cost of {2} instead of {3}.",
+      "question": "Why does my card indicates a Reserve Cost of {2}?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/05285d2dfa7ec49a2a32",
+        "id": "427",
+        "fromDate": "2025-06-07T15:27:14+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Daedalus Reserve Cost is {3}",
+        "answer": "Some promo versions of Daedalus were mistakenly printed with a Reserve Cost of {2} instead of {3}.",
+        "question": "Why does my card indicates a Reserve Cost of {2}?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/16dde22c443cb449e7ad",
+        "id": "417",
+        "fromDate": "2025-05-30T15:27:14+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Misprint of Reserve Cost",
+        "answer": "Daedalus (Common, Lyra Version) Reserve Cost is {3}. Some of the Alt Art versions were erroneously printed with a Mana Cost of {2} .",
+        "question": "What's the correct Reserve Cost of Daedalus?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/72e23416a27e77cf1710",
+        "id": "216",
+        "fromDate": "2025-05-13T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Resolve \"scout\" in the order of your choice",
+        "answer": "Yes!",
+        "question": "If I play (Rare) Daedalus thanks to Scout, can I first send it to Reserve, then have it gain 1 boost if I roll 4 or higher? "
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/67188da13c95a8ce2c18",
+        "id": "215",
+        "fromDate": "2025-05-01T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Resolve \"scout\" in the order of your choice",
+        "answer": "Yes! A card played via Scout joins the Expedition it's played in. Then you resolve all such reactions, (including \"{h} Send me to Reserve\") in the order of your choice.",
+        "question": "Can I activate a reaction ({h}, {j}, \"When a Character joins an Expedition...\") before sending to reserve a card played via Scout?"
+      }
+    ]
+  },
+  "ALT_BISE_B_LY_53_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/ea2fbcdcc0d34028b99f",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/3f46580d0dee5ed22998",
+      "id": "427",
+      "fromDate": "2025-06-07T15:27:14+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Daedalus Reserve Cost is {3}",
+      "answer": "Some promo versions of Daedalus were mistakenly printed with a Reserve Cost of {2} instead of {3}.",
+      "question": "Why does my card indicates a Reserve Cost of {2}?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/3f46580d0dee5ed22998",
+        "id": "427",
+        "fromDate": "2025-06-07T15:27:14+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Daedalus Reserve Cost is {3}",
+        "answer": "Some promo versions of Daedalus were mistakenly printed with a Reserve Cost of {2} instead of {3}.",
+        "question": "Why does my card indicates a Reserve Cost of {2}?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/3e2f55535737a9c10d22",
+        "id": "417",
+        "fromDate": "2025-05-30T15:27:14+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Misprint of Reserve Cost",
+        "answer": "Daedalus (Common, Lyra Version) Reserve Cost is {3}. Some of the Alt Art versions were erroneously printed with a Mana Cost of {2} .",
+        "question": "What's the correct Reserve Cost of Daedalus?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/aa20496659c1eb849b90",
+        "id": "216",
+        "fromDate": "2025-05-13T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Resolve \"scout\" in the order of your choice",
+        "answer": "Yes!",
+        "question": "If I play (Rare) Daedalus thanks to Scout, can I first send it to Reserve, then have it gain 1 boost if I roll 4 or higher? "
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/76f53fd019436e0b7f82",
+        "id": "215",
+        "fromDate": "2025-05-01T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Resolve \"scout\" in the order of your choice",
+        "answer": "Yes! A card played via Scout joins the Expedition it's played in. Then you resolve all such reactions, (including \"{h} Send me to Reserve\") in the order of your choice.",
+        "question": "Can I activate a reaction ({h}, {j}, \"When a Character joins an Expedition...\") before sending to reserve a card played via Scout?"
+      }
+    ]
+  },
+  "ALT_BISE_B_LY_54_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/1fe44775861c8c157a03",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/d6c2f992a6f695d837c3",
+      "id": "220",
+      "fromDate": "2025-05-26T15:27:10+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Only reduces the cost of cards in your own Reserve",
+      "answer": "No. BLISS Drummer only reduces the cost of cards in your Reserve. The French translation on the first printing was incorrect: it should say \"Les autres Personnages/autres Artistes/Robots joués depuis [votre Reserve] coûtent {1} de moins, jusqu'à un minimum de {1}.\"",
+      "question": "Does BLISS Drummer reduces the cost of cards in my opponent's Reserve?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/d6c2f992a6f695d837c3",
+        "id": "220",
+        "fromDate": "2025-05-26T15:27:10+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Only reduces the cost of cards in your own Reserve",
+        "answer": "No. BLISS Drummer only reduces the cost of cards in your Reserve. The French translation on the first printing was incorrect: it should say \"Les autres Personnages/autres Artistes/Robots joués depuis [votre Reserve] coûtent {1} de moins, jusqu'à un minimum de {1}.\"",
+        "question": "Does BLISS Drummer reduces the cost of cards in my opponent's Reserve?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/80dde4a84d4e8d6b3730",
+        "id": "221",
+        "fromDate": "2025-05-26T15:27:10+00:00",
+        "type": "RULING",
+        "name": "This minimum only apply to this specific decrease",
+        "answer": "No. The minimum mentioned in BLISS Drummer is for its own, specific reduction. When playing a card, you may apply all cost reduction in the order of your choice, so other effects, such as the Support ability of Martengale, may still reduce it further.",
+        "question": "Does BLISS Drummer prevent players from playing cards for 0 or for free?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/f2e12e567a94c2234eac",
+        "id": "218",
+        "fromDate": "2025-05-01T15:27:10+00:00",
+        "type": "RULING",
+        "name": "\"Up to a max\" only restrict this effect",
+        "answer": "Yes. \"Up to a max\" restricts the maximum number of counters the card can reach at the moment this effect is activated. Other ways of giving it counters still work. (And this effect could even give more counters in a future activation if the card loses some first.)",
+        "question": "Can this card get more boosts another way?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/c2fe622374ef117736af",
+        "id": "219",
+        "fromDate": "2025-05-01T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Passive Support Ability",
+        "answer": "This card has a Support Ability (this only works when it's in Reserve.)",
+        "question": "What's the {I} effect?"
+      }
+    ]
+  },
+  "ALT_BISE_B_LY_54_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/396e8a7991b6fbbda901",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/4d09775391d2ef5cd9d4",
+      "id": "220",
+      "fromDate": "2025-05-26T15:27:10+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Only reduces the cost of cards in your own Reserve",
+      "answer": "No. BLISS Drummer only reduces the cost of cards in your Reserve. The French translation on the first printing was incorrect: it should say \"Les autres Personnages/autres Artistes/Robots joués depuis [votre Reserve] coûtent {1} de moins, jusqu'à un minimum de {1}.\"",
+      "question": "Does BLISS Drummer reduces the cost of cards in my opponent's Reserve?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/4d09775391d2ef5cd9d4",
+        "id": "220",
+        "fromDate": "2025-05-26T15:27:10+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Only reduces the cost of cards in your own Reserve",
+        "answer": "No. BLISS Drummer only reduces the cost of cards in your Reserve. The French translation on the first printing was incorrect: it should say \"Les autres Personnages/autres Artistes/Robots joués depuis [votre Reserve] coûtent {1} de moins, jusqu'à un minimum de {1}.\"",
+        "question": "Does BLISS Drummer reduces the cost of cards in my opponent's Reserve?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/1269f98640007fbd8200",
+        "id": "221",
+        "fromDate": "2025-05-26T15:27:10+00:00",
+        "type": "RULING",
+        "name": "This minimum only apply to this specific decrease",
+        "answer": "No. The minimum mentioned in BLISS Drummer is for its own, specific reduction. When playing a card, you may apply all cost reduction in the order of your choice, so other effects, such as the Support ability of Martengale, may still reduce it further.",
+        "question": "Does BLISS Drummer prevent players from playing cards for 0 or for free?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/29752dd0c8152b5b0c3c",
+        "id": "218",
+        "fromDate": "2025-05-01T15:27:10+00:00",
+        "type": "RULING",
+        "name": "\"Up to a max\" only restrict this effect",
+        "answer": "Yes. \"Up to a max\" restricts the maximum number of counters the card can reach at the moment this effect is activated. Other ways of giving it counters still work. (And this effect could even give more counters in a future activation if the card loses some first.)",
+        "question": "Can this card get more boosts another way?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/f174dd47da4e649a1b74",
+        "id": "219",
+        "fromDate": "2025-05-01T15:27:10+00:00",
+        "type": "RULING",
+        "name": "Passive Support Ability",
+        "answer": "This card has a Support Ability (this only works when it's in Reserve.)",
+        "question": "What's the {I} effect?"
+      }
+    ]
+  },
+  "ALT_BISE_B_OR_02_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/16ce8dc6a017b135ca74",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/2b2d29f6ddc4778f20df",
+      "id": "295",
+      "fromDate": "2025-02-01T15:27:12+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Waru",
+      "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+      "answer": "Yes. The first printings of Waru & Mack said \"At Noon, if you control a Bureaucrat — Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition.  When you play a Bureaucrat — You may have it gain [Asleep].\"  Future printings will say \"When you play a Bureaucrat — It gains [Asleep].\"\n",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/2b2d29f6ddc4778f20df",
+        "id": "295",
+        "fromDate": "2025-02-01T15:27:12+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Waru",
+        "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+        "answer": "Yes. The first printings of Waru & Mack said \"At Noon, if you control a Bureaucrat — Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition.  When you play a Bureaucrat — You may have it gain [Asleep].\"  Future printings will say \"When you play a Bureaucrat — It gains [Asleep].\"\n",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  }
+}

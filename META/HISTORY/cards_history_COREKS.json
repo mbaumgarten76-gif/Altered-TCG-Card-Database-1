@@ -1,0 +1,1362 @@
+{
+  "ALT_COREKS_B_AX_16_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/49a897816f79f5af803a",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/45c1f5b9bc3a51688a24",
+      "id": "13",
+      "fromDate": "2025-05-13T15:27:07+00:00",
+      "type": "UNSUSPENDED",
+      "name": "Unsuspension of all versions of Foundry Armorer",
+      "answer": "As of this ruling, all Foundry Armorer are legal in every format. The effects of some of them have been updated.",
+      "question": "Which versions of Foundry Armorer are legal and in which format?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/45c1f5b9bc3a51688a24",
+        "id": "13",
+        "fromDate": "2025-05-13T15:27:07+00:00",
+        "type": "UNSUSPENDED",
+        "name": "Unsuspension of all versions of Foundry Armorer",
+        "answer": "As of this ruling, all Foundry Armorer are legal in every format. The effects of some of them have been updated.",
+        "question": "Which versions of Foundry Armorer are legal and in which format?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_AX_16_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/fabd3c66281b2bcb3e0c",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/69d7c27b6962c762a39f",
+      "id": "13",
+      "fromDate": "2025-05-13T15:27:07+00:00",
+      "type": "UNSUSPENDED",
+      "name": "Unsuspension of all versions of Foundry Armorer",
+      "answer": "As of this ruling, all Foundry Armorer are legal in every format. The effects of some of them have been updated.",
+      "question": "Which versions of Foundry Armorer are legal and in which format?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/69d7c27b6962c762a39f",
+        "id": "13",
+        "fromDate": "2025-05-13T15:27:07+00:00",
+        "type": "UNSUSPENDED",
+        "name": "Unsuspension of all versions of Foundry Armorer",
+        "answer": "As of this ruling, all Foundry Armorer are legal in every format. The effects of some of them have been updated.",
+        "question": "Which versions of Foundry Armorer are legal and in which format?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_30_R2": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/cdea274a18a545ecdef1",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/6243786964a511a290d2",
+      "id": "116",
+      "fromDate": "2025-03-21T15:27:09+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Haven, Bravos Bastion (Rare, Axiom version)",
+      "description": "https://www.altered.gg/fr-fr/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+      "answer": "Yes, the Axiom version of Haven, Bravos Bastion has been unsuspended and errated with a new text as a result of a balance patch. The first printing of Haven, Bravos Bastion said \"Your Characters have: \"{r} I gain 1 boost.\" \"",
+      "question": "Did the effect of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/6243786964a511a290d2",
+        "id": "116",
+        "fromDate": "2025-03-21T15:27:09+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Haven, Bravos Bastion (Rare, Axiom version)",
+        "description": "https://www.altered.gg/fr-fr/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+        "answer": "Yes, the Axiom version of Haven, Bravos Bastion has been unsuspended and errated with a new text as a result of a balance patch. The first printing of Haven, Bravos Bastion said \"Your Characters have: \"{r} I gain 1 boost.\" \"",
+        "question": "Did the effect of this card change?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/bf14f21d047174a8ff61",
+        "id": "117",
+        "fromDate": "2025-03-21T15:27:09+00:00",
+        "type": "UNSUSPENDED",
+        "name": "Unsuspension of Axiom version of Haven, Bravos Bastion",
+        "description": "https://www.altered.gg/fr-fr/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+        "answer": "The Axiom version of Haven, Bravos Bastion has been unsuspended. All versions of Haven, Bravos Bastion are now legal in every format.",
+        "question": "Which versions of Haven, Bravos Bastion are legal and in which format?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/861b406412e2d9de6490",
+        "id": "119",
+        "fromDate": "2025-03-21T15:27:09+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Haven, Bravos Bastion (Rare, Axiom version)",
+        "description": "https://www.altered.gg/fr-fr/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+        "answer": "No. However, the AXIOM VERSION of Haven, Bravos Bastion has been unsuspended and errated with a new text as a result of a balance patch.",
+        "question": "Did the effect of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_YZ_05_R2": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/889a2aac050d777bb759",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/e8a6a83c624c9995700b",
+      "id": "353",
+      "fromDate": "2025-02-01T15:27:13+00:00",
+      "type": "SUSPENDED",
+      "name": "Suspension of Unique Moonlight Jellyfish",
+      "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+      "answer": "The Unique versions (Axiom or Yzmir) of Moonlight Jellyfish are currently suspended in all versions of Constructed Format (1vs1, 2vs2 and Free for All).  They are still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All.  All other versions (Common Yzmir, Rare Yzmir and Rare Axiom) are still legal in every format.",
+      "question": "Which versions of Moonlight Jellyfish are legal and in which format?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/e8a6a83c624c9995700b",
+        "id": "353",
+        "fromDate": "2025-02-01T15:27:13+00:00",
+        "type": "SUSPENDED",
+        "name": "Suspension of Unique Moonlight Jellyfish",
+        "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+        "answer": "The Unique versions (Axiom or Yzmir) of Moonlight Jellyfish are currently suspended in all versions of Constructed Format (1vs1, 2vs2 and Free for All).  They are still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All.  All other versions (Common Yzmir, Rare Yzmir and Rare Axiom) are still legal in every format.",
+        "question": "Which versions of Moonlight Jellyfish are legal and in which format?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/60b55e96f201f1e24197",
+        "id": "352",
+        "fromDate": "2024-10-02T15:27:13+00:00",
+        "type": "RULING",
+        "name": "Order of resolution",
+        "answer": "1. The controller of Moonlight Jellyfish declares they sacrifice it.  2. Moonlight Jellyfish reaction is triggered, depending on whether it's Fleeting or not.  3. Moonlight Jellyfish goes to the discard pile.  4. After the effect that sacrificed it is resolved, Moonlight Jellyfish reaction (or any other reactions still in Limbo at that moment) can be resolved.",
+        "question": "In which order is the effect of Moonlight Jellyfish resolved when it's sacrificed?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/a5d271cf6f80718de5b1",
+        "id": "351",
+        "fromDate": "2024-09-06T15:27:13+00:00",
+        "type": "RULING",
+        "name": "I am becomes I was",
+        "answer": "The first printing of Moonlight Jellyfish read: \"When I'm sacrificed, if I'm not [Fleeting] — Put me in Reserve.\" Future printings will read: \"When I'm sacrificed, if I was not [Fleeting] — Put me in Reserve.\"",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_AX_16_R2": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/0e67db4d3897bd8cdd36",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/47869fde981760319f16",
+      "id": "13",
+      "fromDate": "2025-05-13T15:27:07+00:00",
+      "type": "UNSUSPENDED",
+      "name": "Unsuspension of all versions of Foundry Armorer",
+      "answer": "As of this ruling, all Foundry Armorer are legal in every format. The effects of some of them have been updated.",
+      "question": "Which versions of Foundry Armorer are legal and in which format?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/47869fde981760319f16",
+        "id": "13",
+        "fromDate": "2025-05-13T15:27:07+00:00",
+        "type": "UNSUSPENDED",
+        "name": "Unsuspension of all versions of Foundry Armorer",
+        "answer": "As of this ruling, all Foundry Armorer are legal in every format. The effects of some of them have been updated.",
+        "question": "Which versions of Foundry Armorer are legal and in which format?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/1873a56100d72b27536c",
+        "id": "12",
+        "fromDate": "2025-02-01T15:27:07+00:00",
+        "type": "SUSPENDED",
+        "name": "Suspension of Foundry Armorer",
+        "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+        "answer": "The Unique, Bravos versions of Foundry Armorer were temporarily suspended in all versions of Constructed Format (1vs1, 2vs2 and Free for All).   This suspension ended on the 13th of May, 2025",
+        "question": "Which versions of Foundry Armorer are legal and in which format?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_06_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/2f72825d96b0690d89da",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/928ba43cb7176c350e98",
+      "id": "90",
+      "fromDate": "2024-06-20T15:27:08+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Tiny Jinn",
+      "answer": "The first printing of Common and Rare Tiny Jinn said  \"When I leave the Expedition zone, if I'm [Boosted] — Put me in my owner's Mana zone (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  Future printings will say:\n\"If I would leave the Expedition zone while I'm [Boosted], put me in my owner's Mana zone instead (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  This change doesn't affect Unique Tiny Jinn.",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/928ba43cb7176c350e98",
+        "id": "90",
+        "fromDate": "2024-06-20T15:27:08+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Tiny Jinn",
+        "answer": "The first printing of Common and Rare Tiny Jinn said  \"When I leave the Expedition zone, if I'm [Boosted] — Put me in my owner's Mana zone (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  Future printings will say:\n\"If I would leave the Expedition zone while I'm [Boosted], put me in my owner's Mana zone instead (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  This change doesn't affect Unique Tiny Jinn.",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_06_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/d950aae6f33b5dcce082",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/b25a17304f4c071f1a45",
+      "id": "90",
+      "fromDate": "2024-06-20T15:27:08+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Tiny Jinn",
+      "answer": "The first printing of Common and Rare Tiny Jinn said  \"When I leave the Expedition zone, if I'm [Boosted] — Put me in my owner's Mana zone (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  Future printings will say:\n\"If I would leave the Expedition zone while I'm [Boosted], put me in my owner's Mana zone instead (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  This change doesn't affect Unique Tiny Jinn.",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/b25a17304f4c071f1a45",
+        "id": "90",
+        "fromDate": "2024-06-20T15:27:08+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Tiny Jinn",
+        "answer": "The first printing of Common and Rare Tiny Jinn said  \"When I leave the Expedition zone, if I'm [Boosted] — Put me in my owner's Mana zone (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  Future printings will say:\n\"If I would leave the Expedition zone while I'm [Boosted], put me in my owner's Mana zone instead (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  This change doesn't affect Unique Tiny Jinn.",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_10_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/cfd35e53438fb360de02",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/e8ea36ad0c5b727f5179",
+      "id": "92",
+      "fromDate": "2024-09-06T15:27:08+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Red Rare BR",
+      "answer": "The first printing of Red (Rare, Bravos) said:\n[Seasoned].  At Dusk, if I have 3 or more boosts — Draw a card.\n\nFuture printings will say:\n\"[Seasoned].  At Dusk — If I have 3 or more boosts, draw a card.\"  This change indicates that you check the condition when you resolve the effects.  This change does not affect Unique versions of Red.",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/e9fc1faaa04c81feb2e2",
+        "id": "91",
+        "fromDate": "2024-09-07T15:27:08+00:00",
+        "type": "RULING",
+        "name": "Condition after \"—\" are checked at resolution",
+        "answer": "Yes. Red effect should read \"At Dusk — If I have 3 or more boosts, draw a card.\" indicating that the check of the number of boosts is happening when her effect is resolved, not when it's triggered.",
+        "question": "Can I draw a card thanks to Red (Rare) ability if she gains her 3rd boost at Dusk, thanks to another effect? "
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/e8ea36ad0c5b727f5179",
+        "id": "92",
+        "fromDate": "2024-09-06T15:27:08+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Red Rare BR",
+        "answer": "The first printing of Red (Rare, Bravos) said:\n[Seasoned].  At Dusk, if I have 3 or more boosts — Draw a card.\n\nFuture printings will say:\n\"[Seasoned].  At Dusk — If I have 3 or more boosts, draw a card.\"  This change indicates that you check the condition when you resolve the effects.  This change does not affect Unique versions of Red.",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_10_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/32bf04298b75d2568298",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/86e12ebffd46f8b43b01",
+      "id": "92",
+      "fromDate": "2024-09-06T15:27:08+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Red Rare BR",
+      "answer": "The first printing of Red (Rare, Bravos) said:\n[Seasoned].  At Dusk, if I have 3 or more boosts — Draw a card.\n\nFuture printings will say:\n\"[Seasoned].  At Dusk — If I have 3 or more boosts, draw a card.\"  This change indicates that you check the condition when you resolve the effects.  This change does not affect Unique versions of Red.",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/1d7a688eeb0c151d4028",
+        "id": "91",
+        "fromDate": "2024-09-07T15:27:08+00:00",
+        "type": "RULING",
+        "name": "Condition after \"—\" are checked at resolution",
+        "answer": "Yes. Red effect should read \"At Dusk — If I have 3 or more boosts, draw a card.\" indicating that the check of the number of boosts is happening when her effect is resolved, not when it's triggered.",
+        "question": "Can I draw a card thanks to Red (Rare) ability if she gains her 3rd boost at Dusk, thanks to another effect? "
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/86e12ebffd46f8b43b01",
+        "id": "92",
+        "fromDate": "2024-09-06T15:27:08+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Red Rare BR",
+        "answer": "The first printing of Red (Rare, Bravos) said:\n[Seasoned].  At Dusk, if I have 3 or more boosts — Draw a card.\n\nFuture printings will say:\n\"[Seasoned].  At Dusk — If I have 3 or more boosts, draw a card.\"  This change indicates that you check the condition when you resolve the effects.  This change does not affect Unique versions of Red.",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_19_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/8a6355ab926a6ffcde64",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/a3ecfc78d49c7ea0cbad",
+      "id": "97",
+      "fromDate": "2024-09-06T15:27:08+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Mighty Jinn (Common and Rare)",
+      "description": " ",
+      "answer": "The first printing of Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nThis change does not impact Unique versions of Mighty Jinn.",
+      "question": "Did the wording of (Rare, Bravos) Mighty Jinn change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/147600fb7944f3f537c6",
+        "id": "101",
+        "fromDate": "2025-02-18T15:27:08+00:00",
+        "type": "RULING",
+        "name": "Unique Mighty Jinn sent to hidden zone",
+        "description": "https://www.altered.gg/en-us/the-game/how-to-play",
+        "answer": "Unlike Common and Rare versions of Mighty Jinn (whose effect is a replacement effect \"If I would..., instead...\"), the Unique versions of Mighty Jinn have a reaction of the type \"When I leave the Expedition zone — (...) put me in my owner's Mana zone.\" If they are sent to a hidden zone (such as hand or deck), instead of Reserve or discard, there is no way for the effect to track the card afterwards, and therefore it does nothing.",
+        "question": "What happens if my Unique Mighty Jinn is the target of a card that sends it to a player's hand or deck?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/be7380838eb3a512a4d3",
+        "id": "99",
+        "fromDate": "2024-09-15T15:27:08+00:00",
+        "type": "RULING",
+        "name": "Draw a card if you don't activate its effect",
+        "answer": "Yes!  You may choose not to use Mighty Jinn's ability and therefore draw the card (it will still go to your Mana Zone because of Mana Reaping).",
+        "question": "If my (Rare, Bravos version) of Mighty Jinn is sent to the Mana Zone by another effect (such as Mana Reaping), can I choose to draw a card?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/a3ecfc78d49c7ea0cbad",
+        "id": "97",
+        "fromDate": "2024-09-06T15:27:08+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Mighty Jinn (Common and Rare)",
+        "description": " ",
+        "answer": "The first printing of Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nThis change does not impact Unique versions of Mighty Jinn.",
+        "question": "Did the wording of (Rare, Bravos) Mighty Jinn change?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/4150655e2cb15f36fe45",
+        "id": "98",
+        "fromDate": "2024-09-06T15:27:08+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Replacement effect instead of reaction",
+        "answer": "The first printing of Common Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb).\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb).\"  This change doesn't affect Unique Mighty Jinn.",
+        "question": "Did the wording of this card change?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/551b12202d5778d81c50",
+        "id": "100",
+        "fromDate": "2024-09-06T15:27:08+00:00",
+        "type": "RULING",
+        "name": "Leave the Expedition zone",
+        "answer": "The controller of Mighty Jinn still has the option of sending it to their Mana zone instead.",
+        "question": "What happens if Mighty Jinn (Common or Rare) is the target of a card that sends it to a player's hand or deck?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_19_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/3a5a5cec52da227bc1f0",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/201b5e68d90fa38a5755",
+      "id": "97",
+      "fromDate": "2024-09-06T15:27:08+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Mighty Jinn (Common and Rare)",
+      "description": " ",
+      "answer": "The first printing of Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nThis change does not impact Unique versions of Mighty Jinn.",
+      "question": "Did the wording of (Rare, Bravos) Mighty Jinn change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/313eb65bfdc46b90a831",
+        "id": "101",
+        "fromDate": "2025-02-18T15:27:08+00:00",
+        "type": "RULING",
+        "name": "Unique Mighty Jinn sent to hidden zone",
+        "description": "https://www.altered.gg/en-us/the-game/how-to-play",
+        "answer": "Unlike Common and Rare versions of Mighty Jinn (whose effect is a replacement effect \"If I would..., instead...\"), the Unique versions of Mighty Jinn have a reaction of the type \"When I leave the Expedition zone — (...) put me in my owner's Mana zone.\" If they are sent to a hidden zone (such as hand or deck), instead of Reserve or discard, there is no way for the effect to track the card afterwards, and therefore it does nothing.",
+        "question": "What happens if my Unique Mighty Jinn is the target of a card that sends it to a player's hand or deck?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/ba4a91874eef5b4054a8",
+        "id": "99",
+        "fromDate": "2024-09-15T15:27:08+00:00",
+        "type": "RULING",
+        "name": "Draw a card if you don't activate its effect",
+        "answer": "Yes!  You may choose not to use Mighty Jinn's ability and therefore draw the card (it will still go to your Mana Zone because of Mana Reaping).",
+        "question": "If my (Rare, Bravos version) of Mighty Jinn is sent to the Mana Zone by another effect (such as Mana Reaping), can I choose to draw a card?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/201b5e68d90fa38a5755",
+        "id": "97",
+        "fromDate": "2024-09-06T15:27:08+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Mighty Jinn (Common and Rare)",
+        "description": " ",
+        "answer": "The first printing of Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nThis change does not impact Unique versions of Mighty Jinn.",
+        "question": "Did the wording of (Rare, Bravos) Mighty Jinn change?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/76897fa3d8ab80b102c4",
+        "id": "98",
+        "fromDate": "2024-09-06T15:27:08+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Replacement effect instead of reaction",
+        "answer": "The first printing of Common Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb).\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb).\"  This change doesn't affect Unique Mighty Jinn.",
+        "question": "Did the wording of this card change?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/572e2d77023de16415ea",
+        "id": "100",
+        "fromDate": "2024-09-06T15:27:08+00:00",
+        "type": "RULING",
+        "name": "Leave the Expedition zone",
+        "answer": "The controller of Mighty Jinn still has the option of sending it to their Mana zone instead.",
+        "question": "What happens if Mighty Jinn (Common or Rare) is the target of a card that sends it to a player's hand or deck?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_30_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/d6ba8eeafbf1c290332c",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/e2a91a8b8a5b46aa8b65",
+      "id": "119",
+      "fromDate": "2025-03-21T15:27:09+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Haven, Bravos Bastion (Rare, Axiom version)",
+      "description": "https://www.altered.gg/fr-fr/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+      "answer": "No. However, the AXIOM VERSION of Haven, Bravos Bastion has been unsuspended and errated with a new text as a result of a balance patch.",
+      "question": "Did the effect of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/22860247a3cd8c60ff16",
+        "id": "418",
+        "fromDate": "2025-05-28T15:27:14+00:00",
+        "type": "RULING",
+        "name": "Your Characters means the cards you own",
+        "answer": "Your Characters mean the Characters you own (regardless of whether they are in Reserve, discard pile, your Expeditions, hand, or even your opponent's Expeditions). You are the owner of the tokens you create, even if you create them in another player's Expeditions.",
+        "question": "What does \"your Characters\" mean?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/e2a91a8b8a5b46aa8b65",
+        "id": "119",
+        "fromDate": "2025-03-21T15:27:09+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Haven, Bravos Bastion (Rare, Axiom version)",
+        "description": "https://www.altered.gg/fr-fr/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+        "answer": "No. However, the AXIOM VERSION of Haven, Bravos Bastion has been unsuspended and errated with a new text as a result of a balance patch.",
+        "question": "Did the effect of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_30_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/599c79e003ac6bbe3746",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/e533bd75b2471c6f4725",
+      "id": "119",
+      "fromDate": "2025-03-21T15:27:09+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Haven, Bravos Bastion (Rare, Axiom version)",
+      "description": "https://www.altered.gg/fr-fr/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+      "answer": "No. However, the AXIOM VERSION of Haven, Bravos Bastion has been unsuspended and errated with a new text as a result of a balance patch.",
+      "question": "Did the effect of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/6265cf96447ae121a033",
+        "id": "418",
+        "fromDate": "2025-05-28T15:27:14+00:00",
+        "type": "RULING",
+        "name": "Your Characters means the cards you own",
+        "answer": "Your Characters mean the Characters you own (regardless of whether they are in Reserve, discard pile, your Expeditions, hand, or even your opponent's Expeditions). You are the owner of the tokens you create, even if you create them in another player's Expeditions.",
+        "question": "What does \"your Characters\" mean?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/e533bd75b2471c6f4725",
+        "id": "119",
+        "fromDate": "2025-03-21T15:27:09+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Haven, Bravos Bastion (Rare, Axiom version)",
+        "description": "https://www.altered.gg/fr-fr/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+        "answer": "No. However, the AXIOM VERSION of Haven, Bravos Bastion has been unsuspended and errated with a new text as a result of a balance patch.",
+        "question": "Did the effect of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_19_R2": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/3774fb792f6c6c1a6fdb",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/2c18f55e651f4888cfda",
+      "id": "98",
+      "fromDate": "2024-09-06T15:27:08+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Replacement effect instead of reaction",
+      "answer": "The first printing of Common Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb).\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb).\"  This change doesn't affect Unique Mighty Jinn.",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/f619b6081516f85a73a7",
+        "id": "101",
+        "fromDate": "2025-02-18T15:27:08+00:00",
+        "type": "RULING",
+        "name": "Unique Mighty Jinn sent to hidden zone",
+        "description": "https://www.altered.gg/en-us/the-game/how-to-play",
+        "answer": "Unlike Common and Rare versions of Mighty Jinn (whose effect is a replacement effect \"If I would..., instead...\"), the Unique versions of Mighty Jinn have a reaction of the type \"When I leave the Expedition zone — (...) put me in my owner's Mana zone.\" If they are sent to a hidden zone (such as hand or deck), instead of Reserve or discard, there is no way for the effect to track the card afterwards, and therefore it does nothing.",
+        "question": "What happens if my Unique Mighty Jinn is the target of a card that sends it to a player's hand or deck?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/2c18f55e651f4888cfda",
+        "id": "98",
+        "fromDate": "2024-09-06T15:27:08+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Replacement effect instead of reaction",
+        "answer": "The first printing of Common Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb).\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb).\"  This change doesn't affect Unique Mighty Jinn.",
+        "question": "Did the wording of this card change?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/f46dac3f2909b56a11ac",
+        "id": "100",
+        "fromDate": "2024-09-06T15:27:08+00:00",
+        "type": "RULING",
+        "name": "Leave the Expedition zone",
+        "answer": "The controller of Mighty Jinn still has the option of sending it to their Mana zone instead.",
+        "question": "What happens if Mighty Jinn (Common or Rare) is the target of a card that sends it to a player's hand or deck?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_OR_21_R2": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/824f3703b807c5daf741",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/f0505667b3bb6af4ef5a",
+      "id": "316",
+      "fromDate": "2024-11-15T15:27:12+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Robin Hood",
+      "description": "https://www.altered.gg/news/addressing-robin-hoods-gameplay-experience",
+      "answer": "Yes. The first printing of Robin Hood said  \"Characters your opponents play cost {1} more.\"  Future printings will say  \"Characters your opponents play can't cost less than {2}. (If they would cost less, they cost {2} instead.)\"\n\nThis change impacts all versions of this effect, including the ones found on Unique cards. Any card that uses the previous wording should be read as if it used the new one.",
+      "question": "Was this card updated ?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/0c7133e5e74d8cb62e93",
+        "id": "315",
+        "fromDate": "2024-11-15T15:27:12+00:00",
+        "type": "RULING",
+        "name": "Reducing costs",
+        "answer": "They can, but if this would bring the card cost under 2, the cost would remain 2.",
+        "question": "If I control Robin Hood, can my opponent reduce the cost of a card using an effect such as Martengale?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/f0505667b3bb6af4ef5a",
+        "id": "316",
+        "fromDate": "2024-11-15T15:27:12+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Robin Hood",
+        "description": "https://www.altered.gg/news/addressing-robin-hoods-gameplay-experience",
+        "answer": "Yes. The first printing of Robin Hood said  \"Characters your opponents play cost {1} more.\"  Future printings will say  \"Characters your opponents play can't cost less than {2}. (If they would cost less, they cost {2} instead.)\"\n\nThis change impacts all versions of this effect, including the ones found on Unique cards. Any card that uses the previous wording should be read as if it used the new one.",
+        "question": "Was this card updated ?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/6ec74eedea64c35f52f3",
+        "id": "317",
+        "fromDate": "2024-11-15T15:27:12+00:00",
+        "type": "RULING",
+        "name": "For free and cost change",
+        "answer": "A free card remains free even against Robin Hood!  Playing a card for free means bypassing its cost entirely, which is different from reducing it to zero.",
+        "question": "What happens if a player plays a Character for free, such as with Auraq & Kibble's effect, while their opponent controls Robin Hood?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_06_R2": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/0313867b9156eedb140a",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/752432434f7ac05cfb37",
+      "id": "90",
+      "fromDate": "2024-06-20T15:27:08+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Tiny Jinn",
+      "answer": "The first printing of Common and Rare Tiny Jinn said  \"When I leave the Expedition zone, if I'm [Boosted] — Put me in my owner's Mana zone (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  Future printings will say:\n\"If I would leave the Expedition zone while I'm [Boosted], put me in my owner's Mana zone instead (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  This change doesn't affect Unique Tiny Jinn.",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/752432434f7ac05cfb37",
+        "id": "90",
+        "fromDate": "2024-06-20T15:27:08+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Tiny Jinn",
+        "answer": "The first printing of Common and Rare Tiny Jinn said  \"When I leave the Expedition zone, if I'm [Boosted] — Put me in my owner's Mana zone (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  Future printings will say:\n\"If I would leave the Expedition zone while I'm [Boosted], put me in my owner's Mana zone instead (as an exhausted Mana Orb).  {R} I gain 1 boost.\"  This change doesn't affect Unique Tiny Jinn.",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_MU_06_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/a841a3f66b22722782d1",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/f58d0bc801675ac3e3d9",
+      "id": "238",
+      "fromDate": "2024-09-06T15:27:11+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Spindle Harvester Rare MU",
+      "answer": "The first printing of \"Spindle Harvesters Rare\" said \"{J} I gain $[Anchored].  #At Noon, if I have 2 or more boosts — $[Resupply].#\"\n  \nFuture printings will say \"{J} I gain $[Anchored].  #At Noon —  If I have 2 or more boosts, $[Resupply].#\"",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/67fe0372ee70b2645c24",
+        "id": "239",
+        "fromDate": "2024-09-07T15:27:11+00:00",
+        "type": "RULING",
+        "name": "Condition after \"—\" are checked at resolution",
+        "answer": "Yes!  At Noon, all effects that say \"At Noon\" are triggered, then are resolved in the order of their controller's choice.  When a player resolves Spindle Harvesters' ability, they check everything on the right side of the \"—\". If Spindle Harvesters has two boosts at that moment, its controller draws a card).",
+        "question": "If a player controls a Rare \"Spindle Harvesters\" and a Rare \"The Spindle, Muna Bastion\", can they first boost the Spindle harvester, then benefit from that extra boost to draw a card?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/f58d0bc801675ac3e3d9",
+        "id": "238",
+        "fromDate": "2024-09-06T15:27:11+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Spindle Harvester Rare MU",
+        "answer": "The first printing of \"Spindle Harvesters Rare\" said \"{J} I gain $[Anchored].  #At Noon, if I have 2 or more boosts — $[Resupply].#\"\n  \nFuture printings will say \"{J} I gain $[Anchored].  #At Noon —  If I have 2 or more boosts, $[Resupply].#\"",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_MU_06_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/678a9f1c8a7d16784f70",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/7a3e7a3d4763a55b2d79",
+      "id": "238",
+      "fromDate": "2024-09-06T15:27:11+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Spindle Harvester Rare MU",
+      "answer": "The first printing of \"Spindle Harvesters Rare\" said \"{J} I gain $[Anchored].  #At Noon, if I have 2 or more boosts — $[Resupply].#\"\n  \nFuture printings will say \"{J} I gain $[Anchored].  #At Noon —  If I have 2 or more boosts, $[Resupply].#\"",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/2bd9dfd42990af73bc97",
+        "id": "239",
+        "fromDate": "2024-09-07T15:27:11+00:00",
+        "type": "RULING",
+        "name": "Condition after \"—\" are checked at resolution",
+        "answer": "Yes!  At Noon, all effects that say \"At Noon\" are triggered, then are resolved in the order of their controller's choice.  When a player resolves Spindle Harvesters' ability, they check everything on the right side of the \"—\". If Spindle Harvesters has two boosts at that moment, its controller draws a card).",
+        "question": "If a player controls a Rare \"Spindle Harvesters\" and a Rare \"The Spindle, Muna Bastion\", can they first boost the Spindle harvester, then benefit from that extra boost to draw a card?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/7a3e7a3d4763a55b2d79",
+        "id": "238",
+        "fromDate": "2024-09-06T15:27:11+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Spindle Harvester Rare MU",
+        "answer": "The first printing of \"Spindle Harvesters Rare\" said \"{J} I gain $[Anchored].  #At Noon, if I have 2 or more boosts — $[Resupply].#\"\n  \nFuture printings will say \"{J} I gain $[Anchored].  #At Noon —  If I have 2 or more boosts, $[Resupply].#\"",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_OR_02_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/c9e20326f2d56b30173f",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/fe66f72211bb86600710",
+      "id": "295",
+      "fromDate": "2025-02-01T15:27:12+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Waru",
+      "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+      "answer": "Yes. The first printings of Waru & Mack said \"At Noon, if you control a Bureaucrat — Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition.  When you play a Bureaucrat — You may have it gain [Asleep].\"  Future printings will say \"When you play a Bureaucrat — It gains [Asleep].\"\n",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/fe66f72211bb86600710",
+        "id": "295",
+        "fromDate": "2025-02-01T15:27:12+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Waru",
+        "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+        "answer": "Yes. The first printings of Waru & Mack said \"At Noon, if you control a Bureaucrat — Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition.  When you play a Bureaucrat — You may have it gain [Asleep].\"  Future printings will say \"When you play a Bureaucrat — It gains [Asleep].\"\n",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_OR_11_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/5634b515de920d5f06a4",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/4cd8219c881705ec64c6",
+      "id": "302",
+      "fromDate": "2025-03-21T15:27:12+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Common and Rare Ordis Ozma",
+      "description": "https://www.altered.gg/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+      "answer": "Yes, the Ordis Common and Rare version of Ozma has been unsuspended and errated with a new text as a result of a balance patch. The first printing of Ozma said \"{J} If you control three or more other Characters, draw a card.\"",
+      "question": "Did the effect of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/4cd8219c881705ec64c6",
+        "id": "302",
+        "fromDate": "2025-03-21T15:27:12+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Common and Rare Ordis Ozma",
+        "description": "https://www.altered.gg/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+        "answer": "Yes, the Ordis Common and Rare version of Ozma has been unsuspended and errated with a new text as a result of a balance patch. The first printing of Ozma said \"{J} If you control three or more other Characters, draw a card.\"",
+        "question": "Did the effect of this card change?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/725b344cbe4cdb593a56",
+        "id": "304",
+        "fromDate": "2025-03-21T15:27:12+00:00",
+        "type": "UNSUSPENDED",
+        "name": "Unsuspension of Common and Rare Ordis Ozma",
+        "description": "https://www.altered.gg/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+        "answer": "The Ordis Rare and Common versions of Ozma has been unsuspended. All versions of Ozma are now legal in every format.",
+        "question": "Which versions of Ozma are legal and in which format?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/df1490b2f5c815836047",
+        "id": "303",
+        "fromDate": "2025-02-01T15:27:12+00:00",
+        "type": "SUSPENDED",
+        "name": "Suspension of Common and Rare Ordis Ozma",
+        "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+        "answer": "The Ordis Common and Rare versions of Ozma were suspended from 2025, February 1st until 2025, March 21 in all versions of Constructed Format (1vs1, 2vs2 and Free for All). They are still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All . The Bravos versions of Ozma (Rare and Unique) and the Unique Ordis versions of Ozma are still legal in every format.",
+        "question": "Which versions of Ozma are legal and in which format?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_OR_11_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/ac3201611862e5a95f2e",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/e28a6faeee53473dc529",
+      "id": "302",
+      "fromDate": "2025-03-21T15:27:12+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Common and Rare Ordis Ozma",
+      "description": "https://www.altered.gg/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+      "answer": "Yes, the Ordis Common and Rare version of Ozma has been unsuspended and errated with a new text as a result of a balance patch. The first printing of Ozma said \"{J} If you control three or more other Characters, draw a card.\"",
+      "question": "Did the effect of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/e28a6faeee53473dc529",
+        "id": "302",
+        "fromDate": "2025-03-21T15:27:12+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Common and Rare Ordis Ozma",
+        "description": "https://www.altered.gg/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+        "answer": "Yes, the Ordis Common and Rare version of Ozma has been unsuspended and errated with a new text as a result of a balance patch. The first printing of Ozma said \"{J} If you control three or more other Characters, draw a card.\"",
+        "question": "Did the effect of this card change?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/ea3a5eacf9132585b20c",
+        "id": "304",
+        "fromDate": "2025-03-21T15:27:12+00:00",
+        "type": "UNSUSPENDED",
+        "name": "Unsuspension of Common and Rare Ordis Ozma",
+        "description": "https://www.altered.gg/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+        "answer": "The Ordis Rare and Common versions of Ozma has been unsuspended. All versions of Ozma are now legal in every format.",
+        "question": "Which versions of Ozma are legal and in which format?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/d568a6050a8384f56447",
+        "id": "303",
+        "fromDate": "2025-02-01T15:27:12+00:00",
+        "type": "SUSPENDED",
+        "name": "Suspension of Common and Rare Ordis Ozma",
+        "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+        "answer": "The Ordis Common and Rare versions of Ozma were suspended from 2025, February 1st until 2025, March 21 in all versions of Constructed Format (1vs1, 2vs2 and Free for All). They are still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All . The Bravos versions of Ozma (Rare and Unique) and the Unique Ordis versions of Ozma are still legal in every format.",
+        "question": "Which versions of Ozma are legal and in which format?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_OR_21_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/622b0cd7a08ddfbc486c",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/9f49b14c758a1c37dd75",
+      "id": "316",
+      "fromDate": "2024-11-15T15:27:12+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Robin Hood",
+      "description": "https://www.altered.gg/news/addressing-robin-hoods-gameplay-experience",
+      "answer": "Yes. The first printing of Robin Hood said  \"Characters your opponents play cost {1} more.\"  Future printings will say  \"Characters your opponents play can't cost less than {2}. (If they would cost less, they cost {2} instead.)\"\n\nThis change impacts all versions of this effect, including the ones found on Unique cards. Any card that uses the previous wording should be read as if it used the new one.",
+      "question": "Was this card updated ?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/0b1cde52a3a6f3626952",
+        "id": "315",
+        "fromDate": "2024-11-15T15:27:12+00:00",
+        "type": "RULING",
+        "name": "Reducing costs",
+        "answer": "They can, but if this would bring the card cost under 2, the cost would remain 2.",
+        "question": "If I control Robin Hood, can my opponent reduce the cost of a card using an effect such as Martengale?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/9f49b14c758a1c37dd75",
+        "id": "316",
+        "fromDate": "2024-11-15T15:27:12+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Robin Hood",
+        "description": "https://www.altered.gg/news/addressing-robin-hoods-gameplay-experience",
+        "answer": "Yes. The first printing of Robin Hood said  \"Characters your opponents play cost {1} more.\"  Future printings will say  \"Characters your opponents play can't cost less than {2}. (If they would cost less, they cost {2} instead.)\"\n\nThis change impacts all versions of this effect, including the ones found on Unique cards. Any card that uses the previous wording should be read as if it used the new one.",
+        "question": "Was this card updated ?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/5c8d0226ca204762cd27",
+        "id": "317",
+        "fromDate": "2024-11-15T15:27:12+00:00",
+        "type": "RULING",
+        "name": "For free and cost change",
+        "answer": "A free card remains free even against Robin Hood!  Playing a card for free means bypassing its cost entirely, which is different from reducing it to zero.",
+        "question": "What happens if a player plays a Character for free, such as with Auraq & Kibble's effect, while their opponent controls Robin Hood?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_OR_21_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/e26d73b637da5d8f6d7a",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/a83da53c3f64f6168bb3",
+      "id": "316",
+      "fromDate": "2024-11-15T15:27:12+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Robin Hood",
+      "description": "https://www.altered.gg/news/addressing-robin-hoods-gameplay-experience",
+      "answer": "Yes. The first printing of Robin Hood said  \"Characters your opponents play cost {1} more.\"  Future printings will say  \"Characters your opponents play can't cost less than {2}. (If they would cost less, they cost {2} instead.)\"\n\nThis change impacts all versions of this effect, including the ones found on Unique cards. Any card that uses the previous wording should be read as if it used the new one.",
+      "question": "Was this card updated ?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/ff00b776964afb520d38",
+        "id": "315",
+        "fromDate": "2024-11-15T15:27:12+00:00",
+        "type": "RULING",
+        "name": "Reducing costs",
+        "answer": "They can, but if this would bring the card cost under 2, the cost would remain 2.",
+        "question": "If I control Robin Hood, can my opponent reduce the cost of a card using an effect such as Martengale?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/a83da53c3f64f6168bb3",
+        "id": "316",
+        "fromDate": "2024-11-15T15:27:12+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Robin Hood",
+        "description": "https://www.altered.gg/news/addressing-robin-hoods-gameplay-experience",
+        "answer": "Yes. The first printing of Robin Hood said  \"Characters your opponents play cost {1} more.\"  Future printings will say  \"Characters your opponents play can't cost less than {2}. (If they would cost less, they cost {2} instead.)\"\n\nThis change impacts all versions of this effect, including the ones found on Unique cards. Any card that uses the previous wording should be read as if it used the new one.",
+        "question": "Was this card updated ?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/aa5aa57c299331b64997",
+        "id": "317",
+        "fromDate": "2024-11-15T15:27:12+00:00",
+        "type": "RULING",
+        "name": "For free and cost change",
+        "answer": "A free card remains free even against Robin Hood!  Playing a card for free means bypassing its cost entirely, which is different from reducing it to zero.",
+        "question": "What happens if a player plays a Character for free, such as with Auraq & Kibble's effect, while their opponent controls Robin Hood?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_YZ_11_R2": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/e65d7e917086d3bfaafe",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/51411a2c05a705c30bcc",
+      "id": "356",
+      "fromDate": "2025-05-13T15:27:13+00:00",
+      "type": "SUSPENDED",
+      "name": "Suspension of Baba Yaga (Ordis)",
+      "description": "https://www.altered.gg/news/whispers-from-the-maze-season-patch",
+      "answer": "The Rare, Ordis version of Baba Yaga is currently suspended in all versions of Constructed Format (1vs1, 2vs2 and Free for All).  It is still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All.  All other versions (Common, Rare and Unique Yzmir, as well as Unique Ordis) are still legal in every format.",
+      "question": "Which versions of Baba Yaga are legal and in which format?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/51411a2c05a705c30bcc",
+        "id": "356",
+        "fromDate": "2025-05-13T15:27:13+00:00",
+        "type": "SUSPENDED",
+        "name": "Suspension of Baba Yaga (Ordis)",
+        "description": "https://www.altered.gg/news/whispers-from-the-maze-season-patch",
+        "answer": "The Rare, Ordis version of Baba Yaga is currently suspended in all versions of Constructed Format (1vs1, 2vs2 and Free for All).  It is still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All.  All other versions (Common, Rare and Unique Yzmir, as well as Unique Ordis) are still legal in every format.",
+        "question": "Which versions of Baba Yaga are legal and in which format?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_BR_25_R2": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/a557317cbf96e9f7349d",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/55d3ffb65c05a1e27d16",
+      "id": "113",
+      "fromDate": "2025-05-13T15:27:09+00:00",
+      "type": "SUSPENDED",
+      "name": "Suspension of Helping Hand (Yzmir)",
+      "description": "https://www.altered.gg/news/whispers-from-the-maze-season-patch",
+      "answer": "The Rare, Yzmir versions of Helping Hand is currently suspended in all versions of Constructed Format (1vs1, 2vs2 and Free for All).  It is still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All.  All other versions (Common, and Rare Bravos) are still legal in every format.",
+      "question": "Which versions of Helping Hand are legal and in which format?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/55d3ffb65c05a1e27d16",
+        "id": "113",
+        "fromDate": "2025-05-13T15:27:09+00:00",
+        "type": "SUSPENDED",
+        "name": "Suspension of Helping Hand (Yzmir)",
+        "description": "https://www.altered.gg/news/whispers-from-the-maze-season-patch",
+        "answer": "The Rare, Yzmir versions of Helping Hand is currently suspended in all versions of Constructed Format (1vs1, 2vs2 and Free for All).  It is still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All.  All other versions (Common, and Rare Bravos) are still legal in every format.",
+        "question": "Which versions of Helping Hand are legal and in which format?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/510c980dd5475429827f",
+        "id": "111",
+        "fromDate": "2024-10-02T15:27:09+00:00",
+        "type": "RULING",
+        "name": "Spell without target",
+        "answer": "Yes. Note that your opponent Characters are valid targets for this Spell.",
+        "question": "Can I play a Spell if there's no valid target?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/2565aa0aba73e9159782",
+        "id": "112",
+        "fromDate": "2024-10-02T15:27:09+00:00",
+        "type": "RULING",
+        "name": "Target non-Fleeting",
+        "answer": "Yes. (Otherwise the effect would say \"target a Fleeting Character\"",
+        "question": "Can I play Helping Hand on a non-Fleeting Character?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_YZ_05_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/7c5f9083f8d83d539ea1",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/ddfefd62da9809401762",
+      "id": "353",
+      "fromDate": "2025-02-01T15:27:13+00:00",
+      "type": "SUSPENDED",
+      "name": "Suspension of Unique Moonlight Jellyfish",
+      "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+      "answer": "The Unique versions (Axiom or Yzmir) of Moonlight Jellyfish are currently suspended in all versions of Constructed Format (1vs1, 2vs2 and Free for All).  They are still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All.  All other versions (Common Yzmir, Rare Yzmir and Rare Axiom) are still legal in every format.",
+      "question": "Which versions of Moonlight Jellyfish are legal and in which format?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/ddfefd62da9809401762",
+        "id": "353",
+        "fromDate": "2025-02-01T15:27:13+00:00",
+        "type": "SUSPENDED",
+        "name": "Suspension of Unique Moonlight Jellyfish",
+        "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+        "answer": "The Unique versions (Axiom or Yzmir) of Moonlight Jellyfish are currently suspended in all versions of Constructed Format (1vs1, 2vs2 and Free for All).  They are still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All.  All other versions (Common Yzmir, Rare Yzmir and Rare Axiom) are still legal in every format.",
+        "question": "Which versions of Moonlight Jellyfish are legal and in which format?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/066bf6f4975ec4c016c3",
+        "id": "352",
+        "fromDate": "2024-10-02T15:27:13+00:00",
+        "type": "RULING",
+        "name": "Order of resolution",
+        "answer": "1. The controller of Moonlight Jellyfish declares they sacrifice it.  2. Moonlight Jellyfish reaction is triggered, depending on whether it's Fleeting or not.  3. Moonlight Jellyfish goes to the discard pile.  4. After the effect that sacrificed it is resolved, Moonlight Jellyfish reaction (or any other reactions still in Limbo at that moment) can be resolved.",
+        "question": "In which order is the effect of Moonlight Jellyfish resolved when it's sacrificed?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/35eaca1c2ad21b569580",
+        "id": "351",
+        "fromDate": "2024-09-06T15:27:13+00:00",
+        "type": "RULING",
+        "name": "I am becomes I was",
+        "answer": "The first printing of Moonlight Jellyfish read: \"When I'm sacrificed, if I'm not [Fleeting] — Put me in Reserve.\" Future printings will read: \"When I'm sacrificed, if I was not [Fleeting] — Put me in Reserve.\"",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_YZ_05_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/cfb02c76947be902cbbd",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/7cda8df1d540db3341b0",
+      "id": "353",
+      "fromDate": "2025-02-01T15:27:13+00:00",
+      "type": "SUSPENDED",
+      "name": "Suspension of Unique Moonlight Jellyfish",
+      "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+      "answer": "The Unique versions (Axiom or Yzmir) of Moonlight Jellyfish are currently suspended in all versions of Constructed Format (1vs1, 2vs2 and Free for All).  They are still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All.  All other versions (Common Yzmir, Rare Yzmir and Rare Axiom) are still legal in every format.",
+      "question": "Which versions of Moonlight Jellyfish are legal and in which format?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/7cda8df1d540db3341b0",
+        "id": "353",
+        "fromDate": "2025-02-01T15:27:13+00:00",
+        "type": "SUSPENDED",
+        "name": "Suspension of Unique Moonlight Jellyfish",
+        "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
+        "answer": "The Unique versions (Axiom or Yzmir) of Moonlight Jellyfish are currently suspended in all versions of Constructed Format (1vs1, 2vs2 and Free for All).  They are still legal in the following formats:  - Draft, 1vs1  - Draft, 2vs2  - Draft, Free For All  - Sealed, 1vs1  - Sealed, 2vs2  - Sealed, Free For All.  All other versions (Common Yzmir, Rare Yzmir and Rare Axiom) are still legal in every format.",
+        "question": "Which versions of Moonlight Jellyfish are legal and in which format?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/7803b16ec64f8606cb74",
+        "id": "352",
+        "fromDate": "2024-10-02T15:27:13+00:00",
+        "type": "RULING",
+        "name": "Order of resolution",
+        "answer": "1. The controller of Moonlight Jellyfish declares they sacrifice it.  2. Moonlight Jellyfish reaction is triggered, depending on whether it's Fleeting or not.  3. Moonlight Jellyfish goes to the discard pile.  4. After the effect that sacrificed it is resolved, Moonlight Jellyfish reaction (or any other reactions still in Limbo at that moment) can be resolved.",
+        "question": "In which order is the effect of Moonlight Jellyfish resolved when it's sacrificed?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/def03f6d7fea369e3038",
+        "id": "351",
+        "fromDate": "2024-09-06T15:27:13+00:00",
+        "type": "RULING",
+        "name": "I am becomes I was",
+        "answer": "The first printing of Moonlight Jellyfish read: \"When I'm sacrificed, if I'm not [Fleeting] — Put me in Reserve.\" Future printings will read: \"When I'm sacrificed, if I was not [Fleeting] — Put me in Reserve.\"",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_COREKS_B_YZ_07_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/43f7dcada4ebd4d3e861",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/5ad2e2bfabe010e6ca5a",
+      "id": "355",
+      "fromDate": "2024-09-06T15:27:13+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Mage Dancer Rare",
+      "answer": "The first printing of Kagiran Mage Dancer said:  At Dusk, if I have 3 or more boosts — ...\"  Future printing will read:  \"At Dusk — If I have 3 or more boosts, ...\"",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/5ad2e2bfabe010e6ca5a",
+        "id": "355",
+        "fromDate": "2024-09-06T15:27:13+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Mage Dancer Rare",
+        "answer": "The first printing of Kagiran Mage Dancer said:  At Dusk, if I have 3 or more boosts — ...\"  Future printing will read:  \"At Dusk — If I have 3 or more boosts, ...\"",
+        "question": "Did the wording of this card change?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/75944fda474361deb150",
+        "id": "354",
+        "fromDate": "2024-08-27T15:27:13+00:00",
+        "type": "RULING",
+        "name": "Condition after \"—\" are checked at resolution",
+        "answer": "Yes. Kadigiran effect should read \"At Dusk — If I have 3 or more boosts, draw a card.\" indicating that the check of the number of boosts is only happening at the moment his effect is resolved.",
+        "question": "Can I draw a card thanks to Kagiran Mage-Dancer (Rare, Yzmir version) ability if he gains his 3rd boost at Dusk, thanks to another effect? "
+      }
+    ]
+  },
+  "ALT_COREKS_B_YZ_07_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/c3d8b296f596ed966226",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/0e8a0b1af7e93b721be6",
+      "id": "355",
+      "fromDate": "2024-09-06T15:27:13+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Mage Dancer Rare",
+      "answer": "The first printing of Kagiran Mage Dancer said:  At Dusk, if I have 3 or more boosts — ...\"  Future printing will read:  \"At Dusk — If I have 3 or more boosts, ...\"",
+      "question": "Did the wording of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/0e8a0b1af7e93b721be6",
+        "id": "355",
+        "fromDate": "2024-09-06T15:27:13+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Mage Dancer Rare",
+        "answer": "The first printing of Kagiran Mage Dancer said:  At Dusk, if I have 3 or more boosts — ...\"  Future printing will read:  \"At Dusk — If I have 3 or more boosts, ...\"",
+        "question": "Did the wording of this card change?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/7918520e0fbd453a64ae",
+        "id": "354",
+        "fromDate": "2024-08-27T15:27:13+00:00",
+        "type": "RULING",
+        "name": "Condition after \"—\" are checked at resolution",
+        "answer": "Yes. Kadigiran effect should read \"At Dusk — If I have 3 or more boosts, draw a card.\" indicating that the check of the number of boosts is only happening at the moment his effect is resolved.",
+        "question": "Can I draw a card thanks to Kagiran Mage-Dancer (Rare, Yzmir version) ability if he gains his 3rd boost at Dusk, thanks to another effect? "
+      }
+    ]
+  }
+}
