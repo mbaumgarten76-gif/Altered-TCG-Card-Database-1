@@ -36380,73 +36380,6 @@
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_COREKS_B_YZ_03_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
-      "@type": "CardType",
-      "reference": "HERO",
-      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
-      "name": "Héroe de"
-    },
-    "cardSubTypes": [],
-    "cardSet": {
-      "@id": "/card_sets/COREKS",
-      "@type": "CardSet",
-      "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
-      "reference": "COREKS",
-      "name": "Beyond the Gates - KS Edition"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/8342a2b10e869ca77c09",
-      "reference": "COMMON",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
-      "name": "Common"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/es_ES/cfdbb9318defa0bcef4752f5069aac2d.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/ALT_CORE_B_YZ_03_C_WEB.jpg"
-      ],
-      "HERO_THUMB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/ALT_CORE_B_YZ_03_C_HERO_THUMB.jpg"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_03_C",
-    "reference": "ALT_COREKS_B_YZ_03_C",
-    "id": "01HN5TXRJ3AGR9FAEQTBSQGX7T",
-    "mainFaction": {
-      "@id": "/factions/YZ",
-      "@type": "Faction",
-      "reference": "YZ",
-      "color": "#764891",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
-      "name": "Yzmir"
-    },
-    "allImagePath": {
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/it_IT/d85dafd5328a90807dd6daebdb7d5c94.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/es_ES/cfdbb9318defa0bcef4752f5069aac2d.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/de_DE/3593dc3d64e0bb5e5dd6744b4a5f64a6.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/en_US/adc30378bc26a84c9f966c0945b919e9.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/fr_FR/bf657b620d1cb318c44041141dd9db32.jpg"
-    },
-    "name": "Afanas y Senka",
-    "elements": {
-      "MAIN_COST": "0",
-      "RECALL_COST": "0",
-      "PERMANENT": "2",
-      "RESERVE": "2",
-      "MAIN_EFFECT": "Cuando juegues un hechizo — Un personaje objetivo que controles gana 1 potenciador[]. (Haz esto después de que el hechizo se resuelva. Un potenciador es un contador +1/+1/+1. Retíralo cuando abandone la zona de expedición.)"
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "collectorNumberFormatted": "BTG-152-H-ES"
-  },
-  {
-    "@context": "/contexts/Card",
     "@id": "/cards/ALT_COREKS_B_YZ_04_C",
     "@type": "Card",
     "cardType": {
@@ -40924,5 +40857,72 @@
     "isSuspended": false,
     "isErrated": false,
     "collectorNumberFormatted": "BTG-185-T-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_YZ_03_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+      "@type": "CardType",
+      "reference": "HERO",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "name": "Héroe de"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/COREKS",
+      "@type": "CardSet",
+      "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+      "reference": "COREKS",
+      "name": "Beyond the Gates - KS Edition"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/b74ae3f944eb8d65b3a7",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/es_ES/cfdbb9318defa0bcef4752f5069aac2d.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/ALT_CORE_B_YZ_03_C_WEB.jpg"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/ALT_CORE_B_YZ_03_C_HERO_THUMB.jpg"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_03_C",
+    "reference": "ALT_COREKS_B_YZ_03_C",
+    "id": "01HN5TXRJ3AGR9FAEQTBSQGX7T",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/it_IT/d85dafd5328a90807dd6daebdb7d5c94.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/es_ES/cfdbb9318defa0bcef4752f5069aac2d.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/de_DE/3593dc3d64e0bb5e5dd6744b4a5f64a6.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/en_US/adc30378bc26a84c9f966c0945b919e9.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_03/JPG/fr_FR/bf657b620d1cb318c44041141dd9db32.jpg"
+    },
+    "name": "Afanas y Senka",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Cuando juegues un hechizo — Un personaje objetivo que controles gana 1 potenciador[]. (Haz esto después de que el hechizo se resuelva. Un potenciador es un contador +1/+1/+1. Retíralo cuando abandone la zona de expedición.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "BTG-152-H-ES"
   }
 ]

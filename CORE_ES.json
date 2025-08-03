@@ -38706,73 +38706,6 @@
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CORE_B_YZ_03_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
-      "@type": "CardType",
-      "reference": "HERO",
-      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
-      "name": "Héroe de"
-    },
-    "cardSubTypes": [],
-    "cardSet": {
-      "@id": "/card_sets/CORE",
-      "@type": "CardSet",
-      "id": "01HKAFJN3HG3TWKYV0E014K01G",
-      "reference": "CORE",
-      "name": "Beyond the Gates"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/b088d2b0f207790cb23a",
-      "reference": "COMMON",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
-      "name": "Common"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/es_ES/2bc19e599259641bca3e535a62a32732.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/ALT_CORE_B_YZ_03_C_WEB.jpg"
-      ],
-      "HERO_THUMB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/ALT_CORE_B_YZ_03_C_HERO_THUMB.jpg"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_03_C",
-    "reference": "ALT_CORE_B_YZ_03_C",
-    "id": "01HKAFJNZ5PPRN5KCAKG61BYP4",
-    "mainFaction": {
-      "@id": "/factions/YZ",
-      "@type": "Faction",
-      "reference": "YZ",
-      "color": "#764891",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
-      "name": "Yzmir"
-    },
-    "allImagePath": {
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/es_ES/2bc19e599259641bca3e535a62a32732.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/it_IT/d1d3e07be5e0ca153bab2f7c31fa0c14.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/en_US/92c36c5389a664d69297c3d18dc1fb11.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/fr_FR/0f96a108839f4dd5be886fe30890ab9f.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/de_DE/42179bdf7c032112d1ae80a106c13a6f.jpg"
-    },
-    "name": "Afanas y Senka",
-    "elements": {
-      "MAIN_COST": "0",
-      "RECALL_COST": "0",
-      "PERMANENT": "2",
-      "RESERVE": "2",
-      "MAIN_EFFECT": "Cuando juegues un hechizo — Un personaje objetivo que controles gana 1 potenciador[]. (Haz esto después de que el hechizo se resuelva. Un potenciador es un contador +1/+1/+1. Retíralo cuando abandone la zona de expedición.)"
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "collectorNumberFormatted": "BTG-152-H-ES"
-  },
-  {
-    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CORE_B_YZ_04_C",
     "@type": "Card",
     "cardType": {
@@ -43344,6 +43277,73 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_YZ_03_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+      "@type": "CardType",
+      "reference": "HERO",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "name": "Héroe de"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/CORE",
+      "@type": "CardSet",
+      "id": "01HKAFJN3HG3TWKYV0E014K01G",
+      "reference": "CORE",
+      "name": "Beyond the Gates"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/501235b3b6131d05de5f",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/es_ES/2bc19e599259641bca3e535a62a32732.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/ALT_CORE_B_YZ_03_C_WEB.jpg"
+      ],
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/ALT_CORE_B_YZ_03_C_HERO_THUMB.jpg"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_03_C",
+    "reference": "ALT_CORE_B_YZ_03_C",
+    "id": "01HKAFJNZ5PPRN5KCAKG61BYP4",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/es_ES/2bc19e599259641bca3e535a62a32732.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/it_IT/d1d3e07be5e0ca153bab2f7c31fa0c14.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/en_US/92c36c5389a664d69297c3d18dc1fb11.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/fr_FR/0f96a108839f4dd5be886fe30890ab9f.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_03/JPG/de_DE/42179bdf7c032112d1ae80a106c13a6f.jpg"
+    },
+    "name": "Afanas y Senka",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Cuando juegues un hechizo — Un personaje objetivo que controles gana 1 potenciador[]. (Haz esto después de que el hechizo se resuelva. Un potenciador es un contador +1/+1/+1. Retíralo cuando abandone la zona de expedición.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "BTG-152-H-ES"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CORE_P_YZ_03_C",
     "@type": "Card",
     "cardType": {
@@ -43363,7 +43363,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/b84b41cd059001bb2202",
+      "@id": "/.well-known/genid/2ce2133f2dcc5dad9703",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
