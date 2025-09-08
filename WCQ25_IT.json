@@ -13,7 +13,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/de6bb881a57eb2642f4a",
+        "@id": "/.well-known/genid/f8a2c9b9d44681852f8e",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingegnere"
@@ -28,14 +28,20 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/e9b3c9d3853d82839547",
+      "@id": "/.well-known/genid/95bb79b1e1d4ea154986",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
     "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/it_IT/e526a01af324504fb5e31346327b2cb0.jpg",
-    "assets": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/WEB_4b595331465cbc7690b9fd0bf26d3ec9",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/WEB_280bb22393d5ea4ac2b1aa2df2b6d494",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/WEB_8c8ea7ecdb4015e98a6d4b7647458464"
+      ]
+    },
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_AX_08_R1",
     "reference": "ALT_WCQ25_P_AX_08_R1",
@@ -82,7 +88,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/35fc945563aaac47189d",
+        "@id": "/.well-known/genid/1833e6b338f23455ca80",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elementale"
@@ -97,14 +103,20 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/3a4a8abf427f66390729",
+      "@id": "/.well-known/genid/a499dcbb9070744c4628",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
     "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/it_IT/6eefdce0c011f59973f864f26e8ad2b3.jpg",
-    "assets": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/WEB_42ecb090dbf33c2a0c9b62db3f39c99d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/WEB_7d2c568335fbeb1da0ab7c0a54dfef8d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/WEB_3ba0d17cc680b27131be2b4ed503a1aa"
+      ]
+    },
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_BR_06_R1",
     "reference": "ALT_WCQ25_P_BR_06_R1",
@@ -151,7 +163,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1b517d3e59291203d074",
+        "@id": "/.well-known/genid/47f1b5e6a8d9aa2dfad1",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artista"
@@ -166,14 +178,20 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/115dedcfca72ec1fa464",
+      "@id": "/.well-known/genid/3e41e996e052a66c30aa",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
     "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/it_IT/57ad68bd2fd9ce31566830f8c35ef997.jpg",
-    "assets": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/WEB_f861ecd5c85f0d675188c5116567c5a7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/WEB_f32dce40ce435137d9d042a1e93bd525",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/WEB_494055edf8234c06367e553550b03f30"
+      ]
+    },
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_LY_10_R1",
     "reference": "ALT_WCQ25_P_LY_10_R1",
@@ -201,7 +219,7 @@
       "FOREST_POWER": "#2#",
       "MOUNTAIN_POWER": "#2#",
       "MAIN_EFFECT": "Quando vado nella Riserva dall'area delle spedizioni — Puoi riprendere in mano un'altra carta dalla tua Riserva.",
-      "ECHO_EFFECT": "#{D}: La prossima carta che giochi in questo turno costa {1} in meno.# (Scartami dalla Riserva per eseguire questa azione.)"
+      "ECHO_EFFECT": "#{D}: la prossima carta che giochi in questo turno costa {1} in meno.# (Scartami dalla Riserva per eseguire questa azione.)"
     },
     "isSuspended": false,
     "isErrated": false,
@@ -221,7 +239,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e90ab090793c70a8e879",
+        "@id": "/.well-known/genid/fed04a05fb467ee51fdd",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Pianta"
@@ -236,14 +254,20 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/3df497aa4c6d55cee580",
+      "@id": "/.well-known/genid/21ef9186e3c3759c1801",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
     "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/it_IT/5265129c8064d6bdf3e97537b0a83bfc.jpg",
-    "assets": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/WEB_a7d054be4fa7e4139d47933e3b66ffe1",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/WEB_4fcc89da75925f55fafcbbafe472bcb2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/WEB_cdb133e5325371663667784043786a5d"
+      ]
+    },
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_MU_16_R1",
     "reference": "ALT_WCQ25_P_MU_16_R1",
@@ -290,7 +314,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a7d8238977abc49aa541",
+        "@id": "/.well-known/genid/7f76aa4a6a0a996e4924",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldato"
@@ -305,14 +329,20 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/02869b8a85851d02f78d",
+      "@id": "/.well-known/genid/9a77f0feb4bfd6d47a87",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
     "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/it_IT/7644024256cb26b9c5cd4b21dc6a5e43.jpg",
-    "assets": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/WEB_e28f6e9841c03c9da1af34d43f9925df",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/WEB_71f3dbe0e5eb7f6248c17859e7a97e92",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/WEB_8ad3ebf230588d871a950bc0b223b982"
+      ]
+    },
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_OR_05_R1",
     "reference": "ALT_WCQ25_P_OR_05_R1",
@@ -358,7 +388,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/5c845acb228440592e43",
+        "@id": "/.well-known/genid/bbc12f7f06ccb06c923b",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Spirito"
@@ -373,14 +403,20 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/c3e026aebd98de2243b8",
+      "@id": "/.well-known/genid/b0fdd084994670be7332",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
     "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/it_IT/d3a460d6d01134a9d046fce02f5a9627.jpg",
-    "assets": [],
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/WEB_5ab3006ee55028ad530aeb08d2799882",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/WEB_c7cf263b11dc8bee353de9d1a9918d97",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/WEB_68c6006f18e06f4b2b0049b2f18140b4"
+      ]
+    },
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_YZ_05_R1",
     "reference": "ALT_WCQ25_P_YZ_05_R1",

@@ -25100,7 +25100,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/01df05e52bdeff0240c1",
+      "@id": "/.well-known/genid/ff30a9dab41d4f96df14",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Commun"
@@ -25140,10 +25140,10 @@
       "RECALL_COST": "0",
       "RESERVE": "2",
       "PERMANENT": "2",
-      "MAIN_EFFECT": "Lorsque vous jouez un Sort — Un Personnage ciblé que vous contrôlez gagne 1 boost. (Faites cela après la résolution du sort.)"
+      "MAIN_EFFECT": "Les sorts que vous jouez de Coût de Main {1} ou moins ont [[Fugace]].  Lorsque vous jouez un Sort — Un Personnage ciblé que vous contrôlez gagne 1 boost. (Faites cela après la résolution du sort.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "TBF-087-H-FR"
   }
 ]

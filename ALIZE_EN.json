@@ -25100,7 +25100,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/010969706092d63d1687",
+      "@id": "/.well-known/genid/3250f2f0a3786f5e59be",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -25140,10 +25140,10 @@
       "RECALL_COST": "0",
       "RESERVE": "2",
       "PERMANENT": "2",
-      "MAIN_EFFECT": "When you play a Spell — Target Character you control gains 1 boost. (Do this after the spell resolves.)"
+      "MAIN_EFFECT": "Spells you play with Hand Cost {1} or less have [[Fleeting]].  When you play a Spell — Target Character you control gains 1 boost. (Do this after the spell resolves.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "TBF-087-H-EN"
   }
 ]

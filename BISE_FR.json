@@ -349,7 +349,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_AX_31_C-FR"
+    "collectorNumberFormatted": "WFM-103-T-FR"
   },
   {
     "@context": "/contexts/Card",
@@ -15125,7 +15125,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_NE_01_C-FR"
+    "collectorNumberFormatted": "WFM-106-T-FR"
   },
   {
     "@context": "/contexts/Card",
@@ -16327,7 +16327,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_OR_31_C-FR"
+    "collectorNumberFormatted": "WFM-104-T-FR"
   },
   {
     "@context": "/contexts/Card",
@@ -20392,7 +20392,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_YZ_47_C-FR"
+    "collectorNumberFormatted": "WFM-105-T-FR"
   },
   {
     "@context": "/contexts/Card",
@@ -22684,7 +22684,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/121338b07464d7290d48",
+      "@id": "/.well-known/genid/a6031a37ebde5fea7830",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Commun"
@@ -22721,10 +22721,10 @@
       "RECALL_COST": "0",
       "PERMANENT": "2",
       "RESERVE": "2",
-      "MAIN_EFFECT": "Lorsque vous jouez un Sort — Un Personnage ciblé que vous contrôlez gagne 1 boost. (Faites cela après la résolution du sort.)"
+      "MAIN_EFFECT": "Les sorts que vous jouez de Coût de Main {1} ou moins ont [[Fugace]].  Lorsque vous jouez un Sort — Un Personnage ciblé que vous contrôlez gagne 1 boost. (Faites cela après la résolution du sort.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "WFM-087-H-FR"
   }
 ]

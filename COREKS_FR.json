@@ -40879,7 +40879,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/341ebb20a82bfc4088d6",
+      "@id": "/.well-known/genid/9256c28433ba1fa82f43",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Commun"
@@ -40919,10 +40919,10 @@
       "RECALL_COST": "0",
       "PERMANENT": "2",
       "RESERVE": "2",
-      "MAIN_EFFECT": "Lorsque vous jouez un Sort — Un Personnage ciblé que vous contrôlez gagne 1 boost. (Faites cela après la résolution du sort. Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+      "MAIN_EFFECT": "Les sorts que vous jouez de Coût de Main {1} ou moins ont [[Fugace]].  Lorsque vous jouez un Sort — Un Personnage ciblé que vous contrôlez gagne 1 boost. (Faites cela après la résolution du sort. Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "BTG-152-H-FR"
   }
 ]

@@ -28683,7 +28683,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_CORE_B_NE_01_C-EN"
+    "collectorNumberFormatted": "BTG-186-T-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -43296,7 +43296,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/9985157142c0310e78f8",
+      "@id": "/.well-known/genid/66e1b5e77cce6c8e7de6",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -43336,10 +43336,10 @@
       "RECALL_COST": "0",
       "PERMANENT": "2",
       "RESERVE": "2",
-      "MAIN_EFFECT": "When you play a Spell — Target Character you control gains 1 boost[]. (Do this after the spell resolves. A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
+      "MAIN_EFFECT": "Spells you play with Hand Cost {1} or less have [[Fleeting]].  When you play a Spell — Target Character you control gains 1 boost[]. (Do this after the spell resolves. A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "BTG-152-H-EN"
   },
   {
@@ -43363,7 +43363,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/b2b1e0d00c99590277f2",
+      "@id": "/.well-known/genid/12ed8c25e74540bea505",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -43394,10 +43394,10 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "When you play a Spell — Target Character you control gains 1 boost[]. (Do this after the spell resolves. A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
+      "MAIN_EFFECT": "Spells you play with Hand Cost {1} or less have [[Fleeting]].  When you play a Spell — Target Character you control gains 1 boost[]. (Do this after the spell resolves. A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "BTG-152-H-EN"
   }
 ]

@@ -40879,7 +40879,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/b74ae3f944eb8d65b3a7",
+      "@id": "/.well-known/genid/81ed4b557e244f46a50e",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -40919,10 +40919,10 @@
       "RECALL_COST": "0",
       "PERMANENT": "2",
       "RESERVE": "2",
-      "MAIN_EFFECT": "Cuando juegues un hechizo — Un personaje objetivo que controles gana 1 potenciador[]. (Haz esto después de que el hechizo se resuelva. Un potenciador es un contador +1/+1/+1. Retíralo cuando abandone la zona de expedición.)"
+      "MAIN_EFFECT": "Los hechizos que juegues con coste desde la mano de {1} o menos tienen [[Fugacidad]].  Cuando juegues un hechizo — Un personaje objetivo que controles gana 1 potenciador. (Haz esto después de que el hechizo se resuelva. Un potenciador es un contador +1/+1/+1. Retíralo cuando abandone la zona de expedición.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "BTG-152-H-ES"
   }
 ]

@@ -20,7 +20,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/eb72044f0a63e9c2c708",
+      "@id": "/.well-known/genid/69ccdd2d2cdc7dd70951",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -78,7 +78,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/d9296c3539d6d604a565",
+      "@id": "/.well-known/genid/4b8faf8ad126c812da6d",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -136,7 +136,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/d139b1e9746fe7d36e0d",
+      "@id": "/.well-known/genid/d28d4c57819cb1295f4c",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -194,7 +194,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/0ec957844e83bdb67127",
+      "@id": "/.well-known/genid/5665e02bc20d18d2b686",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -252,7 +252,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/b2d8e5f0964d2edadee0",
+      "@id": "/.well-known/genid/819f8588585615c6b342",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -283,7 +283,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Inizio la partita con cinque segnalini Eroismo.  Quando giochi un personaggio con costo dalla mano pari o superiore al numero dei miei segnalini Eroismo — Pesca una carta e ottengo un segnalino Eroismo."
+      "MAIN_EFFECT": "Inizio la partita con 5 segnalini Eroismo.  Quando giochi un personaggio con costo dalla mano pari o superiore al numero dei miei segnalini Eroismo — Pesca 1 carta e ottengo un segnalino Eroismo."
     },
     "isSuspended": false,
     "isErrated": false,
@@ -310,7 +310,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/2326f8e4c3e8ca9e40f2",
+      "@id": "/.well-known/genid/eebcb76d1258f53bcf26",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -341,7 +341,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Quando un personaggio che controlli ottiene 1 o più rinforzi — Puoi consumarmi ({T}) per conferire 1 rinforzo a un personaggio bersaglio. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+      "MAIN_EFFECT": "When a Character you control gains 1 or more boosts — You may exhaust me ({T}) to give target Character 1 boost.[]. (Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
     },
     "isSuspended": false,
     "isErrated": false,
@@ -368,7 +368,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/f37338469ce19f8d7e23",
+      "@id": "/.well-known/genid/3ad8879ca1cf965660d3",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -426,7 +426,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/e3cceb04438bbe89619c",
+      "@id": "/.well-known/genid/541b4bfc580543b27a58",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -457,7 +457,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Quando giochi un personaggio con una statistica base pari a 0 — Ottengo 1 segnalino Prestazione.  A mezzogiorno — Puoi spendere 5 dei miei segnalini Prestazione per rivelare la prima carta del tuo mazzo. Puoi giocarla senza pagarne il costo o aggiungerla alla tua mano. (Non attivi alcuna abilità {h}.)"
+      "MAIN_EFFECT": "Quando giochi un personaggio con una statistica base pari a 0 — Ottengo 1 segnalino Prestazione.  At Noon — You may spend five of my Performance counters to reveal the top card of your deck. You may play it for free or put it into your hand. (Don't activate any {h} abilities.)"
     },
     "isSuspended": false,
     "isErrated": false,
@@ -484,7 +484,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/fd4467db8a44f3ccac65",
+      "@id": "/.well-known/genid/5f43a24b25f67a816d4b",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -542,7 +542,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/cef1bca95ab693fd4e94",
+      "@id": "/.well-known/genid/4ad524a5401dade8e65c",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -600,7 +600,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/1d20ed647fedcdcc5498",
+      "@id": "/.well-known/genid/421e9278a42e4ab6b36b",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -658,7 +658,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/1876d753adb472399abe",
+      "@id": "/.well-known/genid/5d6e5f61a51267e4e07b",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -716,7 +716,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/23d1f9cec548bc4ff37d",
+      "@id": "/.well-known/genid/7db1bbe3ae4e9843dcd2",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -774,7 +774,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/44a059f3aac541a946f5",
+      "@id": "/.well-known/genid/84278eae61d362837293",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -805,7 +805,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Quando giochi un Burocrate — Ottiene [[Dormiente]]. (Durante il crepuscolo, ignora le sue statistiche. Durante il riposo, non va nella Riserva e perde Dormiente.)"
+      "MAIN_EFFECT": "When you play a Bureaucrat — It gains [[Dormiente]]. (During Dusk, ignore its statistics. During Rest, it doesn't go to Reserve and it loses Asleep.)"
     },
     "isSuspended": false,
     "isErrated": true,
@@ -832,7 +832,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/f149950f9b2e9a87b9ad",
+      "@id": "/.well-known/genid/6e09ba2494341e6a70a6",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -890,7 +890,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/f32decd11dcbf15a0a19",
+      "@id": "/.well-known/genid/b38e35d58b21e2650b35",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -948,7 +948,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/04b08dbdc185b312574e",
+      "@id": "/.well-known/genid/36b3bc30e438adbeae82",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -1006,7 +1006,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/0cb4a01337224bf16902",
+      "@id": "/.well-known/genid/b6a1a7127963cebef181",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -1037,10 +1037,10 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Quando giochi un incantesimo — Un personaggio bersaglio che controlli ottiene 1 rinforzo[]. (Fallo dopo che l'incantesimo si è risolto. Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+      "MAIN_EFFECT": "Gli incantesimi che giochi con costo dalla mano pari o inferiore a {1} hanno [[Fugace]].  Quando giochi un incantesimo — Un personaggio bersaglio che controlli ottiene 1 rinforzo. (Fallo dopo che l'incantesimo si è risolto.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "WCS25-YZ-03-C-IT"
   }
 ]

@@ -20,7 +20,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/62f6d285308417fca2ef",
+      "@id": "/.well-known/genid/387a279a917548760b92",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -78,7 +78,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/8a74fbfa55b7ba28c491",
+      "@id": "/.well-known/genid/37ea3f3b56d7ddf687b2",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -136,7 +136,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/af87718b5286f1c23bb9",
+      "@id": "/.well-known/genid/c06bd5294f3882bfa25a",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -194,7 +194,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/a2ea800a0a4a8817e34e",
+      "@id": "/.well-known/genid/c7eb0aae0e623b4a6af8",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -252,7 +252,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/68a17a47d5265fa8f3fe",
+      "@id": "/.well-known/genid/fbc9fc927e690f76887b",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -310,7 +310,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/8ee93e47cb2b5ade1706",
+      "@id": "/.well-known/genid/eb4c432f4ef644bf384a",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -341,7 +341,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "When a Character you control gains 1 or more boosts — You may exhaust me ({T}) to give target Character 1 boost. (A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
+      "MAIN_EFFECT": "When a Character you control gains 1 or more boosts — You may exhaust me ({T}) to give target Character 1 boost.[]. (A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
     },
     "isSuspended": false,
     "isErrated": false,
@@ -368,7 +368,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/dd41b8894a3441a3cefb",
+      "@id": "/.well-known/genid/d5c7ddb58cda2bf6e42e",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -426,7 +426,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/0ae49110ca52a70e9eaa",
+      "@id": "/.well-known/genid/a0f0dd85f6acda19a0a8",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -457,7 +457,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "When you play a Character with a base statistic of 0 — I gain 1 Performance counter.  At Noon — You may spend 5 of my Performance counters to reveal the top card of your deck. You may play it for free or put it into your hand. (Don't activate any {h} abilities.)"
+      "MAIN_EFFECT": "When you play a Character with a base statistic of 0 — I gain a Performance counter.  At Noon — You may spend five of my Performance counters to reveal the top card of your deck. You may play it for free or put it into your hand. (Don't activate any {h} abilities.)"
     },
     "isSuspended": false,
     "isErrated": false,
@@ -484,7 +484,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/78cf2fa448d79919a26c",
+      "@id": "/.well-known/genid/829a78964f2382ffe74f",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -542,7 +542,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/d8b371d66b5246863586",
+      "@id": "/.well-known/genid/74e99145892d10d4f12f",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -600,7 +600,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/5bba8119ffe68dd155e8",
+      "@id": "/.well-known/genid/f74092f5a4a3e94849b3",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -658,7 +658,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/e66f4d10d55497f2124a",
+      "@id": "/.well-known/genid/3578250c63cfddfa6000",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -716,7 +716,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/d03ff6580dcc4404572e",
+      "@id": "/.well-known/genid/4b64c896f56acf3c0583",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -774,7 +774,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/7ccfa03b470055c325f5",
+      "@id": "/.well-known/genid/89734bafb675fa7b12be",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -805,7 +805,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "When you play a Bureaucrat — It gains [[Asleep]]. (During Dusk, ignore its statistics. During Rest, it doesn't go to Reserve and it loses Asleep.)"
+      "MAIN_EFFECT": "When you play a Bureaucrat — It gains [[Asleep]]. (During Dusk, ignore its statistics. During Rest, it doesn't go to Reserve and it loses Asleep.)"
     },
     "isSuspended": false,
     "isErrated": true,
@@ -832,7 +832,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/3f44ec657ecdc5f560a7",
+      "@id": "/.well-known/genid/bc20ccdf8088fdfb083a",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -890,7 +890,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/637f76b770f429eebe16",
+      "@id": "/.well-known/genid/86c807485eea119dc828",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -948,7 +948,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/fc5933fd406ec9fc618f",
+      "@id": "/.well-known/genid/b3008eccff19f52b6871",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -1006,7 +1006,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/b78da0d778a4b4b30427",
+      "@id": "/.well-known/genid/51d52710412a02d01f09",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -1037,10 +1037,10 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "When you play a Spell — Target Character you control gains 1 boost[]. (Do this after the spell resolves. A boost is a +1/+1/+1 counter. Remove it when it leaves the Expedition zone.)"
+      "MAIN_EFFECT": "Spells you play with Hand Cost {1} or less have [[Fleeting]].  When you play a Spell — Target Character you control gains 1 boost. (Do this after the spell resolves.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "WCS25-YZ-03-C-EN"
   }
 ]

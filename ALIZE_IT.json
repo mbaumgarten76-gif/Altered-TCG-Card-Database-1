@@ -25100,7 +25100,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/70992db78eb573ee9c0c",
+      "@id": "/.well-known/genid/f3c036cb80eca3c0952e",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -25140,10 +25140,10 @@
       "RECALL_COST": "0",
       "RESERVE": "2",
       "PERMANENT": "2",
-      "MAIN_EFFECT": "Quando giochi un incantesimo — Un personaggio bersaglio che controlli ottiene 1 rinforzo. (Esegui questa azione dopo che l'incantesimo si è risolto.)"
+      "MAIN_EFFECT": "Gli incantesimi che giochi con costo dalla mano pari o inferiore a {1} hanno [[Fugace]].  Quando giochi un incantesimo — Un personaggio bersaglio che controlli ottiene 1 rinforzo. (Fallo dopo che l'incantesimo si è risolto.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "TBF-087-H-IT"
   }
 ]

@@ -349,7 +349,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_AX_31_C-IT"
+    "collectorNumberFormatted": "WFM-103-T-IT"
   },
   {
     "@context": "/contexts/Card",
@@ -15125,7 +15125,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_NE_01_C-IT"
+    "collectorNumberFormatted": "WFM-106-T-IT"
   },
   {
     "@context": "/contexts/Card",
@@ -16327,7 +16327,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_OR_31_C-IT"
+    "collectorNumberFormatted": "WFM-104-T-IT"
   },
   {
     "@context": "/contexts/Card",
@@ -20392,7 +20392,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_YZ_47_C-IT"
+    "collectorNumberFormatted": "WFM-105-T-IT"
   },
   {
     "@context": "/contexts/Card",
@@ -22684,7 +22684,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/8168f8c52570e1063723",
+      "@id": "/.well-known/genid/68ed7ddf4c0f5f88b653",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -22721,10 +22721,10 @@
       "RECALL_COST": "0",
       "PERMANENT": "2",
       "RESERVE": "2",
-      "MAIN_EFFECT": "Quando giochi un incantesimo — Un personaggio bersaglio che controlli ottiene 1 rinforzo. (Esegui questa azione dopo che l'incantesimo si è risolto.)"
+      "MAIN_EFFECT": "Gli incantesimi che giochi con costo dalla mano pari o inferiore a {1} hanno [[Fugace]].  Quando giochi un incantesimo — Un personaggio bersaglio che controlli ottiene 1 rinforzo. (Fallo dopo che l'incantesimo si è risolto.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "WFM-087-H-IT"
   }
 ]

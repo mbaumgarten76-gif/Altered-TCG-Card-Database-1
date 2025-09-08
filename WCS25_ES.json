@@ -20,7 +20,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/e5a079ae61eba0cf82ef",
+      "@id": "/.well-known/genid/5de5b367bcb6d82a9b2d",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -78,7 +78,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/3da0ed9a92f2ce754d62",
+      "@id": "/.well-known/genid/d3e22ba237e1cb6daced",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -136,7 +136,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/7c3433ea143b972db894",
+      "@id": "/.well-known/genid/a77b91879621f41422ec",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -194,7 +194,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/c78822484c5264d58f05",
+      "@id": "/.well-known/genid/1af631297e0cffc106ad",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -252,7 +252,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/4f8436a7fba66c1d1abe",
+      "@id": "/.well-known/genid/8b9c3dd5db678db299ce",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -283,7 +283,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Comienzo la partida con cinco contadores de heroísmo.  Cuando juegues un personaje con coste desde la mano superior o igual a mi número de contadores de heroísmo — Tú robas una carta y yo gano un contador de heroísmo."
+      "MAIN_EFFECT": "Comienzo la partida con 5 contadores de heroísmo.  Cuando juegues un personaje con coste desde la mano superior o igual a mi número de contadores de heroísmo — Tú robas una carta y yo gano 1 contador de heroísmo."
     },
     "isSuspended": false,
     "isErrated": false,
@@ -310,7 +310,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/5f3b92f6c3c6702d4944",
+      "@id": "/.well-known/genid/c9a3cc759dbcce2b1fb0",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -341,7 +341,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Cuando un personaje que controles gane 1 potenciador o más — Puedes agotarme ({T}) para dar 1 potenciador a un personaje objetivo. (Un potenciador es un contador +1/+1/+1. Retíralo cuando abandone la zona de expedición.)"
+      "MAIN_EFFECT": "When a Character you control gains 1 or more boosts — You may exhaust me ({T}) to give target Character 1 boost.[]. (Un potenciador es un contador +1/+1/+1. Retíralo cuando abandone la zona de expedición.)"
     },
     "isSuspended": false,
     "isErrated": false,
@@ -368,7 +368,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/0cd1158b1f9ea9a37ab0",
+      "@id": "/.well-known/genid/d3b490d13c54fb4d887c",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -426,7 +426,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/b655433b1cec3cea4afe",
+      "@id": "/.well-known/genid/34d01b6aaa9550474017",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -457,7 +457,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Cuando juegues un personaje con una estadística básica de 0 — Gano 1 contador de actuación.  Al mediodía — Puedes gastar 5 de mis contadores de actuación para revelar la primera carta de tu mazo. Puedes jugarla sin coste o colocarla en tu mano. (No actives ninguna habilidad {h}.)"
+      "MAIN_EFFECT": "Cuando juegues un personaje con una estadística básica de 0 — Gano 1 contador de actuación.  At Noon — You may spend five of my Performance counters to reveal the top card of your deck. You may play it for free or put it into your hand. (Don't activate any {h} abilities.)"
     },
     "isSuspended": false,
     "isErrated": false,
@@ -484,7 +484,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/8295f4b1c8bfc987fef6",
+      "@id": "/.well-known/genid/4f3e9cc57b34415ae136",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -542,7 +542,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/62f70f5065dc7f15094f",
+      "@id": "/.well-known/genid/6a17e08e68056b3f7f59",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -600,7 +600,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/9ba32f13d3c29441dc66",
+      "@id": "/.well-known/genid/b38d58e0ba86704f0f0f",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -658,7 +658,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/5f900ffe095e33dcc752",
+      "@id": "/.well-known/genid/b6b7d63adf46a0c95454",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -716,7 +716,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/224682727136e4911481",
+      "@id": "/.well-known/genid/e1e699c856c8079635c0",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -774,7 +774,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/77846f74d3a1cdf4eb31",
+      "@id": "/.well-known/genid/18963328fb134d9a11a1",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -805,7 +805,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Cuando juegues un burócrata — Gana [[Sueño]]. (Durante el anochecer, ignora sus estadísticas. Durante el descanso, no va a la reserva y pierde sueño)."
+      "MAIN_EFFECT": "When you play a Bureaucrat — It gains [[Sueño]]. (During Dusk, ignore its statistics. During Rest, it doesn't go to Reserve and it loses Asleep.)"
     },
     "isSuspended": false,
     "isErrated": true,
@@ -832,7 +832,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/c9f95a62fe46f4bed42c",
+      "@id": "/.well-known/genid/1a20155ce3c794b5ef6a",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -890,7 +890,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/86afb748106c4b1734f5",
+      "@id": "/.well-known/genid/13f513220a0e21b076e9",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -948,7 +948,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/17da76ba012c65c50223",
+      "@id": "/.well-known/genid/d7a5d509b24a880aded8",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -1006,7 +1006,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/615933e3a112166f379b",
+      "@id": "/.well-known/genid/498df5d1ab4808492e65",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -1037,10 +1037,10 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Cuando juegues un hechizo — Un personaje objetivo que controles gana 1 potenciador[]. (Haz esto después de que el hechizo se resuelva. Un potenciador es un contador +1/+1/+1. Retíralo cuando abandone la zona de expedición.)"
+      "MAIN_EFFECT": "Los hechizos que juegues con coste desde la mano de {1} o menos tienen [[Fugacidad]].  Cuando juegues un hechizo — Un personaje objetivo que controles gana 1 potenciador. (Haz esto después de que el hechizo se resuelva.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "WCS25-YZ-03-C-ES"
   }
 ]

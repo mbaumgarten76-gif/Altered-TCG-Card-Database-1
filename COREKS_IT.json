@@ -40879,7 +40879,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/c77450da44fd19e84c2d",
+      "@id": "/.well-known/genid/d3084a1faddee9635208",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -40919,10 +40919,10 @@
       "RECALL_COST": "0",
       "PERMANENT": "2",
       "RESERVE": "2",
-      "MAIN_EFFECT": "Quando giochi un incantesimo — Un personaggio bersaglio che controlli ottiene 1 rinforzo[]. (Fallo dopo che l'incantesimo si è risolto. Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
+      "MAIN_EFFECT": "Gli incantesimi che giochi con costo dalla mano pari o inferiore a {1} hanno [[Fugace]].  Quando giochi un incantesimo — Un personaggio bersaglio che controlli ottiene 1 rinforzo. (Fallo dopo che l'incantesimo si è risolto. Un rinforzo è un segnalino +1/+1/+1. Rimuovilo quando lascia l'area delle spedizioni.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "BTG-152-H-IT"
   }
 ]

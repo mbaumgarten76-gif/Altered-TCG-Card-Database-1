@@ -28683,7 +28683,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_CORE_B_NE_01_C-DE"
+    "collectorNumberFormatted": "BTG-186-T-DE"
   },
   {
     "@context": "/contexts/Card",
@@ -43296,7 +43296,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/47b099f4fe17ab2269c3",
+      "@id": "/.well-known/genid/8c79d530800d5420799e",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -43336,10 +43336,10 @@
       "RECALL_COST": "0",
       "PERMANENT": "2",
       "RESERVE": "2",
-      "MAIN_EFFECT": "Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung[]. (Dies geschieht, wenn der Effekt abgeklungen ist. Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
+      "MAIN_EFFECT": "Von dir gespielte Zauber mit Handkosten {1} oder weniger haben [[Vergänglich]].  Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung. (Dies geschieht, wenn der Effekt abgeklungen ist. Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "BTG-152-H-DE"
   },
   {
@@ -43363,7 +43363,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/58ccce02aac1dae85d75",
+      "@id": "/.well-known/genid/36c7bcfd8dab4c2b935f",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -43394,10 +43394,10 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung[]. (Dies geschieht, wenn der Effekt abgeklungen ist. Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
+      "MAIN_EFFECT": "Von dir gespielte Zauber mit Handkosten {1} oder weniger haben [[Vergänglich]].  Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung. (Dies geschieht, wenn der Effekt abgeklungen ist. Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "BTG-152-H-DE"
   }
 ]

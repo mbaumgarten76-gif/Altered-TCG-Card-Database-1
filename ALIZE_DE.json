@@ -25100,7 +25100,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/a8297826b209ca6afff2",
+      "@id": "/.well-known/genid/9bc135a44b91ae8e77ba",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -25140,10 +25140,10 @@
       "RECALL_COST": "0",
       "RESERVE": "2",
       "PERMANENT": "2",
-      "MAIN_EFFECT": "Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung. (Dies geschieht, wenn der Zauber abgeklungen ist.)"
+      "MAIN_EFFECT": "Von dir gespielte Zauber mit Handkosten {1} oder weniger haben [[Vergänglich]].  Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung. (Dies geschieht, wenn der Effekt abgeklungen ist.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "TBF-087-H-DE"
   }
 ]

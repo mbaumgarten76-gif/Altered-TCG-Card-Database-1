@@ -349,7 +349,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_AX_31_C-DE"
+    "collectorNumberFormatted": "WFM-103-T-DE"
   },
   {
     "@context": "/contexts/Card",
@@ -15125,7 +15125,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_NE_01_C-DE"
+    "collectorNumberFormatted": "WFM-106-T-DE"
   },
   {
     "@context": "/contexts/Card",
@@ -16327,7 +16327,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_OR_31_C-DE"
+    "collectorNumberFormatted": "WFM-104-T-DE"
   },
   {
     "@context": "/contexts/Card",
@@ -20392,7 +20392,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_B_YZ_47_C-DE"
+    "collectorNumberFormatted": "WFM-105-T-DE"
   },
   {
     "@context": "/contexts/Card",
@@ -22684,7 +22684,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/fcab44a19ecbd039dbe8",
+      "@id": "/.well-known/genid/16045f1f7719a9d4abf9",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -22721,10 +22721,10 @@
       "RECALL_COST": "0",
       "PERMANENT": "2",
       "RESERVE": "2",
-      "MAIN_EFFECT": "Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung. (Dies geschieht, wenn der Zauber abgeklungen ist.)"
+      "MAIN_EFFECT": "Von dir gespielte Zauber mit Handkosten {1} oder weniger haben [[Vergänglich]].  Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung. (Dies geschieht, wenn der Effekt abgeklungen ist.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "WFM-087-H-DE"
   }
 ]

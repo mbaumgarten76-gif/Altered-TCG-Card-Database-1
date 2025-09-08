@@ -20,7 +20,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/f974565c37c9587ef3d1",
+      "@id": "/.well-known/genid/94dbd14f693c78c9c6d6",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -78,7 +78,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/52009430111d35d27fe8",
+      "@id": "/.well-known/genid/ee97dc5b2db8e019455f",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -136,7 +136,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/a2e23c1444433b938b5c",
+      "@id": "/.well-known/genid/f29862ae8d921a438e47",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -194,7 +194,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/40def1be0801a0f8e60d",
+      "@id": "/.well-known/genid/68062c13c0eee2b68f2b",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -252,7 +252,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/96440eefb7590dba5769",
+      "@id": "/.well-known/genid/a2e16188387c04a576d2",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -283,7 +283,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Ich beginne das Spiel mit fünf Heldentumszählern.  Wenn du einen Charakter spielst, dessen Handkosten größer oder gleich meiner Anzahl an Heldentumszählern sind — Ziehe eine Karte und ich erhalte einen Heldentumszähler."
+      "MAIN_EFFECT": "Ich beginne das Spiel mit 5 Heldentumszählern.  Wenn du einen Charakter spielst, dessen Handkosten größer oder gleich meiner Anzahl an Heldentumszählern sind — Ziehe eine Karte und ich erhalte 1 Heldentumszähler."
     },
     "isSuspended": false,
     "isErrated": false,
@@ -310,7 +310,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/26446f1c1e519e508080",
+      "@id": "/.well-known/genid/951559b9e2326388110f",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -341,7 +341,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Wenn ein Charakter, den du kontrollierst, mindestens 1 Verstärkung erhält — Du darfst mich erschöpfen ({T}), um einem Charakter deiner Wahl 1 Verstärkung zu geben. (Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
+      "MAIN_EFFECT": "When a Character you control gains 1 or more boosts — You may exhaust me ({T}) to give target Character 1 boost.[]. (Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
     },
     "isSuspended": false,
     "isErrated": false,
@@ -368,7 +368,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/248a5c5c5c683b86bedb",
+      "@id": "/.well-known/genid/604386ffaeb93eae5463",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -426,7 +426,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/65c806d195b29457562d",
+      "@id": "/.well-known/genid/46c5be6ad7ab9639011b",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -457,7 +457,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Wenn du einen Charakter mit einer Basisstatistik von 0 spielst — Ich erhalte 1 Auftrittszähler.  Zum Mittag – Du darfst 5 meiner Auftrittszähler ausgeben, um die oberste Karte deines Decks aufzudecken. Du darfst sie kostenlos spielen oder sie in deine Hand aufnehmen. (Aktiviere keine {h} Fähigkeiten.)"
+      "MAIN_EFFECT": "Wenn du einen Charakter mit einer Basisstatistik von 0 spielst — Ich erhalte 1 Auftrittszähler.  At Noon — You may spend five of my Performance counters to reveal the top card of your deck. You may play it for free or put it into your hand. (Don't activate any {h} abilities.)"
     },
     "isSuspended": false,
     "isErrated": false,
@@ -484,7 +484,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/206d306556e2213f359b",
+      "@id": "/.well-known/genid/fbed9917fe6c8c4d784b",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -542,7 +542,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/1cbdac9cc1d21c79549a",
+      "@id": "/.well-known/genid/5781cc0f04c46712b960",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -600,7 +600,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/df217b126d988bee54fc",
+      "@id": "/.well-known/genid/36a6b8f9f1292c7faaae",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -658,7 +658,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/56ffe9fda195851fb74a",
+      "@id": "/.well-known/genid/554e4448c7c78d8b1641",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -716,7 +716,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/3611a0faa9b4ba1450da",
+      "@id": "/.well-known/genid/3daf3a66694fe60e9a98",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -774,7 +774,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/906bf04688da8a60ca75",
+      "@id": "/.well-known/genid/ef8f28304b5aa2d0be55",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -805,7 +805,7 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Wenn du einen Bürokraten spielst — Er erhält [[Schlafend]]. (Am Abend ignoriere seine Statistiken. Während der Ruhepause geht er nicht in die Reserve und verliert Schlafend.)"
+      "MAIN_EFFECT": "When you play a Bureaucrat — It gains [[Schlafend]]. (During Dusk, ignore its statistics. During Rest, it doesn't go to Reserve and it loses Asleep.)"
     },
     "isSuspended": false,
     "isErrated": true,
@@ -832,7 +832,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/5a5045bc3e6ad926a0ad",
+      "@id": "/.well-known/genid/159a891eca856e413e8b",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -890,7 +890,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/454983811ca518b51829",
+      "@id": "/.well-known/genid/8800d3b279f38da464d1",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -948,7 +948,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/e7f0774ca2d00c1d8444",
+      "@id": "/.well-known/genid/7a153993a02590d488d6",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -1006,7 +1006,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/244b0d7ee71b6cf1a130",
+      "@id": "/.well-known/genid/a973bb9c5d1b655fd0f6",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -1037,10 +1037,10 @@
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung[]. (Dies geschieht, wenn der Effekt abgeklungen ist. Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
+      "MAIN_EFFECT": "Von dir gespielte Zauber mit Handkosten {1} oder weniger haben [[Vergänglich]].  Wenn du einen Zauber spielst — Ein Charakter deiner Wahl, den du kontrollierst, erhält 1 Verstärkung. (Dies geschieht, wenn der Effekt abgeklungen ist.)"
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "collectorNumberFormatted": "WCS25-YZ-03-C-DE"
   }
 ]
