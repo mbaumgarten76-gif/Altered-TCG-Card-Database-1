@@ -21,10 +21,8 @@ Files are stored using the following path pattern :
 │ └── ...
 │
 ├── META/                        # Metadata about cards & filters
-│ ├── card_types.json
-│ ├── card_sets.json
-│ ├── filter_factions.json
-│ ├── filter_rarities.json
+│ ├── card_sets_en.json
+│ ├── filter_data_en.json
 │ └── ...
 │
 └── HISTORY/                     # English-only history of card changes
