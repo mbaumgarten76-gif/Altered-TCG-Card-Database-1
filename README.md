@@ -1,4 +1,4 @@
-# 🧩 Altered TCG Card Database
+# <img src="https://www.altered.gg/apple-touch-icon.png" width="32" alt="Altered.gg Logo"/> Altered TCG Card Database
 
 ## Goal
 This project aims to gather all non unique cards from the **Altered** TCG in a community-driven repository,
