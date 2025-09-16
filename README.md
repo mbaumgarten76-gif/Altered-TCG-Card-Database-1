@@ -1,11 +1,12 @@
-# 🧩 Altered TCG Card Database
+# <img src="https://www.altered.gg/apple-touch-icon.png" width="32" alt="Altered.gg Logo"/> Altered TCG Card Database
 
-## Goal
-This project aims to gather all non unique cards from the **Altered** TCG in a community-driven repository,
-in all available languages, without overloading the official servers with API requests.
+## 🎯 Goal
+This project aims to provide a **community-driven repository** of all **non-unique cards** from the **Altered TCG**,  
+available in every supported language.  
 
-Repeated API calls can trigger throttling or server overload.  
-We therefore recommend using this local JSON database first before making HTTP requests.
+The purpose is to reduce unnecessary load on the official Altered API servers.  
+Since repeated API calls may trigger throttling or overload, we recommend using this local JSON database first  
+before sending new HTTP requests to the official API.
 
 ---
 
@@ -21,10 +22,8 @@ Files are stored using the following path pattern :
 │ └── ...
 │
 ├── META/                        # Metadata about cards & filters
-│ ├── card_types.json
-│ ├── card_sets.json
-│ ├── filter_factions.json
-│ ├── filter_rarities.json
+│ ├── card_sets_en.json
+│ ├── filter_data_en.json
 │ └── ...
 │
 └── HISTORY/                     # English-only history of card changes
