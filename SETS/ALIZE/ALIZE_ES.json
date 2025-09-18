@@ -10028,158 +10028,6 @@
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_ALIZE_B_LY_35_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
-      "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personaje"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/e67e79bde40b2fe10ef2",
-        "reference": "SPIRIT",
-        "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
-        "name": "Espíritu"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/ALIZE",
-      "@type": "CardSet",
-      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
-      "reference": "ALIZE",
-      "name": "Trial by Frost"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/8e923855db868c2d9891",
-      "reference": "COMMON",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
-      "name": "Common"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/98f64011a3b0269cc4234c33a4b201e2.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_10eb076f6aab8585608dbd5d6e419beb",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_c85e43c93433154b635f3d2935f59f6c",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_48212de12f3c15b774889ab27a9cc14d"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_35_C",
-    "reference": "ALT_ALIZE_B_LY_35_C",
-    "id": "01J1Q4P4S8VRS4MQ8C3VSJRWPM",
-    "mainFaction": {
-      "@id": "/factions/LY",
-      "@type": "Faction",
-      "reference": "LY",
-      "color": "#cf4171",
-      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
-      "name": "Lyra"
-    },
-    "allImagePath": {
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/it_IT/8b135fba2dfeeccda3980b0ead278c38.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/fr_FR/535b26a9a2b43dbd587e339a8179014f.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/de_DE/9624f360320aba4c9f014f7aa3e5f36a.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/98f64011a3b0269cc4234c33a4b201e2.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/en_US/ac97fd6f1729de7da06fc64ac270d52f.jpg"
-    },
-    "name": "Fuego fatuo",
-    "elements": {
-      "MAIN_COST": "3",
-      "RECALL_COST": "2",
-      "OCEAN_POWER": "3",
-      "FOREST_POWER": "0",
-      "MOUNTAIN_POWER": "0",
-      "MAIN_EFFECT": "Si la expedición enfrentada a mí está en {O}, no puede avanzar excepto debido a {O}.",
-      "ECHO_EFFECT": "{D}: La siguiente carta que juegues este turno cuesta {1} menos. (Descártame de la reserva para hacer esto.)"
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "collectorNumberFormatted": "TBF-040-C-ES"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_ALIZE_B_LY_35_R1",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
-      "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personaje"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/57738bf547d84201d840",
-        "reference": "SPIRIT",
-        "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
-        "name": "Espíritu"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/ALIZE",
-      "@type": "CardSet",
-      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
-      "reference": "ALIZE",
-      "name": "Trial by Frost"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/e14ad4839d22245d8aee",
-      "reference": "RARE",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
-      "name": "Rare"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/d1d8a33e411a1e7ffa6937a4bc7dfc6a.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_10eb076f6aab8585608dbd5d6e419beb",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_c85e43c93433154b635f3d2935f59f6c",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_48212de12f3c15b774889ab27a9cc14d"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_35_R1",
-    "reference": "ALT_ALIZE_B_LY_35_R1",
-    "id": "01J1Q4P4S8VRS4MQ8C3VSJRWPQ",
-    "mainFaction": {
-      "@id": "/factions/LY",
-      "@type": "Faction",
-      "reference": "LY",
-      "color": "#cf4171",
-      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
-      "name": "Lyra"
-    },
-    "allImagePath": {
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/de_DE/84168996c34904219b9d1cb01b8a6483.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/fr_FR/dd5b043f54399cb0386d6c16da3bd6f6.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/it_IT/f090891dac0d0ca0cb4fb70a0ea4cb58.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/d1d8a33e411a1e7ffa6937a4bc7dfc6a.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/en_US/f787c3855d05222b29e473b82e6ac130.jpg"
-    },
-    "name": "Fuego fatuo",
-    "elements": {
-      "MAIN_COST": "3",
-      "RECALL_COST": "#3#",
-      "OCEAN_POWER": "#4#",
-      "FOREST_POWER": "0",
-      "MOUNTAIN_POWER": "0",
-      "MAIN_EFFECT": "Si la expedición enfrentada a mí está en {O}, no puede avanzar excepto debido a {O}.",
-      "ECHO_EFFECT": "{D}: La siguiente carta que juegues este turno cuesta {1} menos. (Descártame de la reserva para hacer esto.)"
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "collectorNumberFormatted": "TBF-040-R-ES"
-  },
-  {
-    "@context": "/contexts/Card",
     "@id": "/cards/ALT_ALIZE_B_LY_36_C",
     "@type": "Card",
     "cardType": {
@@ -12366,6 +12214,158 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_LY_35_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaje"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/8baf7d432b86299cb6e7",
+        "reference": "SPIRIT",
+        "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+        "name": "Espíritu"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Trial by Frost"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/22c56977d523839b082b",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/98f64011a3b0269cc4234c33a4b201e2.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_10eb076f6aab8585608dbd5d6e419beb",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_c85e43c93433154b635f3d2935f59f6c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_48212de12f3c15b774889ab27a9cc14d"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_35_C",
+    "reference": "ALT_ALIZE_B_LY_35_C",
+    "id": "01J1Q4P4S8VRS4MQ8C3VSJRWPM",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/it_IT/8b135fba2dfeeccda3980b0ead278c38.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/fr_FR/535b26a9a2b43dbd587e339a8179014f.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/de_DE/9624f360320aba4c9f014f7aa3e5f36a.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/98f64011a3b0269cc4234c33a4b201e2.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/en_US/ac97fd6f1729de7da06fc64ac270d52f.jpg"
+    },
+    "name": "Fuego fatuo",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "Si la expedición enfrentada a mí está en {O}, no puede avanzar excepto debido a {O}.",
+      "ECHO_EFFECT": "{D}: La siguiente carta que juegues este turno cuesta {1} menos. (Descártame de la reserva para hacer esto.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "TBF-040-C-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_LY_35_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaje"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d5d2be94039f464a29df",
+        "reference": "SPIRIT",
+        "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+        "name": "Espíritu"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Trial by Frost"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/a037555b4fcd333367d5",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/d1d8a33e411a1e7ffa6937a4bc7dfc6a.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_10eb076f6aab8585608dbd5d6e419beb",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_c85e43c93433154b635f3d2935f59f6c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_48212de12f3c15b774889ab27a9cc14d"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_35_R1",
+    "reference": "ALT_ALIZE_B_LY_35_R1",
+    "id": "01J1Q4P4S8VRS4MQ8C3VSJRWPQ",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/de_DE/84168996c34904219b9d1cb01b8a6483.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/fr_FR/dd5b043f54399cb0386d6c16da3bd6f6.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/it_IT/f090891dac0d0ca0cb4fb70a0ea4cb58.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/d1d8a33e411a1e7ffa6937a4bc7dfc6a.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/en_US/f787c3855d05222b29e473b82e6ac130.jpg"
+    },
+    "name": "Fuego fatuo",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "#4#",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "Si la expedición enfrentada a mí está en {O}, no puede avanzar excepto debido a {O}.",
+      "ECHO_EFFECT": "{D}: La siguiente carta que juegues este turno cuesta {1} menos. (Descártame de la reserva para hacer esto.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "TBF-040-R-ES"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_ALIZE_A_AX_46_R2",
     "@type": "Card",
     "cardType": {
@@ -13439,82 +13439,6 @@
     "isSuspended": false,
     "isErrated": false,
     "collectorNumberFormatted": "TBF-028-F-ES"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_ALIZE_B_LY_35_R2",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
-      "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personaje"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/65bdb2fe3bb4a152f894",
-        "reference": "SPIRIT",
-        "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
-        "name": "Espíritu"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/ALIZE",
-      "@type": "CardSet",
-      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
-      "reference": "ALIZE",
-      "name": "Trial by Frost"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/fdea5f33e6c7ce1a941f",
-      "reference": "RARE",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
-      "name": "Rare"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/c33055e9d61ed77fdea9f5fa2cdfb983.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_10eb076f6aab8585608dbd5d6e419beb",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_c85e43c93433154b635f3d2935f59f6c",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_48212de12f3c15b774889ab27a9cc14d"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_35_R2",
-    "reference": "ALT_ALIZE_B_LY_35_R2",
-    "id": "01J1Q4P4S8VRS4MQ8C3VSJRWPT",
-    "mainFaction": {
-      "@id": "/factions/MU",
-      "@type": "Faction",
-      "reference": "MU",
-      "color": "#3d6b42",
-      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
-      "name": "Muna"
-    },
-    "allImagePath": {
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/de_DE/664eabab0cbb016c68bf664d9c7044d7.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/c33055e9d61ed77fdea9f5fa2cdfb983.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/fr_FR/a1c576a7f77b2da95d66bae115e6ba43.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/it_IT/8e8a8a99af2410cdface2a721d483310.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/en_US/9ad30453d0baf4d6e1a53f7c28b7c410.jpg"
-    },
-    "name": "Fuego fatuo",
-    "elements": {
-      "MAIN_COST": "3",
-      "RECALL_COST": "2",
-      "OCEAN_POWER": "0",
-      "FOREST_POWER": "#3#",
-      "MOUNTAIN_POWER": "0",
-      "MAIN_EFFECT": "Si la expedición enfrentada a mí está en #{V}#, no puede avanzar excepto debido a #{V}.#",
-      "ECHO_EFFECT": "{D}: La siguiente carta que juegues este turno cuesta {1} menos. (Descártame de la reserva para hacer esto.)"
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "collectorNumberFormatted": "TBF-040-F-ES"
   },
   {
     "@context": "/contexts/Card",
@@ -16484,6 +16408,82 @@
     "isSuspended": false,
     "isErrated": false,
     "collectorNumberFormatted": "TBF-094-F-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_LY_35_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaje"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/0fd0b4d18b2bd29ab430",
+        "reference": "SPIRIT",
+        "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+        "name": "Espíritu"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Trial by Frost"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/8244a0f5693e964f5aea",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/c33055e9d61ed77fdea9f5fa2cdfb983.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_10eb076f6aab8585608dbd5d6e419beb",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_c85e43c93433154b635f3d2935f59f6c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_48212de12f3c15b774889ab27a9cc14d"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_35_R2",
+    "reference": "ALT_ALIZE_B_LY_35_R2",
+    "id": "01J1Q4P4S8VRS4MQ8C3VSJRWPT",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/de_DE/664eabab0cbb016c68bf664d9c7044d7.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/c33055e9d61ed77fdea9f5fa2cdfb983.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/fr_FR/a1c576a7f77b2da95d66bae115e6ba43.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/it_IT/8e8a8a99af2410cdface2a721d483310.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/en_US/9ad30453d0baf4d6e1a53f7c28b7c410.jpg"
+    },
+    "name": "Fuego fatuo",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "#3#",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "Si la expedición enfrentada a mí está en #{V}#, no puede avanzar excepto debido a #{V}.#",
+      "ECHO_EFFECT": "{D}: La siguiente carta que juegues este turno cuesta {1} menos. (Descártame de la reserva para hacer esto.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "TBF-040-F-ES"
   },
   {
     "@context": "/contexts/Card",

@@ -2431,6 +2431,148 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_AX_75_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/31e5a9eabba8c4666aa5",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Unterbrechung"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/fb9536b895787868f020",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/de_DE/be1dbd09dbc10e83890d40e12834545a.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/WEB_de109e62ced789f9c21b54e0c69a1f48",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/WEB_3aea75009891fca5cd2816986c59e7b4"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_75_C",
+    "reference": "ALT_CYCLONE_B_AX_75_C",
+    "id": "01JN9HNDX775AG9SETQRHZTFD3",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/fr_FR/df9a0be16e43c12b0badf4747f1bf1ea.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/en_US/4152fa9c0e6ff82336a5590d5cf51090.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/de_DE/be1dbd09dbc10e83890d40e12834545a.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/es_ES/7567e865496573674354ea2228aa5309.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/it_IT/317b9aa00d22cbb4e44acae01a3ed4d9.jpg"
+    },
+    "name": "Explosion",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "[[Vergänglich]]. (Lege mich auf die Ablage statt in die Reserve, nachdem mein Effekt abgeklungen ist.)  Du darfst eine Bleibende Karte opfern, um meine Kosten um {1} zu reduzieren.  Schicke einen Charakter deiner Wahl in die Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-12-C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_AX_75_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/4782655cdb9d5a4f57bd",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Unterbrechung"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/73dc314ae6f4d8e732d5",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/de_DE/5a2cae17158c0af9c907eb9a112c5940.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/WEB_de109e62ced789f9c21b54e0c69a1f48",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/WEB_3aea75009891fca5cd2816986c59e7b4"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_75_R1",
+    "reference": "ALT_CYCLONE_B_AX_75_R1",
+    "id": "01JN9HNDX775AG9SETQRHZTFD6",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/es_ES/48ae43fb69e2dd3827fc1ad259550613.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/de_DE/5a2cae17158c0af9c907eb9a112c5940.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/en_US/43135dcafca95cf9abdb82ea8aa6c5e4.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/it_IT/3f822fc09da39c9e957254b0d50606a3.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/fr_FR/2de5bfab1ec6dc7be29cb00f18b1369d.jpg"
+    },
+    "name": "Explosion",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "[[Vergänglich]].  Du darfst eine Bleibende Karte opfern, um meine Kosten #um {2}# zu reduzieren.  Schicke einen Charakter deiner Wahl #mit Handkosten {3} oder weniger# in die Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-12-R-DE"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CYCLONE_B_BR_65_C",
     "@type": "Card",
     "cardType": {
@@ -4676,6 +4818,156 @@
     "isSuspended": false,
     "isErrated": false,
     "collectorNumberFormatted": "SKY-102-F-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_LY_72_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/81f838239663a64415b0",
+        "reference": "ARTIST",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "name": "Künstler"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/26d87aef4502584ee2b2",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/de_DE/f537e9c5312ee5795300be12cf6e7abc.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_79a803286f9318d9a2dbc8d0c0892de1",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_b9446ebfb961cda63c095995c2872054",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_9190180410cf3ff790511567d9415fda"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_72_R2",
+    "reference": "ALT_CYCLONE_B_LY_72_R2",
+    "id": "01JN9HNDXT7HB5RRYHTZ5DQHEK",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/de_DE/f537e9c5312ee5795300be12cf6e7abc.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/fr_FR/51e45f9b1ca3a48e29eb9a33a3212cc8.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/en_US/56f3ba1284d3ad7a6c49246319c4fb26.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/it_IT/ea70d4cde72c90dee22a21d8265a4517.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/es_ES/7898531408d418745c74fbc99a21ef1f.jpg"
+    },
+    "name": "Lyra-Akrobatin",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "#Falls mindestens drei Regionen mit einem Geländetyp sichtbar sind, sind meine {V}, {M} und {O} so hoch wie meine höchste Statistik.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-44-F-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_MU_70_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/1987163c3ef7aa4e3ef7",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Tier"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/f174b6b9a56402d64200",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/de_DE/a37e409133d073b287908254701c5801.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_d85a687dac237cf5ae99101b4f902931",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_f5c3b16248d927b933c211cf4445cf9b",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_3de8e415d60befe62cf46bff0c0f887c"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_MU_70_R2",
+    "reference": "ALT_CYCLONE_B_MU_70_R2",
+    "id": "01JN9HNDY28N193MGRDW4BDPT0",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/de_DE/a37e409133d073b287908254701c5801.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/es_ES/676df21ffe74fecd2fbd96b97721a87c.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/it_IT/f2cff9e8e3839c976ab72983279c31a1.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/en_US/157c58003b612603782f192db04831c6.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/fr_FR/388a519cc3c0b0f622924a766b06d007.jpg"
+    },
+    "name": "Bunter Kuckuck",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{J} Ich erhalte [[Verankert]].  Wenn sich ein Charakter der mir gegenüberstehenden Expedition anschließt — Ich erhalte 1 Verstärkung.  #Wenn ich aus der Expeditionszone in deine Reserve gehe, falls ich mindestens 2 Verstärkungen hätte — Du darfst eine Karte aus deiner Reserve in deine Manazone legen (als erschöpfte Manakugel).#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-62-F-DE"
   },
   {
     "@context": "/contexts/Card",
@@ -6956,6 +7248,230 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_LY_72_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a6626eb4cdcbcdee7f04",
+        "reference": "ARTIST",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "name": "Künstler"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/19ffc08634c82b6b3435",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/de_DE/f1f1eaa546672bf136aff506999c3f48.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_79a803286f9318d9a2dbc8d0c0892de1",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_b9446ebfb961cda63c095995c2872054",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_9190180410cf3ff790511567d9415fda"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_72_C",
+    "reference": "ALT_CYCLONE_B_LY_72_C",
+    "id": "01JN9HNDXT7HB5RRYHTZ5DQHED",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/es_ES/8283fb0e8222335968c810bf45f43784.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/en_US/9a06be93916efc4a32d42bcced031317.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/it_IT/066c300fbbd6a60a7fce8ad726d5dab5.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/de_DE/f1f1eaa546672bf136aff506999c3f48.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/fr_FR/57a86580990dfcb91b2314089759b2e1.jpg"
+    },
+    "name": "Lyra-Akrobatin",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "5"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-44-C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_LY_72_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/49096fe5326ccc477765",
+        "reference": "ARTIST",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "name": "Künstler"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/82cf95351769124e0daf",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/de_DE/95c5c26c1558b0a25899c554a7d3ded2.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_79a803286f9318d9a2dbc8d0c0892de1",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_b9446ebfb961cda63c095995c2872054",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_9190180410cf3ff790511567d9415fda"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_72_R1",
+    "reference": "ALT_CYCLONE_B_LY_72_R1",
+    "id": "01JN9HNDXT7HB5RRYHTZ5DQHEG",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/de_DE/95c5c26c1558b0a25899c554a7d3ded2.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/fr_FR/958db9f4333c8d5e47a8daf78625ac37.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/es_ES/6bb02a120de06b6713254ffcd98f266c.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/en_US/fedbcbdcc5cbaf3c03f95a654f5597d9.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/it_IT/fcaf6dea3c54de96ad06648809496fd9.jpg"
+    },
+    "name": "Lyra-Akrobatin",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "#Falls mindestens drei Regionen mit einem Geländetyp sichtbar sind, sind meine {V}, {M} und {O} so hoch wie meine höchste Statistik.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-44-R-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_OR_73_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c385339771d7a8bff868",
+        "reference": "ELEMENTAL",
+        "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+        "name": "Elementar"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/bef861d36de13900115d",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/de_DE/016042bf780127496eadc8426c05905d.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/WEB_191edc3cb30177396b8c18a35971ab1a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/WEB_36e0148afe3030ec9e3a0f28b1a5e876",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/WEB_deb4968d18189974a96275ee4bb97e02"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_OR_73_R2",
+    "reference": "ALT_CYCLONE_B_OR_73_R2",
+    "id": "01JN9HNDYBA81750AN2QX4K82W",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/en_US/5cbd2ee78745d5eb84a6520057a07d1d.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/it_IT/369a18bf8c702c776a4866a221991477.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/es_ES/5e27d56437dd49b28f6492b62c8fb04c.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/de_DE/016042bf780127496eadc8426c05905d.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/fr_FR/0e823eb57d6b3a64aed705573842c840.jpg"
+    },
+    "name": "Doppelgänger",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "#[Erfahren].# (Ich behalte meine Verstärkungen, wenn ich in die Reserve gehe.)  #{H}# Wähle einen mir gegenüberstehenden Charakter. Ich erhalte seinen Subtyp und X Verstärkungen, wobei X seiner höchsten Statistik entspricht. (Ich verliere diese Subtypen, wenn ich die Expeditionszone verlasse.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-81-F-DE"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CYCLONE_B_BR_77_R2",
     "@type": "Card",
     "cardType": {
@@ -9029,6 +9545,156 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_MU_70_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/4e043788f875e7dbb97a",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Tier"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/f9013966830f6f021061",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/de_DE/685281666a20ea9ad0b22e4e8ebaf6e1.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_d85a687dac237cf5ae99101b4f902931",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_f5c3b16248d927b933c211cf4445cf9b",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_3de8e415d60befe62cf46bff0c0f887c"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_MU_70_C",
+    "reference": "ALT_CYCLONE_B_MU_70_C",
+    "id": "01JN9HNDY13MH0KGXJ68YG6TVV",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/es_ES/1302d902a1ac365733102faa6e357d33.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/de_DE/685281666a20ea9ad0b22e4e8ebaf6e1.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/it_IT/b9711baf1f50fd52eeb43970c4c7b95d.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/en_US/47bb5f76f56d734285bf6efccc749ae1.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/fr_FR/6d8a50dbd19b2b82b7c06cdbd1c4037a.jpg"
+    },
+    "name": "Bunter Kuckuck",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{J} Ich erhalte [[Verankert]]. (Während der Ruhepause gehe ich nicht in die Reserve und verliere Verankert.)  Wenn sich ein Charakter der mir gegenüberstehenden Expedition anschließt — Ich erhalte 1 Verstärkung."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-62-C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_MU_70_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/20b3c5bfa08c1429b5fa",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Tier"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/fd4fdef6b1dea2a2ee13",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/de_DE/2d91b2bd4b65ee4ad9b37a8568a44f2a.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_d85a687dac237cf5ae99101b4f902931",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_f5c3b16248d927b933c211cf4445cf9b",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_3de8e415d60befe62cf46bff0c0f887c"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_MU_70_R1",
+    "reference": "ALT_CYCLONE_B_MU_70_R1",
+    "id": "01JN9HNDY28N193MGRDW4BDPSX",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/it_IT/2c2a752f2d8bc8d70bd5fc2ee3a25e92.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/de_DE/2d91b2bd4b65ee4ad9b37a8568a44f2a.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/es_ES/df1f456b310d2bd1bc974a0ddf319b69.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/en_US/81a163081aed829f92049a0e6b26e617.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/fr_FR/d31cbc9baf29a8a88230399422cf59ba.jpg"
+    },
+    "name": "Bunter Kuckuck",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{J} Ich erhalte [[Verankert]].  Wenn sich ein Charakter der mir gegenüberstehenden Expedition anschließt — Ich erhalte 1 Verstärkung.  #Wenn ich aus der Expeditionszone in deine Reserve gehe, falls ich mindestens 2 Verstärkungen hätte — Du darfst eine Karte aus deiner Reserve in deine Manazone legen (als erschöpfte Manakugel).#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-62-R-DE"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CYCLONE_B_MU_69_R2",
     "@type": "Card",
     "cardType": {
@@ -10804,6 +11470,227 @@
     "isSuspended": false,
     "isErrated": false,
     "collectorNumberFormatted": "SKY-83-R-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_AX_75_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/812b6cf64b118d8777e2",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Unterbrechung"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/1daa93dc79fae7162d16",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/de_DE/148a22221db59c6964c09cc7dfd3c531.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/WEB_de109e62ced789f9c21b54e0c69a1f48",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/WEB_3aea75009891fca5cd2816986c59e7b4"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_75_R2",
+    "reference": "ALT_CYCLONE_B_AX_75_R2",
+    "id": "01JN9HNDX775AG9SETQRHZTFD9",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/de_DE/148a22221db59c6964c09cc7dfd3c531.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/es_ES/05b02d73497ba1b40e00c06c7a270d2e.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/it_IT/fb8dda38196b32d3e24cf3241cb4bc07.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/en_US/b1e4a434bec6bb346f284a79b35d2dad.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/fr_FR/f668f24f8bc10c6ea5822589e72c0a77.jpg"
+    },
+    "name": "Explosion",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "[[Vergänglich]].  Du darfst eine Bleibende Karte opfern, um meine Kosten #um {2}# zu reduzieren.  Schicke einen Charakter deiner Wahl #mit Handkosten {3} oder weniger# in die Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-12-F-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_OR_73_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/99392632e81bd6d14256",
+        "reference": "ELEMENTAL",
+        "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+        "name": "Elementar"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/2be5f81d86771e082bec",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/de_DE/a469aae6343a15f4ad930c1f501f5b3b.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/WEB_191edc3cb30177396b8c18a35971ab1a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/WEB_36e0148afe3030ec9e3a0f28b1a5e876",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/WEB_deb4968d18189974a96275ee4bb97e02"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_OR_73_C",
+    "reference": "ALT_CYCLONE_B_OR_73_C",
+    "id": "01JN9HNDYBA81750AN2QX4K82P",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/es_ES/53a3f13b835c1df2e6afe45988db4ff9.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/fr_FR/4f32ed69838a87ce4327e91880b085c4.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/it_IT/e7516d7beb5e765e166ebbaf0d10bc6b.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/de_DE/a469aae6343a15f4ad930c1f501f5b3b.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/en_US/84228a5ec204ec8390767c10c5f8acc0.jpg"
+    },
+    "name": "Doppelgänger",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "{J} Wähle einen mir gegenüberstehenden Charakter. Ich erhalte seinen Subtyp und X Verstärkungen, wobei X seiner höchsten Statistik entspricht. (Ich verliere diese Subtypen, wenn ich die Expeditionszone verlasse.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-81-C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_OR_73_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/393609b8038f0f21ac63",
+        "reference": "ELEMENTAL",
+        "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+        "name": "Elementar"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/f1f8b3fd53a6394b44ce",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/de_DE/a9f646ca7054ec5248dfdfe0452356f4.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/WEB_191edc3cb30177396b8c18a35971ab1a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/WEB_36e0148afe3030ec9e3a0f28b1a5e876",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/WEB_deb4968d18189974a96275ee4bb97e02"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_OR_73_R1",
+    "reference": "ALT_CYCLONE_B_OR_73_R1",
+    "id": "01JN9HNDYBA81750AN2QX4K82S",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/en_US/5b391fc7ba5bc70a3179e6aec9483e16.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/es_ES/dcc5575eb1d536ef7b9ecab3dd53fe62.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/it_IT/8fa623db4ff141b3cc982c6e2f4ecf18.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/de_DE/a9f646ca7054ec5248dfdfe0452356f4.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_73/JPG/fr_FR/79a2f9c93fc877b8e688813786bb6e12.jpg"
+    },
+    "name": "Doppelgänger",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "#[Erfahren].# (Ich behalte meine Verstärkungen, wenn ich in die Reserve gehe.)  #{H}# Wähle einen mir gegenüberstehenden Charakter. Ich erhalte seinen Subtyp und X Verstärkungen, wobei X seiner höchsten Statistik entspricht. (Ich verliere diese Subtypen, wenn ich die Expeditionszone verlasse.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-81-R-DE"
   },
   {
     "@context": "/contexts/Card",

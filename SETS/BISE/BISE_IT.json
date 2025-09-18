@@ -7507,6 +7507,138 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_P_BR_64_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente Fulcro"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/7493bb3a35b6ac3a48fd",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Costruzione"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/62703161b87bc6a2f8ff",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/it_IT/06c5d4add0dd872d2bec7ea65ee2253d.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_P_BR_64_C",
+    "reference": "ALT_BISE_P_BR_64_C",
+    "id": "65KBP5Y0Q88DVB2CEWMBW94R7D",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/en_US/0dfa86bd2af62e90fd88a8afbc77ddaa.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/fr_FR/db4e71cd228f2f6fe91e5a923401682f.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/de_DE/f88dacbd71a6eccfd9a2c3b1570deea1.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/it_IT/06c5d4add0dd872d2bec7ea65ee2253d.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/es_ES/b70c7a2b1810e30c74f48ba095a686d8.jpg"
+    },
+    "name": "Sofia, Primo Avamposto",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "{J} [Rifornisci].  Le abilità di supporto delle carte nella Riserva possono conferire loro 1 segnalino in più rispetto al numero massimo. (Le limitazioni \"fino a un max di X\" diventano \"fino a un max di X+1\".)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "ALT_BISE_P_BR_64_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_P_BR_64_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente Fulcro"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a49595a440c1a19b44fb",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Costruzione"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/2c515e552c67ce700eb6",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/it_IT/9d1a17dd3fa16bea6326c2330393af1a.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_P_BR_64_R1",
+    "reference": "ALT_BISE_P_BR_64_R1",
+    "id": "5T9S78YHC790DTX2F7K9CTV4JB",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/de_DE/4be306a17bcdb1fc9382ce072d9f705b.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/es_ES/dad789d8d988139ae710021efe5e6e72.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/en_US/b4c67855606b432c62ae45e9947dfd31.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/fr_FR/2053e93e73bae3810e347c050dfd2be6.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/it_IT/9d1a17dd3fa16bea6326c2330393af1a.jpg"
+    },
+    "name": "Sofia, Primo Avamposto",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "{J} [Rifornisci].  Le abilità di supporto delle carte nella Riserva possono conferire loro #segnalini in più rispetto al numero massimo.# (Ignora le limitazioni \"fino a un max di X\".)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "ALT_BISE_P_BR_64_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_A_LY_53_C",
     "@type": "Card",
     "cardType": {
@@ -15064,6 +15196,72 @@
     "isSuspended": false,
     "isErrated": false,
     "collectorNumberFormatted": "WFM-089-F-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_P_BR_64_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente Fulcro"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/ca7cd47f9259e6164368",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Costruzione"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/2a2ac417fba08d5ec918",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/it_IT/36a6bac40d990ef56da5a2901d90e495.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_P_BR_64_R2",
+    "reference": "ALT_BISE_P_BR_64_R2",
+    "id": "6ATDZ46F3R95JR50NJT89SHEBV",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/fr_FR/a758453284f905eeea8967dd541f13d4.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/de_DE/acc82594cc1aaed50e1625a764e88ed4.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/it_IT/36a6bac40d990ef56da5a2901d90e495.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/es_ES/9a90b3f74c39246acb8390b02efb3643.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_P_BR_64/JPG/en_US/640438e42968c9bada4e80d4768f9a04.jpg"
+    },
+    "name": "Sofia, Primo Avamposto",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "{J} [Rifornisci].  Le abilità di supporto delle carte nella Riserva possono conferire loro #segnalini in più rispetto al numero massimo.# (Ignora le limitazioni \"fino a un max di X\".)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "ALT_BISE_P_BR_64_R2-IT"
   },
   {
     "@context": "/contexts/Card",
