@@ -3746,6 +3746,148 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_AX_76_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b89c40c094e047ff4cf4",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/efba7729e2b278c800ee",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/en_US/395e4d320c620bf220e613ea21a39df8.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/WEB_140c4bfe83a4f085241d296f8bfd9f13",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/WEB_870ca3582b9f10905eb4a815fa761d35"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_76_C",
+    "reference": "ALT_CYCLONE_B_AX_76_C",
+    "id": "01JN9HNDX8JW7NSN2VJQRBK9D3",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/de_DE/51adc114eaf37ac9f825a97a4aa007f5.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/it_IT/4417902915f9fe4fa0eb7c69ca4c3e66.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/en_US/395e4d320c620bf220e613ea21a39df8.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/es_ES/939a12fdf4d121510d2012f4e58d611c.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/fr_FR/035d9736f4ffafdb97bbe9b28a5d24ac.jpg"
+    },
+    "name": "Axiom Signet",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "Choose one:  • Create a [Brassbug 2/2/2] Robot token in target Expedition.  • Target Permanent you control activates its {j} abilities.  • Discard target Permanent with Hand Cost {3} or less."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-11-C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_AX_76_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d11c019bd8c4627d6e18",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/21c5b4326beaf9fd98ad",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/en_US/7d343435247b76d388b1b1c1fac38809.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/WEB_140c4bfe83a4f085241d296f8bfd9f13",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/WEB_870ca3582b9f10905eb4a815fa761d35"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_76_R1",
+    "reference": "ALT_CYCLONE_B_AX_76_R1",
+    "id": "01JN9HNDX8JW7NSN2VJQRBK9D6",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/es_ES/236df7aeeac7a4050f11ed4d33451287.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/it_IT/a21ed4c097c03a0f93934244f8f935dc.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/de_DE/797215ad53399f9a5860c7b35655c0e9.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/en_US/7d343435247b76d388b1b1c1fac38809.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/fr_FR/89194fdde170ba3c135084407c0afb54.jpg"
+    },
+    "name": "Axiom Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Create a [Brassbug 2/2/2] Robot token in target Expedition.  • Target Permanent you control activates its {j} abilities.  • Discard target Permanent with Hand Cost {3} or less."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-11-R-EN"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CYCLONE_B_BR_65_C",
     "@type": "Card",
     "cardType": {
@@ -15400,6 +15542,76 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_NE_03_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01JN9T9WB3A67XPW9251FVSS60",
+      "@type": "CardType",
+      "reference": "TOKEN_LANDMARK_PERMANENT",
+      "id": "01JN9T9WB3A67XPW9251FVSS60",
+      "name": "Token Landmark Permanent"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a6c63855b06e344b53a0",
+        "reference": "ORE",
+        "id": "01JPYFRDDD06XC6SP7K6W89CTE",
+        "name": "Ore"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/33850ab29dd68c0fba24",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/en_US/e753315993d00fd79d9cc987c1073261.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/WEB_ddd0a576e7c8e078a461dc1189ae522f"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_NE_03_C",
+    "reference": "ALT_CYCLONE_B_NE_03_C",
+    "id": "01JN9TBQ63XQQFSTPPJCF10TK3",
+    "mainFaction": {
+      "@id": "/factions/NE",
+      "@type": "Faction",
+      "reference": "NE",
+      "color": "#8f95b2",
+      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+      "name": "Neutral"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/es_ES/869f5eb1fac8804d28cd9b2a0c3d1196.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/it_IT/30dc4f72b414c2ae3479b1208bd87946.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/en_US/e753315993d00fd79d9cc987c1073261.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/de_DE/f10fc7f19a922ce54ffb87101e81e511.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/fr_FR/ee8ed458a0f81d7f809bec5396385e5e.jpg"
+    },
+    "name": "Aerolith",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "When I'm sacrificed — [Resupply]. (Put the top card of your deck in Reserve. Excess Landmarks are sacrificed at the end of the Day.)  {T}, {1} : Sacrifice me."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-111-T-EN"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CYCLONE_B_MU_69_R2",
     "@type": "Card",
     "cardType": {
@@ -19162,6 +19374,77 @@
     "isSuspended": false,
     "isErrated": false,
     "collectorNumberFormatted": "SKY-90-R-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_B_AX_76_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/8cf6a3fd74f73066357f",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/4b77662f41fb03254e8d",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/en_US/9263b405a125460983547395549905e6.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/WEB_140c4bfe83a4f085241d296f8bfd9f13",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/WEB_870ca3582b9f10905eb4a815fa761d35"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_76_R2",
+    "reference": "ALT_CYCLONE_B_AX_76_R2",
+    "id": "01JN9HNDX8JW7NSN2VJQRBK9D9",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/es_ES/55a629c615108bbc542ac790e06904c6.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/de_DE/e042dcc620e0aad0553535122979363a.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/it_IT/ff1dee77b52893f6df20e97f8dbcc4f1.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/en_US/9263b405a125460983547395549905e6.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/fr_FR/efaa20eccaa612cdb3c63f695813c8af.jpg"
+    },
+    "name": "Axiom Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Create a [Brassbug 2/2/2] Robot token in target Expedition.  • Target Permanent you control activates its {j} abilities.  • Discard target Permanent with Hand Cost {3} or less."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "collectorNumberFormatted": "SKY-11-F-EN"
   },
   {
     "@context": "/contexts/Card",
