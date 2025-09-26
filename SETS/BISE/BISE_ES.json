@@ -3711,6 +3711,222 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_AX_63_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b02b2cfda76f2830fb69",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/3b2bf946c7fd99eee77f",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/es_ES/ecdc056dff58a80f505584aff4586eb6.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/WEB_99eefef035e3fccb58dc42775d52b495",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/WEB_a877aa9ac28898568b3a983b30b66f82"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_AX_63_C",
+    "reference": "ALT_BISE_A_AX_63_C",
+    "id": "01K42WNZF9HYA7PH4SDYT28VMV",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/de_DE/cbecd92c8505fab4ed0c7798339ed8ac.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/fr_FR/4ecd0e95d049a5b2b0608c030f2c5220.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/en_US/4a22fbaa5db574dabdf08646b967be21.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/es_ES/ecdc056dff58a80f505584aff4586eb6.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/it_IT/b2e4245290a027c85abae5d4b799fab9.jpg"
+    },
+    "name": "La Refinería",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Cuando una carta abandone tu reserva durante la tarde — Gano 1 contador de savia.  {T}, gastar 3 de mis contadores de savia: los personajes en tu reserva ganan 1 potenciador."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-016-C-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_AX_63_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/283cf79a32010d5049c0",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/2b24b4498b90cba52b0a",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/es_ES/266ecc47e1874ba5c5d23e0ec9a423df.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/WEB_99eefef035e3fccb58dc42775d52b495",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/WEB_a877aa9ac28898568b3a983b30b66f82"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_AX_63_R1",
+    "reference": "ALT_BISE_A_AX_63_R1",
+    "id": "01K42WPPMV4FPMEW6M83C93Q57",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/it_IT/661206154db7895f2f367c363a731095.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/de_DE/e949695232f82143430940547e339d6f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/en_US/ab7c0ba8d88afccb9e48dbe7c90d14ef.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/fr_FR/b1ceaced6c180f272b620638ecac34d2.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/es_ES/266ecc47e1874ba5c5d23e0ec9a423df.jpg"
+    },
+    "name": "La Refinería",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Cuando una carta abandone tu reserva durante la tarde — Gano 1 contador de savia.  {T}, gastar 3 de mis contadores de savia: #distribuye 3 potenciadores entre cualquier número de personajes en reserva.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-016-R-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_YZ_62_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/0614ff8d6bb844112c7e",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/336a688bb57529eb3366",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/es_ES/50dbe8037a100c5812dd121f76bbccd5.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/WEB_d0e777bc56d0e8c9c178ad2ecd4a916a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/WEB_52ea74c20d8af0ab40e91cf2b426f151"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_YZ_62_R2",
+    "reference": "ALT_BISE_A_YZ_62_R2",
+    "id": "01K44V3V5FR6ZZW8N3D209BA98",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/it_IT/6c1f2e41097167bf3617f76a133e08f4.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/en_US/2dced164e0f30c38ae7084cb6ed5b074.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/de_DE/287925fbd7dbee707412701eeb6d11bc.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/fr_FR/b94f3432ecdc8943ff95ccc9adbd1e40.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/es_ES/50dbe8037a100c5812dd121f76bbccd5.jpg"
+    },
+    "name": "Torres de Nilam",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "Cuando otro #permanente se incorpore a una de tus expediciones o a tu zona de hitos# — Gano 1 contador de arcano. Luego, puedes agotarme ({T}) y #gastar 3# de mis contadores de arcano para crear una ficha de #robot [Bicholata 2/2/2]# en una expedición objetivo."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-101-F-ES"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_A_BR_58_C",
     "@type": "Card",
     "cardType": {
@@ -7569,7 +7785,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_P_BR_64_C-ES"
+    "collectorNumberFormatted": "WEM-107-C-ES"
   },
   {
     "@context": "/contexts/Card",
@@ -7635,7 +7851,151 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_P_BR_64_R1-ES"
+    "collectorNumberFormatted": "WEM-107-R-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_BR_63_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/ac9978a8346e802ad803",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/9124710a6538c4595b96",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/es_ES/a8f990103e21d7914d687f9729cfe64b.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/WEB_813afa6793422a00a509e82b67ed5d18",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/WEB_4cd2898721e1c9a515f4793a18ea7f2e"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_BR_63_C",
+    "reference": "ALT_BISE_A_BR_63_C",
+    "id": "01K42WSMN6SY9CCH926SJ2DKJV",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/it_IT/3d0fbb4e4107ed6f8c4d9bf18cfc9361.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/fr_FR/4123118a3702dcb606438fcf1ce7c6de.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/de_DE/41faecd7c93ea85ddddc93ac966d11ff.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/es_ES/a8f990103e21d7914d687f9729cfe64b.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/en_US/803776e80c9ed0f54316d35835500c36.jpg"
+    },
+    "name": "El Mesón",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Cuando un personaje abandone tus expediciones — Gano 1 contador de comida.  {T}, Gastar 3 de mis contadores de comida: [reabastece]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-034-C-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_BR_63_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/96140b4956b0a3a2d621",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/a8b4de784561bcae336b",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/es_ES/48b0b09ce69f26b113e5e8ed576ae1b8.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/WEB_813afa6793422a00a509e82b67ed5d18",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/WEB_4cd2898721e1c9a515f4793a18ea7f2e"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_BR_63_R1",
+    "reference": "ALT_BISE_A_BR_63_R1",
+    "id": "01K42WT9PHMTA03F5T6520EKQ9",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/fr_FR/c9ecf9af09f533c068f198a055a414b4.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/it_IT/ffcc1df461fe8421bf9e022a9fe47135.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/es_ES/48b0b09ce69f26b113e5e8ed576ae1b8.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/de_DE/5f1127d44ed3d9061083f11046d7e171.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/en_US/00472d46cf321ffd8b51b145fa25d95f.jpg"
+    },
+    "name": "El Mesón",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Cuando un personaje #que no sea ficha# abandone tus expediciones — Gano 1 contador de comida.  {T}, #gastar 4# de mis contadores de comida: #roba una carta.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-034-R-ES"
   },
   {
     "@context": "/contexts/Card",
@@ -11257,6 +11617,222 @@
     "isSuspended": false,
     "isErrated": false,
     "collectorNumberFormatted": "WFM-099-F-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_AX_63_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c4becccb832b9ec822c7",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/78823b50a3d26a7d23cc",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/es_ES/056ac0ed1350c5503219b6e2a9639740.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/WEB_99eefef035e3fccb58dc42775d52b495",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/WEB_a877aa9ac28898568b3a983b30b66f82"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_AX_63_R2",
+    "reference": "ALT_BISE_A_AX_63_R2",
+    "id": "01K44V0EH82AZ0HK73QAE024K9",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/it_IT/2ee4a17245afbe34e03982c6e325e2e9.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/de_DE/7b862c4bc139844f6e3d771bfe3d467a.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/en_US/f6fb5fc4528de94a284c0cefec2ccc63.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/fr_FR/22a888dc3cf9c6d0a65fe5c8f0f905b0.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_AX_63/JPG/es_ES/056ac0ed1350c5503219b6e2a9639740.jpg"
+    },
+    "name": "La Refinería",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Cuando una carta abandone tu reserva durante la tarde — Gano 1 contador de savia.  {T}, gastar 3 de mis contadores de savia: los personajes en tu reserva ganan 1 potenciador."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WEM-016-F-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_LY_63_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/66d3bc896b9723868eaf",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/c047887e4d8bbb7d7d1a",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/es_ES/cd00b461984f58efc7e7579d79be0dff.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/WEB_6db3ed20c7b0fda5c073fb6238125982",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/WEB_4275be04913682bec2b2cec5add7b07d"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_LY_63_C",
+    "reference": "ALT_BISE_A_LY_63_C",
+    "id": "01K42WVAF28W9HGWVY049MQB5A",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/fr_FR/19b579de7952d273aa187c5229ea22f1.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/en_US/813b8d9753f670ca272ad56aa07e07c5.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/it_IT/d48da9ee8121110f76d23bbc8b8eb21a.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/de_DE/483d84accce2e236564a98264f93bfb9.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/es_ES/cd00b461984f58efc7e7579d79be0dff.jpg"
+    },
+    "name": "El Escenario",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Cuando juegues un personaje con una estadística básica de 0 — Gano 1 contador de actuación.  {T}, Gastar 3 de mis contadores de actuación: el siguiente personaje con una estadística básica de 0 que juegues este turno pierde [[Fugacidad]]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WEM-050-C-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_LY_63_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/616ae044c2b80ff77e83",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/8079c0b595766033c9d4",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/es_ES/94a0d292d54780d8a3277b846c486a30.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/WEB_6db3ed20c7b0fda5c073fb6238125982",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/WEB_4275be04913682bec2b2cec5add7b07d"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_LY_63_R1",
+    "reference": "ALT_BISE_A_LY_63_R1",
+    "id": "01K42WVY8DT0Q6QJ60FNNTX903",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/es_ES/94a0d292d54780d8a3277b846c486a30.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/de_DE/1024837dec9a4d66eff6a901c35c85a7.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/en_US/3474bafdfb57d7c1713cd30ca76f336c.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/fr_FR/a181f3936149bcb52ea4159c226978c1.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/it_IT/1015b5e7261417422e215a6b68bc7c78.jpg"
+    },
+    "name": "El Escenario",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Cuando juegues una #canción# o un #artista# — Gano 1 contador de actuación.  {T}, gastar 3 de mis contadores de actuación: la siguiente #canción# o #artista# que juegues este turno pierde [[Fugacidad]]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-050-R-ES"
   },
   {
     "@context": "/contexts/Card",
@@ -15261,7 +15837,223 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "ALT_BISE_P_BR_64_R2-ES"
+    "collectorNumberFormatted": "WFM-107-F-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_MU_62_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/073cf478bbc348f4ee5b",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/6593d464654a5ae94b73",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/es_ES/02a6012bfd576e8704eb7ec3841299a4.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/WEB_83719cd2aaa27d63429e00407ffbeddc",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/WEB_f8e3661708072e9506d416fe76ef70be"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_MU_62_C",
+    "reference": "ALT_BISE_A_MU_62_C",
+    "id": "01K42WWRDGSQ07EEP3V2578JH6",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/de_DE/23eef0124a4c4ec47e6254cef4426b95.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/fr_FR/4208a07bf0953c7f0388f6fac5312ecf.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/es_ES/02a6012bfd576e8704eb7ec3841299a4.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/en_US/938284869550c4f25bbd2fae5d862629.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/it_IT/41a87b5051c146ad1c9beace2af1f328.jpg"
+    },
+    "name": "La Granja",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MAIN_EFFECT": "Al mediodía — Gano 1 contador de comida por cada personaje que controles.  {T}, gastar 2 de mis contadores de comida: [reabastece]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-068-C-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_MU_62_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/aaecc661488239e0d134",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/049f7404c72d9e7408a1",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/es_ES/c28fea53132f67828eef5eb20fcde1c4.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/WEB_83719cd2aaa27d63429e00407ffbeddc",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/WEB_f8e3661708072e9506d416fe76ef70be"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_MU_62_R1",
+    "reference": "ALT_BISE_A_MU_62_R1",
+    "id": "01K42WXBXF9FB5XR2YSG66ZQK0",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/fr_FR/db93406b13767323bda46a4cd9a549a6.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/it_IT/9cdacd55cca8d3476570c5ac8e86cb11.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/es_ES/c28fea53132f67828eef5eb20fcde1c4.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/de_DE/5fb5bbcece212aca8bc28bcdfd73ea5a.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/en_US/30a33d0c7d76bfb094425ea3946f2a03.jpg"
+    },
+    "name": "La Granja",
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": "Al mediodía — Gano 1 contador de comida por cada personaje que controles.  {T}, gastar 2 de mis contadores de comida: [reabastece]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-068-R-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_OR_63_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a44b818a623407916768",
+        "reference": "SITE",
+        "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+        "name": "Ubicación"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/524ee1fd4268efb36cf4",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/es_ES/eb9b58310a51edf2a5bad21dba7d0139.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/WEB_c1b562e03b23a49a6947dfe611391a2c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/WEB_691c12d020e6a3b3946a4da96529ddc9"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_OR_63_R2",
+    "reference": "ALT_BISE_A_OR_63_R2",
+    "id": "01K44V39G0YDWY95C8XD7923DC",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/it_IT/b460148a98455b4183569764b1ecd135.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/de_DE/57693deb2c19acb6349825c68e5c1c20.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/en_US/9c3bdd909340d1847819113e27aa4e40.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/es_ES/eb9b58310a51edf2a5bad21dba7d0139.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/fr_FR/bc6590befd457bd2fe7a3b3e98e32d27.jpg"
+    },
+    "name": "El Consistorio",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "Al anochecer — Gano 1 contador de moral por cada personaje que controles.  {T}, Gastar 6 de mis contadores de moral: #los personajes que controles# ganan 1 potenciador."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-084-F-ES"
   },
   {
     "@context": "/contexts/Card",
@@ -19120,6 +19912,222 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_MU_62_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/f1e944a7f86dceedc051",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/ff9cec831a2bcd25a18f",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/es_ES/3667877bdd1b39f79b5e139608c2efb7.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/WEB_83719cd2aaa27d63429e00407ffbeddc",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/WEB_f8e3661708072e9506d416fe76ef70be"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_MU_62_R2",
+    "reference": "ALT_BISE_A_MU_62_R2",
+    "id": "01K44V2MRT54YY13ZWE7956NCH",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/en_US/b3a1ab9aca967f0e358af1bdf485707a.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/de_DE/a1665da472fc7365151494f5bed2c70a.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/it_IT/41b5cd72770cf6a590fec5d17574310e.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/es_ES/3667877bdd1b39f79b5e139608c2efb7.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_MU_62/JPG/fr_FR/ea42cf3429846986999538fccbd8efc7.jpg"
+    },
+    "name": "La Granja",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MAIN_EFFECT": "Al mediodía — Gano 1 contador de comida por cada personaje que controles.  {T}, gastar 2 de mis contadores de comida: [reabastece]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-068-F-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_OR_63_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/f9e200be07fb31c3697d",
+        "reference": "SITE",
+        "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+        "name": "Ubicación"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/68cbde7f81870493b2b6",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/es_ES/6c5c52bb4a5c687f2a292788a9fd581d.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/WEB_c1b562e03b23a49a6947dfe611391a2c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/WEB_691c12d020e6a3b3946a4da96529ddc9"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_OR_63_C",
+    "reference": "ALT_BISE_A_OR_63_C",
+    "id": "01K42X0TPQ238X3CCJ0NBBZSJ8",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/fr_FR/3a8ed70bb26b6b2688b4d820d03df2ef.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/es_ES/6c5c52bb4a5c687f2a292788a9fd581d.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/de_DE/63287aefbc3a2225ccad1324264e030f.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/it_IT/2d1f337b16575b328a79729ac6b6f6af.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/en_US/7b0de546b7f9c565edefbf7804b0d997.jpg"
+    },
+    "name": "El Consistorio",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Al anochecer — Gano 1 contador de moral por cada personaje que controles.  {T}, Gastar 6 de mis contadores de moral: los personajes en la expedición objetivo ganan 1 potenciador."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WEM-084-C-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_OR_63_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/7e9cf5c9bee16cb9c2bc",
+        "reference": "SITE",
+        "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+        "name": "Ubicación"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/a770bef707a9e16fb05e",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/es_ES/f9b9d27095ac1c63adc0f64c9d75d98d.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/WEB_c1b562e03b23a49a6947dfe611391a2c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/WEB_691c12d020e6a3b3946a4da96529ddc9"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_OR_63_R1",
+    "reference": "ALT_BISE_A_OR_63_R1",
+    "id": "01K42X1ENAKAGJEHHKXZ0V2A9B",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/it_IT/12e6c37255156330bcb75d9b5f229ff6.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/de_DE/a1b5a3fd2a7c60fddb611e7fc6d47871.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/en_US/1139cf4486a1da97dc7bafbc2457c8eb.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/es_ES/f9b9d27095ac1c63adc0f64c9d75d98d.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_OR_63/JPG/fr_FR/a79dd7908451c16836ac7c18c0a365a9.jpg"
+    },
+    "name": "El Consistorio",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "Al anochecer — Gano 1 contador de moral por cada personaje que controles.  {T}, Gastar 6 de mis contadores de moral: #los personajes que controles# ganan 1 potenciador."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-084-R-ES"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_A_AX_56_R2",
     "@type": "Card",
     "cardType": {
@@ -22924,5 +23932,293 @@
     "isSuspended": false,
     "isErrated": true,
     "collectorNumberFormatted": "WFM-087-H-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_BR_63_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/77b43027e30d8c45f96c",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/c2ee1227efe0d77d8e88",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/es_ES/2dc00fb3b5d945c4448582349b684af0.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/WEB_813afa6793422a00a509e82b67ed5d18",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/WEB_4cd2898721e1c9a515f4793a18ea7f2e"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_BR_63_R2",
+    "reference": "ALT_BISE_A_BR_63_R2",
+    "id": "01K44V17DFP14G75V1WAXAWW1Q",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/fr_FR/15935232f93176912eca332f2c06173d.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/en_US/596c33aabfa63aa734a6937b8e521e29.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/de_DE/e186d0b23f1913a21ae322070ba433de.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/es_ES/2dc00fb3b5d945c4448582349b684af0.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_BR_63/JPG/it_IT/5b6a9a4bc5cd3b6a6cc805d0eef9c19b.jpg"
+    },
+    "name": "El Mesón",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Cuando un personaje #que no sea ficha# abandone tus expediciones — Gano 1 contador de comida.  {T}, #gastar 4# de mis contadores de comida: #roba una carta.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-034-F-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_LY_63_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d35dfe7ce91de162b5f4",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/9c45e70d2f92905b2b64",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/es_ES/2600c4add687811def0aee32c31db2e6.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/WEB_6db3ed20c7b0fda5c073fb6238125982",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/WEB_4275be04913682bec2b2cec5add7b07d"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_LY_63_R2",
+    "reference": "ALT_BISE_A_LY_63_R2",
+    "id": "01K44V1YSVBM6FA7QWP665ZN55",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/es_ES/2600c4add687811def0aee32c31db2e6.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/de_DE/ac8d57da6856e2d2b4094da6ba78707b.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/en_US/7c3c12e6e95822234adff8b26318ad19.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/it_IT/d8aea563dddc4df5e5dd95e010431f5d.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_LY_63/JPG/fr_FR/e39f8d24aa02e853b3598c1adbc2285c.jpg"
+    },
+    "name": "El Escenario",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Cuando juegues un #hechizo# — Gano 1 contador de actuación.  {T}, gastar 3 de mis contadores de actuación: el siguiente #hechizo# que juegues este turno pierde [[Fugacidad]]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-050-F-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_YZ_62_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2c39c58d41873dd9e390",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/f060a0a466aaa1090994",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/es_ES/a92b261f768a5ed10443480f0379c059.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/WEB_d0e777bc56d0e8c9c178ad2ecd4a916a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/WEB_52ea74c20d8af0ab40e91cf2b426f151"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_YZ_62_C",
+    "reference": "ALT_BISE_A_YZ_62_C",
+    "id": "01K42X2J2VV6A9NZ0QJQKHQAD5",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/it_IT/f1a0f80a9c2ca420ed64b53e840b2baa.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/en_US/48fe7cdbbfadeda56bde52480c123329.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/fr_FR/8ed5172fe5441448ed44a5a2435f80fc.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/es_ES/a92b261f768a5ed10443480f0379c059.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/de_DE/590a3897f94090df28542633a0f48372.jpg"
+    },
+    "name": "Torres de Nilam",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Cuando juegues un hechizo — Gano 1 contador de arcano. Luego, puedes agotarme ({T}) y gastar 4 de mis contadores de arcano para crear una ficha de ilusión [Polilla de maná 2/2/2] en una expedición objetivo."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-101-C-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_A_YZ_62_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente hito"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/47f5fa883552bb1c3356",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construcción"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/ef2f07d6582505034ee2",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/es_ES/a2a8d0e17dd8ef9616005fddbfb67d8f.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/WEB_d0e777bc56d0e8c9c178ad2ecd4a916a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/WEB_52ea74c20d8af0ab40e91cf2b426f151"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_A_YZ_62_R1",
+    "reference": "ALT_BISE_A_YZ_62_R1",
+    "id": "01K42X39EG0GRZEM1HDDHSFWCH",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/it_IT/cd5e0421a525726108adf411ec2df058.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/en_US/149713c7d67747e02da5ed3b4eabd8e8.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/fr_FR/1364c3f1190003cf3401dcff083c2ff8.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/es_ES/a2a8d0e17dd8ef9616005fddbfb67d8f.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_A_YZ_62/JPG/de_DE/b1babde37b46868862f372a4e4ce7593.jpg"
+    },
+    "name": "Torres de Nilam",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "Cuando juegues un hechizo — Gano 1 contador de arcano. Luego, puedes agotarme ({T}) y #gastar 3# de mis contadores de arcano para crear una ficha de ilusión [Polilla de maná 2/2/2] en una expedición objetivo."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumberFormatted": "WFM-101-R-ES"
   }
 ]
