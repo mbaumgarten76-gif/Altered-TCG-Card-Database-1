@@ -13,7 +13,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cc4deb28ecd180e929d0",
+        "@id": "/.well-known/genid/2c09b6f1db9f518ebdce",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingeniero"
@@ -28,7 +28,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/219a153fdf99fdb1375b",
+      "@id": "/.well-known/genid/8ff96c15e64e9fc18459",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -72,7 +72,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCQ25-01-R-ES"
+    "isBanned": false,
+    "collectorNumber": "WCQ25-01-R-ES"
   },
   {
     "@context": "/contexts/Card",
@@ -88,7 +89,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/2a82b9d41795273f1438",
+        "@id": "/.well-known/genid/780cbe567c085da3efc9",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elemental"
@@ -103,7 +104,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/7fedcf6c91853f66b00e",
+      "@id": "/.well-known/genid/58364c298a14862d1f9d",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -147,7 +148,8 @@
     },
     "isSuspended": false,
     "isErrated": true,
-    "collectorNumberFormatted": "WCQ25-02-R-ES"
+    "isBanned": false,
+    "collectorNumber": "WCQ25-02-R-ES"
   },
   {
     "@context": "/contexts/Card",
@@ -163,7 +165,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/15da5b1314b6809bd4e1",
+        "@id": "/.well-known/genid/9bd25e1ac6cef2ddfa90",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artista"
@@ -178,7 +180,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/4acfacadfccabe2fb5d6",
+      "@id": "/.well-known/genid/7b1b6a715a73d553720e",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -223,7 +225,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCQ25-03-R-ES"
+    "isBanned": false,
+    "collectorNumber": "WCQ25-03-R-ES"
   },
   {
     "@context": "/contexts/Card",
@@ -239,7 +242,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/e8df65080f7f2f90cdfa",
+        "@id": "/.well-known/genid/a462f41733dc06ea9ef8",
         "reference": "PLANT",
         "id": "01HKAGSB49H24XWW17AAY441MT",
         "name": "Planta"
@@ -254,7 +257,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/c76957a400a73ec9b470",
+      "@id": "/.well-known/genid/013392071959e971cc06",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -298,7 +301,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCQ25-04-R-ES"
+    "isBanned": false,
+    "collectorNumber": "WCQ25-04-R-ES"
   },
   {
     "@context": "/contexts/Card",
@@ -314,7 +318,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/241b6c0f5dfcc8500049",
+        "@id": "/.well-known/genid/234923aa4bdf9eb1ff89",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldado"
@@ -329,7 +333,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/4ee81cfce0a997acd518",
+      "@id": "/.well-known/genid/5e807180841da8b2df88",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -372,7 +376,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCQ25-05-R-ES"
+    "isBanned": false,
+    "collectorNumber": "WCQ25-05-R-ES"
   },
   {
     "@context": "/contexts/Card",
@@ -388,7 +393,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/03dabf691192f32c2382",
+        "@id": "/.well-known/genid/6634c53721652f2021bc",
         "reference": "SPIRIT",
         "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
         "name": "Espíritu"
@@ -403,7 +408,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/8961d805e9f7946dd409",
+      "@id": "/.well-known/genid/ac85e15f878aaaf3163c",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -447,6 +452,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCQ25-06-R-ES"
+    "isBanned": false,
+    "collectorNumber": "WCQ25-06-R-ES"
   }
 ]

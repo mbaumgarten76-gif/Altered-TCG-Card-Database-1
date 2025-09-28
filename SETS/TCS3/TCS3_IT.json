@@ -13,7 +13,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/47b67c8f0887edfed36a",
+        "@id": "/.well-known/genid/8df463a2f75913271fb9",
         "reference": "ENGINEER",
         "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
         "name": "Ingegnere"
@@ -28,7 +28,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/a7d14c009beae10b674c",
+      "@id": "/.well-known/genid/929600efc3a83fc7ece3",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -66,7 +66,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "TCS3-01-R-IT"
+    "isBanned": false,
+    "collectorNumber": "TCS3-01-R-IT"
   },
   {
     "@context": "/contexts/Card",
@@ -82,7 +83,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d717474475f798dcdf7a",
+        "@id": "/.well-known/genid/4badcb54b74c49954026",
         "reference": "DISRUPTION",
         "id": "01HKAGPH80FC347E2P8841D298",
         "name": "Impedimento"
@@ -97,7 +98,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/477312271ed60e62f59e",
+      "@id": "/.well-known/genid/6ddfa4a4318ce17c0727",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -132,7 +133,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "TCS3-02-R-IT"
+    "isBanned": false,
+    "collectorNumber": "TCS3-02-R-IT"
   },
   {
     "@context": "/contexts/Card",
@@ -148,7 +150,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b62cd862369f6f764cef",
+        "@id": "/.well-known/genid/9686021a347279199b2c",
         "reference": "ARTIST",
         "id": "01HKAGQTJ167DYCKKGR8MCESNT",
         "name": "Artista"
@@ -163,7 +165,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/a464dec006e09d646e10",
+      "@id": "/.well-known/genid/7784a1449ae1d0163326",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -202,7 +204,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "TCS3-03-R-IT"
+    "isBanned": false,
+    "collectorNumber": "TCS3-03-R-IT"
   },
   {
     "@context": "/contexts/Card",
@@ -218,7 +221,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d6cbc9983d9acdb9087b",
+        "@id": "/.well-known/genid/a7291fd862169df0cfd4",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animale"
@@ -233,7 +236,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/0547fcace03a5e1760a9",
+      "@id": "/.well-known/genid/8d07ce674183d9749257",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -271,7 +274,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "TCS3-04-R-IT"
+    "isBanned": false,
+    "collectorNumber": "TCS3-04-R-IT"
   },
   {
     "@context": "/contexts/Card",
@@ -287,7 +291,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ab372b1158736d304685",
+        "@id": "/.well-known/genid/e1ac198441eefa69573f",
         "reference": "SOLDIER",
         "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
         "name": "Soldato"
@@ -302,7 +306,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/248baa19e76f9214f69c",
+      "@id": "/.well-known/genid/ce6b44e10a0187a085a7",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -340,7 +344,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "TCS3-05-R-IT"
+    "isBanned": false,
+    "collectorNumber": "TCS3-05-R-IT"
   },
   {
     "@context": "/contexts/Card",
@@ -356,7 +361,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c13db2c095d827a5aefd",
+        "@id": "/.well-known/genid/98bdd3ee2c601df98ec2",
         "reference": "MAGE",
         "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
         "name": "Mago"
@@ -371,7 +376,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/0e830027476d181ad009",
+      "@id": "/.well-known/genid/3410fad7f79e9fca60d2",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
@@ -409,6 +414,7 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "TCS3-06-R-IT"
+    "isBanned": false,
+    "collectorNumber": "TCS3-06-R-IT"
   }
 ]

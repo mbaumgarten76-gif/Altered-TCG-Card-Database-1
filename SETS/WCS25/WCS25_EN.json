@@ -20,7 +20,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/387a279a917548760b92",
+      "@id": "/.well-known/genid/1cba4037c5f097a39257",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -55,7 +55,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-AX-01-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-AX-01-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -78,7 +79,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/37ea3f3b56d7ddf687b2",
+      "@id": "/.well-known/genid/3fb791e5d55e39eef3cc",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -113,7 +114,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-AX-02-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-AX-02-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -136,7 +138,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/c06bd5294f3882bfa25a",
+      "@id": "/.well-known/genid/963482b250e30e3d6d0a",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -171,7 +173,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-AX-03-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-AX-03-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -194,7 +197,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/c7eb0aae0e623b4a6af8",
+      "@id": "/.well-known/genid/3b4f33633cade9f6deb6",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -229,7 +232,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-BR-01-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-BR-01-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -252,7 +256,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/fbc9fc927e690f76887b",
+      "@id": "/.well-known/genid/634f1d5430c78fec14df",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -287,7 +291,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-BR-02-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-BR-02-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -310,7 +315,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/eb4c432f4ef644bf384a",
+      "@id": "/.well-known/genid/029c6306080405a39a97",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -345,7 +350,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-BR-03-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-BR-03-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -368,7 +374,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/d5c7ddb58cda2bf6e42e",
+      "@id": "/.well-known/genid/535a8e542fe00acbb6d5",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -403,7 +409,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-LY-01-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-LY-01-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -426,7 +433,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/a0f0dd85f6acda19a0a8",
+      "@id": "/.well-known/genid/06d5377be8a2f48230e6",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -461,7 +468,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-LY-02-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-LY-02-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -484,7 +492,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/829a78964f2382ffe74f",
+      "@id": "/.well-known/genid/cc75a198bbf07c655ca2",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -519,7 +527,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-LY-03-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-LY-03-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -542,7 +551,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/74e99145892d10d4f12f",
+      "@id": "/.well-known/genid/bc4317cdef07d8834c84",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -577,7 +586,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-MU-01-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-MU-01-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -600,7 +610,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/f74092f5a4a3e94849b3",
+      "@id": "/.well-known/genid/d417e16b974fe3c79cbc",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -635,7 +645,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-MU-02-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-MU-02-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -658,7 +669,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/3578250c63cfddfa6000",
+      "@id": "/.well-known/genid/f1e115b07041a3b362f4",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -693,7 +704,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-MU-03-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-MU-03-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -716,7 +728,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/4b64c896f56acf3c0583",
+      "@id": "/.well-known/genid/6908532a7fc041c5476f",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -751,7 +763,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-OR-01-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-OR-01-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -774,7 +787,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/89734bafb675fa7b12be",
+      "@id": "/.well-known/genid/2bdbeaf0e90f4920a383",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -809,7 +822,8 @@
     },
     "isSuspended": false,
     "isErrated": true,
-    "collectorNumberFormatted": "WCS25-OR-02-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-OR-02-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -832,7 +846,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/bc20ccdf8088fdfb083a",
+      "@id": "/.well-known/genid/786d18daf9c471e8d52c",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -867,7 +881,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-OR-03-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-OR-03-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -890,7 +905,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/86c807485eea119dc828",
+      "@id": "/.well-known/genid/a4f8e55b36db81d297b6",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -925,7 +940,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-YZ-01-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-YZ-01-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -948,7 +964,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/b3008eccff19f52b6871",
+      "@id": "/.well-known/genid/f839708deed119608775",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -983,7 +999,8 @@
     },
     "isSuspended": false,
     "isErrated": false,
-    "collectorNumberFormatted": "WCS25-YZ-02-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-YZ-02-C-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -1006,7 +1023,7 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/51d52710412a02d01f09",
+      "@id": "/.well-known/genid/494bc48c74c46c23e18e",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
@@ -1041,6 +1058,7 @@
     },
     "isSuspended": false,
     "isErrated": true,
-    "collectorNumberFormatted": "WCS25-YZ-03-C-EN"
+    "isBanned": false,
+    "collectorNumber": "WCS25-YZ-03-C-EN"
   }
 ]
