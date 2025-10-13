@@ -57,7 +57,8 @@ Files are stored using the following path pattern :
 ---
 
 ## 📜 Data Format
-Each file inside `SETS/` contains the exact JSON structure returned by the official **Altered API**, with no modification to the schema (only separated by set and language).
+Each file inside `SETS/` and `CARDS/` contains the exact JSON structure returned by the official **Altered API**, with no modification to the schema (only separated by set and language).
+The only manually added information is the collectorNumber, which is no longer present in the JSON data returned by the API.
 
 ---
 
