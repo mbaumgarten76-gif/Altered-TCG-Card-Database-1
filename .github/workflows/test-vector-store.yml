@@ -27,8 +27,8 @@ jobs:
 
       - name: Query OpenAI (File Search)
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}       # MUSS als Secret gesetzt sein
-          VECTOR_STORE_ID: ${{ github.event.inputs.vs_id }}   # kommt aus dem "Run workflow"-Dialog
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}       # muss als Secret vorhanden sein
+          VECTOR_STORE_ID: ${{ github.event.inputs.vs_id }}   # Eingabe im "Run workflow"-Dialog
           PROMPT: ${{ github.event.inputs.prompt }}
         run: |
           python - <<'PY'
@@ -46,17 +46,14 @@ jobs:
 
           print(f"ℹ️  Using VECTOR_STORE_ID: {vs}")
 
-          resp = client.responses.create(
-            model="gpt-4.1-mini",               # Modell ist okay
-            input=[{"role": "user", "content": prompt}],
-            tools=[{"type": "file_search"}],
-            tool_resources={                    # ⬅️ statt "attachments"
-              "file_search": {
-              "vector_store_ids": [vs]
-              }
-          },
-)
-
+          client = OpenAI(api_key=api)
+          try:
+            resp = client.responses.create(
+              model="gpt-4.1-mini",  # alternativ: "gpt-4.1" oder "gpt-4o"
+              input=[{"role":"user","content": prompt}],
+              tools=[{"type":"file_search"}],
+              tool_resources={ "file_search": { "vector_store_ids": [vs] } },
+            )
           except Exception as e:
             print("❌ API call failed:", e, file=sys.stderr); sys.exit(1)
 
