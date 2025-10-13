@@ -40,10 +40,10 @@ Files are stored using the following path pattern :
 └── ...
 ```
 
-- **CARDS/** → Contains all individual card files, grouped by language, then by set code, then by faction code.
-- **SETS/** → Contains all card data grouped by set code, each set has its own folder, and inside, one file per language.  
-- **META/** → Contains only metadata (types, sets, factions, rarities, etc.).  
-- **HISTORY/** → Contains versioned history of card changes (English only, per set).
+- **CARDS** → Contains all individual card files, grouped by language, then by set code, then by faction code.
+- **SETS** → Contains all card data grouped by set code, each set has its own folder, and inside, one file per language.  
+- **META** → Contains only metadata (types, sets, factions, rarities, etc.).  
+- **HISTORY** → Contains versioned history of card changes (English only, per set).
 
 ---
 
