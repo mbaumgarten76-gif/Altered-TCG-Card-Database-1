@@ -7,7 +7,6 @@ on:
       - 'SETS/**'
       - 'COLLECTION/**'
       - 'RULES/**'
-      - 'WEB_KB/**'
       - 'tools/**'
   workflow_dispatch: {}
 
