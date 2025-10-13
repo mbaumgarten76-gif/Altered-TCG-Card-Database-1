@@ -1,12 +1,10 @@
 # <img src="https://www.altered.gg/apple-touch-icon.png" width="32" alt="Altered.gg Logo"/> Altered TCG Card Database
 
 ## 🎯 Goal
-This project aims to provide a **community-driven repository** of all **Commons and Rares** (non-unique) cards from the **Altered TCG**,  
-available in every supported language.  
+This project aims to provide a **community-driven repository** of all **Commons and Rares** (non-unique) cards from the **Altered TCG** game, available in every supported language.  
 
 The purpose is to reduce unnecessary load on the official Altered API servers.  
-Since repeated API calls may trigger throttling or overload, we recommend using this local JSON database first  
-before sending new HTTP requests to the official API.
+Since repeated API calls may trigger throttling or overload, we recommend using this local JSON database first before sending new HTTP requests to the official API.
 
 ---
 
@@ -42,6 +40,7 @@ Files are stored using the following path pattern :
 └── ...
 ```
 
+- **CARDS/** → Contains all individual card files, grouped by language, then by set code, then by faction code.
 - **SETS/** → Contains all card data grouped by set code, each set has its own folder, and inside, one file per language.  
 - **META/** → Contains only metadata (types, sets, factions, rarities, etc.).  
 - **HISTORY/** → Contains versioned history of card changes (English only, per set).
@@ -58,8 +57,7 @@ Files are stored using the following path pattern :
 ---
 
 ## 📜 Data Format
-Each file inside `SETS/` contains the exact JSON structure returned by the official **Altered API**,  
-with no modification to the schema (only separated by set and language).
+Each file inside `SETS/` contains the exact JSON structure returned by the official **Altered API**, with no modification to the schema (only separated by set and language).
 
 ---
 
