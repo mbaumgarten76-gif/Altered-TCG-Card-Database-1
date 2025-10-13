@@ -35,7 +35,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           VECTOR_STORE_NAME: "Altered Knowledge"
           # Optional (nach Schritt mit fester ID):
-          # VECTOR_STORE_ID: ${{ secrets.OPENAI_VECTOR_STORE_ID }}
+          VECTOR_STORE_ID: ${{ secrets.OPENAI_VECTOR_STORE_ID }}
         run: |
           python tools/sync_to_vector_store.py | tee sync.log
           VS_ID=$(grep -Eo 'VECTOR_STORE_ID=vs_[a-zA-Z0-9]+' sync.log | sed 's/.*=//')
