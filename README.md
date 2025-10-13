@@ -1,7 +1,7 @@
 # <img src="https://www.altered.gg/apple-touch-icon.png" width="32" alt="Altered.gg Logo"/> Altered TCG Card Database
 
 ## 🎯 Goal
-This project aims to provide a **community-driven repository** of all **Commons and Rares** (non-unique) cards from the **Altered TCG** game, available in every supported language.  
+This project aims to provide a **community-driven repository** of all **Common and Rare** (non-unique) cards from the **Altered TCG**, available in all supported languages.
 
 The purpose is to reduce unnecessary load on the official Altered API servers.  
 Since repeated API calls may trigger throttling or overload, we recommend using this local JSON database first before sending new HTTP requests to the official API.
