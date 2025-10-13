@@ -36,9 +36,10 @@ Files are stored using the following path pattern :
 │ ├── filter_data_en.json
 │ └── ...
 │
-└── HISTORY/                         # English-only history of card changes
-  ├── cards_history_CORE.json
-  └── ...
+├── HISTORY/                         # English-only history of card changes
+│ ├── cards_history_CORE.json
+│ └── ...
+└── ...
 ```
 
 - **SETS/** → Contains all card data grouped by set code, each set has its own folder, and inside, one file per language.  
