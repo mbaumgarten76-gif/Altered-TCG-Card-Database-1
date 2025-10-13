@@ -1,4 +1,4 @@
-name: Test Vector Store (Altered) — Diagnose
+name: Test Vector Store (Altered)
 
 on:
   workflow_dispatch:
@@ -7,80 +7,46 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: Check secrets present
-        shell: bash
-        run: |
-          echo "Checking required secrets..."
-          test -n "${{ secrets.OPENAI_API_KEY }}" || (echo "❌ Missing secret: OPENAI_API_KEY" && exit 1)
-          # Entweder nutzt du das Secret OPENAI_VECTOR_STORE_ID ...
-          if [ -z "${{ secrets.OPENAI_VECTOR_STORE_ID }}" ]; then
-            echo "ℹ️  Secret OPENAI_VECTOR_STORE_ID not set. You can hardcode VS below for this run."
-          else
-            echo "✅ OPENAI_VECTOR_STORE_ID is set."
-          fi
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-      - name: Set env (prefer secret, else inline fallback)
-        shell: bash
-        env:
-          VS_SECRET: ${{ secrets.OPENAI_VECTOR_STORE_ID }}
+      - name: Install OpenAI SDK
         run: |
-          set -e
-          if [ -n "$VS_SECRET" ]; then
-            echo "VECTOR_STORE_ID=$VS_SECRET" >> $GITHUB_ENV
-            echo "Using VECTOR_STORE_ID from secret."
-          else
-            # 👇 Falls du (nur zum Test) deine vs_... kurzfristig eintragen willst:
-            VS_INLINE="vs_DEINE_ID_HIER_EINTRAGEN"   # <— ersetze das durch deine vs_... oder setze das Secret.
-            if [ "$VS_INLINE" = "vs_DEINE_ID_HIER_EINTRAGEN" ]; then
-              echo "❌ No VECTOR_STORE_ID available. Set secret OPENAI_VECTOR_STORE_ID or edit VS_INLINE."
-              exit 1
-            fi
-            echo "VECTOR_STORE_ID=$VS_INLINE" >> $GITHUB_ENV
-            echo "Using VECTOR_STORE_ID from inline fallback."
-          fi
+          python -m pip install --upgrade pip
+          pip install openai
 
-      - name: Call OpenAI with curl (no Python deps)
-        shell: bash
+      - name: Query OpenAI (File Search)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          VECTOR_STORE_ID: ${{ secrets.OPENAI_VECTOR_STORE_ID }}   # alternativ: hier testweise vs_... direkt eintragen
         run: |
-          set -euo pipefail
-          echo "Calling OpenAI Responses API…"
-          echo "VECTOR_STORE_ID = $VECTOR_STORE_ID"
+          python - <<'PY'
+          from openai import OpenAI
+          import os, sys
 
-          # Anfrage senden
-          RESP=$(curl -sS https://api.openai.com/v1/responses \
-            -H "Authorization: Bearer ${OPENAI_API_KEY}" \
-            -H "Content-Type: application/json" \
-            -d @- <<EOF
-          {
-            "model": "gpt-4.1-mini",
-            "input": [
-              { "role": "user", "content": "Bitte nenne die Constructed-Deckregeln von Altered kurz auf Deutsch." }
-            ],
-            "tools": [ { "type": "file_search" } ],
-            "attachments": [ { "vector_store_id": "${VECTOR_STORE_ID}" } ]
-          }
-EOF
-          ) || (echo "❌ curl request failed"; exit 1)
+          api = os.environ.get("OPENAI_API_KEY")
+          vs  = os.environ.get("VECTOR_STORE_ID")
 
-          echo "Raw JSON:"
-          echo "$RESP"
+          if not api:
+            print("❌ Missing secret: OPENAI_API_KEY", file=sys.stderr)
+            sys.exit(1)
+          if not vs:
+            print("❌ Missing VECTOR_STORE_ID (set OPENAI_VECTOR_STORE_ID secret or hardcode here)", file=sys.stderr)
+            sys.exit(1)
 
-          # Quick validation (401/404)
-          if echo "$RESP" | grep -q '"error"'; then
-            echo "❌ API returned an error:"
-            echo "$RESP"
-            exit 1
-          fi
+          client = OpenAI(api_key=api)
+          resp = client.responses.create(
+              model="gpt-4.1-mini",
+              input=[{
+                  "role": "user",
+                  "content": "Bitte nenne die Constructed-Deckregeln von Altered kurz auf Deutsch."
+              }],
+              tools=[{"type": "file_search"}],
+              attachments=[{"vector_store_id": vs}],
+          )
 
-          # output_text extrahieren
-          echo "$RESP" | python - <<'PY' || true
-import sys, json
-try:
-    j = json.load(sys.stdin)
-    print("\n=== OUTPUT_TEXT ===\n")
-    print(j.get("output_text") or j)
-except Exception as e:
-    print("Note: could not parse JSON cleanly:", e)
-PY
+          print("\n=== OUTPUT_TEXT ===\n")
+          print(resp.output_text)
+          PY
