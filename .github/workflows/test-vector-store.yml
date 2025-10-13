@@ -8,35 +8,41 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Call OpenAI Responses API (File Search)
+        shell: bash
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          VECTOR_STORE_ID: ${{ secrets.OPENAI_VECTOR_STORE_ID }}  # oder trage testweise vs_... direkt hier ein
+          # Entweder als Secret hinterlegt ...
+          VECTOR_STORE_ID: ${{ secrets.OPENAI_VECTOR_STORE_ID }}
+          # ... oder testweise direkt eintragen (nicht empfohlen):
+          # VECTOR_STORE_ID: vs_ABCDEFG123456
         run: |
-          # Anfrage per curl senden
+          set -e
+
+          # Anfrage an Responses API
           RESP=$(curl -s https://api.openai.com/v1/responses \
             -H "Authorization: Bearer $OPENAI_API_KEY" \
             -H "Content-Type: application/json" \
-            -d @- <<'JSON'
+            -d @- <<JSON
           {
             "model": "gpt-4.1-mini",
             "input": [{
               "role": "user",
               "content": "Bitte nenne die Constructed-Deckregeln von Altered kurz auf Deutsch."
             }],
-            "tools": [{"type":"file_search"}],
-            "attachments": [{"vector_store_id": "'"$VECTOR_STORE_ID"'"}]
+            "tools": [{"type": "file_search"}],
+            "attachments": [{"vector_store_id": "$VECTOR_STORE_ID"}]
           }
-          JSON
+JSON
           )
+
           echo "Raw JSON response:"
           echo "$RESP"
 
-          # Den eigentlichen Antworttext herausziehen (kleines Python-Einzeilerchen auf dem Runner)
+          # OUTPUT_TEXT sauber extrahieren
+          export RESP_JSON="$RESP"
           python - <<'PY'
-          import json, os
-          resp = json.loads(os.environ["RESP_JSON"])
-          print("\n=== OUTPUT_TEXT ===\n")
-          print(resp.get("output_text") or resp)
-          PY
-        env:
-          RESP_JSON: ${{ steps.test.outputs.resp_json }}
+import os, json
+data = json.loads(os.environ.get("RESP_JSON","{}"))
+print("\n=== OUTPUT_TEXT ===\n")
+print(data.get("output_text") or data)
+PY
