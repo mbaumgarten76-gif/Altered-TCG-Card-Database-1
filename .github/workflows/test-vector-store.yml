@@ -46,14 +46,16 @@ jobs:
 
           print(f"ℹ️  Using VECTOR_STORE_ID: {vs}")
 
-          client = OpenAI(api_key=api)
-          try:
-            resp = client.responses.create(
-              model="gpt-4.1-mini",
-              input=[{"role":"user","content": prompt}],
-              tools=[{"type":"file_search"}],
-              attachments=[{"vector_store_id": vs}],
-            )
+          resp = client.responses.create(
+    model="gpt-4.1-mini",
+    input=[{"role": "user", "content": prompt}],
+    tools=[{"type": "file_search"}],
+    tool_resources={
+        "file_search": {
+            "vector_store_ids": [vs]   # <-- deine vs_... hier
+        }
+    },
+)
           except Exception as e:
             print("❌ API call failed:", e, file=sys.stderr); sys.exit(1)
 
