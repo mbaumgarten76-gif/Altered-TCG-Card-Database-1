@@ -47,15 +47,16 @@ jobs:
           print(f"ℹ️  Using VECTOR_STORE_ID: {vs}")
 
           resp = client.responses.create(
-    model="gpt-4.1-mini",
+    model="gpt-4.1-mini",               # Modell ist okay
     input=[{"role": "user", "content": prompt}],
     tools=[{"type": "file_search"}],
-    tool_resources={
+    tool_resources={                    # ⬅️ statt "attachments"
         "file_search": {
-            "vector_store_ids": [vs]   # <-- deine vs_... hier
+            "vector_store_ids": [vs]
         }
     },
 )
+
           except Exception as e:
             print("❌ API call failed:", e, file=sys.stderr); sys.exit(1)
 
