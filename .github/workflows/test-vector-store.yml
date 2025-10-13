@@ -2,6 +2,14 @@ name: Test Vector Store (Altered)
 
 on:
   workflow_dispatch:
+    inputs:
+      vs_id:
+        description: "Vector Store ID (vs_...)"
+        required: true
+      prompt:
+        description: "Frage/Prompt"
+        required: false
+        default: "Bitte nenne die Constructed-Deckregeln von Altered kurz auf Deutsch."
 
 jobs:
   test:
@@ -19,33 +27,35 @@ jobs:
 
       - name: Query OpenAI (File Search)
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          VECTOR_STORE_ID: ${{ secrets.OPENAI_VECTOR_STORE_ID }}   # alternativ: hier testweise vs_... direkt eintragen
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}       # MUSS als Secret gesetzt sein
+          VECTOR_STORE_ID: ${{ github.event.inputs.vs_id }}   # kommt aus dem "Run workflow"-Dialog
+          PROMPT: ${{ github.event.inputs.prompt }}
         run: |
           python - <<'PY'
-          from openai import OpenAI
           import os, sys
+          from openai import OpenAI
 
           api = os.environ.get("OPENAI_API_KEY")
           vs  = os.environ.get("VECTOR_STORE_ID")
+          prompt = os.environ.get("PROMPT") or "Bitte nenne die Constructed-Deckregeln von Altered kurz auf Deutsch."
 
           if not api:
-            print("❌ Missing secret: OPENAI_API_KEY", file=sys.stderr)
-            sys.exit(1)
-          if not vs:
-            print("❌ Missing VECTOR_STORE_ID (set OPENAI_VECTOR_STORE_ID secret or hardcode here)", file=sys.stderr)
-            sys.exit(1)
+            print("❌ Missing secret: OPENAI_API_KEY", file=sys.stderr); sys.exit(1)
+          if not vs or not vs.startswith("vs_"):
+            print(f"❌ Invalid or missing VECTOR_STORE_ID: {vs!r}", file=sys.stderr); sys.exit(1)
+
+          print(f"ℹ️  Using VECTOR_STORE_ID: {vs}")
 
           client = OpenAI(api_key=api)
-          resp = client.responses.create(
+          try:
+            resp = client.responses.create(
               model="gpt-4.1-mini",
-              input=[{
-                  "role": "user",
-                  "content": "Bitte nenne die Constructed-Deckregeln von Altered kurz auf Deutsch."
-              }],
-              tools=[{"type": "file_search"}],
+              input=[{"role":"user","content": prompt}],
+              tools=[{"type":"file_search"}],
               attachments=[{"vector_store_id": vs}],
-          )
+            )
+          except Exception as e:
+            print("❌ API call failed:", e, file=sys.stderr); sys.exit(1)
 
           print("\n=== OUTPUT_TEXT ===\n")
           print(resp.output_text)
