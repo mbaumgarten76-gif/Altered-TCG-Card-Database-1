@@ -7,12 +7,12 @@
       "cardHistories": "CardHistoryData/cardHistories"
     },
     "@type": "CardHistoryData",
-    "@id": "/.well-known/genid/3349e93eb5c55b6cd26d",
+    "@id": "/.well-known/genid/c370f926e31609a6085d",
     "news": {
       "@type": "CardHistory",
-      "@id": "/.well-known/genid/bd26897ceee1d890c2f3",
-      "id": "137",
-      "fromDate": "2025-02-01T10:25:22+00:00",
+      "@id": "/.well-known/genid/a5524fc491506c286d2b",
+      "id": "139",
+      "fromDate": "2025-02-01T12:56:39+00:00",
       "type": "BALANCING_ERRATUM",
       "name": "Erratum of Waru",
       "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
@@ -22,9 +22,9 @@
     "cardHistories": [
       {
         "@type": "CardHistory",
-        "@id": "/.well-known/genid/bd26897ceee1d890c2f3",
-        "id": "137",
-        "fromDate": "2025-02-01T10:25:22+00:00",
+        "@id": "/.well-known/genid/a5524fc491506c286d2b",
+        "id": "139",
+        "fromDate": "2025-02-01T12:56:39+00:00",
         "type": "BALANCING_ERRATUM",
         "name": "Erratum of Waru",
         "description": "https://www.altered.gg/news/trial-by-frost-season-patch",
@@ -41,12 +41,12 @@
       "cardHistories": "CardHistoryData/cardHistories"
     },
     "@type": "CardHistoryData",
-    "@id": "/.well-known/genid/292bdf30dac876fa775a",
+    "@id": "/.well-known/genid/e911d5fa1b62e85484f2",
     "news": {
       "@type": "CardHistory",
-      "@id": "/.well-known/genid/23a43f74b4fb2aa9c8cb",
+      "@id": "/.well-known/genid/e033d7e47a42303e9465",
       "id": "180",
-      "fromDate": "2025-08-11T10:25:23+00:00",
+      "fromDate": "2025-08-11T12:56:40+00:00",
       "type": "BALANCING_ERRATUM",
       "name": "Balancing Erratum of Afanas",
       "description": "https://www.altered.gg/news/whispers-from-the-maze-mid-season-patch",
@@ -56,9 +56,9 @@
     "cardHistories": [
       {
         "@type": "CardHistory",
-        "@id": "/.well-known/genid/23a43f74b4fb2aa9c8cb",
+        "@id": "/.well-known/genid/e033d7e47a42303e9465",
         "id": "180",
-        "fromDate": "2025-08-11T10:25:23+00:00",
+        "fromDate": "2025-08-11T12:56:40+00:00",
         "type": "BALANCING_ERRATUM",
         "name": "Balancing Erratum of Afanas",
         "description": "https://www.altered.gg/news/whispers-from-the-maze-mid-season-patch",
@@ -67,9 +67,9 @@
       },
       {
         "@type": "CardHistory",
-        "@id": "/.well-known/genid/67d95625393a2097d2d2",
-        "id": "179",
-        "fromDate": "2024-09-06T10:25:23+00:00",
+        "@id": "/.well-known/genid/5c1fb8f226fd2773298f",
+        "id": "181",
+        "fromDate": "2024-09-06T12:56:40+00:00",
         "type": "RULING",
         "name": "Control and 2vs2",
         "description": "https://www.altered.gg/fr-fr/news/the-formats-of-altered-multiplayer",
@@ -78,9 +78,9 @@
       },
       {
         "@type": "CardHistory",
-        "@id": "/.well-known/genid/df82ec554f44be82f80a",
-        "id": "178",
-        "fromDate": "2024-02-05T10:25:23+00:00",
+        "@id": "/.well-known/genid/0b54f89adf52be14ea15",
+        "id": "182",
+        "fromDate": "2024-02-05T12:56:40+00:00",
         "type": "RULING",
         "name": "Control and Reserve",
         "answer": "No. Cards in Reserve are not controlled.",
