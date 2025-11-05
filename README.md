@@ -62,6 +62,11 @@ The only manually added information is the collectorNumber, which is no longer p
 
 ---
 
+## 🖼️ Card Images
+Card images are available here : https://drive.google.com/drive/folders/1cVqqV2HCRXk9PtipW144H-i7ObmG9TXy?usp=sharing
+
+---
+
 ## 📖 License
 MIT License – feel free to use, share, and improve.  
 Please credit the community and the Altered TCG project.  
