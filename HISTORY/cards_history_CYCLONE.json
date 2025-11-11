@@ -7,12 +7,12 @@
       "cardHistories": "CardHistoryData/cardHistories"
     },
     "@type": "CardHistoryData",
-    "@id": "/.well-known/genid/f5bcb6b6efded2c9d7da",
+    "@id": "/.well-known/genid/6e6c8a3f92300396530b",
     "news": {
       "@type": "CardHistory",
-      "@id": "/.well-known/genid/3d009cd7a1d3f9442846",
-      "id": "580",
-      "fromDate": "2025-09-20T09:31:33+00:00",
+      "@id": "/.well-known/genid/f97f8dc9b433e3a35376",
+      "id": "591",
+      "fromDate": "2025-09-20T12:56:49+00:00",
       "type": "FUNCTIONAL_ERRATUM",
       "name": "Misprint of Ordis version Moth Collision",
       "answer": "The first printing of the Rare, Ordis version of Moth Collision mistakenly read  \"[Fleeting].  If you control a #Soldier#, I cost #{2} less.# Discard target Character #with Hand Cost {3} or less.#\".  The correct version says  \"[Fleeting].  If you control a #Soldier,# I cost {1} less.  Discard target Character.\"",
@@ -21,9 +21,9 @@
     "cardHistories": [
       {
         "@type": "CardHistory",
-        "@id": "/.well-known/genid/3d009cd7a1d3f9442846",
-        "id": "580",
-        "fromDate": "2025-09-20T09:31:33+00:00",
+        "@id": "/.well-known/genid/f97f8dc9b433e3a35376",
+        "id": "591",
+        "fromDate": "2025-09-20T12:56:49+00:00",
         "type": "FUNCTIONAL_ERRATUM",
         "name": "Misprint of Ordis version Moth Collision",
         "answer": "The first printing of the Rare, Ordis version of Moth Collision mistakenly read  \"[Fleeting].  If you control a #Soldier#, I cost #{2} less.# Discard target Character #with Hand Cost {3} or less.#\".  The correct version says  \"[Fleeting].  If you control a #Soldier,# I cost {1} less.  Discard target Character.\"",

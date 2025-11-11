@@ -1,0 +1,91 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERCB_P_YZ_98_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1KT55SXGV48H9VQ5GPVHERATBN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell",
+        "description": ""
+      },
+      "id": "1KT55SXGV48H9VQ5GPVHERATBN",
+      "reference": "ALT_DUSTERCB_P_YZ_98_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6a4324f1b3f22eab9e62",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/849b9e3761c31b921d96",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manœuvre"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERCB",
+    "@type": "CardSet",
+    "id": "01K60PWBQRTWXF3M650SKAQEBE",
+    "reference": "DUSTERCB",
+    "name": "Les Graines de l'Unité - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/657428650efa96bd8484",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_98/JPG/fr_FR/e511e2e2b861977e909f4e2ac0265e70.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_YZ_98_R1",
+  "reference": "ALT_DUSTERCB_P_YZ_98_R1",
+  "id": "01K60PWD8W298J6MWWTKX7RCJQ",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "de-de": "",
+    "es-es": "",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_98/JPG/fr_FR/e511e2e2b861977e909f4e2ac0265e70.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_98/JPG/en_US/60bdfd6b813b449a97047a7877377fc7.jpg",
+    "it-it": ""
+  },
+  "name": "Coup de Grâce",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "MAIN_EFFECT": "[[Fugace]].  Choisissez jusqu'à trois, #vous pouvez choisir la même option plusieurs fois :#  • Défaussez un Personnage ciblé.  • Défaussez un Permanent ciblé.  • [Sabotez]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "collectorNumber": "SDUCB-024-R-FR"
+}

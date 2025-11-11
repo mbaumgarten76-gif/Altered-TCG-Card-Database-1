@@ -1,0 +1,139 @@
+[
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_AX_20_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/ada2c755a7f97a5058b7",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/9fb3b177822b5ebc91d5",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/de_DE/39e71ffd1cd6156708effea4d5dfaae3.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_20_R1",
+    "reference": "ALT_DUSTERTOP_P_AX_20_R1",
+    "id": "01K57206ERQ3715XTXVT431JA0",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/fr_FR/4d912e05344c3e5c86bd2f33fe8b470d.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/en_US/e1f8d50063b986d456518e65969eebc7.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/es_ES/8a926502ede225a7b12d3d2c4e61ebae.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/de_DE/39e71ffd1cd6156708effea4d5dfaae3.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/it_IT/4530f6fcf164cdafae019027f0fcff00.jpg"
+    },
+    "name": "Am Haken",
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Target Character switches Expeditions. (It leaves its Expedition and joins its controller's other Expedition.)  #Ziehe eine Karte.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUTOP-002-R-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_BR_19_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c5efa5d5edb283e247e7",
+        "reference": "ELEMENTAL",
+        "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+        "name": "Elementar"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/9b8f86afb02596cdf227",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/de_DE/e4279682edf2f96b3a625f16cebf9b5c.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_BR_19_C",
+    "reference": "ALT_DUSTERTOP_P_BR_19_C",
+    "id": "01K57206F5T1RKNGN42HW0MCN8",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/en_US/1b26e326d60dfa824e7e4674a495cdce.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/de_DE/e4279682edf2f96b3a625f16cebf9b5c.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/fr_FR/71fb8dc759333bdbe036effd282ef7ac.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/it_IT/ee1217678e66b5554d409badb32f5517.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/es_ES/d3250c3d5ac515d22c0dcfa92193af6b.jpg"
+    },
+    "name": "Mächtiger Dschinn",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb)."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUTOP-003-C-DE"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "ALT_DUSTERTOP_P_BR_19_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/2cb0511491d8b395f06e",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/f820c99b0f9131d859d9",
+      "id": "48",
+      "fromDate": "2024-09-06T12:56:38+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Erratum of Mighty Jinn (Common and Rare)",
+      "description": " ",
+      "answer": "The first printing of Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nThis change does not impact Unique versions of Mighty Jinn.",
+      "question": "Did the wording of (Rare, Bravos) Mighty Jinn change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/586edb2fa91ca42704e0",
+        "id": "51",
+        "fromDate": "2025-02-18T12:56:38+00:00",
+        "type": "RULING",
+        "name": "Unique Mighty Jinn sent to hidden zone",
+        "description": "https://www.altered.gg/en-us/the-game/how-to-play",
+        "answer": "Unlike Common and Rare versions of Mighty Jinn (whose effect is a replacement effect \"If I would..., instead...\"), the Unique versions of Mighty Jinn have a reaction of the type \"When I leave the Expedition zone — (...) put me in my owner's Mana zone.\" If they are sent to a hidden zone (such as hand or deck), instead of Reserve or discard, there is no way for the effect to track the card afterwards, and therefore it does nothing.",
+        "question": "What happens if my Unique Mighty Jinn is the target of a card that sends it to a player's hand or deck?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/8518b30d626438727b83",
+        "id": "47",
+        "fromDate": "2024-09-15T12:56:38+00:00",
+        "type": "RULING",
+        "name": "Draw a card if you don't activate its effect",
+        "answer": "Yes!  You may choose not to use Mighty Jinn's ability and therefore draw the card (it will still go to your Mana Zone because of Mana Reaping).",
+        "question": "If my (Rare, Bravos version) of Mighty Jinn is sent to the Mana Zone by another effect (such as Mana Reaping), can I choose to draw a card?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/f820c99b0f9131d859d9",
+        "id": "48",
+        "fromDate": "2024-09-06T12:56:38+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Erratum of Mighty Jinn (Common and Rare)",
+        "description": " ",
+        "answer": "The first printing of Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb). If you don't, draw a card.\"\n\nThis change does not impact Unique versions of Mighty Jinn.",
+        "question": "Did the wording of (Rare, Bravos) Mighty Jinn change?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/12818299d92f9b65ad3b",
+        "id": "49",
+        "fromDate": "2024-09-06T12:56:38+00:00",
+        "type": "RULING",
+        "name": "Leave the Expedition zone",
+        "answer": "The controller of Mighty Jinn still has the option of sending it to its owner's Mana zone instead.",
+        "question": "What happens if Mighty Jinn (Common or Rare) is the target of a card that sends it to a player's hand or deck?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/b1d2804f88b040f336aa",
+        "id": "50",
+        "fromDate": "2024-09-06T12:56:38+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Replacement effect instead of reaction",
+        "answer": "The first printing of Common Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb).\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb).\"  This change doesn't affect Unique Mighty Jinn.",
+        "question": "Did the wording of this card change?"
+      }
+    ]
+  }
+}

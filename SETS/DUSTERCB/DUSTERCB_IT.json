@@ -1,0 +1,1286 @@
+[
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_AX_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+      "@type": "CardType",
+      "reference": "HERO",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "name": "Eroe"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/023340d77c7bf0fb0ff2",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_AX_01_C",
+    "reference": "ALT_DUSTERCB_P_AX_01_C",
+    "id": "01K60PWCX3SQ0Y79B6CR6ZTZ4Q",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_01/JPG/en_US/f01cf7defcefce1bcb257d12f9825d69.jpg",
+      "de-de": "",
+      "es-es": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_01/JPG/fr_FR/013b8498a854bc1e95a19aeb58e5ae1f.jpg",
+      "it-it": ""
+    },
+    "name": "Sierra e Strambo",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "Quando giochi un permanente con costo dalla mano pari o superiore a {3} — Puoi consumarmi ({T}) per creare una pedina Robot [Ottonblatta 2/2/2] in una spedizione bersaglio."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "[Code non trouvé]-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_AX_101_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente Fulcro"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b9b67a1b4da7f88785b2",
+        "reference": "SITE",
+        "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+        "name": "Sito"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/e5a3827a60e6ca3b89ab",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_AX_101_R1",
+    "reference": "ALT_DUSTERCB_P_AX_101_R1",
+    "id": "01K60PWCXAA7FFFQSY9E1X0YVV",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "it-it": "",
+      "de-de": "",
+      "es-es": "",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_101/JPG/en_US/07c4d44caae297b1413f49ce0ebddac4.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_101/JPG/fr_FR/0e7bcf13d7f7eb74cf31e7b619609158.jpg"
+    },
+    "name": "Esposizione Axiom",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "{T}: un personaggio bersaglio nella tua Riserva ottiene 1 rinforzo. Poi consumalo ({T}).  #{T}: un personaggio bersaglio nella tua Riserva ottiene 1 rinforzo. Poi ripristinalo.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-003-R-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_BR_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+      "@type": "CardType",
+      "reference": "HERO",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "name": "Eroe"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/8cee474bbe3bfdb0f8b2",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_BR_01_C",
+    "reference": "ALT_DUSTERCB_P_BR_01_C",
+    "id": "01K60PWD0CXG8MJ6T5YT8VMAGQ",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "it-it": "",
+      "de-de": "",
+      "es-es": "",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_01/JPG/en_US/11a6164b96ce55a340faf79f21db780a.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_01/JPG/fr_FR/06a4ec2a3c6df1f54203fe7dc9798334.jpg"
+    },
+    "name": "Kojo e Booda",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "At Noon — If you are first player, create a [Booda 2/2/2] Companion token in your Companion Expedition."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "[Code non trouvé]-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_BR_89_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/694e497640084b139a47",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/faf4059d2bae6d6d8e40",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_BR_89_C",
+    "reference": "ALT_DUSTERCB_P_BR_89_C",
+    "id": "01K60PWD0MHJWXHXD4JH5EMHDF",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "it-it": "",
+      "de-de": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_89/JPG/fr_FR/d6e5753d7ff1ce6df714a3dfd9edf5b7.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_89/JPG/en_US/9afe4c40a6a2a5295dc0c031fdde434d.jpg",
+      "es-es": ""
+    },
+    "name": "Kedarm",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "ECHO_EFFECT": "{D}: il prossimo personaggio giocato dalla tua mano in questo turno attiva una delle sue abilità {r}."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-005-C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_BR_96_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/84035d4e290583f9cc56",
+        "reference": "FAIRY",
+        "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+        "name": "Folletto"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/2d7a9c179e839e661948",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_BR_96_C",
+    "reference": "ALT_DUSTERCB_P_BR_96_C",
+    "id": "01K60PWD0MHJWXHXD4JH5EMHDN",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "it-it": "",
+      "de-de": "",
+      "es-es": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_96/JPG/fr_FR/0bb8dabc3f9aa8a8e16d345bfce4aca8.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_96/JPG/en_US/3105ef17919381e49b38e6cb8d8ed161.jpg"
+    },
+    "name": "Nefele",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{J} You may pass. If you don't, create a [Seme di Mana] token in target opponent's Landmarks."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-006-C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_BR_88_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/399d020c7e18b63b7228",
+        "reference": "ADVENTURER",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "name": "Avventuriero"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/ee7068fb120004eb9186",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_BR_88_R1",
+    "reference": "ALT_DUSTERCB_P_BR_88_R1",
+    "id": "01K60PWD0DJBPZYC8N950EJPDW",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_88/JPG/fr_FR/3621e82ea80ad0589db45752489494de.jpg",
+      "it-it": "",
+      "de-de": "",
+      "es-es": "",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_88/JPG/en_US/2644b08869b23cee0a6dfabeeee8e37e.jpg"
+    },
+    "name": "Tuffatrice Gentile",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "{J} You may [Incalzare]. If you don't, target opponent [Rifornisce-Consuma]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-007-R-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_LY_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+      "@type": "CardType",
+      "reference": "HERO",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "name": "Eroe"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/e71c3966a9377c72f499",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_01_C",
+    "reference": "ALT_DUSTERCB_P_LY_01_C",
+    "id": "01K60PWD2WYTEGA63BK95J3SJQ",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "it-it": "",
+      "de-de": "",
+      "es-es": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_01/JPG/fr_FR/98640333af8840de723e9b4bcbe325cf.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_01/JPG/en_US/f18ba085f3b1a471f86b8bd6d8a7e920.jpg"
+    },
+    "name": "Nevenka e Macchia",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "{T}: Scegli come bersaglio un personaggio che controlli, poi tira un dado. Con:  • 6+, it gains [[Ancorato]].  • 2-5, it gains 1 boost.  • 1, mandalo nella Riserva."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "[Code non trouvé]-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_LY_90_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/844f4d79101e117a6155",
+        "reference": "MAGE",
+        "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+        "name": "Mago"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0c554c866d194ff8f5e3",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_90_R1",
+    "reference": "ALT_DUSTERCB_P_LY_90_R1",
+    "id": "01K60PWD2X3YDG38RBY20C0Q5Z",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "it-it": "",
+      "de-de": "",
+      "es-es": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/JPG/fr_FR/ab65e3fb63799ccc6e320adf13c4bfef.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/JPG/en_US/a49b591674731d708b0c06d5af52db0b.jpg"
+    },
+    "name": "Nyala, Festaiola Notturna",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "{H} Se sono [In contatto], puoi scambiare una carta dalla tua Riserva con una carta dalla tua mano.",
+      "ECHO_EFFECT": "#{D}: scambia un'altra carta dalla tua Riserva con una carta dalla tua mano.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-011-R-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_LY_93_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/0e79458ad6650f0e12a7",
+        "reference": "ADVENTURER",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "name": "Avventuriero"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0418dea3f8717ff3c181",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_93_C",
+    "reference": "ALT_DUSTERCB_P_LY_93_C",
+    "id": "01K60PWD2YF6CPQMAD3RCR988V",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "it-it": "",
+      "de-de": "",
+      "es-es": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/JPG/fr_FR/1179779d5d8789bd818ce63c12760b42.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/JPG/en_US/b7be0319364ee5dbdc24e3a0365d4f9f.jpg"
+    },
+    "name": "Diocle, Auriga",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "Non puoi giocarmi in una regione iniziale.  {J} La mia spedizione arretra di una regione.  Quando lascio l'area delle spedizioni — La mia spedizione avanza di una regione."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-009-C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_LY_102_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Permanente Fulcro"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d39227ffdd25357ec9b6",
+        "reference": "SITE",
+        "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+        "name": "Sito"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/ec12e9f0e7e6846a07d0",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_102_C",
+    "reference": "ALT_DUSTERCB_P_LY_102_C",
+    "id": "01K60PWD2YF6CPQMAD3RCR9891",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "it-it": "",
+      "de-de": "",
+      "es-es": "",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_102/JPG/en_US/37f1dc306fba4724e7f22177bdcaf75e.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_102/JPG/fr_FR/77e099da7c4fa115f3d056842a117248.jpg"
+    },
+    "name": "Stazione della Funivia",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "{J} [Rifornisci], poi ottengo 2 segnalini Movimento.  {T}, spendi 1 dei miei segnalini Movimento: una delle tue spedizioni arretra di una regione. Se lo fa, l'altra tua spedizione avanza di una regione."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-010-C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_MU_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+      "@type": "CardType",
+      "reference": "HERO",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "name": "Eroe"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/2b80238f9e9e937986e2",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_MU_01_C",
+    "reference": "ALT_DUSTERCB_P_MU_01_C",
+    "id": "01K60PWD54G4DT1WXE9TA1KAJG",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "it-it": "",
+      "de-de": "",
+      "es-es": "",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_01/JPG/en_US/2d8f5ba5490127ea19f79269c489ec45.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_01/JPG/fr_FR/8de07431080c3391deec319b15831d71.jpg"
+    },
+    "name": "Teija e Nauraa",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "The first Character you play each Afternoon gains 1 boost."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "[Code non trouvé]-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_MU_86_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/4e80bf9fd0482ec5bc52",
+        "reference": "DRUID",
+        "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+        "name": "Druido"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/fbdc0134f340dc067f62",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/48bafce1c6f34b74c364",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_MU_86_R1",
+    "reference": "ALT_DUSTERCB_P_MU_86_R1",
+    "id": "01K60PWD557T11ESVX3CG0J0DP",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "it-it": "",
+      "de-de": "",
+      "es-es": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_86/JPG/fr_FR/568cb4496945990088ed89f109cd7eb5.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_86/JPG/en_US/34c0dc51e18047889b867b7516fffca9.jpg"
+    },
+    "name": "Coniglio Agricoltore",
+    "elements": {
+      "MAIN_COST": "#1#",
+      "RECALL_COST": "#1#",
+      "OCEAN_POWER": "#0#",
+      "FOREST_POWER": "#1#",
+      "MOUNTAIN_POWER": "#1#",
+      "MAIN_EFFECT": "When an opponent receives a [Regalo] — If I have no boosts, I gain 1 boost."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-015-R-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_OR_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+      "@type": "CardType",
+      "reference": "HERO",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "name": "Eroe"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/34aa3b89e4298ed4f791",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_OR_01_C",
+    "reference": "ALT_DUSTERCB_P_OR_01_C",
+    "id": "01K60PWD77HP98Q3ZHRAY5KGAY",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "de-de": "",
+      "es-es": "",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_01/JPG/en_US/ec1845916c2b64ef0c39eaeb1a54ecc7.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_01/JPG/fr_FR/ced54044bb44b2ef36a6d248ff71df40.jpg",
+      "it-it": ""
+    },
+    "name": "Sigismar e Alagrande",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "A mezzogiorno — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella spedizione del tuo eroe."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "[Code non trouvé]-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_OR_90_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/9562d14cbc5535c97440",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Cittadino"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/0cf78313c2b33863679b",
+        "reference": "SOLDIER",
+        "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+        "name": "Soldato"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/368a4847a9ffa3cd7d54",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_OR_90_C",
+    "reference": "ALT_DUSTERCB_P_OR_90_C",
+    "id": "01K60PWD791FBK32KNA4JH58N2",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "es-es": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_90/JPG/fr_FR/476733f7269cc8480661fa20411e2447.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_90/JPG/en_US/31c3bf424ef266491ed955eabf7ec7bb.jpg",
+      "de-de": "",
+      "it-it": ""
+    },
+    "name": "Turista Ordis",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{J} Se ci sono due o più carte nei tuoi fulcri, ottengo 1 rinforzo."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-017-C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_OR_93_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/97f3516801f62260a5c3",
+        "reference": "SOLDIER",
+        "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+        "name": "Soldato"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/4c6e7332c6e17d00f30a",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_OR_93_R1",
+    "reference": "ALT_DUSTERCB_P_OR_93_R1",
+    "id": "01K60PWD791FBK32KNA4JH58MZ",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "es-es": "",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_93/JPG/en_US/9786a86c1e5a85cd98f520f31e38e50b.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_93/JPG/fr_FR/00b8e12a193613d16c514f8d14844c58.jpg",
+      "de-de": "",
+      "it-it": ""
+    },
+    "name": "Sunisa, Guardaspalle Ordis",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "#3#",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "[Difensore].  Se ci sono due o più carte nei tuoi fulcri, i personaggi con [Difensore] non impediscono alla mia spedizione di avanzare.  #{J} Crea una pedina Soldato [Recluta Ordis 1/1/1] in una spedizione bersaglio.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-020-R-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_YZ_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+      "@type": "CardType",
+      "reference": "HERO",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "name": "Eroe"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/c54d02ed4d9a236e4f67",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_YZ_01_C",
+    "reference": "ALT_DUSTERCB_P_YZ_01_C",
+    "id": "01K60PWD8TWS44PKJWG6M2PN2C",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "es-es": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_01/JPG/fr_FR/2839eeb07044313cb879e5576831be28.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_01/JPG/en_US/26966a00c7e81b1482857c1a3a2a48b2.jpg",
+      "de-de": "",
+      "it-it": ""
+    },
+    "name": "Akesha e Taru",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "{T} : [Dopo di te]. You can only activate this if you are first player."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "[Code non trouvé]-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_YZ_88_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/60d307d6d64ae66d618c",
+        "reference": "MAGE",
+        "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+        "name": "Mago"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2180e92e88fbae5f26ea",
+        "reference": "SCHOLAR",
+        "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+        "name": "Studioso"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/fb54c54ec883e266b9fd",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_YZ_88_C",
+    "reference": "ALT_DUSTERCB_P_YZ_88_C",
+    "id": "01K60PWD8XHVM4QMH6K3B0W2TS",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "es-es": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_88/JPG/fr_FR/f700d22378200916eb5f2a285bb5931c.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_88/JPG/en_US/53ce5a9d3d525f492bbd4d0c8e57cc60.jpg",
+      "de-de": "",
+      "it-it": ""
+    },
+    "name": "Novizio Studioso",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "When you play a Spell with Base Cost {4} or more — If I have no boosts, I gain 1 boost."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-021-C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_YZ_92_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/23604a65a1f1715fbc4b",
+        "reference": "SOLDIER",
+        "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+        "name": "Soldato"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2a105601db74b8c764a4",
+        "reference": "ROGUE",
+        "id": "01JZ2K0A1NZSGT69DP1WS2917B",
+        "name": "Ribelle"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0e7ef3faa443d4b2414e",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_YZ_92_C",
+    "reference": "ALT_DUSTERCB_P_YZ_92_C",
+    "id": "01K60PWD8XHVM4QMH6K3B0W2TZ",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "es-es": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_92/JPG/fr_FR/37a0fd0dc84221d50982423a57713af3.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_92/JPG/en_US/2845a489c7235597093975d944378585.jpg",
+      "de-de": "",
+      "it-it": ""
+    },
+    "name": "Mochizuki Chiyome",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "ECHO_EFFECT": "{D}: paga {1} in meno per il prossimo incantesimo che giochi in questo turno, fino a un minimo di {1}."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-022-C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERCB_P_YZ_98_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Incantesimo"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/f8f990698fece713ac78",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Impedimento"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d616c1ade66579901747",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Stratagemma"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERCB",
+      "@type": "CardSet",
+      "id": "01K60PWBQRTWXF3M650SKAQEBE",
+      "reference": "DUSTERCB",
+      "name": "Seeds of Unity - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/d730d14a50ab3789b326",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_YZ_98_R1",
+    "reference": "ALT_DUSTERCB_P_YZ_98_R1",
+    "id": "01K60PWD8W298J6MWWTKX7RCJQ",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "de-de": "",
+      "es-es": "",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_98/JPG/fr_FR/e511e2e2b861977e909f4e2ac0265e70.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_98/JPG/en_US/60bdfd6b813b449a97047a7877377fc7.jpg",
+      "it-it": ""
+    },
+    "name": "Colpo di Grazia",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "MAIN_EFFECT": "[[Fugace]].  Scegli fino a tre, #puoi scegliere la stessa opzione più volte:#  • Scarta un personaggio bersaglio.  • Scarta un permanente bersaglio.  • [Sabota]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SDUCB-024-R-IT"
+  }
+]
